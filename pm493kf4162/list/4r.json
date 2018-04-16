@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/a98acd14-1549-4e74-863f-63ec97ce62e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-13#xywh=0,0,3900,5531",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/b3cfeb39-9e4e-47f4-9dba-3144e2d46965",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus astrolabii secundum Chaunsers factus filio suo lodowyco"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/bdcb3044-603a-47b0-8876-30b7e42ec43c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-13#xywh=0,0,3900,5531",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/8c0f801c-cb7e-4316-9fca-724d2f3df1d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sciendum est quod kalendarium quo utimur"
+      }
+    }
+  ]
+}

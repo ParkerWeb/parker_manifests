@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/list/102r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/7f666e08-1c98-44e9-8e2d-6c280bcfa1b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-210#xywh=0,0,4049,5705",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/dc186a04-5eed-4555-82af-ecca3315263f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(7) Arn. Bost. - Jo. Paleonydoro Ghent"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/805527b9-9be7-4cf8-8de8-40779fe96fb6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-210#xywh=0,0,4049,5705",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/dd94d030-e171-4d7d-84d5-6c764e522e50",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(8) Arn. Bost. Jo. Aermler poete"
+      }
+    }
+  ]
+}

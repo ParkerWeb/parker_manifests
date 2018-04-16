@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/list/537.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/6ed24c7a-3c4e-40a9-bf54-f2859b563770",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-559#xywh=0,0,3337,4863",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/916fdf0e-75c9-465e-a140-d66d5df4384e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: incertum est omnibus preterquam deo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/1cd589de-e0ab-4e47-af8b-28896af3c9b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-559#xywh=0,0,3337,4863",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/4c989196-a397-4116-89c9-ea5fa7cb84f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: ffinit apologia Socratis"
+      }
+    }
+  ]
+}

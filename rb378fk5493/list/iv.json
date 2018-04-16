@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/iv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/841a342b-57d8-492c-ae7f-c9561b1f467d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-8#xywh=0,0,5699,9068",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/5ec6252d-4a2a-41b0-adce-2d9171244222",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "b. Diagram of the winds with verses as in MS 26"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/16a997ca-a2f0-4fc0-8071-999bcd6cd382",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-8#xywh=0,0,5699,9068",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/5211120b-5523-45c9-890d-6efb0da444fb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Diagram of winds etc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/list/64r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/0bcadf30-b414-447d-aca8-73ccc351bafb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-153#xywh=0,0,3637,6204",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/dd909c40-4da4-4cea-bde4-80404abf85a2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Licet in suprascriptis duobus capitulis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/4becd17e-4374-43a4-bad1-4114fd492b72",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-153#xywh=0,0,3637,6204",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/0978b377-4c81-491f-9811-d86062d97231",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ita et in terra pax est hominibus bone uoluntatis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/121v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/3dfb980b-e2e8-4fdf-a58f-b11996ae63e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-250#xywh=0,0,4512,7810",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/10d64faf-deb8-4b08-a07b-91b05feb63ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequens oratio continet .X. tormenta passionis beate virginis dorothee"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/4cd4319d-98a9-4b98-a42b-2228577094a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-250#xywh=0,0,4512,7810",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/4cf1a6d2-d01d-41ac-8ff6-58283db7ce9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Salue sancta dorothea audi queso vota mea"
+      }
+    }
+  ]
+}

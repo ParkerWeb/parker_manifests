@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/list/31v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/c92793b1-09b6-4d99-838a-9e447776cd32",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-70#xywh=0,0,3960,6039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/861eaa1f-f74c-49da-9252-098d30ab6502",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Martirius a monk"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/139edcfe-4cc4-4831-a6ee-7010461280ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-70#xywh=0,0,3960,6039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/538d655f-ad18-40f7-ac4a-18d79533e980",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Beate memorie paulus simplex"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/list/122.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/8cf2310f-aef5-46f9-b3be-a9e7cab50058",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-130#xywh=0,0,6322,9318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/db482751-ca99-4531-bfcb-c532dc7ba3fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber philosophi (glossed phebi) de lapide philosophorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/316301b2-02be-4fdd-93bf-691ef2138418",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-130#xywh=0,0,6322,9318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/adaff30e-7307-49d8-90da-82d68236e40a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Desiderabile desiderium"
+      }
+    }
+  ]
+}

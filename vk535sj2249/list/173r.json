@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/173r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/89f6a6bc-7d8f-4c1f-910a-7870d5e692a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-353#xywh=0,0,5734,9018",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/7b4d60f1-e150-4cdf-a9a5-32776776d561",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Titulus ofRamseyfor Abbot David"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/97aa9ec4-c62e-4dbe-99b4-2b1c17cb5dad",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-353#xywh=0,0,5734,9018",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/0564b8c4-8c92-4a4c-b2e2-d8ec16611337",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Titulus ofCroylandforAbbot William"
+      }
+    }
+  ]
+}

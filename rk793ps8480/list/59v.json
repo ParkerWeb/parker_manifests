@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/list/59v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/9c4b355e-cdf1-4150-ab7c-0d126250338c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-126#xywh=0,0,3948,6045",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/af564311-bba3-4f9b-bb12-375e4b629be9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/51d35bcb-a4de-4615-ab3a-f4043a571c0d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-126#xywh=0,0,3948,6045",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/3bf53177-6c0e-4131-9251-b1d20df0d4d3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Totius nanque molis orbe descripto"
+      }
+    }
+  ]
+}

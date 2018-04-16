@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/list/45r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/annotation/e75cb6b1-4c9a-4be3-be31-b79c74bf4754",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/canvas/canvas-101#xywh=0,0,5809,8675",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/res/af78abf6-0289-4fa2-8253-39d653f0ff39",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "c. 124"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/annotation/16a56f5e-c417-49cc-b8db-3c343dc438ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/canvas/canvas-101#xywh=0,0,5809,8675",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/res/a4f74d3f-0428-49f6-9cd5-80141fa38ab2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Sancto petro alexandrino"
+      }
+    }
+  ]
+}

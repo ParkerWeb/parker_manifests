@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/list/100r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/6597af30-1ffc-47a5-9842-72cbf6b9b200",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-209#xywh=0,0,6592,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/f46c9d8b-0a0a-43aa-8d92-fe68eef14f8c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus de Sacramentis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/00e5c4b9-e513-47c1-b15e-7e7d64e1567c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-209#xywh=0,0,6592,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/65d8db4b-9452-474e-a99d-b0fd5e93aa5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic incipit primus rotulus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/9af76207-e7dd-4419-a8dc-d1abce344c4e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-209#xywh=0,0,6592,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/0dc11d78-0cd1-4538-a2d7-ebe7333f7de7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Augustinus Sacramentum est inuisibilis gracie uisibilis forma"
+      }
+    }
+  ]
+}

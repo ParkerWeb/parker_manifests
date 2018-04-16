@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/list/206r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/64ac20ce-2aac-4c8b-8398-d0c7338472e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-423#xywh=0,0,3894,5774",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/5e20a591-9a1b-4902-b117-363d07a21662",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Johannes apostolus prohibuit quendam eicientem demonia in nomine etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/0ed60f10-e05c-4b9a-84eb-3543db14dc10",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-423#xywh=0,0,3894,5774",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/ecd3e4cf-37ce-4be4-8b95-4f92d8628b33",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tabula super bibliam"
+      }
+    }
+  ]
+}

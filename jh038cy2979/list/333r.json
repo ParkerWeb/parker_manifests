@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/list/333r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/0cd96d7b-0457-4870-ad84-746ae8812a27",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-667#xywh=0,0,5970,8467",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/afff430d-27c8-4484-aaf1-38dae59ab7e6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Iohannes EpiscopisAnselmo Lemonecine ecclesie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/6d3228e0-894f-4225-b798-2929ab4dbd9d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-667#xywh=0,0,5970,8467",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/e37d5744-df94-4a6f-b55c-a473de01b80e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad limina beatorum petri et pauli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/a81fc8d5-7a02-4aeb-b330-6674c6bf7af8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-667#xywh=0,0,5970,8467",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/4d7a008d-8be2-405b-96a2-e7ad0d75acaf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: aliquatenus separari debuissent"
+      }
+    }
+  ]
+}

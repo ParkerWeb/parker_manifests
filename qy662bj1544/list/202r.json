@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/202r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/80058c8d-f90a-4f02-892d-b7945ff2ab28",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-421#xywh=0,0,5894,9095",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/b0f71857-cb8d-4ae1-9a51-ec10e54b6d9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Quid gloriaris. A man about to slay a young woman in blue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/c868513f-96d2-4fe4-b87c-4770620aeeaa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-421#xywh=0,0,5894,9095",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/fda454c7-f6b2-4e94-bf73-dc25e2f50d01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Dixit insipiens. David seated. The fool with bauble and cake before him"
+      }
+    }
+  ]
+}

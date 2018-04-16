@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/81167dcd-3f08-4c58-8981-dda762638d32",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-11#xywh=0,0,6239,9454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/2ee7b226-1f0f-4862-8591-e340e4ff3219",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Col. 1 is in coloured capitals"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/71v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/9e6b7d01-5d41-40f7-be50-a349e60d4bc6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-148#xywh=0,0,5848,8858",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/1aea895c-162b-47cf-bee4-764c6eeea3a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dixit custodiam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/919d5280-0a17-410c-9d71-18ee77a667e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-148#xywh=0,0,5848,8858",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/81c446e0-04fb-43c4-aa89-e5d8592c0a61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial to Psalm. Judgment of Solomon. Solomon sits on L."
+      }
+    }
+  ]
+}

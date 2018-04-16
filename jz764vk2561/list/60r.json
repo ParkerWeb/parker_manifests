@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/list/60r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/cb060a4d-a17c-49ff-acbe-ebf94c382211",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-133#xywh=0,0,5613,8583",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/bb873b64-1e93-40a5-95fa-a371afc8bdf4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Exceptum de libro bede de temporibus de vi huius mundi etatibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/4a86317c-da88-4e44-bcc5-a0bb1489fb6c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-133#xywh=0,0,5613,8583",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/49c9b945-beb1-4bb1-8a6c-288d84f53dd5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De sex huius mundi etatibus ac septima uel octaua"
+      }
+    }
+  ]
+}

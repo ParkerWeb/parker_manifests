@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/list/125r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/50fedcd4-1061-4cf1-831c-2e67c5097be1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-261#xywh=0,0,3346,5355",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/1fb57eeb-bfef-473b-956c-ee37294ff24f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Questiones perutiles super benedicti lapidis philosophici compositione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/43cc3be1-1400-41e4-8e77-5307055a8c17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-261#xywh=0,0,3346,5355",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/9ff23cc8-8ed0-43f7-881e-9f2582a677dc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Questiones lapidis benedicti. Questio prima. quoniam aqua nostra ex plumbo"
+      }
+    }
+  ]
+}

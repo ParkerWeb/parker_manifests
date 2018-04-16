@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/243r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/64ee5250-ce99-416a-a143-d76758111424",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-509#xywh=0,0,4046,5692",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/c37f316e-f9b8-4df6-8f76-6eee9aafe7cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: and other landes also haue the Bible in their mother tong"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/a6e55896-d284-4226-b6d7-0d4784cbd896",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-509#xywh=0,0,4046,5692",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/6e1722f5-fb7d-4183-85d7-c174a063c423",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "65r"
+      }
+    }
+  ]
+}

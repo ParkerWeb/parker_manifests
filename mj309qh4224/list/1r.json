@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/c5272291-e5d2-4761-a471-43c40b2e516f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-1#xywh=0,0,4800,8183",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/bca2d44f-9d8a-4a38-ba61-61d1e8f31953",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(No title)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/9d8e4b15-2f76-4a08-abcf-3508ddd0875c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-1#xywh=0,0,4800,8183",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/bd5f749c-14f8-4427-842f-aad488526560",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Culmine honoris spreto"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/list/378r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/88f8ac5c-07cf-42e4-97c7-2e0f183e5a05",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-769#xywh=0,0,3774,6062",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/3ac96320-31b4-4720-b155-58aab6ee1c93",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: III Idus Novembris. Depositio Sancti Martini Episcopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/77239d32-d380-42e3-ba86-822447bf98b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-769#xywh=0,0,3774,6062",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/21aec6e0-ece0-4b23-8962-9943760e7e21",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Martinus se ƿuldorfulle godes andettere"
+      }
+    }
+  ]
+}

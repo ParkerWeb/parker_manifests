@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/annotation/580f3825-0619-479a-8fb2-250dee800dfa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/canvas/canvas-15#xywh=0,0,2905,4500",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/res/30a525fa-23d6-4e29-aec8-0ec5f7bb8039",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Sancti Basilii episcopi Capadocie ad filios spiritales de milicia spirituali"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/annotation/e5c9196e-c4b0-4c3d-bbb4-2c1d3ab74f8a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/canvas/canvas-15#xywh=0,0,2905,4500",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/res/9b26503e-763b-4ad8-8b1b-4b5cdcb5ebfd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Audi fili mi admonitionem"
+      }
+    }
+  ]
+}

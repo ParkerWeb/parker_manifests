@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/list/64v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/3758e624-6e28-4624-931b-d41e5c00273c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-142#xywh=0,0,3821,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/6b4887a6-bda3-4fb0-a51d-251fea8d2dbf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: IIII Nonus Februarias In purificatione Sancte Marie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/c5603f88-618c-4a39-bdcf-1ead2a483642",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-142#xywh=0,0,3821,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/b324750a-dd76-4e2c-b76d-224070693f72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: God bebead on ðære ealdan ae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/48.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/4890ae36-6b7c-4825-9297-a20b42531ee6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-52#xywh=0,0,3551,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/a7aaa344-9101-4826-9590-9d9a84522609",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fram middan ƿintra byð to sancta marian mæssan v ucan 7 iiii niht"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/c07356d7-c4e5-474c-ad5d-501738632feb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-52#xywh=0,0,3551,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/332a950d-5a41-4a3b-9b41-09f0f2cab8f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "It goes through the year enumerating the great feasts"
+      }
+    }
+  ]
+}

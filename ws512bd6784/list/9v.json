@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/9v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/5ee7160e-ff10-467b-b716-36df6bda62f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-22#xywh=0,0,4942,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/860c4ac3-0118-4285-8b69-ae6113d3992f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit proemium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/955ea609-fb3a-4770-a77e-41c3dba203dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-22#xywh=0,0,4942,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/adefff88-5f30-4898-ad7a-6c23b5c3714c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vitas uirorum"
+      }
+    }
+  ]
+}

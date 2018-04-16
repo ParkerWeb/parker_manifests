@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/list/212.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/759a9401-105b-4f1b-958e-42b2c09d1283",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-214#xywh=0,0,5746,8394",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/1695e598-2f60-4681-a5ed-51c2984fe9b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: electorum societate perpetuo regnatura. qui cum patre et spiritu sancto uiuit et regnat deus per omnia secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/a269be95-6cfb-411d-ae07-521b47a93a67",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-214#xywh=0,0,5746,8394",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/17769580-ebe6-49cf-b32f-2f71fa7b268f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prephatio sequentis operis"
+      }
+    }
+  ]
+}

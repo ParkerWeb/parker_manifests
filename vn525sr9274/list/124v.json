@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/124v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/d5ae65d2-1588-4a2a-bf08-165642be4b00",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-256#xywh=0,0,4584,7794",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/daa7b4be-d829-441d-81eb-4c5918b9eedc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad celestem regiam virgo migratura"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/763cc5cc-e23f-4c07-b5b5-44734069312b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-256#xywh=0,0,4584,7794",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/0296d2df-d724-4ea6-a1c2-8ca188c51d03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ave barbara preclara"
+      }
+    }
+  ]
+}

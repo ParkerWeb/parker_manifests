@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/51d158fd-f491-44e3-92a5-ee19683c5a4d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-11#xywh=0,0,5584,7931",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/3fc67cee-3837-448e-94f9-a2bbe505cb02",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: incerta sunt omnia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/f61e3097-1fa1-4006-9eab-7a2fa178d02b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-11#xywh=0,0,5584,7931",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/e6486428-6959-47bc-89a6-4837c93f516c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prefatio ieronimi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/d9de1b7d-732f-418d-a537-5ed5d938d081",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-11#xywh=0,0,5584,7931",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/5a63d8ff-4d0b-453c-86db-a3bfc21ee3a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Eusebii interpretata prefatio"
+      }
+    }
+  ]
+}

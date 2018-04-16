@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/list/41r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/b3e0385d-bccb-40d1-96b9-e496f9618f03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-83#xywh=0,0,5146,8496",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/a49e0f89-3a0d-4d66-b8bf-a6c58a2ef8ba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Paper"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/7c96b20c-a280-4be9-aa74-6ec12417133e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-83#xywh=0,0,5146,8496",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/cf5fa8f3-5719-4b21-b18d-5c7ee340ef0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Anno gracie mo cco xvjo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/c5a34865-b325-47e4-98c4-c87809cb3d1d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-83#xywh=0,0,5146,8496",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/d55937e5-0b54-451d-99dd-5b53aa868313",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Henricus rex filius regis Johannis puer nouem annorum iussu Walonis legati unctus est in regem"
+      }
+    }
+  ]
+}

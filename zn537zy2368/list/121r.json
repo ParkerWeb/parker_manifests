@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/list/121r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/annotation/0beec68e-1dd9-463b-a638-66165d35e381",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/canvas/canvas-263#xywh=0,0,3307,5265",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/res/48a14ff3-27e9-483f-9878-acf7be0fdb44",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/annotation/453f8e14-a99c-4939-8992-30762ff689e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/canvas/canvas-263#xywh=0,0,3307,5265",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/res/6bf2c719-4c8a-433f-a8b9-6a85313d6a8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Accepta igitur informacione"
+      }
+    }
+  ]
+}

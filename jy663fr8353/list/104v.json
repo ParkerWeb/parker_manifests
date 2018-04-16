@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/list/104v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/af642437-4cbb-4585-a5f3-3bfa63176665",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-222#xywh=0,0,5074,7855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/f60d54bf-3de6-4fb4-9955-d8e2de438206",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex quibus patet quod hec coniunccio etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/0c7ff2f8-3451-4d76-be95-1c3f0a9c5876",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-222#xywh=0,0,5074,7855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/2f157f9f-69a9-4b19-abc0-c766c3bbad44",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Johannes Tholosanus et omnes magistri eiusdem loci omnibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/09a82f52-e688-4720-b427-40f22f645209",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-222#xywh=0,0,5074,7855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/085c177d-bcbc-433d-93dd-e37c6c06b6b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam recessit lex a clero"
+      }
+    }
+  ]
+}

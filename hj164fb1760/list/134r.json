@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/list/134r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/d9f4eb96-d8c1-45e3-99df-4c7f47c25772",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-275#xywh=0,0,3448,5336",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/c3f3c73b-1987-4ce6-9f12-9240acd16f9e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quibus diebus dicatur Credo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/66b4c00c-8fb3-494b-9c01-15898aa4e3de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-275#xywh=0,0,3448,5336",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/ef45f9af-d7c9-4efb-94c0-b80458b3820a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De commemoratione Sancte Marie per totum annum"
+      }
+    }
+  ]
+}

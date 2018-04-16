@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/list/16.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/1f3cd14e-7443-4902-982d-c39a4ce1e859",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-32#xywh=0,0,2464,3691",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/ce6db3e4-3a00-4fc5-9310-b6e548a6dd33",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: claustri statuta turbant"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/bcfc9bf5-97a7-4f4f-b7ee-4561c3dcf5a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-32#xywh=0,0,2464,3691",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/1b619c97-c10c-4cdf-bd8f-8d658e7c80ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De duodecim abusionibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/0ef2fc61-4f7c-421f-aa65-5defcefa6d7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-32#xywh=0,0,2464,3691",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/5093b9ac-4f57-4d27-9a08-820b809d9dda",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Duodecim sunt abusiones claustri"
+      }
+    }
+  ]
+}

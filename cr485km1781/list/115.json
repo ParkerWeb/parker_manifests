@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/list/115.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/cf8f29ee-3662-46c2-97ef-dc415c89e423",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-125#xywh=0,0,5088,8863",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/a7ceb53d-0463-46d4-88e9-45a981d61b76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "113"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/ed2ad3c9-df17-4de6-a907-96753508e269",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-125#xywh=0,0,5088,8863",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/2ffc1be4-e420-4beb-b861-5a544726ba24",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Preueniat hunc famulum"
+      }
+    }
+  ]
+}

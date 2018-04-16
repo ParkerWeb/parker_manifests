@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/list/79r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/b37cd9da-c625-474c-9e73-8dec359d5681",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-163#xywh=0,0,5947,9039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/ccffbf40-305d-425f-9b44-3c40bdcce6bb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De inani gloria"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/aed281f6-8ce1-42da-8e27-1650616f597e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-163#xywh=0,0,5947,9039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/e7fecae8-35b2-443f-a396-7a236ae5a995",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Audiuit aliquando abbas Antonius"
+      }
+    }
+  ]
+}

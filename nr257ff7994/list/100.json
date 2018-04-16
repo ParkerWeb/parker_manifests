@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/list/100.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/fe81b3e0-9475-4fd4-b1ad-c3920c909365",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-114#xywh=0,0,3607,5875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/2d3289cd-a81d-4dbf-8f4d-5a478a4b0303",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: [De electione Pontificis]"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/3451cd0c-aa27-4421-b4a3-1dd7bd461725",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-114#xywh=0,0,3607,5875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/92341523-8d72-4e5b-8583-91d77343bad7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pontifex aut dei tantum electione debet constitui aut hominum tantum aut simul dei et hominum"
+      }
+    }
+  ]
+}

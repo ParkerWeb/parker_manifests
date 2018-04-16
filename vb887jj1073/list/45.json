@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/list/45.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/369b878e-8bbc-4e43-ac39-769b54304d36",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-53#xywh=0,0,5892,9163",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/42f12a8f-fe70-449f-a077-5b4641134903",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Anselmus de libero arbitrio et repugnantia ipsius etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/fbd1c4ee-69a6-441c-a399-383a866a7181",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-53#xywh=0,0,5892,9163",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/21953e25-7bce-4867-9572-b86b9371648f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam liberum arbitrium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/207r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/7d3cb77a-7233-4d23-90ee-3d5a9ee1e4a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-427#xywh=0,0,4213,6455",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/5ad37fe3-70f4-4fdf-ac7f-0e9303c86f6d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Four blue snakes"
+      }
+    }
+  ]
+}

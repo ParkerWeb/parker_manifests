@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/list/182.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/09678780-144b-400b-89b8-27f9e5f4129b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-190#xywh=0,0,6370,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/506d262a-3e7a-4198-94c8-d0735e91109e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quod et tradidi uobis in nomine domini. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/8e571b7e-b4a9-4d31-9b57-8dd8ef042463",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-190#xywh=0,0,6370,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/8e1ef375-c3ce-49be-b7bf-5f987a3806b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber secundus practicus arnaldi de villa noua"
+      }
+    }
+  ]
+}

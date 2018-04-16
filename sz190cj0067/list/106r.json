@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/list/106r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/e788c63d-4da0-4bc9-a9b5-af799947950c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-217#xywh=0,0,6022,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/678da370-1926-422b-a145-a0b3f1aa0f7f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Super Machabeorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/9c129238-3e21-4ac4-898a-9acba0d2082e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-217#xywh=0,0,6022,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/ebeacd0e-c5d9-4ba0-a372-3bbc8f43d299",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Residuum eruce comedat locusta"
+      }
+    }
+  ]
+}

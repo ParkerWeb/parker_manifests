@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/list/90r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/99a11e2b-d58a-4efb-9c49-fddb682ba23f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-193#xywh=0,0,3870,5975",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/0ef84957-4883-44d1-aa8f-99a2a2e0c991",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In natale Sancti Benedicti Abbatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/05ad5c17-f239-4cb6-851a-42db17964d6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-193#xywh=0,0,3870,5975",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/0ec1e926-b558-4a13-b907-94a65caf287b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Benedictus se halga abbud"
+      }
+    }
+  ]
+}

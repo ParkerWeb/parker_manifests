@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/101v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/6cc2e991-5458-41cc-9ecc-bac9f7b6720c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-222#xywh=0,0,3763,6318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/f575d961-cdcf-422b-958c-2fbc9202119f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Visus franci pleggii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/bd1dc76f-2e89-42ce-af66-3923bd0e2509",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-222#xywh=0,0,3763,6318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/07cfa01c-19b8-4582-b5ab-1bb042a83e6c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primes wus nus dirrez"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/f3dd83a1-3146-4ec9-bcb1-a425cef6f265",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-222#xywh=0,0,3763,6318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/4d553a3b-4e07-44f2-b847-9e26d2d96e5c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: par le serment qe wus auet fet"
+      }
+    }
+  ]
+}

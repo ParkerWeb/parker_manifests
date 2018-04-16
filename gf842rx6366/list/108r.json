@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/list/108r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/ce6a2c24-bdd2-4354-8819-c7dd7d4ae7e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-227#xywh=0,0,4912,7381",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/caae8a5f-c9dc-4cd9-8bb3-95082eaeb4a7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De aduentu domini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/6fed3835-67bc-4636-891d-473cfa9ad322",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-227#xywh=0,0,4912,7381",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/4a20922d-ab17-475a-ad01-96eec4d90806",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Christo ueniente figura in ueritatem Prophecia in manifestationem lex in euangelium uersa est"
+      }
+    }
+  ]
+}

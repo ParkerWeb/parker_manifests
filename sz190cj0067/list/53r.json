@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/list/53r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/664da826-3894-45fe-8539-c0a5a7aa64df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-111#xywh=0,0,5882,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/fe9281a2-a479-4985-958b-9783594ebd70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Super Regum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/5109f5ba-6624-4d04-9855-498156884917",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-111#xywh=0,0,5882,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/434d8273-f9c2-46f0-9cbb-9c3cbd3f2699",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Timet diabolus cum uidit mentem"
+      }
+    }
+  ]
+}

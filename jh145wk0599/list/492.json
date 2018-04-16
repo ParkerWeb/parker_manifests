@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/list/492.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/8ac8ea69-8741-4c44-90d6-3fc18db0317c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-514#xywh=0,0,3394,4908",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/0989060d-bd24-46b2-be32-be9c932f30b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: victorie tamen inimica fuere"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/b610d973-70af-4dad-8341-cca429116695",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-514#xywh=0,0,3394,4908",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/1013c77e-e3fb-4fcc-baae-9d1f9abe1b3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber platonis qui dicitur apologia Socratis incipit feliciter Socrates loquitur"
+      }
+    }
+  ]
+}

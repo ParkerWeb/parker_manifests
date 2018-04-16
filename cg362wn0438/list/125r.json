@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/list/125r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/9448fa76-ba78-4983-b5e7-e4ea1c2eb6e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-265#xywh=0,0,5845,8778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/d23cb72e-6a42-4570-a6b7-904d7258186e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prephacio Innocentii pape tertii de officio misse"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/a4d57c4b-8dd1-4ba1-a313-619a3fee94b0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-265#xywh=0,0,5845,8778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/525146bb-0c41-4d45-ae7a-43fae6986727",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tria sunt precipue in quibus lex diuina consistit"
+      }
+    }
+  ]
+}

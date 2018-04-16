@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/list/23v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/cb718209-554a-4173-814e-6bede81932b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-54#xywh=0,0,3679,5619",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/d5e507d1-9718-4dcb-867e-b3be3d2e0616",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: itinera hic sunt in britannia numero 15"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/0b1a8e7d-e198-4072-bfd4-1db33b571e90",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-54#xywh=0,0,3679,5619",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/b9fa630a-47b1-4e0c-af3f-9608cd295e9f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: fortassis erat ITINER quod corrigere volens sciolus quispiam fecit ITER"
+      }
+    }
+  ]
+}

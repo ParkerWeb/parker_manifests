@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/list/123v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/annotation/67adb672-b6f2-4b90-9401-20fc6e34be55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/canvas/canvas-250#xywh=0,0,6150,8289",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/res/035b96f5-b772-42b1-94db-d0fcfbd172f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: fieri iussimus nostri culminis sigillo munitum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/annotation/fefad3e9-0cff-4980-8b9a-cb9fa559acd5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/canvas/canvas-250#xywh=0,0,6150,8289",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dq003zc4347/res/d4d0dc44-f7d1-4aab-966f-84948ec6b061",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt dictamina magri Petri de Vineis"
+      }
+    }
+  ]
+}

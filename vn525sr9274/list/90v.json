@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/90v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/904f8c31-8974-414e-828f-301a04813234",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-188#xywh=0,0,4508,7790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/ff82d9c5-982e-430b-82fc-b4383df2c43b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit septem gaudia beate Marie Virginis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/a17b1230-600e-4afb-a7e8-65596df5ddf1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-188#xywh=0,0,4508,7790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/687ab58d-00d1-4811-97f0-b9e0f2c57641",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gaude plaude clara rosa esto mesto cara prosa"
+      }
+    }
+  ]
+}

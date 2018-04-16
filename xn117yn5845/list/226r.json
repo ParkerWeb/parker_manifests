@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/list/226r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/22d077b2-6fac-4699-b9d4-110acd0d9b71",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-457#xywh=0,0,3982,6097",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/590d5859-09c2-4ea1-8123-37bae0af51da",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Insipida quedam diuine dispensationis consideratio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/29875245-fce7-4fa0-b268-02b510540dc6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-457#xywh=0,0,3982,6097",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/c2c2012c-ed3e-4b83-a953-ae3cc37d41d3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia me de nonnullis que corporeis sensibus subiacent"
+      }
+    }
+  ]
+}

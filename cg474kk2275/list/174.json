@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/list/174.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/cffd302e-7974-4bd1-a195-7057b37bcf5e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-188#xywh=0,0,3821,6538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/db59bb99-52c2-468d-bc5b-a4cf1e146b17",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dixit Iesus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/d060750e-dc68-4762-93e0-24cc2d0e5db8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-188#xywh=0,0,3821,6538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/490672e6-f796-4d67-b0c5-266961f4d6f3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ðis godspell ðe nu"
+      }
+    }
+  ]
+}

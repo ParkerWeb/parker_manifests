@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/list/83v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/annotation/5aeb2bb5-7a1d-4197-ad05-68fd1a066390",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/canvas/canvas-172#xywh=0,0,6346,9126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/res/d110e9d4-37b8-4d4f-9499-dce844710678",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quo defuncto Iohannes frater eius comes de mortoiy successit ei in regnum anglie qui regnauit xvii annis et v mensibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/annotation/9fcc33cd-0e3f-49e2-8df0-e91dae1f00a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/canvas/canvas-172#xywh=0,0,6346,9126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/res/cf41a0ea-0d80-4c07-b9dd-4460e803300b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit expliceat scriptor ludere eat"
+      }
+    }
+  ]
+}

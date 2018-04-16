@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/list/11r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/40552611-489d-49de-a4cf-15bd6cd492c0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-29#xywh=0,0,3448,5446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/a383957d-2f90-4488-8434-f51028519346",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Kalendar"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/7c6d1f21-3dcb-493d-af92-c5836e449e51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-29#xywh=0,0,3448,5446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/297f67ef-4223-4358-bed0-7ecf5e2a819d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "January5. Simeonis monachi 7. Cleri diaconi et confessoris 9. Iudoci Translatio 11. Columbe Virginis 30. balthildis regine"
+      }
+    }
+  ]
+}

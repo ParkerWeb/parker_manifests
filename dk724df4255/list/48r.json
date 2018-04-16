@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/list/48r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/82dbdfdc-9291-4ba5-a826-9bbb03800f6a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-99#xywh=0,0,3668,5854",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/ccf9cf36-8809-4945-a065-bec3f98e45ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table of Chapters (xlv)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/a219dcbc-807e-4591-a64b-0ffc21da42e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-99#xywh=0,0,3668,5854",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/8d6780d1-b44b-479a-a546-65fc2368fa3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In primo capitulo huius libri qui est collectus de gestis et translacionibus sanctorum trium regum"
+      }
+    }
+  ]
+}

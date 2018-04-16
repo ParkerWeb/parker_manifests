@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/list/254v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/4595f2cc-9524-4392-b113-d644a1947c09",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-514#xywh=0,0,4908,8322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/ba23afd8-4541-424e-85a7-7e93eacd48d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: De secundis. Gaudens gaudebo in domino"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/fc8bebdd-632c-424e-b47f-3da287b701ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-514#xywh=0,0,4908,8322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/278e9f5a-7404-47b5-b194-71e898cf1672",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hoc opus impletur propter quod scriptor ametur"
+      }
+    }
+  ]
+}

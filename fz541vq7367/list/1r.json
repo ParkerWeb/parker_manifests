@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/5be570aa-fb66-4208-8197-a057265adb12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-9#xywh=0,0,4206,6262",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/fddb697e-f7ac-4bf9-8fbe-55b833bad0d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ir"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/f27a8307-5b13-4fa2-aaea-c846bda28591",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-9#xywh=0,0,4206,6262",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/9cb4109f-86dc-4849-9a8f-f01c7431fc5d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post preclaros arcium scriptores"
+      }
+    }
+  ]
+}

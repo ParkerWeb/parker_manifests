@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/188r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/67705486-c502-4152-ae35-bf4cf3fa2f1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-383#xywh=0,0,4932,7737",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/bb9cc707-7081-49d1-bbeb-d3c85ce79a84",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hic locus orandi contemplandi meditandi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/5f877a11-a57d-458a-bd71-56f4a8df7438",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-383#xywh=0,0,4932,7737",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/326e89ca-f46c-4d74-8047-7a1a51816b67",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note on the additions to the Mass made by Euaristus"
+      }
+    }
+  ]
+}

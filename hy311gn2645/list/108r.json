@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/list/108r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/0372fadf-80c2-4a33-82e4-ad796a0234dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-223#xywh=0,0,5170,7548",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/044c2278-79e6-4ede-ab47-3345bd975e57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De creacione primi hominis et eius lapsu"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/a453caa1-c18f-4a99-a5bc-be3de4dce321",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-223#xywh=0,0,5170,7548",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/847442db-f739-4cf4-bff0-03b7d49c91e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quinque modis in anima constat homo factus ad imaginem et similitudinem dei"
+      }
+    }
+  ]
+}

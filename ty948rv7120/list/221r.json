@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/list/221r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/211be81a-366d-4793-97dd-d9b610e02e0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-447#xywh=0,0,6312,9055",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/dbe82d8d-ef08-4043-b29c-2e94a3218e2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: potestas per inmortalia secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/e7484762-c058-4fec-82d7-0e13e08f3afe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-447#xywh=0,0,6312,9055",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/20846095-6a3c-4d02-b467-50ee68fc799e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (R)euerentissimus enim dei famulus ludocus"
+      }
+    }
+  ]
+}

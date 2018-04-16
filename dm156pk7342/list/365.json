@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/list/365.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/5b64b849-67f9-47ea-8860-5cded721dd31",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-383#xywh=0,0,3907,6159",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/23a02aa3-c7b8-4a6d-bf99-3554526e120c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The first page (365) is in a large hand and contains an Anglo-Saxon Confession and Absolution"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/f6eb6006-4feb-48ae-a0cd-8b647a3fb841",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-383#xywh=0,0,3907,6159",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/4e304cf2-898d-4f13-a4d9-b541db4f5afe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ic andette þe drihten aelmihtig god etc. Gemyltsige eoƿ se aelmihtiga god etc."
+      }
+    }
+  ]
+}

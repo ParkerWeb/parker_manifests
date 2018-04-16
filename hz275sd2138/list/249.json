@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/list/249.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/cb8d9b42-d9bf-4732-9d78-6505034da639",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-260#xywh=0,0,5943,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/0ef68dd5-a804-4cf9-895f-f37b5aabc0fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Original Latin verses (Elegiacs)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/e189926b-a09f-4a96-90e1-3e6b8cebbcfa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-260#xywh=0,0,5943,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/3bf92f56-c576-40ac-b443-45ce17f6a9e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sese nosce (nosse) quidem dominum hoc est noscere et idemNoverit ambos qui noverit alterutrum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/3801504f-0b3f-4f06-989c-376b39641a14",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-260#xywh=0,0,5943,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/d201e681-c7da-4fba-8e25-fb118027de32",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Utrumque novit"
+      }
+    }
+  ]
+}

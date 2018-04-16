@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/list/566.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/f021e34e-2202-4c5b-9514-3f291a016109",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-588#xywh=0,0,3490,4776",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/260e9aa2-9ac0-4937-90e7-26cb56ced78b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quoniam hac deus agenda monstrat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/50b2c9ad-b6da-4688-8cc4-54c087955efc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-588#xywh=0,0,3490,4776",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/18dfebdb-a6b1-469a-b898-93224f1fd2aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Crito platonis siue de eo quod agendum est"
+      }
+    }
+  ]
+}

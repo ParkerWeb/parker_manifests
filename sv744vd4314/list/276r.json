@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/list/276r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/7a4eb0ec-29af-4be9-a32f-d8b1a2b4547e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-557#xywh=0,0,4005,5843",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/bedd9fb4-651a-4e1f-88ce-45a74f36f7bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Recommendacio sacre theologie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/3651f68b-017c-454a-973a-4e7bf493d601",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-557#xywh=0,0,4005,5843",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/bdc7f037-43ee-4dd4-ad44-308bd7abfcc3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In nomine ... Reuerendissimi patres venerandi domini et magistri ... theologice sciencie laudatores ipsam cupientes dignis attollere laudibus"
+      }
+    }
+  ]
+}

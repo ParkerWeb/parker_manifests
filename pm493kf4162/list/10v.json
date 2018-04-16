@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/list/10v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/b7242357-8ee6-487a-9801-11f990d557f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-26#xywh=0,0,3886,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/66b75cd6-a415-403c-81ae-1551271e3eb8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In nomine dei misericordie et pietatis. hic est liber quem collegit Albumazar de floribus philosophorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/6dde4c63-bafc-46aa-bb7b-d4909915297f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-26#xywh=0,0,3886,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/ebec8bb7-8b93-4408-b5cb-0915cccf703b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ilixit Albumazar oportet te scire"
+      }
+    }
+  ]
+}

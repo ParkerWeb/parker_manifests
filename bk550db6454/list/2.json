@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/list/2.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/annotation/f28ab48c-edd9-4c97-b13d-d8bb04c1b43a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/canvas/canvas-8#xywh=0,0,3572,5633",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/res/1ea65df4-5e9b-40a0-9431-cc5770f293d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gratias agimus deo patri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/annotation/d1e0482c-0989-4321-a825-34041a4c45c9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/canvas/canvas-8#xywh=0,0,3572,5633",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/res/3140894d-894b-4398-ae4e-b64d1f910ec0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial Gra in red"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/list/iir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/83b4b797-3a18-4de3-ab53-2d4d2baeec61",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-327#xywh=0,0,4126,6014",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/2c31220c-f4cd-4e4a-abc1-87592c825428",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ex Registro Cantabrigie ab anno 1488 ad. annum 1544"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/f275dbb9-eb8b-45f1-8bf6-d364f83f9a1a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-327#xywh=0,0,4126,6014",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/905404f4-c03d-45f9-985f-c39a78fce431",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: folio 8. Episcopus Lincolniensis Cancellarius Oxonie incorporatur Cantabrigie"
+      }
+    }
+  ]
+}

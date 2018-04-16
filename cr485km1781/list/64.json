@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/list/64.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/4d42d493-f76f-4865-a8b8-4e2af4eb3308",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-74#xywh=0,0,4571,8070",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/170cda5f-6398-4c2f-b28d-8d1e47a89800",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Uerba Hieremiae prophete"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/d8ce6682-f8e0-4609-a232-6a4fa1a9a3dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-74#xywh=0,0,4571,8070",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/c6d11955-223c-4b92-801d-65d5d5f16287",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hieremias se ƿitega myngode"
+      }
+    }
+  ]
+}

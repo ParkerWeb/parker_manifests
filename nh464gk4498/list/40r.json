@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/list/40r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/becf8cee-724c-4625-a895-590310d18084",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-87#xywh=0,0,3900,5916",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/b61e3407-0008-4f17-ab8c-0d5d2950dc12",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Octavia)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/4fe84c1e-85ba-480e-9fbc-1161f170a128",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-87#xywh=0,0,3900,5916",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/8b3fea31-937a-4745-b7c5-1c16194d478e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Jam vaga celo"
+      }
+    }
+  ]
+}

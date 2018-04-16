@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/list/236r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/d4fd3634-6f73-40bf-863b-11eb4ad80bcd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-481#xywh=0,0,6511,8997",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/754bdacb-d6d0-435b-84d4-d87eefa874c5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Odor in flore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/d1891062-e53f-4906-87b0-c87929e19d98",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-481#xywh=0,0,6511,8997",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/22df1e5a-093d-47f4-b62b-97205dfc35e6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: non esse dampnosum"
+      }
+    }
+  ]
+}

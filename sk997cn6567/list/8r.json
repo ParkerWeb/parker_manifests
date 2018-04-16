@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/list/8r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/annotation/11afb164-38b6-467b-a7e0-f2337b08d22d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/canvas/canvas-17#xywh=0,0,4391,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/res/a96258d8-7e97-40ae-9489-2c8fea441a9e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II . With argument"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/annotation/85f3dd47-ae23-4a69-bedb-3aa46c846632",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/canvas/canvas-17#xywh=0,0,4391,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/res/d816e717-3043-4743-b347-f32120bd3f33",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ut maya genitus"
+      }
+    }
+  ]
+}

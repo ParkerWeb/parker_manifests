@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/3f49de31-c9a0-42cb-9d43-c7886da4f84e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-22#xywh=0,0,3368,4939",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/be90ae54-508c-44a6-a0e9-add21f02dd24",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ὑπ' ἐμου̑ μεταδοθείη. Ἐῤῥωσο"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/61558016-5f86-4fa0-b836-a090c56d2c1d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-22#xywh=0,0,3368,4939",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/c302ec0b-8d88-47a5-8987-53c0a138d678",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    }
+  ]
+}

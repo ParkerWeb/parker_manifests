@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/f3040726-46ed-4635-b7a1-3d96abaa685c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-7#xywh=0,0,3685,5703",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/b512bafa-b9c5-4c79-8c17-515920a80c08",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Macrobii theodosii viri consulis et illustris conuiuiorum primi diei saturnaliorum incipit prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/74cc4a92-cd4f-4fef-b865-2d0542574fbd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-7#xywh=0,0,3685,5703",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/56c0b317-22b0-4b24-8ec8-163d634652e3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Multas uariasque res"
+      }
+    }
+  ]
+}

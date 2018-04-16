@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/list/169r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/annotation/91a24dfd-cc8f-4474-b7b6-1b47a15f1416",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/canvas/canvas-353#xywh=0,0,3006,4392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/res/43e9c9fd-3d77-4f01-998a-8a27f5d652c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ordinatio Edwardi I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/annotation/c7a6af06-51c0-4634-bfbd-d4ae248529eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/canvas/canvas-353#xywh=0,0,3006,4392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/res/0d5f1acb-c66f-4666-bb12-cefe4849ea99",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Edwardus ... Cum ad maiorem tranquillitatem"
+      }
+    }
+  ]
+}

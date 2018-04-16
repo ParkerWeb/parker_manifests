@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/list/120r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/41b13b36-dda0-47a5-94f3-aab77c9da9ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-249#xywh=0,0,5459,9450",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/b8cd04b8-c376-4318-8ebc-48c9cf3ceaf0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Vision of the monk of Eynesham"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/4b436c88-98c9-492a-9314-374ad14da61a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-249#xywh=0,0,5459,9450",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/8c772e59-5d58-466c-aadc-65841fc08c01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus de uisione monachi Eneshamie. anno domini 1196"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/6495aa77-ef9f-43b2-b423-c7940ab66c2c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-249#xywh=0,0,5459,9450",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/c15cfc08-3c56-46e4-95eb-8e5310a57bdf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam notissimum habetur quod diem terris sole post tenebras"
+      }
+    }
+  ]
+}

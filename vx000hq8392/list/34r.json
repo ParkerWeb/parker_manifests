@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/list/34r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/0b970bde-7551-4771-b2a6-48471a4d1365",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-77#xywh=0,0,3584,5443",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/2b50569a-f444-4437-bf15-882353eefbf1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in eadem linea graditur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/5bc93623-9fc5-4131-8b37-8bf1ff68b684",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-77#xywh=0,0,3584,5443",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/0b943861-2748-40c6-8a5d-39f312c84ca0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus de speculo mundi"
+      }
+    }
+  ]
+}

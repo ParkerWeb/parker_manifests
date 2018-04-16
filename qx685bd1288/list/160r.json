@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/list/160r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/e2eca5b8-1d3b-41ad-8154-ef527730fbe0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-331#xywh=0,0,3910,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/fbbdd489-dd6b-40d5-ac80-c34781277294",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ab origine mundi per eum qui uiuit et regnat deus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/e453d127-9085-410b-a9c5-4dcf34dcd4c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-331#xywh=0,0,3910,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/4cabd089-9b4f-4374-ae32-3c131180ada3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit speculum Sancti Edmundi scriptum per manus magistri Johannis Well"
+      }
+    }
+  ]
+}

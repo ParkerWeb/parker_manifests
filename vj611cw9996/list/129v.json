@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/list/129v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/3f3e64c8-8507-48ff-92d1-fd6065e542a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-266#xywh=0,0,4086,6056",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/06d98fbe-9d53-4a77-95cc-440c79fb945f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex eorum nomine britanniam vocauerunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/6d4c8f65-f28c-4b4b-a662-b8f801899925",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-266#xywh=0,0,4086,6056",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/cad1a8ec-9a38-4cac-bd27-5e3f72394b12",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Noe fuerunt tres filii"
+      }
+    }
+  ]
+}

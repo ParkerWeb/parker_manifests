@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/list/133v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/ee115af5-bd8d-4f34-af27-7d370af616d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-274#xywh=0,0,3727,5705",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/2701ded0-31ef-41b4-9ca5-f10ec2591548",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nomina lapidum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/82f13c5b-9d0e-4d60-9c8e-7e29702789e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-274#xywh=0,0,3727,5705",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/71690527-6af9-4b80-ab4a-a67f48193742",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iaspis primus ponitur in fundamento ciuitatis dei. qui talem naturam habet"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/list/ivv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/annotation/d57ac18d-3db7-4f76-a2f2-7f595f3ba2ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/canvas/canvas-24#xywh=0,0,5292,8177",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/res/b6b28390-c980-4f3c-bd40-3625919dc8c0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "b. A brief genealogical chronicle Cronica sub conpendio abreuiata a fratre M. Parisiensi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/annotation/3a05e036-f1a7-4714-afe9-68f386bf64c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/canvas/canvas-24#xywh=0,0,5292,8177",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/res/16e61f77-2008-4598-9367-3cacedd7586e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Considerans prolixitatem Cronicorum Anglie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/list/347.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/0a1a516a-7bb7-4b98-a7bc-0936788a007d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-351#xywh=0,0,3736,5557",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/30539ec8-dc82-4f4d-842a-0b0f239c4e7d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo augustini de corpore et sanguine"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/d84e9608-9dd3-45aa-9b85-df5c817541d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-351#xywh=0,0,3736,5557",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/9ff132eb-8f40-4866-a86d-694dc82c6b4b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Veritas que est christus ait Caro mea vere"
+      }
+    }
+  ]
+}

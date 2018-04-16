@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/list/89v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/9e66e239-073f-4854-9123-04d09f0518fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-190#xywh=0,0,3514,6417",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/95a5233f-cf64-4ada-8b90-845a9e330812",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De omnibus ordinibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/ed0a44ae-3a0d-4cc1-af05-d2ed249ea1e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-190#xywh=0,0,3514,6417",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/e226dc3c-8213-495b-b446-e44cefdb5346",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Episcopi attendite dei uerba"
+      }
+    }
+  ]
+}

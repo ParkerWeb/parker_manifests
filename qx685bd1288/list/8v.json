@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/list/8v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/0d411911-1ebd-447c-a884-2d700c0b96be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-28#xywh=0,0,3806,5718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/d26e686c-f315-40be-8262-ea263ef4dbba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dominica in ramis palmarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/f696270a-6da1-4ddf-ba0f-5d72a39f410e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-28#xywh=0,0,3806,5718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/32faa603-6c15-4288-8a32-a72cf29543eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dicite filie syon"
+      }
+    }
+  ]
+}

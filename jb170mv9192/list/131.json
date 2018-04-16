@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/list/131.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/da16ca40-c788-40ba-b102-eb6fcfa5ba6f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-137#xywh=0,0,3544,5605",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/23d5e556-0d59-4738-8f94-c65b73e259e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: habundancie suauitatis eius eructabunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/e9b3a54d-c759-47c8-abe8-12c321621c60",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-137#xywh=0,0,3544,5605",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/b2714f8e-5540-4a41-888b-905fbd84c213",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit baldewinus de sacramento altaris"
+      }
+    }
+  ]
+}

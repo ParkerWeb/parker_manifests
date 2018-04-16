@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/list/170v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/f2160123-1e9d-405e-9d1f-55aa605aa7cb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-348#xywh=0,0,3806,5881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/24f7c406-1c66-4544-93e1-c0ab359d30b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: honor perpetuum regnum et sine fine imperium per infinita et indefessa et inmortalia secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/948fc28c-6650-458e-926f-cfe8f7df6f8b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-348#xywh=0,0,3806,5881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/65b33eb5-34f8-49b4-8c44-2fbaaca1c9db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber beati Augustini qui dicitur manuale siue speculum etc. est finis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/list/198v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/82ba1094-0618-41f7-9202-816906d026cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-406#xywh=0,0,6056,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/c880ae74-5efc-4e9d-b49a-9bf4a346d3a2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Bonus homo de omnibus bonis et malis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/2d21c964-d6fd-48dc-991d-74b1551f1dc7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-406#xywh=0,0,6056,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/bbfa9115-73d5-4843-b457-aea9b53bb15f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Superius enunciatum esse meminimus que sunt habenda in edificatione bonitatis"
+      }
+    }
+  ]
+}

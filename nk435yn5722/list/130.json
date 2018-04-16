@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/list/130.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/0647e4d6-96df-4088-b381-dcab52bdfe25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-136#xywh=0,0,3791,5692",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/c2da2de0-b0fe-433f-a186-c8526bf59715",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo beati Ieronimi presbiteri de assumptione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/608de6bc-0161-402d-8231-9c7a30950fe7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-136#xywh=0,0,3791,5692",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/d3623e28-1ae0-484d-9221-977c88e6c68e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quotienscumque dilectissime uobis aliquid pro amore conditoris nostri"
+      }
+    }
+  ]
+}

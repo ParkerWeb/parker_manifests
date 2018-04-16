@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/list/44.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/a7e85c3e-fcce-439a-8b17-24897c535ad8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-54#xywh=0,0,3692,5568",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/d27bbc20-c637-4d45-bf77-e37f54b7e802",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epilogus testimoniorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/f9b4be10-ac0d-4eba-a087-b1e502cfa9a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-54#xywh=0,0,3692,5568",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/edbbfe69-4a6c-49f9-b5bd-f0ec2c146210",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "with these verses (which have interlinear glosses)"
+      }
+    }
+  ]
+}

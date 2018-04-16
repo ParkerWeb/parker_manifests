@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/0743f588-896a-4f58-a21d-4b36cfd7760e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-11#xywh=0,0,5890,9090",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/60d039f0-2100-4da6-aef9-22768509d05a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad reuelacionem glorie domini nostri Ihesu Christi cui est honor et gloria in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/a097dbcf-edfb-411d-b9c9-277c9f4083fc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-11#xywh=0,0,5890,9090",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/d7abce59-b3b0-4f97-b24d-f84f33da113c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit paruus tractatus de conuersione Sancti Pauli apostoli secundum Petram Blesencem quod R. E."
+      }
+    }
+  ]
+}

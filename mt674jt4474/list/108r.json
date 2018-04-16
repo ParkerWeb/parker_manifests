@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/108r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/816563b2-11cd-4c8b-9abf-0a6074f7c6f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-235#xywh=0,0,3438,6126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/394532ec-d4d2-436e-94c9-70b0c9bd9568",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epitaph of Archbishop Chicheley"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/c1fcc817-b904-4ca8-9515-fb78bb46eb1a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-235#xywh=0,0,3438,6126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/54d9491b-a3f9-479f-95df-81186d9b3e5b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epitaph of Peter Comestor (xvi)"
+      }
+    }
+  ]
+}

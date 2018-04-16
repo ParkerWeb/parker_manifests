@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/list/59.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/4a9e3279-a173-4a77-b1e2-705d84cceb5c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-69#xywh=0,0,3821,5454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/975f234c-eada-4e4d-b70c-3bb4229208a3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Simon de Montfort and the Provisions of Oxford are mentioned. The author says"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/d624fd5a-d0a0-4ba3-a353-63549133def5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-69#xywh=0,0,3821,5454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/8b957d6b-46fe-4680-8157-919f8a411efb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Michi autem videtur quantum ad originem cause"
+      }
+    }
+  ]
+}

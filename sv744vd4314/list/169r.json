@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/list/169r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/a2c12bfd-dc3c-46cc-9b6f-7755681a2b05",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-343#xywh=0,0,4047,5869",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/7792e09f-6fdf-499e-830c-2e2a53507533",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Gorram super cantica"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/b9c5ed85-84a0-4f05-a877-72d7f3a53ba1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-343#xywh=0,0,4047,5869",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/4ce0d563-8524-45ad-adb3-76edae5ba369",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Benedicciones dabit legislator ibunt de uirtute uirtutem uidebitur deus"
+      }
+    }
+  ]
+}

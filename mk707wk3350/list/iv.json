@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/list/iv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/6b63161a-42d5-4330-a0b7-80f9646bf7f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-548#xywh=0,0,3930,5381",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/c1139cc6-96ea-4d1d-93d7-fb275a0f2ba6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Héé sunt reliquie in uno paruo nigro scrinio flore uno signato. De ligno domini plures particule. De sepulchro domini. De Scapula Sancti Nicomedis martiris. De Capillis Sancte Cecilie uirginis et martiris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/fcca586f-0904-43c8-ae6f-9eff4da2ced0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-548#xywh=0,0,3930,5381",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/0ead6bf5-c76b-4b61-86d3-9a1665639af1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In a separate line: Hollord. Ketil. Ozor. Yun. Andreus. Asclathe"
+      }
+    }
+  ]
+}

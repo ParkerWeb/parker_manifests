@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/list/143v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/annotation/44009b66-c64d-42f9-b0e2-570399da7426",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/canvas/canvas-296#xywh=0,0,3430,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/res/aa9e70de-8254-4217-a28c-2e5d8b4d7a38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: virtus et imperium est per infinita secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/annotation/db9564b5-d94e-4693-acdb-4801adff2953",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/canvas/canvas-296#xywh=0,0,3430,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/res/f63bf3e9-938f-402f-aac5-1ba5a7bb8adb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit vita et passio beati thome martiris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/annotation/7fede097-9448-4bca-8b80-9773a16c9661",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/canvas/canvas-296#xywh=0,0,3430,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk144vn3835/res/d2cb0100-f434-4b25-ab72-f211cf7ba0c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "omnino haec desunt que habentur in libro Willmi Twyne De gestis post martirium"
+      }
+    }
+  ]
+}

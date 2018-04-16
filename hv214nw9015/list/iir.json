@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/list/iir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/4879e24e-66d1-4c71-bd25-2e318c92dc30",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-7#xywh=0,0,6035,8720",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/2a380ac5-f4f7-41c9-8bbb-bfff25066e0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula epistolarum beati thome martiris. Capitula primi libri epistolarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/3b1da2b2-9885-4cda-b023-b4c78be90e0a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-7#xywh=0,0,6035,8720",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/bbed99f0-566f-4457-afa4-8cc2af301715",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Incipit prologus in actus et exilium beati Thome martiris. Honor et gloria beati martyris"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/list/77v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/91ae33ad-872b-42fc-ab04-f11864008c4e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-170#xywh=0,0,3901,5255",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/d402e7e1-1b18-4f7c-a609-3232aeccc101",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In nomine domini nostri Iesu Christi her sƿutelað on þisum geƿrite hu ƿulfric abb."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/e74b4c47-b952-46d9-a471-1e90ca9cb9ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-170#xywh=0,0,3901,5255",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/d9fa5cf8-d971-4d39-a8ae-83d2dc87b6a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: to hyra saƿle ðearfe á butan ende; amen"
+      }
+    }
+  ]
+}

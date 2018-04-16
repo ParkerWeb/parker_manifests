@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/list/137r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/ccd6af49-a0ac-4b7d-8f9b-d024fd83e495",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-287#xywh=0,0,3966,5982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/439f890d-5e37-43f9-b59e-8114f2dcbbd3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dominica III in xl"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/21e89cca-42fe-45c1-bd28-2a22c5d8f9df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-287#xywh=0,0,3966,5982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/9fe21f86-df60-4c55-b052-6e49bad6c98d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Geherað nu men ða leofstan hu ðas halgan bec"
+      }
+    }
+  ]
+}

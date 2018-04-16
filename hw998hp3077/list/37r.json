@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/list/37r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/ff18254c-73da-42a8-87cb-03fb748348f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-81#xywh=0,0,4737,6722",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/80015298-9727-491f-ab8f-9e915586ea08",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit compendium sententiarum magistri Petri Lonbardi Parisiac. ep."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/6fa14172-c20c-4f09-94f4-ff143f70cc18",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-81#xywh=0,0,4737,6722",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/662ac1e3-5b42-4149-9bcc-5c8fbe963567",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ut ait augustinus omnis doctrina"
+      }
+    }
+  ]
+}

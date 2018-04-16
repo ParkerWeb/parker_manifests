@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/list/111r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/annotation/a2ea6fe6-21f3-4465-abb6-912e6a37b756",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/canvas/canvas-231#xywh=0,0,3570,5064",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/res/11776bd6-11e6-40b5-a842-898f89deee76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: A la roine lesmereeMere au roi Edward la seneeVa chanzon e se li agreeLi soiez leue e recordee"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/annotation/7f3d4b09-1c10-432e-b73c-04d7a77cf966",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/canvas/canvas-231#xywh=0,0,3570,5064",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/res/9c2c8953-c5f3-4172-aa0b-659659f4bb9c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ci finist li Rossignos Johan de Houdene"
+      }
+    }
+  ]
+}

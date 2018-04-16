@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/list/viv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/annotation/304be47d-2fe1-42f7-a9d0-af6c4fcc0a45",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/canvas/canvas-12#xywh=0,0,6034,8807",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/res/75f1f28f-7de7-474f-826c-5ea8680246c4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Single lines"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/annotation/d4e01717-d125-4185-9b74-fc1494c3babd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/canvas/canvas-12#xywh=0,0,6034,8807",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/res/900b98fc-9215-4777-a0f4-ac3047a9ef40",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "... infrascripto Scoticronicon libro succinctius perstrinximus / ... verantur. Genealogiam regis nostri moderni Jacobi secundi"
+      }
+    }
+  ]
+}

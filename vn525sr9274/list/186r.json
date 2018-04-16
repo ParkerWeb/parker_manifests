@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/186r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/21a2ed38-2bea-4b9b-921f-2b792c3a102e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-379#xywh=0,0,4822,7848",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/df879462-b1e3-4877-8f88-5b1815782b38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Those already given are omitted. Ends"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/4c3750ac-8605-4d06-8c98-7eefc9c0d476",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-379#xywh=0,0,4822,7848",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/ba15f395-e3b0-4002-b755-2a25adfa089c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De angelis"
+      }
+    }
+  ]
+}

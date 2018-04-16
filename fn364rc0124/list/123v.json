@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/list/123v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/86fe92dd-f3c9-4287-8370-9d47612ebf37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-254#xywh=0,0,3519,5426",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/f15fb176-889a-48ee-a5c9-88b3d7ffc636",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Orations to an assembly"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/fc6c0794-0517-4253-b866-ed2dcfafd0a8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-254#xywh=0,0,3519,5426",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/b6956199-642c-4eda-924a-aebcb7ca4b91",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Reuerendi domini legius dominus noster rex considerans dissenciones et discordias quas habemus ab intrinseco"
+      }
+    }
+  ]
+}

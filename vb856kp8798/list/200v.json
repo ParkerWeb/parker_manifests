@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/list/200v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/842a308c-e896-4e66-a49d-4564b72a957e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-166#xywh=0,0,5874,9373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/9c5b31a4-3c54-409f-a0c1-867427c4165b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Malachim idest regum liber tertius habet versus II quingentos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/20a0ba23-a425-473a-8d62-487ac04eebe9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-166#xywh=0,0,5874,9373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/27f22039-b94b-4f64-9482-f459d3795a88",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula libri IV (110)"
+      }
+    }
+  ]
+}

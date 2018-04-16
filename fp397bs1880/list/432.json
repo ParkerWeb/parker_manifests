@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/list/432.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/annotation/85c70962-dc24-4732-b9ec-47b1d7ec0b6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/canvas/canvas-442#xywh=0,0,6658,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/res/7d63a3d6-44b4-43fb-a8c7-e8a7b7bed893",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On p. 432 are notes by Parker including a list of eminent men named Matthew"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/annotation/b31100b0-f4e6-432a-bbf1-58eee744d271",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/canvas/canvas-442#xywh=0,0,6658,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/res/ba9e8933-cb18-4d19-8509-e21d1fb40159",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At St Dunstones daie laie the seede leape awaneIs ther non yet a raine take the seede leape againe"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/list/509.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/e5726f3f-024c-4c40-b754-29ee605b05ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-525#xywh=0,0,5662,8070",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/07fbdc74-fa35-450a-a11c-31d933193101",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: alium bibliotece sue exposuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/fb252980-74dc-4be8-9ac0-ac0dab15fd08",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-525#xywh=0,0,5662,8070",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/2c37cce5-5273-43ff-a659-3c921dbee1fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

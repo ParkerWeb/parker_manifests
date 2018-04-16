@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/list/146v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/e2b75000-3d1f-457f-9717-714477e8031c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-300#xywh=0,0,4087,5988",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/f386c197-9454-4edd-99b9-3c2d41007466",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tribus modis deus cor emollit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/919a3a31-492d-40ad-bc56-7c0cf256115d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-300#xywh=0,0,4087,5988",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/3eadd2d1-1072-4ef3-b3ae-5eb470bab864",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Per caritatem seruite inuicem"
+      }
+    }
+  ]
+}

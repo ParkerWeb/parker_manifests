@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/list/47r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/efec45fa-5dfe-4db5-805a-971028a63a5c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-95#xywh=0,0,5448,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/c323a561-596b-4c8d-9779-0ca9a98862d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(In die pentecosten)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/8ce4a92c-f9c5-4b7c-bd55-5be3ebf70b76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-95#xywh=0,0,5448,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/e7a2a9ac-c750-4ea9-9b6a-24121d3188d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ubi uenit plenitudo"
+      }
+    }
+  ]
+}

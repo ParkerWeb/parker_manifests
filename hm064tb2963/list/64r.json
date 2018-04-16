@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/list/64r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/1563e2cc-da12-4430-b816-84622f14b00e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-153#xywh=0,0,6073,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/79d99de4-e6e4-4c6a-8ef0-7f98c6d58a9f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber V"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/2bc29438-e913-4487-ad3d-c46b3b2c46c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-153#xywh=0,0,6073,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/288b3966-9c4e-44ea-9980-e0e49343a6c5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De Iosue etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/3a2e92f9-a130-4c22-8051-b4025a17d138",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-153#xywh=0,0,6073,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/456712b1-079d-4a69-9d3b-d5bd5f648e33",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Fine gold initial"
+      }
+    }
+  ]
+}

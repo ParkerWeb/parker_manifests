@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/93r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/66e776fe-2117-4da9-ac4a-a8cbe1e71e8f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-189#xywh=0,0,5839,8447",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/16710812-136e-4008-98c3-750f9b7a4644",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De uiris illustribus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/edcfde2b-c8b4-427d-be2b-8679c7055fc9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-189#xywh=0,0,5839,8447",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/5c27ffb7-7ffc-4be5-987d-d247ae4c3020",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pompeius a tempore Nini"
+      }
+    }
+  ]
+}

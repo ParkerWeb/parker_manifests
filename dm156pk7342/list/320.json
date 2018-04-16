@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/list/320.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/65f23f45-d429-44e4-9f35-6b4cafa19487",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-338#xywh=0,0,4053,6183",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/ef240b8b-2ba4-425c-a437-89585a3cc9f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Fine round hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/683da2de-0b92-4c8f-9d9d-ba340fd12022",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-338#xywh=0,0,4053,6183",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/95e77b83-a123-4a23-93a2-1d745a48c5a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vs bisceopum gedafenað"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/list/77.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/68468930-331d-40da-b1be-da4b2f6337b2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-83#xywh=0,0,4115,6149",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/fbb01fa1-414f-4cc8-bb0d-34771ace186b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/c88600f6-6496-43ca-ad1c-d25a1578bfd6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-83#xywh=0,0,4115,6149",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/8c2b3d8c-2189-4e36-87d2-6e5ad7d260b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iam innumeris ydre capitibus"
+      }
+    }
+  ]
+}

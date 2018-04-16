@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/annotation/f5933e5f-b4f6-4562-b915-97a905294ee0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/canvas/canvas-7#xywh=0,0,5341,8535",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/res/63c3761c-228f-4ce9-9ee9-3c34076b8c54",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/annotation/01b39d6a-5566-41df-a0f7-14ef32f43008",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/canvas/canvas-7#xywh=0,0,5341,8535",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/res/7c62bf6c-9671-43d3-bba3-1f443176d6a3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Expositionem itaque scripturus in euangelium beati Mathei"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/list/27.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/69398d61-49b1-49b1-9100-8b7fb116946c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-35#xywh=0,0,5242,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/a14eed17-268a-4e01-854c-13e1ac1ee31b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio ad Reconciliationem clericorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/ce9f768c-aab9-445b-9bc3-89acaaa78c1b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-35#xywh=0,0,5242,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/e611b34b-1858-49e5-a32e-fb4075a28977",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio imaginis Sancti Johannis Evangelistae"
+      }
+    }
+  ]
+}

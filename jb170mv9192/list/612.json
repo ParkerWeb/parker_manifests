@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/list/612.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/169ebaff-a55d-42ca-bf0f-14552d53afef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-616#xywh=0,0,3417,5673",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/4610b059-136a-412c-bd3b-f568e9c17f6d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ita in patria pleno ore facie ad faciem perfruamur. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/42b79cee-3b52-4931-8161-324f609601d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-616#xywh=0,0,3417,5673",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/6f73804e-d735-4d72-93bc-356d514dbd97",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Colophon as in Nasmith"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/list/35.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/8b7de068-a384-4f2a-878b-386db2d7ed2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-33#xywh=0,0,3502,5502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/386b2f48-87fb-4b70-ba38-95a3b1c93265",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: anagogice non allegorice in predictis S. in pascha et cetera"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/e0040091-3ef8-4b26-a51f-2d209ccb5016",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-33#xywh=0,0,3502,5502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/eebdcb5a-6973-4cfa-9be1-14a893ae483d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Festiue dies sunt sollempnes. sollempnis dicitur a solon quod commune"
+      }
+    }
+  ]
+}

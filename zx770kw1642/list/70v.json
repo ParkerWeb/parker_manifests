@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/list/70v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/annotation/a09fdb83-c38c-43ca-9e56-202b46b68bfa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/canvas/canvas-148#xywh=0,0,3645,5655",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/res/80e8fab2-97f6-45fa-8e4a-f887c397db8c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Manipulus Cronicarum. Distinccione 7 .c. primo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/annotation/9207223f-738f-494a-9ed3-def2ecbc9af2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/canvas/canvas-148#xywh=0,0,3645,5655",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/res/b8f04d97-1e47-4edb-a054-f47e5e702d77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Britannie maiori nomen primum fuit Albion ab albis rupibus"
+      }
+    }
+  ]
+}

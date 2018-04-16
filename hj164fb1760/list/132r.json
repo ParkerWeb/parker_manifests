@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/list/132r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/9f4a86b8-8b6d-4cb9-82a0-bc4932551fa5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-271#xywh=0,0,3436,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/eae69535-ec3a-42f9-b8e1-af030df1700c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De lectione ad collacionem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/eaa2694d-1517-4bee-adf1-f0c1b9c19140",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-271#xywh=0,0,3436,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/5814977c-52a4-41d1-842f-1473177b79a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ad mandatum"
+      }
+    }
+  ]
+}

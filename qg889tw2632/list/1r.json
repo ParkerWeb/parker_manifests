@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/annotation/9cbb4650-d7dd-4845-be17-3acd25526ae9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/canvas/canvas-5#xywh=0,0,5998,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/res/3e626aed-13c9-40dc-8bf1-8cb465f83675",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: ligarentur et facta conspiracione cum Ianuensibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/annotation/f55bbb66-c1ab-4e36-8b05-2aca7457405f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/canvas/canvas-5#xywh=0,0,5998,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg889tw2632/res/0c0fb177-2902-410c-bd80-5c0befc9e5b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Iusticiario terre laboris super deposicione sua"
+      }
+    }
+  ]
+}

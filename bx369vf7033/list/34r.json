@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/34r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/924c80cc-5487-4101-8b09-5faefb0b96e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-75#xywh=0,0,5975,8617",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/d0b89f0e-e9ea-457e-bfb3-ada71970ea85",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Expositio missae (Remigius of Auxerre) cf. CLXXVII 455"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/35067437-06c7-48f4-aa0d-93bd550ac568",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-75#xywh=0,0,5975,8617",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/f370aed8-bc6a-410c-bd21-9afc07c00692",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In uirtute sancte crucis"
+      }
+    }
+  ]
+}

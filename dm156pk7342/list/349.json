@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/list/349.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/dc7f0b70-5889-4a56-922c-7a161a8ce6a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-367#xywh=0,0,3901,6189",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/53d5c363-f184-4bae-b6f8-df6f232af553",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De officio Missae etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/5bd4f6f9-c4a1-4bde-8cf9-c2bda4f5ae1d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-367#xywh=0,0,3901,6189",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/6e072598-0005-4cad-aa57-420d83b23b35",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: On þone haligan easter æfen gange man to nones"
+      }
+    }
+  ]
+}

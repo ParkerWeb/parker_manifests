@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/list/336v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/5501a6ec-6e3f-49b7-af9b-a29e103c9422",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-198#xywh=0,0,6180,9760",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/1a46f60c-d60f-4166-be56-f75033c4753f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Arguments to Zechariah"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/df24fdd2-eefb-49e5-a0da-e247b0d88d02",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-198#xywh=0,0,6180,9760",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/41dae6e1-335c-4279-b338-31e880cb9d57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Secundo anno darii filii"
+      }
+    }
+  ]
+}

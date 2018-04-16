@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/list/342v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/b82d920b-6f7c-4668-9a93-c23b1660aa67",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-698#xywh=0,0,3814,6038",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/526cf200-bb5a-4227-ae3a-9bf912be6f72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: III Idus augusti. Passio Sancti Laurentii Martyris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/annotation/1ffd9038-6210-40b4-b860-48407e85ffe9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/canvas/canvas-698#xywh=0,0,3814,6038",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fh878gz0315/res/adf56435-5559-4516-9872-261f451866c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: On decius dæge þæs hreoƿan caseres"
+      }
+    }
+  ]
+}

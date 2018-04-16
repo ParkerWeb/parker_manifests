@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/list/348.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/920ebbfe-aff1-4e8d-a678-d9a500c53346",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-352#xywh=0,0,3686,5553",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/731fa3bb-4839-4161-99f9-aea66a78edc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo Eusebii sinisseni (!) de corpore et sanguine"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/695cb4d9-8357-43fd-bb60-fab71ed642db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-352#xywh=0,0,3686,5553",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/a2e466ae-4289-4f3b-9aa5-16d7eddb56f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Magnitudo celestium beneficiorum"
+      }
+    }
+  ]
+}

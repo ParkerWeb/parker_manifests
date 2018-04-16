@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/annotation/8bbe270d-c602-4892-a72c-56b089d00b3e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/canvas/canvas-20#xywh=0,0,5516,8834",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/res/2b997b5f-e616-49aa-8a7d-88955e832175",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Saxonibus et de regina Sexburgie a Germania ueniente"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/annotation/1b570c83-cd6d-4f8a-8b8a-1250de79aed6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/canvas/canvas-20#xywh=0,0,5516,8834",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp968bx9690/res/52f2a212-f255-4418-8af7-2e759205d3c5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De prudencia anglorum"
+      }
+    }
+  ]
+}

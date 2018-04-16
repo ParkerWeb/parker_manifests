@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/305.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/9e0fcab8-b324-4d87-af5f-a7366187ffa4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-313#xywh=0,0,3545,5924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/6ad4f08f-59c6-439b-a82f-6158f6aa0fd0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: mansionarii intrant in secretarium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/44f8d8c6-7b0d-4951-b319-aa7ffc0ee4c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-313#xywh=0,0,3545,5924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/ef1e22e1-9dfc-48fb-801c-06ee4f76000d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ordo missae a Sancto Petro apostolo institutus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/262efe89-6bb3-4986-927a-cc3353becadd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-313#xywh=0,0,3545,5924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/aead6d86-4f04-4d3a-b049-a11aa6858275",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Missa pro multis causis celebratur"
+      }
+    }
+  ]
+}

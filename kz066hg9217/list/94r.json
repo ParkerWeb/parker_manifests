@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/94r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/eaccf40a-67b9-4e55-b3cd-11af9c5e73c6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-193#xywh=0,0,5815,8881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/bd5529b9-e3af-4045-9484-2540d5df8ca8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quid gloriaris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/3300dcdc-5d94-4e24-b1c9-9e31f1e4965c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-193#xywh=0,0,5815,8881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/8d1efe5c-d4be-410f-a51d-109e589b9aff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial to Psalm. The shame of Noah: he lies in front: his three sons and Canaan stand over him: two spread a robe over him"
+      }
+    }
+  ]
+}

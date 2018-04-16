@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/list/109r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/8fe31401-d140-4234-bd52-97b09c521799",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-229#xywh=0,0,3206,5054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/e228716a-cde7-4bbf-85b3-22f85deb0a91",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit hystoria griseldis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/d1c09523-7085-453b-bf2b-982e6c26ce59",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-229#xywh=0,0,3206,5054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/5a3168fc-2c39-405b-b8c3-c596978761a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Est ad ytalie latus occiduum vesulus"
+      }
+    }
+  ]
+}

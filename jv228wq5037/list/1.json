@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/e5ea00ff-6bea-4915-a2cc-6b1a1a14b486",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-11#xywh=0,0,3742,5455",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/d51119e8-430e-4579-a1cf-be8d03088f0e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus monachi peccatoris undecunque compilatus contra fantasias cogitacionum quas pati solet circa fidem. propter consequenciam autem (?) tangit aliqua de spe et caritate. Et quia Anglia turbata erat anno quo hec scripta sunt (marg. mo cco lxo iiij) interponit quedam de statu regni"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/43c5432e-8acc-4dd4-a943-c27f35950009",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-11#xywh=0,0,3742,5455",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/cdb31153-9a75-4639-aa64-d460f3ed85aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum sepe et multum mecum cogitarem de fide rerum inuisibilium uidelicet de uno deo colendo in trinitate personarum"
+      }
+    }
+  ]
+}

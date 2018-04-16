@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/list/232.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/3c566b73-a400-475d-9470-7d357667e13e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-244#xywh=0,0,3249,4720",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/4946765f-32f9-42f9-afc6-9da6651268fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Zizanias seminare rixas maximas audire"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/b018d401-a6ea-4240-8ab2-d47ff15eda36",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-244#xywh=0,0,3249,4720",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/e6d5348d-1915-4282-aa96-09b30288e8bc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/list/89v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/6e0c002c-d489-4829-a0dd-e2dfcd9aac93",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-182#xywh=0,0,5826,9161",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/b16938ac-735d-43ee-8835-843f4606cd63",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula (33)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/a1e7a628-0b7b-4f65-a24c-062c1ac5b1bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-182#xywh=0,0,5826,9161",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/6b2993e6-ccde-4b45-b3d2-655ea349bde2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Decorative initial to text"
+      }
+    }
+  ]
+}

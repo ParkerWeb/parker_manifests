@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/54r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/93440196-1ec2-4def-b253-bc508df42dda",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-109#xywh=0,0,6094,7962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/5e5831ca-3fbe-453c-8bac-807207a54e3d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De mauro bubulco"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/2793bd16-b714-4820-a53d-070d92688382",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-109#xywh=0,0,6094,7962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/93325ca3-2ac4-4359-bc6a-56f635a39f5d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fertur fuisse quidam rex nobilis potens et diues qui habuit principes multos. comites. barones. milites. et clientes"
+      }
+    }
+  ]
+}

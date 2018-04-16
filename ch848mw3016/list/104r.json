@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/list/104r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/annotation/196af90b-7cda-41e9-ad72-376e5605e4df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/canvas/canvas-225#xywh=0,0,5170,7800",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/res/ff75e3d8-f355-49ad-b499-627e57eb0690",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: benedicere et laudare cui laus est et honor et imperium per infinita secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/annotation/c1a67b32-c316-48a2-914c-4c20ed0a4012",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/canvas/canvas-225#xywh=0,0,5170,7800",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/res/15362bd4-46b0-4259-9a30-e7d9f7438304",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt summa sacrificiorum"
+      }
+    }
+  ]
+}

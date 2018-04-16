@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/list/65r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/d2b6c6b3-6854-4a4b-b874-07c7d48ac8e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-131#xywh=0,0,5441,8814",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/59761c5d-7999-4f16-9fb2-37e30eeb98f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Alius ad pastores domini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/6a6713f7-ee7e-4402-adaa-3f62ae7aab43",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-131#xywh=0,0,5441,8814",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/1ef9f2e6-329e-4ce0-91b8-ce9f1de5bafe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ue pastoribus"
+      }
+    }
+  ]
+}

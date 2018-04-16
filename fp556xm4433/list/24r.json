@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/list/24r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/53d01488-f936-49bf-95b0-ee8e04355222",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-55#xywh=0,0,3695,5601",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/c65b20fd-dcd2-4671-b0ef-adb4b5e8c6d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Manus Roberti Talbot clerici"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/12caf652-3d62-4bd7-920c-f44fcf4641e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-55#xywh=0,0,3695,5601",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/0d0036ac-97a1-440d-860a-e8f24b3e3d49",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iter Britaniarum a Gessoria de Galliis"
+      }
+    }
+  ]
+}

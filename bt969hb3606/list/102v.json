@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/list/102v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/d757edac-514e-4028-89c8-fa7a52878ae1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-212#xywh=0,0,5942,8842",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/e3af07c6-1803-44d4-94b9-671a70e3c91c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno domini mlo ccmo lxxvo deposita est capella rotunda in cimiterio monachorum in qua corpus Sancti Edmundi primo iacuit ante translacionem suam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/eae90b1a-fe9a-40c2-b44c-95745f66e773",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-212#xywh=0,0,5942,8842",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/1d70dc64-c1da-4d77-92b2-5daf853d09a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex parte australi ubi nunc est capella Sancti Botulphi et ortus feretrariorum"
+      }
+    }
+  ]
+}

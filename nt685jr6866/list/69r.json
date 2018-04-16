@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/list/69r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/annotation/b94e244f-be25-4227-ad21-9c4fdcb104f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/canvas/canvas-143#xywh=0,0,5616,8566",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/res/3e34e97c-8301-4930-9ee8-d2818833bd3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: diem quo incorrupto ostensa est corpore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/annotation/73f351ae-6019-41a8-add1-1d21401060e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/canvas/canvas-143#xywh=0,0,5616,8566",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/res/f776e646-3936-4a32-a22e-3d02257a7df1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Regum proles et regum parens"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/list/162v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/7b58d1ac-3f27-45e5-b91f-c110c65bf69d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-336#xywh=0,0,3574,5438",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/6dde70ca-51d7-40f3-8444-b42659b12a89",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ego frater Odoricus hic inscripsi et si (?) multa mirabilia omisi ponere quia homines non credidissent nisi uidissent"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/c1b38f08-989a-4191-b328-f74676ef744b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-336#xywh=0,0,3574,5438",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/6addabc7-84ea-4eb3-8f3b-eb8f9f0e5f72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit itinerarium fratri Odorici"
+      }
+    }
+  ]
+}

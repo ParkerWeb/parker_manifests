@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/list/95r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/8ce073c4-5c55-4f72-97b0-8556b9b0dc77",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-191#xywh=0,0,5502,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/f00ab290-6116-416a-a232-32ef8362f5a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo Augustini de penitentia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/b10a9102-1ea2-4f3c-9232-aba1bbfc06c0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-191#xywh=0,0,5502,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/74eaacb9-15c6-466d-b284-4387d7f3b52b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Penitentes penitentes"
+      }
+    }
+  ]
+}

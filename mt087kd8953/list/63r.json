@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/list/63r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/f81c4737-8588-4247-a2d7-8422a81b16f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-127#xywh=0,0,5475,8821",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/6db4fe5d-bd83-4690-bf9e-ef44f7aca54b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo in sinodo ad sacerdotes communis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/55117574-9393-4188-9144-32ac10e4bf5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-127#xywh=0,0,5475,8821",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/4091c366-e884-4b44-b50a-eb038c5e8ff0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Posuit moyses labrum"
+      }
+    }
+  ]
+}

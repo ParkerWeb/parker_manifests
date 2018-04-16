@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/list/201v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/annotation/f2e2c30a-d661-4115-a9b9-7f427e516b66",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/canvas/canvas-422#xywh=0,0,5902,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/res/9936a53e-4e91-46e6-bdd9-771b2b13f19f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Signed R. W."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/annotation/d79386a7-ec7c-4dc0-877c-d569346c3b99",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/canvas/canvas-422#xywh=0,0,5902,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq506mq0193/res/d4743b61-3709-4d71-b2bb-fe818745225d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Many a man makes Ryme and lokes to no reason"
+      }
+    }
+  ]
+}

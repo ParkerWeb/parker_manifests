@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/327c095c-af9c-4254-961a-f2234f8e9c0c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-13#xywh=0,0,5350,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/162ea96c-50e8-4cbe-a9c0-5380d644d56c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A very gaudy initial to the prologue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/5bdd30bb-28b7-4ec1-98ea-a9d8f655b84d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-13#xywh=0,0,5350,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/c178b7f1-03a5-4ad5-8c75-6b044504d896",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Prefatio libri sequentis de natura rerum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/b3374cff-93bd-48c2-ac3d-94ed851a87b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-13#xywh=0,0,5350,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/c2936909-d0df-46be-9078-1751d22a6ba8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De natura rerum et ratione temporum duos quondam"
+      }
+    }
+  ]
+}

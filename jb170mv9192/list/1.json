@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/8c07dab1-4b0a-45ae-9a0a-086eb58fb8bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-7#xywh=0,0,3670,5393",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/9dde5744-d988-4631-adb8-917a01988cfa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus magistri baldewini archiepiscopi cantuariensis de sacramento altaris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/annotation/4f32fb99-6fa8-48fb-99ab-5491f3a3049e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/canvas/canvas-7#xywh=0,0,3670,5393",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb170mv9192/res/21c06b2b-a5d2-47bb-87cd-ce3e6f31b76b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amantissimo domino et patri B. dei gratia exoniensi episcopo"
+      }
+    }
+  ]
+}

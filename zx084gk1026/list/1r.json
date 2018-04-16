@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/9ce6b168-55b5-4523-9f41-41f3a80232f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-7#xywh=0,0,6338,9155",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/4a6a83f6-891f-4b16-97a4-ebacd74be452",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit historia Alexandri magni regis Macedonum. ortus uita et obitus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/7f847b8c-1a2d-44fa-8cad-47d29fbef380",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-7#xywh=0,0,6338,9155",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/5a0c15ff-f937-4a89-95c0-544a3c6b99f2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Egyptii sapientes fati genere diuino primi feruntur"
+      }
+    }
+  ]
+}

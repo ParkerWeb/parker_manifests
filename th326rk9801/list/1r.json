@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/annotation/d5a01262-dfdb-42d3-868c-ddb72aea7343",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/canvas/canvas-7#xywh=0,0,4295,6271",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/res/6f4c77c1-4e06-462b-9c5a-1d92ac6d97cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The initial has a half-length figure of a man in upright cylindrical red cap"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/annotation/a05e12b5-5e33-43b1-b67d-fcf497e6ea8a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/canvas/canvas-7#xywh=0,0,4295,6271",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/res/a9aa3821-b8be-48eb-b25a-1901283ceb67",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Laetanti iam mihi et exultanti"
+      }
+    }
+  ]
+}

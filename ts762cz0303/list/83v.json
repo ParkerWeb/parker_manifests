@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/list/83v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/6d74bc63-968e-4d9b-a815-a6ee274d8208",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-178#xywh=0,0,3567,6394",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/7069af4a-1086-4fed-bbbd-d7163548ae7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo factus ad cognoscendum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/1ef4d902-f1e1-4acc-af0b-555f217107d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-178#xywh=0,0,3567,6394",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/2e542a58-6323-444a-888b-36c5a740ddd6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine labia mea aperies"
+      }
+    }
+  ]
+}

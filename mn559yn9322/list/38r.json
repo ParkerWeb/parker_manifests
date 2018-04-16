@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/list/38r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/8b372d7c-a306-4f66-b7e4-3449a5f52431",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-89#xywh=0,0,3839,5597",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/199220ba-b4cc-46cf-adff-3db71f3c748d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de assumpcione Marie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/c88ec840-8af1-4601-9062-55d5e407bb91",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-89#xywh=0,0,3839,5597",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/97f2d118-c58b-434c-ab43-23d53c66ef14",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Progreditur quasi aurora ... Nunquid post ortum tuum precepisti diluculo"
+      }
+    }
+  ]
+}

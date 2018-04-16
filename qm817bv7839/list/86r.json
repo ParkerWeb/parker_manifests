@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/list/86r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/984db81f-9d83-466e-8e7b-51b62b56cd01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-189#xywh=0,0,5086,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/ddff58ed-2b4a-458e-8a3b-20e6406e30f2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequitur de cathalogo et numero Librorum a giraldo compositorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/c3a91f31-8c42-4890-8e6e-bac8d6df0873",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-189#xywh=0,0,5086,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/74e631fc-6471-4f0b-8ac2-9db7bd5ea839",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Occurrit hic igitur in primis tempore tenerior cronographia nostra"
+      }
+    }
+  ]
+}

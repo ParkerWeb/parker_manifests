@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/list/71r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/d163d4bb-d4f1-4120-99c2-2095da01a525",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-147#xywh=0,0,4239,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/44d42fa2-201f-4eb3-9910-8cbaeee21237",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Commune quod deus omnipotens spiritus sanctus non potest pater aut filius sed proprie spiritus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/aba50081-ec57-41a7-99ed-a9644c69e62e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-147#xywh=0,0,4239,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/f3d32c59-6b97-4d9f-8646-303b77f3db6e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finit"
+      }
+    }
+  ]
+}

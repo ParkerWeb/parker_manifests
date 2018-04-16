@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/list/186r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/b5e93c51-18f2-4d6c-84a1-d90a24c52695",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-379#xywh=0,0,3742,5535",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/1c1217ad-e869-47d4-b8a3-9595a82716fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: me vidente ad maiorem (?) eorum confusionem. hec gorra(m). Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/ffe63652-b0fe-4b2e-9f97-d247841f6b1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-379#xywh=0,0,3742,5535",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/01854024-867c-4d4d-8931-8cb85f3c92e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table follows"
+      }
+    }
+  ]
+}

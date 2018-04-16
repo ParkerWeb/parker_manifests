@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/list/148r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/51f4d135-3ce6-4665-98b3-d73f00d35e53",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-309#xywh=0,0,3874,5621",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/147724ea-818f-494c-a834-9aba8a35f5c6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Arenga pro commendacione noui Rectoris alme uniuersitatis studii pragensis canonistarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/f5669b85-f069-4269-8a55-9aac842f5efd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-309#xywh=0,0,3874,5621",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/73167018-197c-46fc-b046-6ba7b04b38f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cantemus domino gloriose ... filii israel post transitum maris rubri"
+      }
+    }
+  ]
+}

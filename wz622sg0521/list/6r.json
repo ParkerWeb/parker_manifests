@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/annotation/d63ded73-aba0-499d-892d-02ee85ae768f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/canvas/canvas-25#xywh=0,0,3502,5689",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/res/2fb3822d-3652-4979-9845-78f8244ba73e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: monachus factus obdormiuit in domino sub rege stephano"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/annotation/f171274b-b943-49ec-b0ec-a6c7b634bb90",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/canvas/canvas-25#xywh=0,0,3502,5689",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/res/59ca34c8-3436-40ff-a149-ead5a8cfb836",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nota quod ybernia habet octingenta miliaria in longitudine alienoram uxorem leuwelini ultimi ex alienora sorore henrici quarti patris Eaduuardi illustris regis anglie"
+      }
+    }
+  ]
+}

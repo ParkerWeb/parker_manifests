@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/list/330v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/31866541-8d0c-46b2-82ee-d96a2bd6b946",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-186#xywh=0,0,6288,9866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/56e938d2-6799-447c-b8ed-56a0c6b40318",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Arguments to Nahum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/282d8833-602a-4ab7-bd27-29ad7a7464e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-186#xywh=0,0,6288,9866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/02c5f736-a3de-4b3e-a240-f86c251a016c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Naum prophetam"
+      }
+    }
+  ]
+}

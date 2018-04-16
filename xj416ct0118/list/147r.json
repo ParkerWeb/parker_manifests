@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/list/147r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/508049ed-1dda-4000-a1ae-fa26fa736178",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-299#xywh=0,0,5088,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/6b857ae2-0412-4095-9e37-c4d4e65a08cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Insula britannie cui quondam abbiron (al. albion above the line)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/cadfa67e-c1a1-4b81-afc6-4ab7846198cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-299#xywh=0,0,5088,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/ece4f878-9634-444f-9929-5d2225ec5870",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: vocatur fossa tenditque per Lincolniam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/2bd3af8b-2d59-4501-b845-fc1ac96918e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-299#xywh=0,0,5088,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/507de65b-aac7-4735-b965-2366feff4e8e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Britannia sicut legitur inter insulas omnes"
+      }
+    }
+  ]
+}

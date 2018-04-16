@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/list/132.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/819c79e5-a9d6-4142-8d1d-6c3e69ad494e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-144#xywh=0,0,5500,7890",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/9a8f4816-75d0-4cb6-9127-f5914a7f2526",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo de natiuate Sancte Marie matris domini vi idus septembris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/07c78ecb-4300-42ac-bd85-17d6f91811d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-144#xywh=0,0,5500,7890",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/79a8ae14-f9ad-4c76-8242-caff8134febc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Men þa leofestan ƿe synd gemynegode þurh þises dæges ƿurðment"
+      }
+    }
+  ]
+}

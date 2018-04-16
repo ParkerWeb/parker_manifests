@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/list/310.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/fa48354e-dd76-437e-a826-490a1efe85ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-308#xywh=0,0,3694,5607",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/c25c2f42-a72f-4ba3-a238-11fde9a70c45",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: fiunt post flagella ex negligentia securi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/1cffa715-f353-47c0-82ef-e2b0c5afd6e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-308#xywh=0,0,3694,5607",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/8ccc5992-ec91-4481-9675-2566e88308eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit libellus senece de institutione morum"
+      }
+    }
+  ]
+}

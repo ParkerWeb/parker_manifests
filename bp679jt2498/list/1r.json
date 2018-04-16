@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/annotation/ffa999ce-d869-4619-a07d-a14fc6aa1cd8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/canvas/canvas-15#xywh=0,0,3632,5662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/res/862d9081-e8eb-4cc0-ae2c-8997d15e99a2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Omelia prima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/annotation/6acb4a67-239c-493a-be1d-53e8c7421957",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/canvas/canvas-15#xywh=0,0,3632,5662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/res/f9447fd2-6611-4abe-9a47-976b4e74a86f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum appropinquasset Ihesus etc. Mt. 21"
+      }
+    }
+  ]
+}

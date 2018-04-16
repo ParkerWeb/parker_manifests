@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/list/81v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/489dac24-2db0-4fc6-aad3-ad365eac0c46",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-168#xywh=0,0,3476,5378",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/8789a594-13e3-4eb7-89fe-2b29cb95daf7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sessat omnis obieccio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/bcace5d0-8efd-4d89-8a65-a20f45b839bb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-168#xywh=0,0,3476,5378",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/6d300617-750c-4257-b00c-1237f0dbe036",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt proporciones"
+      }
+    }
+  ]
+}

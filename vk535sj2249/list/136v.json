@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/136v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/a0d9b881-ef9f-4c7d-8812-f77a5732a760",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-280#xywh=0,0,5747,8875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/0b22c286-107e-44d1-a8a6-d3f77f2328d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De aliquo qui wlt suscipere habitum monachilem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/22b21636-e855-4520-83e6-6808211a16ac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-280#xywh=0,0,5747,8875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/85fad397-bfdc-4a00-9e9c-15108255cd0b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De terra emenda uel limitanda"
+      }
+    }
+  ]
+}

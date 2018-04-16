@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/list/65v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/0b2e4f81-938e-4122-94f8-700f7ebfbc20",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-138#xywh=0,0,3502,5638",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/7ac7d137-29cf-430e-979c-57118f0a24ad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Iniquum dicitur duobus modis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/9f1b4f05-6bf3-43ec-918d-0117bc4edc25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-138#xywh=0,0,3502,5638",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/b2127dcb-3dd6-4fd8-88b9-c0279ee10876",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Isidorus de ortu et obitu prophetarum"
+      }
+    }
+  ]
+}

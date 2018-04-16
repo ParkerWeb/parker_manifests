@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/list/120v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/1916f94d-5ed7-4d93-866e-ea835eff23f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-248#xywh=0,0,4120,6047",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/4a8df8b4-aa58-4817-a906-f334c4adb8c4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Derelicta repetit erit maledictus.Explicit ludus fortuitorum siue fatorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/50522fad-14f0-4230-95af-a08a9edaa293",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-248#xywh=0,0,4120,6047",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/f904d9a3-bd0f-4b31-9704-98ef449981f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: O christi vicarie monarcha terrarumVir matris ecclesie sella scripturarumMinister iusticie metaque causarummee querimonie aurem prebe parum"
+      }
+    }
+  ]
+}

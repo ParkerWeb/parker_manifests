@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/list/39r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/7d60aa47-dda0-4403-a60b-6fd749008172",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-79#xywh=0,0,5396,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/e0b7246f-e4b4-421e-b614-e57a8b08611d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo Augustini de Sancto Helia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/annotation/e4ee67bd-d49b-4c15-baea-84c1a5c7c169",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/canvas/canvas-79#xywh=0,0,5396,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt087kd8953/res/bea31ef8-4326-4287-8a36-18bd8e45f56a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dominus deus noster nolens aliquem"
+      }
+    }
+  ]
+}

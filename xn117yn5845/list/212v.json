@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/list/212v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/bdb9e7eb-7e9c-47a8-a764-51c42d1ce5a8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-430#xywh=0,0,3966,6079",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/6775ef0b-5052-472f-b063-eb602a57db7d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uult et precipit ut eos diligamus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/267077a0-9c28-4b93-ad27-460d703c35d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-430#xywh=0,0,3966,6079",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/3dcffeac-8060-450a-bda5-1d70c40612ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: misericorditer introducat"
+      }
+    }
+  ]
+}

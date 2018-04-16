@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/list/176r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/e4d52107-516c-4489-98d4-d76ef10f0bc9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-363#xywh=0,0,3910,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/e8ddd15b-2d6a-4c7f-a735-8d567f073cca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: menti possunt dici inimici crucis et passionis Christi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/3ee81bbc-a4a2-4a8e-b0a7-4c52ecd6148a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-363#xywh=0,0,3910,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/23465caa-e700-4cf4-b72d-fe283806b9fb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De materia peregrinacionis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/d682b88a-ab50-494a-bdd8-8b1534bbe279",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-363#xywh=0,0,3910,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/f9b10f98-88f4-45d2-ac47-feb6d4081dce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In materia peregrinacionis dico quod licitum est hominibus peregrinari ad reliquias sanctorum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/list/300.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/d61e5842-a257-40f7-8429-3556a6624463",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-306#xywh=0,0,3750,5494",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/71cce542-7d4d-4712-bdbd-97b30d94449e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: gratia sancti spiritus infundatur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/44653443-876a-41d9-b1b7-8c2c3eaff485",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-306#xywh=0,0,3750,5494",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/0e500f68-d9ce-4360-acd0-a6e93b309899",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

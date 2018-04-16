@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/list/176v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/annotation/8bdb1dd5-4730-464b-90f1-4e6124da80e3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/canvas/canvas-360#xywh=0,0,2539,3796",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/res/2386ee97-3296-4454-811c-1b034600296d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalm 150. A grotesque with a helmet holding a shield with a blason"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/annotation/0020ffce-1dc0-4d58-a9c5-4d537f3c81c2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/canvas/canvas-360#xywh=0,0,2539,3796",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tn930ym5616/res/0071d226-488c-435f-91f2-0655f8b65fe2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Confitebor. Six line ornamental initial with coils and leaves on a gold ground. The other canticles have four line initials of similar type"
+      }
+    }
+  ]
+}

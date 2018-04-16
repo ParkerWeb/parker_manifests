@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/list/28r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/c569694b-b3a0-4e82-bdf8-2e1d45877ff9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-63#xywh=0,0,5866,8654",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/47041c89-9aee-44a2-ba42-7ade389519cc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ecclesiastes glosatus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/b6b8dca9-7ba1-4377-99bc-560cde868cb0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-63#xywh=0,0,5866,8654",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/f8ea297f-2659-4d2b-b442-05bebb3d9529",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Memini me"
+      }
+    }
+  ]
+}

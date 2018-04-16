@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/list/20v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/0ba6e00d-0136-4d5d-ac9e-990a056c37f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-44#xywh=0,0,3219,5176",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/91022444-5cbb-4869-909f-8975e842d384",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Mark"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/dcf22ee5-41df-488e-b62d-148d6abe6ca9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-44#xywh=0,0,3219,5176",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/ee14e95c-8455-4803-b552-c15a6a251ca4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In illo tempore recumbentibus undecim discipulis apparuit illis Ihesus"
+      }
+    }
+  ]
+}

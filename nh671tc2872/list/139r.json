@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/list/139r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/912fbb90-1bed-4043-80d9-c55044a3f5bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-289#xywh=0,0,3951,6063",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/0f871162-6740-413c-b165-365dfe1d4ad4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum igitur cepissent monasteria construi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/59630827-a3f7-45f9-b58c-a456aad08f24",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-289#xywh=0,0,3951,6063",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/572baacb-6b94-4623-b98b-17cffe073f72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial. Man in blue offers apple to youth seated on R. with sceptre"
+      }
+    }
+  ]
+}

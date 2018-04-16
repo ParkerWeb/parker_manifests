@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/list/30r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/9b3aa365-f275-48d5-a88e-87fcc0bb028f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-71#xywh=0,0,3871,5790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/642500bb-d2c2-40ba-b73a-2daa88cc6361",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "After Edward III it adds"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/718d5e8f-5532-44cc-8134-1cd4ea8d7ccc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-71#xywh=0,0,3871,5790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/caf5a081-4629-4a60-84e1-e696ee5a3f71",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ricardus filius Edwardi principis sub anno domini ml iiic lxxvij puer x annorum etate xvii kal. aug. in regem coronatus est"
+      }
+    }
+  ]
+}

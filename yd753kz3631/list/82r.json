@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/list/82r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/424206ba-50ab-46a7-9995-b3bc959650c0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-169#xywh=0,0,5962,9102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/d570a2b7-3141-4c68-81f1-2b7a1c0e18e7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De discrecione (liber x)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/6724c356-0e8a-4472-8320-d3803246b10b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-169#xywh=0,0,5962,9102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/a3aab831-04aa-40e1-8ac3-38b4f2e97fd8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dixit abbas Antonius quod sunt quedam"
+      }
+    }
+  ]
+}

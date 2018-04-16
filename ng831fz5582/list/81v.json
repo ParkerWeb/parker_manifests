@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/list/81v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/ff8a0d91-3c3b-4054-925f-6418f1c45fc5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-170#xywh=0,0,3487,5817",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/c377452b-076d-484d-ae98-d4ccec72e858",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quanto letalius qui se perdit. Et hiis digestis quieuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/4897d738-b28d-47b0-85ab-6cf4c3269d9a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-170#xywh=0,0,3487,5817",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/e0a4a184-8391-4140-a5f3-460578d92dd5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Et sic est finis"
+      }
+    }
+  ]
+}

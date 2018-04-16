@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/list/65v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/69458db0-f935-432d-8737-3524b641c315",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-130#xywh=0,0,3878,5703",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/61affc7d-5494-4979-a612-9c96676a5b50",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus ffratris de Bona gratia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/16f82bfe-6474-4bd6-8c0a-acc70644e482",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-130#xywh=0,0,3878,5703",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/ebcd4e90-ba82-4429-885d-37ef7e095967",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Religiosi absoluentes ubi non possunt non semper incurrunt excommunicacionis sentenciam"
+      }
+    }
+  ]
+}

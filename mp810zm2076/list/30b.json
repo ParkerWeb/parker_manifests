@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/30b.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/d3f43f0d-a453-488e-b286-573b2cd88e50",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-33#xywh=0,0,3372,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/6302602a-cd38-4eef-8bc5-5f073c2d9bdb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De morte Ricardi Radford de Pogg-hill juxta Kirton"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/1c3f1754-6ba4-4cc8-a4ea-db321b7b6fc7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-33#xywh=0,0,3372,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/bf137297-6e74-4a6f-93b1-6caaea0b45f5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Versus in ecclesia de Tavystoke"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/e7653f68-d6e6-4cfb-bf2d-e58d288c2759",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-33#xywh=0,0,3372,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/fac658e8-2bed-4cde-b5f8-1bb567598119",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Excerpta ex kalendario et descriptio ejusdem ecclesiae"
+      }
+    }
+  ]
+}

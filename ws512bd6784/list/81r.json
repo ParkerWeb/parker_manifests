@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/81r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/440db42c-85de-4453-96f2-e9fc487eedff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-169#xywh=0,0,5078,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/a66f58fa-53d3-4686-bfa5-0187074dc787",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistole Petri Blesensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/d3dc634b-a5c7-43a0-8987-eb8a3ec56723",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-169#xywh=0,0,5078,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/b16243ee-16f1-467f-9c03-cfd1e3242288",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Scribitur regi ad cuius mandatum presentis operis epistolas dispersas collegerat et est hoc quasi prohemium operis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/a88162da-ff19-455d-a427-c5c6a83e5360",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-169#xywh=0,0,5078,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/e7cf670d-75d2-4baa-a9b5-0211e388ff2d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Henrico dei gratia illustrissimo"
+      }
+    }
+  ]
+}

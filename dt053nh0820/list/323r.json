@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/list/323r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/53d2ca69-4f41-4ee7-a0a5-75bf94848b9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-171#xywh=0,0,6229,10152",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/d6263913-9e1e-453e-8c59-f1522ff5e461",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Arguments to Amos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/b1a99792-c5e5-40e6-a605-9194b70690c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-171#xywh=0,0,6229,10152",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/e071cfc0-67ea-42e8-ac61-31923ae9267f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amos propheta"
+      }
+    }
+  ]
+}

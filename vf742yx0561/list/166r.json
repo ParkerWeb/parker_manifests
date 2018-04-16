@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/list/166r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/c2274d79-2e16-400a-a4c1-c6e05ad896c4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-339#xywh=0,0,6023,8683",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/f7f30a15-aa94-4861-b2dd-44ec7cfaeb0a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: miserationis affectus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/2f391a84-8557-4f16-9993-ff28b2d5f2eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-339#xywh=0,0,6023,8683",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/c59613b0-1468-429c-9368-caf686a4d301",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber de diligendo deo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/03e5c8ad-e5ad-434d-8ecf-539317beae8f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-339#xywh=0,0,6023,8683",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/59939d46-02fe-4d01-9333-3822ced9e581",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Domini Bernardi Abbatis De consideratione ad papam eugenium"
+      }
+    }
+  ]
+}

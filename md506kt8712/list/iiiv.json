@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/list/iiiv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/annotation/6b0f581e-59af-4c1b-91db-252984da4e0b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/canvas/canvas-10#xywh=0,0,5578,9306",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/res/4a42ef74-d385-4b56-be18-8fc7a70d0dba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Si dieu plet. A moy cest livre partient"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/annotation/8cf58202-4600-4b4f-8c9a-090ccf545719",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/canvas/canvas-10#xywh=0,0,5578,9306",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/res/0cfaf5c5-198d-4425-982d-878bbc0c2efb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Si mea penna valet etc"
+      }
+    }
+  ]
+}

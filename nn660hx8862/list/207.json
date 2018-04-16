@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/list/207.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/annotation/9441c55f-0e33-4450-8971-7292c43ae2da",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/canvas/canvas-215#xywh=0,0,5717,9320",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/res/0d1eb7b9-6ff0-41c2-96a4-274f8bb3a18f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: me de tedio scribendi paululum leuauerim. Vale"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/annotation/cfe5f1ee-0859-4e31-9743-6408263a1284",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/canvas/canvas-215#xywh=0,0,5717,9320",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/res/05ba029e-084e-473e-bf38-bd7e7b832fde",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tercium nunc deinceps diem aggrediamur"
+      }
+    }
+  ]
+}

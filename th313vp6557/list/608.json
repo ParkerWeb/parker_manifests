@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/608.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/92add5ab-d232-4f14-a1fe-7eaad51603ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-620#xywh=0,0,4834,8474",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/2a3b9c18-5371-439f-8da8-2660f483dba0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Alia oratio ad deum deuote cotidie dicenda"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/9be78693-c2f3-4042-b1e9-1a81e92498f1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-620#xywh=0,0,4834,8474",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/c739b265-fa9c-4d6f-b91e-6bc75728f26c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Miserere domine miserere christe"
+      }
+    }
+  ]
+}

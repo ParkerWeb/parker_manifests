@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/annotation/8fb41e15-858c-427c-a222-2f409827a43c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/canvas/canvas-7#xywh=0,0,5938,8692",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/res/8b338d12-8777-4b00-97f8-05de69ce9cdd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Rabanus de uniuerso uel de Naturis rerum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/annotation/868a6bc2-aae9-4f88-8272-43907afe5d2e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/canvas/canvas-7#xywh=0,0,5938,8692",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/res/844b563d-4b7f-4e7c-ad6d-ccf9b5a651ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino excellentissimo et omni honore dignissimo hluduuico regis Rabanus"
+      }
+    }
+  ]
+}

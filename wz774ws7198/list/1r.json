@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/2c04714e-c0b9-4c20-8668-f9c34e1258e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-9#xywh=0,0,5555,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/7c5afe29-7633-455c-a828-bb79d8375b5d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Adam centum xxx annorum genuit Seth. Et postea uixit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/a60d5a2a-fb6c-4063-a836-1072938579d5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-9#xywh=0,0,5555,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/ec2b6020-087f-4932-916a-de17deda9d69",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genealogy of the descendants of Noah's sons: and"
+      }
+    }
+  ]
+}

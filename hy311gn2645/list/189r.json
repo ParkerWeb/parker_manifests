@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/list/189r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/19b65ebe-f1e7-466c-9d91-9f3c9a9d22cc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-385#xywh=0,0,5140,7217",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/cba9feda-1dcd-4752-9d3d-e316dd35a622",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo domini Fulberti Carnotensis episcopi de natiuate Sancte Marie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/c67c9bf7-27b3-4d9a-8c78-f26bb4acd9d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-385#xywh=0,0,5140,7217",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/b731a1a2-f5a0-4072-89f3-046e6b4514d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Approbate consuetudinis est apud Christianos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/list/132v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/adc40eb3-2efd-4b37-9aaa-57eed038b46e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-276#xywh=0,0,4953,7415",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/a3b8b35f-1ec1-4184-be26-54e02ce7e55e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: deuota contemplationis diuine desideria. Ad que nos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/cf1d03d0-230a-48d4-b40d-3bee7e394407",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-276#xywh=0,0,4953,7415",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/6de2baa1-3259-4034-b6d1-80788009ccc1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de tunsione pectoris"
+      }
+    }
+  ]
+}

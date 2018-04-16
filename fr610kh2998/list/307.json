@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/307.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/91373694-07cc-475c-84c0-3eeb5d20e11f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-313#xywh=0,0,3526,5630",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/bb8b5071-f714-4d3d-acc5-701149e8b3f0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio super eos qui morticinum comederint(?)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/87d4ab5b-3651-43f9-95af-1a4d5be419fc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-313#xywh=0,0,3526,5630",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/ba2e5178-8d49-4423-8653-1ac5eb544f53",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio olei ad infirmos"
+      }
+    }
+  ]
+}

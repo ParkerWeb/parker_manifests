@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/list/278v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/dc60ee25-1620-4550-948c-54e90cb43d82",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-82#xywh=0,0,6132,9766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/cd9c098f-d508-49b7-b293-7b0d534df78c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "2. Aleph deus - Tau fortitude"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/7c097642-9920-46a6-a7dc-9e5e89fec415",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-82#xywh=0,0,6132,9766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/f20d8a67-f574-45cf-9e52-ec8aeda3480c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit lamentatioJeremie prophete quod est in titulo chynoth cum absolutione litterarum hebraicarum"
+      }
+    }
+  ]
+}

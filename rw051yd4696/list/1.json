@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/annotation/d06ba2f6-61b6-489b-a55c-5a800c77c649",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/canvas/canvas-9#xywh=0,0,3958,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/res/dcfc6cdc-778b-4f8f-b6a2-2c759b2ecddb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/annotation/7bf507da-08ba-4ade-907a-611f045361ed",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/canvas/canvas-9#xywh=0,0,3958,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw051yd4696/res/2214e4e1-8401-45fe-91d1-7039c99ebde4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum in tanta uerborum multitudine"
+      }
+    }
+  ]
+}

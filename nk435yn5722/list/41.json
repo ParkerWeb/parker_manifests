@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/list/41.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/9f8ca1ef-5652-4514-ab32-a4ccea4cc8c4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-47#xywh=0,0,3626,5633",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/70897e6b-d5d2-49dc-898f-9906f579814a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Rathramni de eo quod Christus ex uirgine natus est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/19a18943-919b-4880-9a02-2390c7790ad1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-47#xywh=0,0,3626,5633",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/52a41d02-2eac-4d83-8383-105dc7275936",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si uno sub magistro Christo omnes christiani censemus"
+      }
+    }
+  ]
+}

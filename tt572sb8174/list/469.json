@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/list/469.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/annotation/bf5ac83c-f84f-414a-b0ba-f523549dd411",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/canvas/canvas-479#xywh=0,0,5806,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/res/bd68f4df-1943-439d-886c-990c128fc989",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: disposicioni sunt commissa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/annotation/6563c916-bfd6-40bc-8634-15372081df3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/canvas/canvas-479#xywh=0,0,5806,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt572sb8174/res/64c909e6-83f9-4477-876a-769aa30959e5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: ffinis henrici quinti"
+      }
+    }
+  ]
+}

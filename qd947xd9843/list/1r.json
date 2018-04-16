@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/457463e0-5a93-4063-a756-9e110c3f6935",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-9#xywh=0,0,3991,6147",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/fa87a989-59d2-426e-8315-caf9ceb8eded",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula libri genesis (50)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/296cad4d-f564-4ef2-ba5c-2340fb492e31",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-9#xywh=0,0,3991,6147",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/7190d0da-a6df-4048-b509-6b7e07b6ab43",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: 1. Sex dies opera"
+      }
+    }
+  ]
+}

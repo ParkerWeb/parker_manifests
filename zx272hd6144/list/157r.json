@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/list/157r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/1c908c06-bb33-4317-a7cc-f7e4d38628b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-321#xywh=0,0,5718,8430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/7e36311e-2b71-4865-8bb6-113fe8fc2fd2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad intellectum librorum beati dyonisii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/e3bc0b18-1552-4ec2-a29c-0054cd2b4e37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-321#xywh=0,0,5718,8430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/0449652b-b936-4d95-aea7-90c3a3f72603",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Good initial and partial border"
+      }
+    }
+  ]
+}

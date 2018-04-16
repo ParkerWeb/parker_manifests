@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/list/120v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/16211286-9177-420c-b938-dd39d230ab8c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-244#xywh=0,0,5302,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/947c7b87-be99-4711-9a91-ee1a48d71dac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nemo certe pericius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/e988fe26-9d75-474a-a1d2-6ad47a8f001f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-244#xywh=0,0,5302,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/d5999eee-f589-43ca-ab34-ef5459bd5c66",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Wilhelmus in abbreuiacione amelarii"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/list/64v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/d660072a-2257-42cd-b107-fbcadc0cf031",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-136#xywh=0,0,3593,5402",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/21c9c5c5-b49c-46ca-aa9b-a74b40e21826",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sancti Barrmedini Episcopi Confessoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/461f75e8-991e-4d20-abc9-b6ef1b2f66f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-136#xywh=0,0,3593,5402",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/a04bc3cd-a442-439c-b78b-dca1191f5474",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno ab incarnacione domini nostri Ihesu Christi milesimo cco viiio viio Idus augusti presidenti (-te) sedi apostolice domino innocentio papa quarto"
+      }
+    }
+  ]
+}

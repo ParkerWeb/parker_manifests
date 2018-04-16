@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/list/385.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/annotation/bd965e22-cfa6-4e7b-9954-2afcb4477880",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/canvas/canvas-389#xywh=0,0,5590,8454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/res/0a8b406f-62bc-4308-ae37-667f6e0371ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hereford"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/annotation/a93cb11d-5ff0-475f-9ef9-bb42c156b193",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/canvas/canvas-389#xywh=0,0,5590,8454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/res/cedffef8-8a7e-40a4-97ef-3f42cb36e314",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bristol"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/list/171.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/d695b7db-6b31-4d32-879d-863475a8ec73",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-181#xywh=0,0,3762,5611",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/fe565b15-b3d8-4b19-837f-78c3eeffd862",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On Churches and Indulgences of Rome"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/59d0d9db-c96a-4862-8130-2d29f462e47d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-181#xywh=0,0,3762,5611",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/e5d62d1c-7dab-4309-b398-b2d9feb1ea45",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Notandum quod in urbe romana sunt cccc et lxvij ecclesie parochiales gratia et sanctitate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/annotation/f00174f5-69a7-40d5-ac5e-94e2e904b294",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/canvas/canvas-15#xywh=0,0,5680,8732",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/res/efff37a2-c12c-4585-915e-803eb4e96483",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Principia rerum requirenda sunt"
+      }
+    }
+  ]
+}

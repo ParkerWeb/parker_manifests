@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/list/57r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/1ad7d304-91bb-4244-a2f0-232328c14c2e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-119#xywh=0,0,3551,5449",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/1216dc7c-d31e-4a0c-97d4-af8a08e11111",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt excepciones breuissime de numero et gestis regum britannie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/96d625fa-a95a-4fbe-9488-a6f4c6dbeff5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-119#xywh=0,0,3551,5449",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/651a9303-f0ca-473e-85a4-af2122b16cf0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum multa mecum animo reuoluerem"
+      }
+    }
+  ]
+}

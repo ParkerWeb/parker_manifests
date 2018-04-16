@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/list/114v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/318eaf76-0414-4cdc-b8cf-089d99f4e943",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-232#xywh=0,0,5802,9274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/c233eea0-adf1-42cc-87e3-b896f9ebadb3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula of 1"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/5b7be615-d31e-451f-9246-7a5276bc96ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-232#xywh=0,0,5802,9274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/8bb71d4e-fbb0-4f6f-8d64-5127b66fe5cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial. Blue panel on green. Goliath in mail shirt"
+      }
+    }
+  ]
+}

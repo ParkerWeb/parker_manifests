@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/list/47r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/47a91e42-d237-4316-be69-f4c496cfda74",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-103#xywh=0,0,6400,9174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/46f56c7b-5f0d-4604-9c82-8ec19aca5ea1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino patri karissimo petro"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/9cba198d-1cb0-4717-8a39-04a74779c91b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-103#xywh=0,0,6400,9174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/6205ecae-ee8f-4085-9547-f10d8c035682",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quare de uulua"
+      }
+    }
+  ]
+}

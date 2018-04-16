@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/list/57.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/52d13018-320e-47e1-8547-66fbc7636826",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-55#xywh=0,0,6056,8360",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/2632f71a-55f4-4daa-887f-f9c46bea2352",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Dyddenham"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/d82b2794-2a11-43e5-ae4c-8913e09edb46",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-55#xywh=0,0,6056,8360",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/82ba7a68-14fa-4c46-9bfd-409dcbf290fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in gold: outside it two patterned fields of green and pale pink: ground within"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/list/372.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/7e482d1e-9cf7-4fff-ac8c-e6cce77775ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-390#xywh=0,0,5722,8369",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/c1d0ab9e-6e64-4fb3-8dea-eb011e85e273",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De tribus sollempnitatibus Sancti Iacobi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/fbf4eeff-f965-4651-ac4b-e68bcf593729",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-390#xywh=0,0,5722,8369",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/e847c86d-9d77-458c-a7ae-94ed674f716e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Beatus lucas euangelista in actibus"
+      }
+    }
+  ]
+}

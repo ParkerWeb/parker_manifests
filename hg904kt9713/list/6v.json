@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/list/6v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/612f3139-b908-4f22-a2a1-83a72faf3d93",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-22#xywh=0,0,5170,8406",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/6c1856ab-83df-477e-8a7a-306d51477cef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit uita"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/06f72844-bc4e-45e5-81da-242514248f92",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-22#xywh=0,0,5170,8406",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/83c76dde-d691-48f4-a80e-a32bfef62e79",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fuit itaque in diebus aethelredi inlustris"
+      }
+    }
+  ]
+}

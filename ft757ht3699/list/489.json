@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/list/489.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/6307d399-cfa9-4b9d-bb96-5a70354936d6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-507#xywh=0,0,3542,5486",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/f121f2ed-1203-48db-84da-c59db8a5713f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dominica IX post Pentecosten"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/f161c0ac-3386-4c8f-87a6-a0358fdc67bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-507#xywh=0,0,3542,5486",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/c5b2dd02-e971-42ea-b87b-73d49b03f139",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Adtendite a falsis prophetis"
+      }
+    }
+  ]
+}

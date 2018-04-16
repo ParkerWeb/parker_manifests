@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/list/192r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/d6f16fd0-6a40-4c0c-a521-a887340d1a87",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-397#xywh=0,0,3464,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/639179f2-39fe-4109-9b47-2614deaf5aac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Another hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/a32847cc-b2bc-4416-ba19-d09e6b9e395e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-397#xywh=0,0,3464,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/4229baf2-6c00-4296-be83-59ea8cac478f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: ffait assauoir de la ffraunchise lerceuesque de Canterbirs qil ad en Staplegate en lauant dit citee"
+      }
+    }
+  ]
+}

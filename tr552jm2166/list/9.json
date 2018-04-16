@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/list/9.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/95c61c4b-9a08-4e49-83cf-61c84bcc597f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-19#xywh=0,0,5698,8322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/09725502-40f9-41df-aeea-27ca18926c6c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit libellus de vita et uirtutibus Sancti Augustini anglorum apostoli et de aduentu ipsius sociorumque eius in Brittanniam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/87525791-858b-466e-af99-200fec62c9e3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-19#xywh=0,0,5698,8322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/7d89d2da-e853-499b-9d45-394d83247426",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Potentissimus triumphator mundialis tiranni"
+      }
+    }
+  ]
+}

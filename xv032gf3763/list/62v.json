@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/list/62v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/86385c3d-d1ba-47c5-8e31-f54cf194c952",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-134#xywh=0,0,3625,6080",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/e837f184-c22a-46f6-8236-a0191732dc5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: precepta. sacramenta promissa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/1c9cf393-d6b9-4d37-bb21-200054335d76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-134#xywh=0,0,3625,6080",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/c225783e-e146-4c56-a379-3f064361d503",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber primus xii clausulas siue partes continens"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/list/39r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/annotation/0ca62c69-ef64-47ab-ace8-dc8f2ea4a476",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/canvas/canvas-87#xywh=0,0,3835,5778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/res/dbbc2768-2a6f-4153-bc1b-ff1478fb9508",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/annotation/5ade84db-ca13-4b16-80ad-568f3e42bebe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/canvas/canvas-87#xywh=0,0,3835,5778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/res/85f5d001-df56-4f54-aac4-34abdf501d0b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The second hand resumes"
+      }
+    }
+  ]
+}

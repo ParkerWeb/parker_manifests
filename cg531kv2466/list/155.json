@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/list/155.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/7171dcb9-2ec0-4f12-a7ad-c97eb89ee5d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-163#xywh=0,0,5302,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/b9468f49-c1cb-4e78-b690-5961e87eae51",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dominica in die ramis palmarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/b264dbf4-f063-4835-9fb0-d15643cca91b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-163#xywh=0,0,5302,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/597a9ab8-7f1a-4333-81fb-d8629aa96e25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cristes ðroƿung ƿæs geræd nu"
+      }
+    }
+  ]
+}

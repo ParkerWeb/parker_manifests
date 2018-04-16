@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/list/76r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/b8667ec4-3d8b-4bf8-8bf9-b5a4dd75751f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-163#xywh=0,0,3501,6410",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/8c20f73b-94a5-4ddd-be4d-d3919b51fa11",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo factus super illuminacione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/e975bed8-c09d-4077-bbb7-0973cbf0db80",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-163#xywh=0,0,3501,6410",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/33affba7-4828-4148-b4a3-010d37ad4987",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Orate domini fratres ut misterio"
+      }
+    }
+  ]
+}

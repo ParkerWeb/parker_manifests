@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/list/491.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/deb33395-e3b7-4079-ba07-f543a345f58a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-513#xywh=0,0,3333,4935",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/4af601b2-7ad9-4fa2-8dcd-184063c7089e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Leonardi Arietini prologus in apologiam Socratis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/e5b7d998-1a5e-48d6-bc76-a6b07a59ee36",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-513#xywh=0,0,3333,4935",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/7a361a14-b27e-42c8-9d12-7dd719015e9d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Socrates philosophus vir omnium innocentissimus"
+      }
+    }
+  ]
+}

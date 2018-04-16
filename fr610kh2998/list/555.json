@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/555.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/047aa05e-cec8-480f-a458-11068e6bf8ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-561#xywh=0,0,3588,5591",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/89e202fb-e546-443b-a41d-8d4237528cf5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Office from Holy Thursday to Easter with neumes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/2b9cc9a0-67b2-4e7d-a66e-7baef3284303",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-561#xywh=0,0,3588,5591",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/76babc79-ea3a-49e2-b2eb-d074e6143561",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In cena domini ad uesperam"
+      }
+    }
+  ]
+}

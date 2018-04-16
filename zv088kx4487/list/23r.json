@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/list/23r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/20591d63-0732-4442-864c-35aa8180e4c9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-49#xywh=0,0,5976,9253",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/c6f66e1d-0ae3-431a-a72c-c2bc0be3f228",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Bresith id est Genesis. Incipiunt capitula libri Hellesmoth idest Exodus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/0c94752c-0467-47a6-aef8-7bbb3e7a246e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-49#xywh=0,0,5976,9253",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/a11df8e0-9d8d-413f-a502-07f7e7662953",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula (149)"
+      }
+    }
+  ]
+}

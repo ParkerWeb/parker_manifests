@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/list/141r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/ff172f5d-d640-4589-ad78-06f6df9046bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-293#xywh=0,0,4817,7463",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/f307b525-d1eb-44c3-9b24-2fb44ef57b0d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de filio prodigo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/7867ea24-160d-49a6-805f-5c9e39771cf2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-293#xywh=0,0,4817,7463",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/d68c7080-3151-4449-b63a-9b2bcc8bcc11",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Siclus et stater"
+      }
+    }
+  ]
+}

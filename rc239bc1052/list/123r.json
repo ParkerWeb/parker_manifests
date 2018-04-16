@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/list/123r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/baff63bc-52fb-46c6-b62f-fdf8ff1797aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-251#xywh=0,0,6040,8928",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/796ec847-21a5-42ba-8883-ef1db7e168f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber XII"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/list/34.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/00e69c38-f17f-4595-89db-fbed15c99048",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-40#xywh=0,0,4031,6198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/e1aedd2d-76d1-4cbf-9fe4-d018da8706b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "8v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/913b166f-e5e0-414d-8a91-3b417e92a8ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-40#xywh=0,0,4031,6198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/dea56148-3c54-4c3b-b649-c9ae14c2cedb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Incipit psalmi a beato hillario pictauensi episcopo egcepti ad precandum deum intensiue ordinati"
+      }
+    }
+  ]
+}

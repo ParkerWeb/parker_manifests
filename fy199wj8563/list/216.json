@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/list/216.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/b7992af8-aa30-44cf-80e4-d724553f12f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-228#xywh=0,0,3812,5601",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/ee195489-cff3-4808-8243-9c0c353e2ed4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: thelagonio in suo recessu muneribus et diuiciis ampliando"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/2ae71e14-087d-48a1-b038-4f7efeaa189f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-228#xywh=0,0,3812,5601",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/07f65911-36cf-48fb-bb3c-36da75b8a588",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit obsidio troie. Finis belli troiani"
+      }
+    }
+  ]
+}

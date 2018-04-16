@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/list/198v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/e9542f74-d1d8-465c-ad2b-338f7ae50fd6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-406#xywh=0,0,3068,4895",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/28796b22-fe8e-47ad-aa58-c3d60d42bf98",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Planctus sterilis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/03cbdc3d-40be-4111-ad68-5c685f2f146c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-406#xywh=0,0,3068,4895",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/515022b8-568b-4533-81e5-66c7b9d8a4b0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Simon oboediens"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/192v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/97930b06-bd8f-4d04-b627-30be15cc1fb5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-398#xywh=0,0,4413,6895",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/6e3007d4-3654-4310-8ecc-f09157c97522",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "White goats"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/list/56r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/1013ecb8-9fa3-405d-8140-67c5cd3f69c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-137#xywh=0,0,6001,8939",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/4d9ee314-8af4-4e08-84c5-66d1f4c03f07",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De secundis tabulis et composicione tabernaculi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/3782a787-bbe1-4d68-9194-1288f4508fd4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-137#xywh=0,0,6001,8939",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/faf6036c-9754-4929-8237-54b4b12c3093",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber IV"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/04267d17-72a0-4916-a6ad-dff856a59b2b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-137#xywh=0,0,6001,8939",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/85c324d5-3d75-4923-93cb-0011de49332f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De sacrificiis"
+      }
+    }
+  ]
+}

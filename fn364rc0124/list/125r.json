@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/list/125r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/11105817-680c-4eb6-882a-437f900ad46e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-257#xywh=0,0,3571,5718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/b7216dcb-3f0f-4e4d-b27c-6365a1159e03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermon at a visitation"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/048b2efe-1eeb-44b0-906f-89de6712e4fd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-257#xywh=0,0,3571,5718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/9f7cc1aa-9e2d-4330-9b3e-39d4ee741528",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ponans visitacionem tuam pacem. ps. 60. Amantissimi fratres mei ratione triplici visitacio ordinatur"
+      }
+    }
+  ]
+}

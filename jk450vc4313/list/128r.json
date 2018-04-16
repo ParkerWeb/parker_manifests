@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/list/128r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/3e3cc854-1d4f-4f2f-9310-674a4b61dcf4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-261#xywh=0,0,3850,5759",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/6ffa2935-ea7d-4644-b99f-b88eaa027cd7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: philosophie continetur integritas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/ed8c7574-01f6-42bc-adb8-ef78577f3f96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-261#xywh=0,0,3850,5759",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/58b78173-76c7-460c-95ca-27a751bd88dc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (P)latoni habitudo corporis"
+      }
+    }
+  ]
+}

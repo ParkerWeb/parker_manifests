@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/list/52r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/05369dba-ec7a-45a7-b0fd-a533c1e2b6d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-107#xywh=0,0,6190,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/fe3c0cf2-dc17-4e1c-b212-1b68e2f6636f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatur de fatis in gallico"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/612807a6-4e62-4614-baaf-7e9f74669cad",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-107#xywh=0,0,6190,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/d1129cc3-07cf-4707-8e36-d127b19565fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si ascun homme saunz doute veut sauoir la verite des choses qe a luy pount auenir. Soulom sa destine"
+      }
+    }
+  ]
+}

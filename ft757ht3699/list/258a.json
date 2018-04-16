@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/list/258a.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/d2fca794-f0c4-4737-b156-7d8066e7a5a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-275#xywh=0,0,3582,5430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/66e50fc9-cab2-4cb1-9e56-cabba8c9670e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uenit Ihesus in ciuitatem samarie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/5f0a64aa-6d38-4387-94ed-6aa69db19518",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-275#xywh=0,0,3582,5430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/ac9322bb-130a-4166-8348-cfc1127ef8ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Se godspellere iohannes sæde on þysum godspelle"
+      }
+    }
+  ]
+}

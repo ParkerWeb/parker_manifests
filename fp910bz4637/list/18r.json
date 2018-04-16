@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/list/18r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/46406b1c-c436-43ef-9ca1-eab9fa64e863",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-27#xywh=0,0,5926,8826",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/152aa913-c27e-4c3c-952c-6ad547fc0532",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/b2baa789-d756-4d84-a672-e34ab9148c0d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-27#xywh=0,0,5926,8826",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/365d8be4-fb1e-43a2-9cf1-97a763b11fba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Prima si sine operibus"
+      }
+    }
+  ]
+}

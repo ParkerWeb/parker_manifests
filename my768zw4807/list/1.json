@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/annotation/65375d71-6233-4d67-a0d5-3d11f78dee9f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/canvas/canvas-3#xywh=0,0,4919,8130",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/res/1ef7a01e-72d0-4ade-bf3b-7b21878fa18d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Introitus primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/annotation/9974189b-bcba-4a50-8352-f59352a67e15",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/canvas/canvas-3#xywh=0,0,4919,8130",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/res/71bc8bc8-5557-4edb-a75e-03fa809c0774",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uarias rerum humanarum uices"
+      }
+    }
+  ]
+}

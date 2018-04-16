@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/list/36r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/839201f7-62c2-4c8f-a629-65cac746a5f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-81#xywh=0,0,6384,9222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/bc46814f-a9ce-4e0b-960d-0b1db9c08459",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De eodem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/e053bb08-b6e6-4916-a744-528f22f6ef73",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-81#xywh=0,0,6384,9222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/c2d54fb4-73b9-4091-a1e5-ef52f5fb708b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Inuoco te deus meus"
+      }
+    }
+  ]
+}

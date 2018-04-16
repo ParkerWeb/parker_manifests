@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/09c5d4a5-a477-416f-afed-df810de72ff4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-13#xywh=0,0,3860,5572",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/cfaee70d-5dd5-4796-832d-6a05b37a83b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hercules Furens"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/829ac0d2-6a60-41b7-b981-1ae4fdacf306",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-13#xywh=0,0,3860,5572",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/e651e2be-c7a2-4a44-9a6f-3756d21360f1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Iuno"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/2e2a34c6-3274-4a11-8820-eed61a0225a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-13#xywh=0,0,3860,5572",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/92ef747d-51c8-4add-af97-45e0c7c975dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Soror tonantis hoc enim solum mihi"
+      }
+    }
+  ]
+}

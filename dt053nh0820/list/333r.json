@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/list/333r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/7e901ece-84b4-4539-8f87-09a285dc3390",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-191#xywh=0,0,6192,9808",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/6e447dff-f777-41db-96b0-639d422ae8d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abbacuc luctator"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/565bb220-c56f-48d0-b58d-bf8d9d1060d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-191#xywh=0,0,6192,9808",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/97b7d9c6-a1a9-478c-b184-fd1553b9976d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial stuck on"
+      }
+    }
+  ]
+}

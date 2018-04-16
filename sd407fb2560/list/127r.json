@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/list/127r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/annotation/53d73226-0079-4615-969f-89352d74e2ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/canvas/canvas-259#xywh=0,0,3763,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/res/655d0b73-a8a7-4c13-8ff5-d7e5a558ff77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "John"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/annotation/cd2de0da-aa25-44ea-940f-347866746830",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/canvas/canvas-259#xywh=0,0,3763,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/res/4a58a601-aa1b-4e1d-8be4-f9a7e1ea7913",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue"
+      }
+    }
+  ]
+}

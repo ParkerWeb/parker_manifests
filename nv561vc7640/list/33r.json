@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/list/33r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/3f8680db-80f0-4863-bf94-b98cd9499e48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-71#xywh=0,0,5597,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/3657cee7-5c3a-4f1f-a578-3b902a2a2774",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in operibus suis et consiliis et disposicionibus deo impendat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/ce5706ae-20fc-41ed-a011-98b5e805c39e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-71#xywh=0,0,5597,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/2e9bc562-69ee-44e1-9dda-5de7f12bb229",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus qui dicitur philosophia monachorum"
+      }
+    }
+  ]
+}

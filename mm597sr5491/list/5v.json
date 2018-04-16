@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/list/5v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/13489ff2-1cd6-477b-ac76-ac33e19a2ef9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-20#xywh=0,0,3476,5298",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/f54d268b-f3de-4490-acda-0c1f5addf052",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dominabitur omnium gentium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/a0e9e24e-f1d9-40df-a73c-e3c8763354bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-20#xywh=0,0,3476,5298",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/f87e4788-7aab-41f2-887c-db49adbe1423",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola I Iuonis"
+      }
+    }
+  ]
+}

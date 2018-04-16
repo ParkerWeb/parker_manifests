@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/list/445.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/80ec828d-6f26-44da-87b5-e50f993db3ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-455#xywh=0,0,5962,9120",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/1e18b325-acd7-496b-bb77-962ed03ffc2d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Versus Hildeberti de corpore et sanguine Christi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/cac9b8e0-bf9d-45e2-9bdb-e30a8ef410a4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-455#xywh=0,0,5962,9120",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/a15ac689-007b-4cd5-a2ef-5bffb59a94ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Melchisedech domino"
+      }
+    }
+  ]
+}

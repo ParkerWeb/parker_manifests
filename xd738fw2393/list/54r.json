@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/54r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/faaea8c7-c443-4e8e-9134-bcb2bca92df8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-113#xywh=0,0,5778,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/33c1a72b-cc25-440c-8283-08ee89953bab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: XVII Kal. Mai."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/3651fa3e-191b-444a-9e2b-90a00dcb51c4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-113#xywh=0,0,5778,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/af43eef5-c156-41e3-9f00-fc368889cf1d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "bri ... monachi ac sacerdotis"
+      }
+    }
+  ]
+}

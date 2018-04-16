@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/list/127r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/6e74f787-16f4-43d7-b7e8-7e368d541e22",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-265#xywh=0,0,3358,5307",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/f10870e8-a967-4d8e-a795-bc2a750c00fb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: cum paciencia consequeris. Hic concluditur tota sciencia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/d1bbc3ca-1991-449b-8089-b3bfe5ac03a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-265#xywh=0,0,3358,5307",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/6b13f819-ccaa-4112-8ad1-84fd43d20a0b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

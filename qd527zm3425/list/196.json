@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/list/196.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/annotation/a7e9c3d8-91a4-4b1a-88ab-7607ebec3917",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/canvas/canvas-204#xywh=0,0,4998,8941",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/res/cc10271d-5d50-43bf-ae8c-417d3c468443",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Marginalia: pp. 196-198. Fragment of Salomon and Saturn"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/annotation/667b939d-8bd0-4453-b277-0fb3078ea20d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/canvas/canvas-204#xywh=0,0,4998,8941",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/res/dec1fe85-10b4-4408-a8bd-dd85e6bd8bfb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Saturnus cƿæð hƿæt ic iglanda"
+      }
+    }
+  ]
+}

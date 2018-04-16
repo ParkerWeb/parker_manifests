@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/list/20r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/fe8cec4e-4ec1-4745-a131-01ac24aea511",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-45#xywh=0,0,3678,6327",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/256834cb-301a-4e91-9fc1-ed3052113097",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: principium in principio finem in fine conpono"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/65ab0d6b-7fe7-43e6-b60c-011e33779d69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-45#xywh=0,0,3678,6327",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/f992df38-db25-42a4-bd87-da6a4fcda746",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/272bfa58-791c-461d-b775-f6cad18461fa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-45#xywh=0,0,3678,6327",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/4e2bc39f-2626-491f-afef-b2a93850877b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit capitula libri Sancti Guthlaci anachorite"
+      }
+    }
+  ]
+}

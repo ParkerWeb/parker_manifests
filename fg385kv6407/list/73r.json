@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/list/73r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/fc8f62ec-f90d-4b7e-b1cb-71e394218e45",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-156#xywh=0,0,3790,5578",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/15727b89-0ec7-44d7-9f48-16817b1bbe94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt questiones summe Raymundi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/6ed36207-b3ad-4521-9eea-8e5ddab8df0a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-156#xywh=0,0,3790,5578",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/5ac90cb4-2071-48a7-9c46-657f36408281",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Et primo de sacramentis quia hic determinatur de sacramentis"
+      }
+    }
+  ]
+}

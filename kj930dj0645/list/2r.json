@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/annotation/ab2ee8d0-dcf6-4b8d-b292-73b6b12ce778",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/canvas/canvas-5#xywh=0,0,5390,8596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/res/09fdc452-7da4-4ef3-a861-2a569fd02132",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "corroborare digneris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/annotation/0b4d867b-c71e-4318-b835-bf51ae600b30",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/canvas/canvas-5#xywh=0,0,5390,8596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/res/0bc7d1e5-f541-434c-b927-3a351a7ca78f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/annotation/e148e1be-23ad-48c6-9965-4f6113b123df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/canvas/canvas-5#xywh=0,0,5390,8596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj930dj0645/res/82b53715-d461-4f68-ac43-45eee7c0cb22",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula in smaller script"
+      }
+    }
+  ]
+}

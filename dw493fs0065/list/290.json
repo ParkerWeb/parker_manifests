@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/list/290.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/d84fa5ef-af4f-4670-b6c7-9210c6b39b05",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-298#xywh=0,0,5984,8950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/199c3e59-8c15-4873-8aa3-94c0da6e6891",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Exhortation preliminary to office of the dead"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/cf67bbab-d02f-44e7-b50f-d070709120a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-298#xywh=0,0,5984,8950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/4ab85084-8fbd-4ba1-91dd-8f70775a1ac4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quando celebramus dies fratrum defunctorum"
+      }
+    }
+  ]
+}

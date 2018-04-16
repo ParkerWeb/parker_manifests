@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/list/29.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/0e44ac2c-f83b-40dc-bef8-2a7354582ca7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-37#xywh=0,0,5218,8994",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/d650944a-5d18-49a7-89d3-3a518bff6f6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ordination"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/b75f15fa-fc7c-4bef-9273-e51482fccda1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-37#xywh=0,0,5218,8994",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/37d8371b-0ec0-40e0-93ae-de2a4c57d329",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Archidiaconus sine casula procedens et nomina clericorum qui ordinandi sunt (re-written) pre manibus habens humiliter in Episcopum et his eum uerbis alloquitur"
+      }
+    }
+  ]
+}

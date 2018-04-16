@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/list/ir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/7855a896-dfc9-4df5-9ad9-707bd35258e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-53#xywh=0,0,5950,8694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/a4ead64d-869d-463e-a0cc-d2e2b9a615a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit entheticus Iohannis saresberiensis in policraticum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/7ff1c120-7537-48f3-a166-c9bff1abf0e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-53#xywh=0,0,5950,8694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/00fae00f-45ab-4883-9976-ed0b9b8a815a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si mihi credideris linguam cohibebis et aule"
+      }
+    }
+  ]
+}

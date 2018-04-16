@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/list/45r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/94749203-841f-4c10-838c-1dd016e04490",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-107#xywh=0,0,5027,7998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/4e3f0d76-a861-4d96-91c4-a36c0b3ee05a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: a tanta maiestate fuerit iniunctum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/a6756775-4e74-43fd-bef1-3cab87e5cae5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-107#xywh=0,0,5027,7998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/640088b7-598f-43c5-88cb-9948a1cd3d38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/dbbbafc7-699d-4af1-9e93-46b5c574d83e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-107#xywh=0,0,5027,7998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/a03f1083-6890-4d88-a85a-6704b6eb2d77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Omne tulit punctum qui miscuit utile dulci"
+      }
+    }
+  ]
+}

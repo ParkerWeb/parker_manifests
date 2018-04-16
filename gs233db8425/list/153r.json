@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/153r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/aeb33998-1aaa-4670-b604-33eaa60771a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-319#xywh=0,0,4114,6563",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/6a746a31-93e1-4b2a-857a-fb79a51219e7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Confitebor (Cantica). Christ throned full-face"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/ab462333-bb12-43a1-8be3-68e6db9c8e13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-319#xywh=0,0,4114,6563",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/8ffde5f7-215d-4ee4-8eff-9ea2116c25b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Cantica and Litany"
+      }
+    }
+  ]
+}

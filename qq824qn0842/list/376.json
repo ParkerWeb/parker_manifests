@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/list/376.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/ab219b8e-ca87-47e7-83bb-300b52a06537",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-394#xywh=0,0,5674,8310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/05945211-2ef5-44bd-a0ee-33dccf2eb534",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/4c0fbbff-575a-4e68-9632-be660257c2f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-394#xywh=0,0,5674,8310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/367b014c-a2c4-4713-83c6-984fac39a6cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber miraculorum Sancti Jacobi apostoli"
+      }
+    }
+  ]
+}

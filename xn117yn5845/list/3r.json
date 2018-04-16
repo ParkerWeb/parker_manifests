@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/72fb2810-49c8-4357-91de-093b0960a08d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-11#xywh=0,0,4017,6102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/fd40a341-f195-434c-8aed-91781b6663ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ymnus de Sancto Eadwardo Rege et martire"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/9cc7d760-197c-4da5-a6b6-da24657e9c1c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-11#xywh=0,0,4017,6102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/06c9695d-0307-4f91-b2a0-0a7ce72b6110",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At the top of the page is the music (four-line stave ruled with dry point)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/c38cf1fd-c654-41bd-b289-408a8df31316",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-11#xywh=0,0,4017,6102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/49f6fa1b-ba4c-4ab0-ac4c-8b49f3e3c219",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aue dies prefulgida in qua superna curia congaudet et dignissimam"
+      }
+    }
+  ]
+}

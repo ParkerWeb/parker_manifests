@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/list/123v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/555dadaa-724f-4481-a15e-1202723a8e85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-252#xywh=0,0,5616,8590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/3553598f-9c19-45e3-ae96-70991cee116d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue to Esther"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/fb54a56c-a109-475c-ad72-de161e586fe5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-252#xywh=0,0,5616,8590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/5ca198a0-aff2-447c-8315-258a01244583",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Librum hester uariis"
+      }
+    }
+  ]
+}

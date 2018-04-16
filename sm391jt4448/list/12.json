@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/list/12.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/dbdd94c5-75e2-4537-8edb-82ccaa4c1b0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-18#xywh=0,0,4012,6283",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/dcec9db5-f248-4f61-8e1a-8c1db6e79978",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: motum etiam cursus a principio eclipsis usque in finem eius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/866851d0-f9f4-46ae-8e20-6a0c119cab77",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-18#xywh=0,0,4012,6283",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/a262afa4-b3eb-411e-8bf7-235616aa1c9f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt Canones"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/list/365.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/05b3b119-5f39-4998-8cfb-ecb6f46a62c0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-383#xywh=0,0,5530,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/772f591a-c6fb-40da-85b8-29ee3125318f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Clericus quidam mihi notus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/39b24ec2-04af-4096-84f5-42b2198bd5d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-383#xywh=0,0,5530,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/8835cc32-0692-45ad-8283-ae08e3bd2462",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post saluatoris nostri passionem"
+      }
+    }
+  ]
+}

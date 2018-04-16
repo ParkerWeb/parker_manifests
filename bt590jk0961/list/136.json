@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/list/136.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/7011b26f-d7d6-4723-ba47-236d56f9a760",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-152#xywh=0,0,2278,3730",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/b055f25d-7a69-4aa6-8460-29e57a08bc5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus Alcimii (Alcuini) leuite ad Widonem comitem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/38981f61-9749-47b1-acf8-e9ae6e02b6e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-152#xywh=0,0,2278,3730",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/53322918-6160-4c9b-a7ac-97e51d457752",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dilectissimo filio Widoni"
+      }
+    }
+  ]
+}

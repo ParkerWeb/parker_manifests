@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/list/490.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/53fd54e9-3338-4f37-820a-8a4af77b4b75",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-512#xywh=0,0,3382,4914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/b5c4f942-5e5f-4f8b-ac86-2b6702680235",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ut boni simus virtutesque exerceamus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/annotation/bf11ed17-5f3e-4787-a05a-30946dec6e63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/canvas/canvas-512#xywh=0,0,3382,4914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh145wk0599/res/5cfb89fc-2f86-4068-9494-c77cff0d1c10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit ysagogicum philosophie moralis"
+      }
+    }
+  ]
+}

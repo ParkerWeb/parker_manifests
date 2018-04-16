@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/58r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/055ca769-77ca-404a-af73-041bc6898142",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-121#xywh=0,0,4858,7782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/db429b29-c07a-445b-84b3-8f57989a2a31",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "5r"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/d8d0dcba-c51e-4fa1-8508-9e780f6da07b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-121#xywh=0,0,4858,7782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/5e1c9a6d-cb06-4f46-bc58-cd41ff5b5d7e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: viii kalends Septembris. Passio Sancti Bartholomei apostoli"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/list/35r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/annotation/aeafa011-bbbb-43c4-b8b1-65d28349ac6f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/canvas/canvas-81#xywh=0,0,4166,6233",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/res/50fefb0b-60e8-4792-8faa-b5e5720499e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "65. Babylon falls"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/annotation/af6f76db-de56-4055-8a28-c2416f8a759b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/canvas/canvas-81#xywh=0,0,4166,6233",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/res/18fc74f1-a34e-4987-a6de-8bbd7bca51c6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "66. The third angel"
+      }
+    }
+  ]
+}

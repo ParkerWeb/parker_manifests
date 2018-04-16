@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/list/96v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/6fc57f6a-3552-4a98-92de-7f6e50da682d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-196#xywh=0,0,4538,8786",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/dc3b57ce-99cb-4f1f-aa34-47c02269aa98",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De policaste et pertica (perdicca)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/276dbbc1-4f7c-4488-9d9b-7fd21dc22082",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-196#xywh=0,0,4538,8786",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/583bdba0-03fb-4b64-becc-9d01b073ba3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De histrice"
+      }
+    }
+  ]
+}

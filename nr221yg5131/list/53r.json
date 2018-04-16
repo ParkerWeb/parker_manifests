@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/list/53r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/annotation/663c57e8-edd3-426b-ae4d-6ccf9896295c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/canvas/canvas-111#xywh=0,0,5603,8826",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/res/98fc27fd-c87b-4582-a56d-2378ab369d5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Breton"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/annotation/cc69e9dd-1666-494f-9361-0ec0dd823c01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/canvas/canvas-111#xywh=0,0,5603,8826",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/res/1e5ef2f5-42b0-41e1-8081-783261f69e7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Edward par la grace de dieu"
+      }
+    }
+  ]
+}

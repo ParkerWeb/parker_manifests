@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/92v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/f3b1940f-6d35-48ed-9fe0-3c0bfaf0dfc6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-188#xywh=0,0,5827,8392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/f16fd927-2dea-4681-b4bc-80827a504e57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "58v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/f74f5508-93e5-4bbc-b5c5-4b0e4b2298a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-188#xywh=0,0,5827,8392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/9207acf3-6304-4e55-8322-ebb7d1061267",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de karolo simplice"
+      }
+    }
+  ]
+}

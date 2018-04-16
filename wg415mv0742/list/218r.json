@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/list/218r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/8c71e87f-6d9b-490a-8c24-9a3dfb092ccf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-445#xywh=0,0,3773,5652",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/76eeb660-1a93-4b7e-8ab6-6d4a342de677",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Infra scriptis denegetur communicacio sacra"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/71299c01-76f1-4260-883b-ce4619c01045",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-445#xywh=0,0,3773,5652",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/3fbe5c9a-6e71-4279-bf3b-9f516755102b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primo omnibus carentibus fide et"
+      }
+    }
+  ]
+}

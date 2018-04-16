@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/list/222.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/annotation/430d1fcf-99ec-4491-a596-2be8ee4a6e59",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/canvas/canvas-230#xywh=0,0,5794,9344",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/res/ae0885ef-5a75-4399-a9c1-2e5839e91dac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nos in hiis rebus lucubrasse. Vale"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/annotation/a530e09c-fda1-4adc-9f44-f2a8608eb93c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/canvas/canvas-230#xywh=0,0,5794,9344",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/res/ac5f304d-6d8e-489a-8ca2-77c1401c72ff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Salue Radulphe ac cum salute puto te rediisse"
+      }
+    }
+  ]
+}

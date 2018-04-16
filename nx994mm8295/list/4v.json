@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/annotation/3b04ff3b-937c-4fa8-a086-66ca90a918f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/canvas/canvas-14#xywh=0,0,3695,5856",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/res/54aa8fa4-2248-42d4-b682-484e4b9c674b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Leonardi Arretini feliciter Prohemium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/annotation/be3e7ed3-62ef-4335-8b91-357b4140677d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/canvas/canvas-14#xywh=0,0,3695,5856",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/res/9e372dfd-6681-43d7-9673-b14e21b20d72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Inter moralis discipline precepta quibus humana vita instituitur"
+      }
+    }
+  ]
+}

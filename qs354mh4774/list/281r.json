@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/list/281r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/211d7930-3293-4ecf-bd05-88b9ad616b91",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-569#xywh=0,0,3990,5560",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/07657504-7b43-4c6a-9857-9ce6f9197ead",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Augustinus de fide ad petrum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/87d5ceba-00a9-4bdd-9610-9a72a5dead60",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-569#xywh=0,0,3990,5560",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/9a695740-f6b4-403c-879d-6e43848bd7cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Epistolam fili petre"
+      }
+    }
+  ]
+}

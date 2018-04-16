@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/list/132r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/f73968a4-cf98-4f06-91d6-ef24f3f79e3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-263#xywh=0,0,4928,8246",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/e115e876-4da4-4f39-b2f9-9c7d061b9307",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sub hac forma"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/39cfc06c-077b-4dc9-b11f-1179f9c2dc26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-263#xywh=0,0,4928,8246",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/cd197b2c-9641-4f5e-87d8-6a7867c5e13d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber primus. Epistola ad Alexandrum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/716ccf17-b585-4a08-93b8-d7fae07d7d25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-263#xywh=0,0,4928,8246",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/466e44d7-c4e9-4908-84a4-48c5a9aed88b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: O fili gloriosissime"
+      }
+    }
+  ]
+}

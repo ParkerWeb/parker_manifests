@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/list/217r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/13b08df8-9db8-46de-9bfb-2d10b9ce776e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-443#xywh=0,0,4160,6216",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/74357271-a373-473f-b0c9-bad813f5e01b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Catalogus pontificum Romanorum ad Calixtum II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/31b626bf-cb5f-4ae5-bb2e-888bc8fc9d38",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-443#xywh=0,0,4160,6216",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/48cfbb06-d5c1-40f4-b46a-8a47796cfafd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Catalogus Romanorum pontificum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/list/245r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/0d13754f-e09b-4627-b755-9337fc97c1e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-493#xywh=0,0,5889,9060",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/358552d4-a129-464c-9d92-ee7d7e7ae646",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue to Daniel"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/bd5ce059-1e6e-41b7-ae58-4de98e698f03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-493#xywh=0,0,5889,9060",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/3479c00b-e306-477c-9392-933cae7a40d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Danihelem prophetam iuxta"
+      }
+    }
+  ]
+}

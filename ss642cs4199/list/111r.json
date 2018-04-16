@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/list/111r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/annotation/79ed0d80-1f12-4867-b255-ae839f30416d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/canvas/canvas-229#xywh=0,0,4352,8123",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/res/96a9cafb-f8dc-4a36-8882-9081177163de",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: offerre ei munera que nobis restituat. Et pro terrenis celestia largiatur in christo iesus. Cui est gloria et imperium in secula seculorum amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/annotation/2a8ebfa3-4047-4fff-9425-2d4cb027d2c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/canvas/canvas-229#xywh=0,0,4352,8123",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ss642cs4199/res/8f005428-fab7-47ce-97ad-af7c04c81865",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A rude sketch of an animal below"
+      }
+    }
+  ]
+}

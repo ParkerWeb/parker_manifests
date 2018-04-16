@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/list/165r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/897d1510-9b93-42fc-ba60-06e9934b0488",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-337#xywh=0,0,3558,5356",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/2c17af3f-0de4-4197-ba08-1dfe3c5d725c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Exposicio prefacionis Misse"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/00ec711d-c639-4d45-81a1-8d56dd720a36",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-337#xywh=0,0,3558,5356",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/59e6249d-81d2-44f0-80d2-bfe3e145fb9f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Te igitur post prefacionem significantem (?) ea que precesserunt christi passionem"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/5r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/e0ab3051-24dd-4bb6-9e86-1436542bbd74",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-15#xywh=0,0,5880,7764",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/dced1aa9-c5f1-4d5d-9271-83c1496cf21d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quatuor genera esse monachorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/0871d647-afa6-44c8-878b-f5fd0988667d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-15#xywh=0,0,5880,7764",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/2cd90ff3-aa26-495f-9dee-77630a2d4b38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(large red capitals)"
+      }
+    }
+  ]
+}

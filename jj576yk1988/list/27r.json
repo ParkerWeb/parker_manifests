@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/list/27r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/annotation/d078ea41-6669-40c8-a244-7dc8f43c11ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/canvas-63#xywh=0,0,3710,5462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/res/c84592c5-0109-4849-a66d-75339bd16679",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/annotation/f85b453e-c4ad-4753-a00d-99d5271fd30b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/canvas-63#xywh=0,0,3710,5462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/res/dc203192-6d6c-4511-9095-6ed0062e750e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial very fine. Half-length of Christ full-face"
+      }
+    }
+  ]
+}

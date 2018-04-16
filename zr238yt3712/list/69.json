@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/list/69.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/29ec75f1-4c38-4448-b0db-2f1a0dc6c606",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-75#xywh=0,0,3748,5639",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/94316845-6bd7-4abc-a886-8c848ae3c767",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus de consideracione lapidis philosophorum secundum Raymundum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/28294740-b0f5-4ba8-b042-75c193e01558",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-75#xywh=0,0,3748,5639",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/172e709e-c697-433a-83b1-0b24562177e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Opus Raymundi secundum humane generacionis modum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/54v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/82962ca9-8f08-4792-b7f6-a34796c24e8f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-112#xywh=0,0,5838,8425",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/84670952-89e6-40e8-9301-7f81272fdf5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Founders of Churches ( Stubbs"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/86dab5dc-04a2-4b31-95d6-9b6c2bb81333",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-112#xywh=0,0,5838,8425",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/9241f664-7338-4c4b-bf9f-3adc76152d02",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ecclesia Sancte Trinitatis apud Cantuariam"
+      }
+    }
+  ]
+}

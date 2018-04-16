@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/83r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/27787ceb-c975-4832-8fef-e4d2bd2910c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-171#xywh=0,0,4870,7867",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/69f35893-4f87-41a4-92c1-b1715cfa3b6c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Que sit res predicamenti relationis per se"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/5ef01603-01ae-42e3-a591-100316bfbf38",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-171#xywh=0,0,4870,7867",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/3a544a46-1e9a-4950-aca5-adc43ef56296",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De predicamento relationis querunt aliqui que sit res huius generis"
+      }
+    }
+  ]
+}

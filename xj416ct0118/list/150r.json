@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/list/150r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/a9738c91-35a7-4751-8fe2-7e1ab2ceeff1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-305#xywh=0,0,5171,8478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/fa150504-e006-48d4-bf75-0df6b516b20e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: subiugata fuisse non dubites"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/57f46487-d517-4e71-8bbe-6d9960dbe386",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-305#xywh=0,0,5171,8478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/7ee45800-9225-4d13-85d1-92bdcf7b7883",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De gestis Britonum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/6adc69a6-138b-4169-aff9-027f2e4e8d79",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-305#xywh=0,0,5171,8478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/c4b1d553-8aff-4db6-97dd-a63248b856f0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Brutus genere Troianus filius Siluii"
+      }
+    }
+  ]
+}

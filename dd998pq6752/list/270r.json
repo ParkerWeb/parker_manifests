@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/list/270r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/f845d74b-f15b-4a5a-838c-6b944a6f4461",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-551#xywh=0,0,3931,5698",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/fb26bebc-2c18-4b80-bec6-0c5601f63799",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Redde racionem villicacionis tue Luce sexto decimo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/0e93a60a-883e-4bcb-a154-9e215d329ed3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-551#xywh=0,0,3931,5698",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/0afa763d-1187-4cd8-a421-6f0088d482ff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: My dere ferendis ȝe shullen vnderstonde þt crist Ihesus auctour and doctour of trwþe"
+      }
+    }
+  ]
+}

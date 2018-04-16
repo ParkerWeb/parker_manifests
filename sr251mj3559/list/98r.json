@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/list/98r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/annotation/7463847b-28ac-4e13-af67-713874757988",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/canvas/canvas-201#xywh=0,0,5969,8564",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/res/a3fa2b44-8bfd-4fb0-a5ff-1a29356f174f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Omnis utriusque sexus etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/annotation/64db1299-36fc-4fe2-b1f0-d5506ac33c9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/canvas/canvas-201#xywh=0,0,5969,8564",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/res/8bacc0a8-5e6b-4a83-9f16-d2f6c893d8ef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si queris utrum peccator"
+      }
+    }
+  ]
+}

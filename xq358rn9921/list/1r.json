@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/annotation/e0018dad-c3f0-4ffb-92aa-8bd8614fcc30",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/canvas/canvas-11#xywh=0,0,5578,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/res/5d76d764-5b08-4db6-9703-a0a19bbe0a90",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ne mihi uicio uertatur intermissio litterarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/annotation/f4e14d14-fb64-41ac-bc6c-09b52137fe76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/canvas/canvas-11#xywh=0,0,5578,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq358rn9921/res/618eeb2e-dc8a-4af4-91d0-7e43bfc0962b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in red and green. Subsequent initials in red and green alternately"
+      }
+    }
+  ]
+}

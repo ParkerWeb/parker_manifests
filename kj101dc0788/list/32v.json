@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/32v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/489a2dfc-1ba9-4c92-8ee9-97d22ac6f956",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-68#xywh=0,0,5861,8370",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/9b8b29fc-00e0-41e3-925e-2ebd18e3390b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "64"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/f4daa206-7494-4d6d-8fa1-12dbf20250ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-68#xywh=0,0,5861,8370",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/1d9cc923-0f31-4ca7-aa17-f6993b82107c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: funera imperatoriis celebrauit"
+      }
+    }
+  ]
+}

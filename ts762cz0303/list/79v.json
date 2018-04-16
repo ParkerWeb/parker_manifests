@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/list/79v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/a6c4fef3-7859-4487-90a7-e65a470ddc0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-170#xywh=0,0,3538,6364",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/1d1faf44-2a9f-428a-9828-3fdb52ea87ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit sermo secundus quem Albertanus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/9901e182-df46-40ba-9425-0d1edf58e7ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-170#xywh=0,0,3538,6364",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/24413338-b09b-473d-94c0-8a4496ab20d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fratres mei ad honorem dei"
+      }
+    }
+  ]
+}

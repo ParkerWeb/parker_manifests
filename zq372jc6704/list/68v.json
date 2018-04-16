@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/list/68v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/1badf160-30f4-4810-9885-03079d323f49",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-144#xywh=0,0,3466,5373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/dcafd0e7-9f01-4517-888a-0b9130dd42f3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de accentu in mediis sillabis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/8f3b7722-a1d6-4aaf-9609-9e58f400286e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-144#xywh=0,0,3466,5373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/d608f733-17f3-4f6e-8c8c-778d2d9c45d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vocalis ante vocalem in diccionibus latinis corripitur"
+      }
+    }
+  ]
+}

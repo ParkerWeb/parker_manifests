@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/list/582.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/d7c41cfe-3fe6-4712-8b33-1af0f2cf06f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-598#xywh=0,0,2426,3682",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/d946df50-74f6-46ab-af7a-93761fe28ada",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De argucia mulierum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/01c3aac9-ef64-42d1-843b-6393c4ab8479",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-598#xywh=0,0,2426,3682",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/f9b4a394-9dc2-4e09-bc5d-b912fce4959d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Femina sordida femina pertida femina fracta"
+      }
+    }
+  ]
+}

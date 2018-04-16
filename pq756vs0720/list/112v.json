@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/list/112v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/57e33903-f808-467b-a1a0-7e476f6ebce7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-226#xywh=0,0,5391,8385",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/4fe9ce3a-7de9-4211-ac67-e696bbdec87b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Anagni5 kalendas Julii pontificatus anno quinto"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/6b4dae51-771c-4cbd-946e-38dfba51fb40",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-226#xywh=0,0,5391,8385",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/398f5383-7b51-4ab1-b7f6-77c02beeaaaf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctissimo in Christo patri. Infra scripta non in forma"
+      }
+    }
+  ]
+}

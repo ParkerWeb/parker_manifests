@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/9.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/7d00c706-e468-485b-982f-d4f15789b0d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-10#xywh=0,0,3355,9065",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/4177a55d-b982-4290-87a2-7850cdc3eb5f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epitaphium regis Gulielmi I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/6a2846a9-a32c-481e-87be-b8432f2e4c29",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-10#xywh=0,0,3355,9065",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/a789bb8b-b334-49b7-b371-5f7b73d91da9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Excerpta ex chronico Gildae apud monasterium de Walden in Essexia"
+      }
+    }
+  ]
+}

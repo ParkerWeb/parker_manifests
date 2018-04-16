@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/annotation/ab17b063-70d0-4c74-979a-0f427c3305cb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/canvas/canvas-6#xywh=0,0,3687,5347",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/res/7e745c58-9342-4464-b2ae-71bb42ce559a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Dedication by Roger Taverner to Elizabeth"
+      }
+    }
+  ]
+}

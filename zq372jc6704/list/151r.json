@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/list/151r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/fba51e8a-244d-411c-b303-20bc167bb3f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-309#xywh=0,0,3558,5393",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/a4bacc29-2591-4fd2-b2a5-ab5d0788f760",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Hic ego doctorum compegi uerba sacrorum ...Te precor almorum comitem me fac monachorumSorte beatorum quod sim uelut unus eorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/dd876b09-1115-45dc-a47b-51edc18fd452",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-309#xywh=0,0,3558,5393",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/27264324-ab6d-483e-9164-9aaebb20bf30",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit compilacio de libro britonis [per Bartholomeum de Cottune xvi]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/6a3de448-4204-43f5-b03a-2a027cb9b430",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-9#xywh=0,0,3793,5892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/9e66889e-959c-47dd-9432-ed4a2fbb0233",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula libri primi. Sancti Aurelii Augustini Kartaginensis Episcopi De Sancta Trinitate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/151abe0f-d061-4b96-8d12-64d5290d9e7e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-9#xywh=0,0,3793,5892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/472c2b48-c12a-4844-a3c1-3d6ba653fb3b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula follow"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/ecdc2abe-e412-4152-9326-2dea14a44bcd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-9#xywh=0,0,3793,5892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/46dd9117-59a8-4b15-b505-27400c1b21a6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt capitula libri primi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/34aae19a-0aa8-4c11-89af-cb16bf02213d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-9#xywh=0,0,3793,5892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/e50edb90-74dc-4b23-b4e3-d3339aa29f94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Some writing of cent. xiii-xiv has been erased below this"
+      }
+    }
+  ]
+}

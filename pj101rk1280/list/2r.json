@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/575e6dee-7784-4f5a-b205-c2e5843329ca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-15#xywh=0,0,5314,8538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/2405bc39-ea09-45fc-8535-3211db1d926d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: iura custodiat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/49dba1fe-ed57-4dc6-aaf9-74faab01dcfe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-15#xywh=0,0,5314,8538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/d3557350-3297-4063-bca3-1f4b7fe9a5ca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prefatio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/707963f1-fc65-427e-9ed2-fa7edfb0da67",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-15#xywh=0,0,5314,8538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/3a177d3d-da6b-41bc-bae3-b38f2901fef7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula (72)"
+      }
+    }
+  ]
+}

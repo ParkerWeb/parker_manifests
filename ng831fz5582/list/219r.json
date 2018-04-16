@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/list/219r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/ea8aaa57-81af-4f80-bac9-90b9fd179484",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-445#xywh=0,0,3757,5860",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/10b83cbb-e9f1-4d49-9ebf-0458f9f3b929",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Magister scimus quia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/a5a309b7-1fd2-41f3-b05b-0cd2321c56a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-445#xywh=0,0,3757,5860",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/2f25e0fe-563d-475b-821d-f2a791ac523b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo in latinis pro 23a post trin. verax es. predicatus cantebrigg'"
+      }
+    }
+  ]
+}

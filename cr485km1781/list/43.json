@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/list/43.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/2d84e03c-5a87-4188-b551-be2a49c54636",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-53#xywh=0,0,4884,8887",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/ffae7cd6-1e8c-4839-a281-3f403ade2c5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: þonne ah ælc ciric þegn ... ... sƿa sƿa beo tæcan. Sit nomen domini benedictum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/13d5ad57-f5f0-44b6-93c3-87488f2d019f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-53#xywh=0,0,4884,8887",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/9dd2a270-f496-4d7b-8b96-7e70577793cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Norðhymbra preosta lagu"
+      }
+    }
+  ]
+}

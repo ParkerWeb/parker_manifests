@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/list/121r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/f10d167a-9037-4408-8682-1840f8649d79",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-251#xywh=0,0,4190,6237",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/0c59e027-e66b-4371-937b-c8aec4a3b74f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "123r"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/b85f4423-a9dd-4455-83b0-47ed00942cdd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-251#xywh=0,0,4190,6237",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/1b28b397-21a6-4d43-bfee-5949b5eb589b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sanctorum patrum uestigiis inherentes occupies the rest of the leaf (in 2 columns on verso)"
+      }
+    }
+  ]
+}

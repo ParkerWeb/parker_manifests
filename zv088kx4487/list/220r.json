@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/list/220r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/8c771998-6c66-4023-9997-d5a6fe6a16a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-443#xywh=0,0,5730,8797",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/16557d73-cca5-4194-bd5a-b5e33250940e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Lamentatio ieremie prophete"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/0ad1a6a9-a696-48cf-b594-b571a2c5f5f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-443#xywh=0,0,5730,8797",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/0f3c8e4f-e8d3-46e5-bf07-43068c4bced7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Et factum est"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/74r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/388aa994-eb69-42a9-b613-fab913014cf6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-159#xywh=0,0,3980,5602",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/7bcc1f79-1498-485a-bd0c-9d22314dd5da",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ductoresque pedes omnificasque manus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/03e444d0-75ac-4f16-9977-546108605e3f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-159#xywh=0,0,3980,5602",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/dc097580-2470-4b78-ae31-6ff06bacbef7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit cosmographia magistri bernardi siluestris"
+      }
+    }
+  ]
+}

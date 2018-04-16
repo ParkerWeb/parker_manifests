@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/37v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/2027198f-60b9-4ebe-92ad-57dc6a86300d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-78#xywh=0,0,5739,8358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/ecd7e778-36d3-4063-bc0c-7ab29b06b0f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Johannes rex anglie regnauit. Henricus rex filius Iohannis regis (erased)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/f320c016-73d4-478f-93be-97910478178a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-78#xywh=0,0,5739,8358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/faca6432-6712-46d0-9080-31b3e98bc39b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "3v"
+      }
+    }
+  ]
+}

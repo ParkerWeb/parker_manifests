@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/list/27v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/7488e489-1a53-4850-9b9a-4fb85c1434e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-68#xywh=0,0,3935,5631",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/34e34f69-acfc-49f3-83a3-79415c2fc70b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo Johannis damasceni de assumptione beate virginis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/a68322b7-3acf-4e22-959d-9edc418e05f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-68#xywh=0,0,3935,5631",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/2611cd1c-6313-46ac-9daf-b7c8f12b8306",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Est quidem hominum nullus qui secundum dignitatem matris dei sacram discessionem bene laudare poterit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/list/309.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/1c7087b7-652c-4c07-81e5-290c150896d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-313#xywh=0,0,5530,8275",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/94e48f83-b3fe-4bff-b9da-b1827028cee4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Opusculum Petri Blesensis Bathoniensis Archidiaconi contra perfidiam Iudeorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/0cfd8671-231a-46cf-a273-e55559c52e33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-313#xywh=0,0,5530,8275",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/f90297c0-7172-4748-b4cb-db9fa7b4de98",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Querelam in tuis litteris longa vi (longam) et anxia vi (anxiam) texuisti"
+      }
+    }
+  ]
+}

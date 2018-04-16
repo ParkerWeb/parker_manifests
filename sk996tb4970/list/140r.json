@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/list/140r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/579b59dc-10e3-4534-a88a-7bac9eb72907",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-289#xywh=0,0,5390,7852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/e08cca11-1661-46e6-b0c5-8f73316363f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt Letaniae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/80a1644c-41be-4cf7-9433-a721eb93abcf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-289#xywh=0,0,5390,7852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/2752ab45-9ce9-4d25-ae2e-d95e61d54c56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Apostles: Petre II (capitals) ... simon"
+      }
+    }
+  ]
+}

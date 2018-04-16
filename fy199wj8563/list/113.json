@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/list/113.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/e72ac8b2-9a91-4182-bacf-69da5eadcc93",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-123#xywh=0,0,3752,5491",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/97ae7573-f49a-4bfc-955c-4e33903329a6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Chronicon Martini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/01b0e5c0-c96b-4bd9-84ef-fac448a7b97c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-123#xywh=0,0,3752,5491",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/23c618d7-2226-493e-afd5-54c702a6c9d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Pontifices"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/6ad6320a-a05d-4ed0-a58d-301ab55bdebc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-123#xywh=0,0,3752,5491",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/ed170d5c-ef1d-4b39-9ca9-973834ab1c8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post passionem domini anno sequenti beatus petrus apostolus filius iohannis"
+      }
+    }
+  ]
+}

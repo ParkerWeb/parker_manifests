@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/list/131r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/bd5983a5-42fc-4f58-ac04-ce06ac38cf01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-267#xywh=0,0,5353,7936",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/7eaf4237-c1a7-475a-a4ea-88124bdd0670",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De vij sensibus spiritualibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/fedfd1c4-16b3-4da2-b2b8-4751497c27f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-267#xywh=0,0,5353,7936",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/cb0f55b0-ecfa-4541-aaf3-771c0a153958",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De quidditate gracie"
+      }
+    }
+  ]
+}

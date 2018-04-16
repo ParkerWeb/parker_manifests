@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/list/120v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/7fd3b9b7-0b38-4d1a-a055-98d50dfa097e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-242#xywh=0,0,5535,8337",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/c68b75f4-b7d2-41be-ab44-121bd64e8940",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ottefford1. Idus Octobris anno domini 1300"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/dda6961b-3930-41cf-8f3a-26fe363c92e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-242#xywh=0,0,5535,8337",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/af8a8f3e-779d-4d76-a018-57fb6ba98358",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Another hand"
+      }
+    }
+  ]
+}

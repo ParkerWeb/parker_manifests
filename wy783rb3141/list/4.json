@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/list/4.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/5edd7824-805b-4a4f-8400-09ee07ac96bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-12#xywh=0,0,5170,8994",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/dde7f669-0e63-4606-846b-a01a45c856b7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio super imagines"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/0877a177-ba97-440d-8673-bdb8ed7870c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-12#xywh=0,0,5170,8994",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/f57a0282-f119-4290-a6fc-87e2ce74671d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Later hand"
+      }
+    }
+  ]
+}

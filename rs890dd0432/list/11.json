@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/list/11.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/annotation/23edb07f-e380-46db-ab50-4fa7a318fe83",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/canvas/canvas-51#xywh=0,0,3598,6135",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/res/721a35a1-dce8-4723-8d81-40880ec5039e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: I. De humilitate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/annotation/b0c52526-fe6f-4ca6-9c27-540b5c2c46df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/canvas/canvas-51#xywh=0,0,3598,6135",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rs890dd0432/res/d9c0df42-f7b3-4cd7-97df-6a04e7411a34",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Clamat nobis diuina scriptura dicens. omnis qui se exaltat humiliabitur"
+      }
+    }
+  ]
+}

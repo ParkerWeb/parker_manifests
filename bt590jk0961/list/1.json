@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/75659f67-9e32-4b36-b3c6-2503e44abcf7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-17#xywh=0,0,2111,3662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/a9060164-74d7-48a7-b618-6ef31736e31f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hugo de Folieto de claustro animae Lib. II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/e7692b45-3640-4ebd-b5ce-4207ee63f315",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-17#xywh=0,0,2111,3662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/d160b061-f7a1-4fe4-a856-f6e50720054d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Locuturus karissime de his que ad edificacionem"
+      }
+    }
+  ]
+}

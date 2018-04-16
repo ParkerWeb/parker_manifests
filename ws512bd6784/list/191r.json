@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/191r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/285f62c1-bdd4-44ca-9783-6d23a87efd1e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-389#xywh=0,0,5350,8058",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/16604a9a-14aa-4bc9-8b33-e2651a87368d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ille qui infirma"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/eaddd395-a08b-425e-93ff-51e6b62c5929",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-389#xywh=0,0,5350,8058",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/49cece8d-fb40-4a58-97a2-c5f0b70a0e57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The verso of this leaf and recto of the next are blank and pasted together"
+      }
+    }
+  ]
+}

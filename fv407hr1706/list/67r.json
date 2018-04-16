@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/list/67r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/4da506e6-3265-44ed-a0c7-017ceb7a6e33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-139#xywh=0,0,4263,5997",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/1194e29e-d9d5-41b3-8cf3-a08a4ef8c55d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber V. incipit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/2d376630-c016-49dd-ae86-424849a0ac9b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-139#xywh=0,0,4263,5997",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/7a00b8fe-4945-4920-b447-f4ba18a61a57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De indiuiduis differunt"
+      }
+    }
+  ]
+}

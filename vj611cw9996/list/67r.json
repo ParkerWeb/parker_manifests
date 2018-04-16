@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/list/67r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/6c55811b-7a4f-4469-915c-c8da379b3954",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-141#xywh=0,0,3884,6081",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/5fde7900-1d2a-4186-974f-fac02e8d13f1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Resumes in Pars IV"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/3aecd7ad-0dfd-4534-a201-d33f59e9e48c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-141#xywh=0,0,3884,6081",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/42ac1514-fbf1-42e9-a041-8bb8f6366eeb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Colophon lined through"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/5a8971ac-bc66-472e-882c-217935b0f72c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-141#xywh=0,0,3884,6081",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/29cf1f9e-8046-4781-9478-e34bc18d8f04",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit vita gloriosissimi martiris Sancti Thome Cantuariensis Archiepiscopi"
+      }
+    }
+  ]
+}

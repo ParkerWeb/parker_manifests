@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/annotation/dd0159fc-b3f5-474d-8bb9-b1785f06cfb4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/canvas/canvas-69#xywh=0,0,3836,5411",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/res/8bce3e7d-5236-488e-9296-b8b166e01cf4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "30. John takes book from Angel"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/annotation/0bb27c89-57b2-4e24-be02-3a3941c4eda0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/canvas/canvas-69#xywh=0,0,3836,5411",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/res/9b9f0ed8-caa0-4e58-9c22-5c1fbf420a04",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "31. John holds long cross (reed). Worshippers in temple"
+      }
+    }
+  ]
+}

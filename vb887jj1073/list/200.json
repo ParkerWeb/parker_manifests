@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/list/200.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/bcbdc4a4-867c-4e10-b4c5-accff396c192",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-210#xywh=0,0,5990,9064",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/231820d6-b2e9-4032-8663-11e59732a983",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Anselmus de summa ueritate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/e1f750ba-25d1-47e0-b9c6-d1a8254d1f6a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-210#xywh=0,0,5990,9064",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/b454a76a-1433-454b-bd6f-ba387c3d0e10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam deum"
+      }
+    }
+  ]
+}

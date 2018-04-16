@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/list/45v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/5b6d26c6-a292-4d72-8787-633f0560ae15",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-98#xywh=0,0,3910,6014",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/9e1e40f7-5ebc-4dba-9932-724ed9a6611c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula vii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/e101bdaf-ce2c-4817-b2f1-3b527bcafcaf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-98#xywh=0,0,3910,6014",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/856bfe6b-714a-49db-b666-7df254e8f5db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Glorioso rege anglorum egberto"
+      }
+    }
+  ]
+}

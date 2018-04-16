@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/4c461fe5-9e5a-483d-a292-32282eb24e21",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-17#xywh=0,0,5349,8516",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/b8f445fd-5d0e-4a68-b1c5-c6b3695abc54",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Liber Bedae de temporibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/29c4edd0-dc70-42bf-9f8b-69d3623073bb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-17#xywh=0,0,5349,8516",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/06b58601-b5e5-40e6-be46-e2976ce5d73e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De temporum ratione domino iuuante dicturi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/6e2546df-433b-41f6-aa1a-25d029abd218",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-17#xywh=0,0,5349,8516",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/7e3cedd4-0bde-497c-a0fc-0f9293ed62fb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Very gay initial"
+      }
+    }
+  ]
+}

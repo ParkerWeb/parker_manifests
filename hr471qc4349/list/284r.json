@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/list/284r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/annotation/012a5b5f-ea45-4401-b7ab-5459fc2ed98d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/canvas/canvas-573#xywh=0,0,5363,7638",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/res/ed5dc511-c126-48a5-9b7d-568b20c9c6a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Themata for sermons"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/annotation/c271de3a-463c-4df3-b65d-4c503f1d22e3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/canvas/canvas-573#xywh=0,0,5363,7638",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/res/32f33163-5390-4402-a00d-2bb970f0dd1a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dom. I in aduentu domini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/annotation/289a452c-5ac5-4863-967f-cc32e4d0763a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/canvas/canvas-573#xywh=0,0,5363,7638",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/res/2681b404-dde6-434e-9e6a-250bc78b92a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum appropinquaret ... Nota quod hoc ewangelium deseruit duobus diebus"
+      }
+    }
+  ]
+}

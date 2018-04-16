@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/list/127v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/63573b41-ee73-41e2-8f8e-fae8e7dba488",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-254#xywh=0,0,5998,8094",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/45c60b14-a952-4a3e-a298-e3f980ca22d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus noui testamenti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/75d1b184-087d-44fc-9068-d6aa264d4122",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-254#xywh=0,0,5998,8094",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/6489dd9c-99fb-4cc0-a4a7-f90c22dd0e8c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post legem ueterem respira petre refulget"
+      }
+    }
+  ]
+}

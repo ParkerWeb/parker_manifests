@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/37.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/02cdc2bf-fcbf-44f5-8334-57150855ca49",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-43#xywh=0,0,3521,5796",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/5d638347-0aec-41b4-967a-a80d07908b56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "α. Ordo confessionis sancti Hieronimi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/492989b2-18a5-4401-9ddb-fc11a53d6443",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-43#xywh=0,0,3521,5796",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/e81d9da3-83a3-48a2-bdda-035f5cba3629",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The work known as the genuine Penitential of Egbert"
+      }
+    }
+  ]
+}

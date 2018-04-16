@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/list/10r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/5bf54d51-e4ad-4b5f-846d-b76f78bae92b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-25#xywh=0,0,5740,8827",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/e166450f-d676-44fa-9c8a-6932c14e9a03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The original hand begins"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/e14a7c37-28c9-42da-a572-785bae420f3a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-25#xywh=0,0,5740,8827",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/7bf2388d-62ab-48ec-875b-2c3dac6d05f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "liberassem pauperem (xxix 12)"
+      }
+    }
+  ]
+}

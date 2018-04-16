@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/list/255.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/2c0e33ec-a91c-4a77-a4cf-4e06640262b2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-257#xywh=0,0,5865,8490",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/becab872-aa6e-46a1-9429-c48872e004d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: solariter prelucerent"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/37d0ee33-cd79-405c-9dda-16ba32bd05ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-257#xywh=0,0,5865,8490",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/a4e07bd3-b40c-4a8d-9c4c-409c310a5a14",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit uita Sancti Augustini Anglorum apostoli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/f9e5e6ee-9c01-45ce-8538-af0c1e6d9d91",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-257#xywh=0,0,5865,8490",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/80d58975-f805-4a1c-ab44-0985305a5fc7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit capitula miraculorum Sancti Augustini (23)"
+      }
+    }
+  ]
+}

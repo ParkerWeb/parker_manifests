@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/list/64r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/a5f2e5f2-e3c0-4274-a94b-0e189a3bebc1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-137#xywh=0,0,3633,6087",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/61c23b1d-136a-4779-9e35-d0d654880cdd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber sacramentorum noui testamenti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/edbe4f4e-4cad-43e4-b579-65dad48f8a1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-137#xywh=0,0,3633,6087",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/e5df1e2d-d11f-4e6a-8f93-39af7746a6d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Magne sunt in scripturis sacris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/dc169a52-5d97-4738-a278-0e2d7729201f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-137#xywh=0,0,3633,6087",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/1c0e9005-7866-4cd4-b706-01682d64b87a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    }
+  ]
+}

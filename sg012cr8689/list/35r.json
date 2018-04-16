@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/list/35r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/c37409b8-cc70-45d4-b56e-c2c049a9e1a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-79#xywh=0,0,3402,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/ff469b5a-40b1-4a8c-8e06-621b3aa947cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Cum pater ad dextram cedit. et explet opus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/3d6a91ee-fb15-4212-ae31-07d5cf21d832",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-79#xywh=0,0,3402,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/ff0e90ef-1650-45bf-a77c-c9e4d898310b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

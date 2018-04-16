@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/list/129v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/90f18ac6-7af7-40d9-b523-f6ed20dc7df5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-270#xywh=0,0,3315,5331",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/05910f1e-0640-48d2-89c5-85c5374c51d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: infinita maroa videri posset. Deo gracias"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/b9a4c66e-bf6b-4bb8-846b-35076647a0db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-270#xywh=0,0,3315,5331",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/6b95e87f-e1a0-48ca-bb54-329225e83fcf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Secretum meum michi omni laude dignissimum"
+      }
+    }
+  ]
+}

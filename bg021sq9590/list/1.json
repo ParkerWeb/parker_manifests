@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/cff1b991-4ec1-49a3-8cd0-abaa56bde8be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=0,0,5890,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/548e81c3-a641-4eb6-9b93-69abd3324712",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amantissimo domino et patri B(artholomeo) dei gratia exoniensi frater B(aldewinus) fordensis monasterii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/676316b3-951f-4344-a6d1-a103c078de7a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=0,0,5890,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/223a78eb-3e7d-47ae-9a43-473cf093b551",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial on p. 1: the archbishop in mitre"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/02345cae-fcff-4baa-a1ae-f237ca37ab5f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=0,0,5890,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/8394b5bc-44a8-4220-adc7-5901988ad18f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the R. upper corner an erased mark b (for bl or bs)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/list/35v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/annotation/59b58968-5364-432c-8d1a-82b0ad3a08e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-82#xywh=0,0,5728,8338",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/res/9ee3f409-ed17-4d78-8d0a-be3a4d1441bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex quo uulnere eadem nocte extinguitur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/annotation/f82b2ff8-18fc-44d5-820a-87fee7f89083",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-82#xywh=0,0,5728,8338",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/res/2f17d32c-30cf-4106-be30-c99f13d3b358",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit cronica abatis prumiensis ecclesiae"
+      }
+    }
+  ]
+}

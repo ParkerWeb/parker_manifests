@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/list/85r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/c3d756cb-48aa-4597-92b2-dbb0e0ecc2fd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-181#xywh=0,0,5034,7492",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/c4f8a826-94ff-4e1f-8a0e-11453d5a6a32",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quid sit predestinatio et in quo differat a presencia (prescientia)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/b4870acc-9a73-433a-a6b0-4f1d224fdf39",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-181#xywh=0,0,5034,7492",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/1f7f86bd-af41-4421-bab5-a686e733bba5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Predestinacio uero de bonis salutaribus est"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/list/27.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/53c9e990-22b0-409d-a1c8-aed910f0641c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-25#xywh=0,0,5745,8304",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/fe2ff7e9-a293-494e-b99c-d6b71ee1ff5b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Regalis prosapia Anglorum descendens ab Adam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/7f8b36b2-8f9a-4c37-ad56-f107a8fb5f3c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-25#xywh=0,0,5745,8304",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/fd1f502b-3fac-469f-8f8c-117b3197d2ad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Adam primus homo genuit filium nomine Seth"
+      }
+    }
+  ]
+}

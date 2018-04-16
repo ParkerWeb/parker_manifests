@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/list/45r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/33ff86ce-f379-43f5-87c0-20ad900dac7a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-103#xywh=0,0,3874,5603",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/33704924-c2c2-45de-bccf-1f397047fc5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de Sancto Francisco Magistri Mathei de aurelia archiepiscopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/b9c4df5e-df6e-482a-ada0-a59210e54437",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-103#xywh=0,0,3874,5603",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/7bfa7535-b929-47d0-bd50-6fc133c0662f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Michi mundus crucifixus est"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/list/28r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/be673757-adf4-44bc-9322-5d24fbcfb385",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-67#xywh=0,0,3537,6392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/0a38a8d5-fe82-445b-80d1-c91110799ffe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: cum gaudio et leticia recesserunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/annotation/89b430c7-a97f-4942-b9fc-6941aa4f929b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/canvas/canvas-67#xywh=0,0,3537,6392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ts762cz0303/res/08b6576c-112b-4ba4-9e35-ca8ef0a9755f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber consolationis etc. ... sub m cc xlvj. In mensibus Aprilis et Maii"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/8950c227-2aca-45be-8528-412ee17440b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-9#xywh=0,0,3822,5774",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/f370f203-a7ce-40c5-af2a-5349b8db517b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De commendatione Iohannis Ircani"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/a89f33fe-938f-4776-8b61-f3299b90f203",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-9#xywh=0,0,3822,5774",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/3990ef8d-b00a-437d-ae1c-224c6107d46e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Mortuo simone qui ultimus quinque filiorum mathatie"
+      }
+    }
+  ]
+}

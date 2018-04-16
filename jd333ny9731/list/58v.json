@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/58v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/59fb7ae2-8a7c-48c2-bd51-6bef5eb7b896",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-134#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/837945db-1acd-437d-a08e-246d96199160",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dedicatio ecclesiae (1130)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/1e47e253-0c57-4de1-b419-38fafd42ce63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-134#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/739e342f-2955-49d0-a376-844662431bff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De corpore Sancti Wilfridi"
+      }
+    }
+  ]
+}

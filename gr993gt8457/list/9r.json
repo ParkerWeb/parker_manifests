@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/list/9r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/annotation/7b467fc8-9d9b-4555-904c-da8b6b093058",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/canvas/canvas-23#xywh=0,0,4108,5907",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/res/c516f7c6-7e24-4963-ae75-5f3e291bee2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ex senatus consulto censuit Julius Cesar"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/annotation/72dde310-6d5b-43fe-b5de-899af62b52fa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/canvas/canvas-23#xywh=0,0,4108,5907",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gr993gt8457/res/f63ca4e5-2378-4cf1-ab57-7e04c76ae4d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Fine initial and partial border. The ornament throughout suggests cent. xiv late. Most of the books have some of it at the beginning"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/62v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/9877a72d-f042-41e9-ae4f-7adbebc26f4c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-132#xywh=0,0,3774,5950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/845895d5-3e7a-4819-ba19-2eaaf43e6197",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber XV)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/d9200921-45fb-46a5-b923-04ab1f2ec38e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-132#xywh=0,0,3774,5950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/c8c2b334-4cb5-44ed-a982-2d082fa0b8c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Alme tonans clemensque deus qui trinus et unus Quinti iam decimi summam tu largiter auge"
+      }
+    }
+  ]
+}

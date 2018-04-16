@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/list/159.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/annotation/38ef47fb-8fb6-460d-b489-7511628f8f71",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/canvas/canvas-165#xywh=0,0,3715,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/res/02a22877-b637-48e7-ac3c-2e476f24fed8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermones (Michaelis de Ungaria)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/annotation/db541784-cd45-40fa-a8c0-4e10be0c1dbe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/canvas/canvas-165#xywh=0,0,3715,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/res/bdb34f3b-0c02-4bd4-af31-fc486448c6af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Carissimi sicut dicit doctor de lira super mt 2. quod 4or de causis Judei christum sequebantur"
+      }
+    }
+  ]
+}

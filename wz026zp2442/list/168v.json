@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/list/168v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/d72650b2-a4f8-4db1-9dad-28c7b539f953",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-342#xywh=0,0,6176,9386",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/26dc1457-64e2-48f8-ae7c-b9ac00bcc28c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber xvi ends"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/54d3613c-109d-45d8-919c-5914f94b8f7d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-342#xywh=0,0,6176,9386",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/69cdb490-0ba2-47ec-a4e6-6714e12e8d19",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Require supra libro v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/2597cacd-63ff-4d4b-9f73-37100d641ff3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-342#xywh=0,0,6176,9386",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/4cbc6dfb-024b-4381-8bd2-a83a53671719",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber xvi excerpcionum Garnerii Gregoriani ex epistolis beati Gregorii pape"
+      }
+    }
+  ]
+}

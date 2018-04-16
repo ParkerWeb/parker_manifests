@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/list/5.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/5e9672ac-ef6d-47de-88c1-6e93ba61c80c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-11#xywh=0,0,3049,4973",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/82230121-1fa7-4c05-825f-d6965ba67500",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sententiae beati Augustini de Libro Retractationum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/c32549b9-3c6d-4baf-8889-6da83fb93553",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-11#xywh=0,0,3049,4973",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/2d4e5aeb-6e4e-49e3-9ed7-199454d9a7a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Libros de doctrina christiana"
+      }
+    }
+  ]
+}

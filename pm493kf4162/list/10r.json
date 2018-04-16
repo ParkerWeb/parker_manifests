@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/list/10r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/8910928f-279c-4945-a0b0-6ef1dc32b533",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-25#xywh=0,0,3909,5537",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/5e6ef776-a212-47c5-814c-d76843439d73",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: luna est in piscibus ubi est impedita"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/d95ab282-0dcf-4ae8-9599-58f439d3db70",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-25#xywh=0,0,3909,5537",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/96c07f78-dcc5-4a6d-b160-ccd14bf78b88",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit compendium de existencia lune in signis"
+      }
+    }
+  ]
+}

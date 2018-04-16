@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/269r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/5298d732-e5af-425a-8a45-31e1d6264a74",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-549#xywh=0,0,3770,6213",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/8231b4f1-f71f-466d-9898-fd8b9215118f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ccxlii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/e58dad07-e234-4baa-9c6f-6e5f779bcca3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-549#xywh=0,0,3770,6213",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/3aaff554-473f-4156-8267-74b6b7f23e97",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Miniature: Communion of the Sick. Frere"
+      }
+    }
+  ]
+}

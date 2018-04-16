@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/list/99v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/annotation/2f4178e4-6ba9-4257-81d9-b80b5d483202",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/canvas/canvas-210#xywh=0,0,3776,5730",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/res/4dc6466a-f4da-4c7e-87ca-289b52427490",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: est in genere secundum augmentum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/annotation/e2ee9098-450c-4483-a766-7230d4d4ce7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/canvas/canvas-210#xywh=0,0,3776,5730",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz536hr2200/res/b122321a-47db-4b92-8b1f-bb47ba48e3d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt questiones super libros de generacione secundum magistrum ffratrum Engidium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/list/109r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/9f869bd8-f8b3-4427-8470-1db88b55cf12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-225#xywh=0,0,3504,6041",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/00247442-0ab9-4e07-bbbb-231a3fc74629",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: confitendi potentiam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/1695db07-c0ad-41a6-a34a-fb03882f48a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-225#xywh=0,0,3504,6041",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/edc177ce-b6e5-43c2-8808-098eba8730e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit ars predicandi (rubric not added)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/fbf42ce4-c4d4-4343-b0b1-25a90e0ba17c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-225#xywh=0,0,3504,6041",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/ae0590ae-8926-4902-ba42-d61100116f8d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vidit iacob scalam etc. Scala ista perfectus (!) est uiri catholici"
+      }
+    }
+  ]
+}

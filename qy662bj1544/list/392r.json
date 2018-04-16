@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/392r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/36db0730-dba1-452b-9de1-06e28ed21171",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-805#xywh=0,0,5815,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/0644d6f5-d506-41d7-a2cf-e1fa675afc21",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Acts"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/afe9869b-b883-41d7-921d-93ddc906f804",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-805#xywh=0,0,5815,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/db512d9d-a8c8-4a3b-9c1c-dc0c6bdb0faf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Acts. Four Apostles seated : Peter"
+      }
+    }
+  ]
+}

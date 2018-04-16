@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/list/44r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/9af3c7d6-aeb0-48ec-9cfd-2ddf3964d089",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-101#xywh=0,0,5062,8060",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/2e6d1656-b3c1-4692-a4a9-3350eb9ebac0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Ioachim abbatis de seminibus litterarum vel scripturarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/4b333885-5ee5-4c95-a759-7a97fac50e11",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-101#xywh=0,0,5062,8060",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/ffb87299-14cd-425a-825c-cdef6930d9f2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Queso te lector huius opusculi ne presumpcionem nostram telnere arguas donec ad uliguem libellum hunc perlegas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/list/47a.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/2af031f8-e669-4569-bfb9-9af9e82a1164",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-55a#xywh=0,0,1788,4902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/e519809b-3551-4dad-8a93-eab3a07d3a82",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Philippus Melanchthon ad Fridericum Miconium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/45933583-cbff-435e-a33b-c8b62a712f25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-55a#xywh=0,0,1788,4902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/ecc333ef-2c82-4e18-af02-4a87765c9100",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Inspexi Wiclefum sed deprehendi in eo multa alia errata"
+      }
+    }
+  ]
+}

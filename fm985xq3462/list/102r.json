@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/102r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/c37f0bba-05e0-4a6c-8465-a01de362a40a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-213#xywh=0,0,6140,8917",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/9ae8a081-d02d-4d59-8001-c0de8be68b1e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "203"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/6efb9f02-5a68-4a8c-9d84-0dc10bb14a89",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-213#xywh=0,0,6140,8917",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/cb5ced7a-5340-439f-a1b2-8adf9929229b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The remaining portion is the Liber de Benefactoribus"
+      }
+    }
+  ]
+}

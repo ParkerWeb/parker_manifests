@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/69r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/486cfc7a-c718-4768-bcc5-0c5bf5e72952",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-145#xywh=0,0,5927,9478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/31b3cd76-6caa-43b5-934c-637a84b9612c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Leviticus qui hebraice dicitur vaiecra havet versus II CCCtos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/cfd47da9-d1ec-442c-a8c8-0e7df5945342",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-145#xywh=0,0,5927,9478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/ad59e58e-8318-4b19-b1c7-1371e4cae2f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula of Numbers (xxxi)"
+      }
+    }
+  ]
+}

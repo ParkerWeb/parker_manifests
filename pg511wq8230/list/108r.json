@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/list/108r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/5e19330b-031e-4483-8e65-ad318ca9bf62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-226#xywh=0,0,3927,5813",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/38f1dc2f-9cc3-4d81-b5ba-546eb1a6d424",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Acts"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/8f9911ab-e264-4f76-a135-c25c177da23d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-226#xywh=0,0,3927,5813",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/51869fb3-2bf4-4939-97fb-0f1dea1957af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tyberii nono etc."
+      }
+    }
+  ]
+}

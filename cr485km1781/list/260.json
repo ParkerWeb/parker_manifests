@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/list/260.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/ecc89293-4ea1-44b3-bc48-70e4c2afe601",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-270#xywh=0,0,4937,8953",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/a11692ed-ed48-47da-a57c-5de21858c435",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In a hand of cent. xii early"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/b167bc17-72b5-4e2d-9942-c8d8a59089e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-270#xywh=0,0,4937,8953",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/b09cf683-5c2d-45c5-92d2-3aaca5646ef4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino Regum piissimo karolo osuuardus sacerdos"
+      }
+    }
+  ]
+}

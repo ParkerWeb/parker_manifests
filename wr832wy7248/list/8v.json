@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/list/8v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/2c8543a5-887e-49d8-8093-a19121787762",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-28#xywh=0,0,3584,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/2d5fc673-4ee5-48c3-8509-81bfcb31d9d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: pleniori rerum auidentia contueri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/3b370fdb-cf52-4ca7-830d-2d144d77392f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-28#xywh=0,0,3584,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/372525fa-52da-41c0-8b74-250348e20e75",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula libri primi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/f962e80c-9c6f-43a3-ac44-f1398dda177d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-28#xywh=0,0,3584,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/25ce30d2-ea9d-4150-9ec3-101e339fc33a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De origine mortis humanoe"
+      }
+    }
+  ]
+}

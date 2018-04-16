@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/list/81r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/e88faa5f-e7c1-41bb-9d18-85efadedf2d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-179#xywh=0,0,5879,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/b2567838-1ea3-4cf5-9776-cf2f74ec06c5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Imperatores"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/88b8b7ad-c825-49fa-b30e-5c271247e51b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-179#xywh=0,0,5879,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/3862a717-2614-46fb-81aa-f4eb100a1131",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post natiuitatem domini nostri Ihesu Christi octouiani augusti imperauit"
+      }
+    }
+  ]
+}

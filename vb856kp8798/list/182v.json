@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/list/182v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/02efa666-2606-48d8-ad66-c8c2d30df777",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-130#xywh=0,0,5850,9390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/4e26e9de-4238-4117-bc72-afd7d18d8238",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/b753ea1d-802c-444e-a9a7-7ae063d3920f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-130#xywh=0,0,5850,9390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/027a1c26-dfe3-4cf2-b270-b1f5f45dc871",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Malachi idest tertius"
+      }
+    }
+  ]
+}

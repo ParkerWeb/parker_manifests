@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/list/193v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/bcdc90bd-fb7b-4d55-92ed-4c4734470067",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-400#xywh=0,0,3871,5707",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/e59c2e46-1bf7-42c6-9c50-b3480c513b78",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "192v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/c0a7721d-45e1-4049-a51d-50d47f0cd4b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-400#xywh=0,0,3871,5707",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/fd54d148-65c2-47b5-b18c-7c9ef6e0ccbf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Breue regis (Ricardi) escaetori de kancia ... de seisina temporalium tempore vacacionis"
+      }
+    }
+  ]
+}

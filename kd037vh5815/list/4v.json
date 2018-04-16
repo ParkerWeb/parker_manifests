@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/annotation/a9f480af-46ae-4b8b-8c03-dd35703ce052",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/canvas/canvas-16#xywh=0,0,5999,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/res/2be020a7-62ef-4522-bfc5-bc3f33c6e67f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: A devout meditacioun of þe grete counseile in hevene etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/annotation/3efbe13f-4ea5-4761-8d04-97f7656a0d18",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/canvas/canvas-16#xywh=0,0,5999,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/res/e6802832-45aa-4181-b4a2-f242e65a15fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Afftir þe tyme þat man was exilid"
+      }
+    }
+  ]
+}

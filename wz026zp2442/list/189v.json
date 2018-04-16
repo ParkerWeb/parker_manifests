@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/list/189v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/9fa47dde-35da-44c4-ba9d-86a1953a89e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-384#xywh=0,0,5900,9430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/bfe67dfb-4afc-4837-8191-59207b6a272a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In nomine dei et saluatoris nostri Ihesu Christi Incipit liber qui uocatur speculum Cap. i"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/3c1cdbc4-5781-408f-a111-865e89e7f0bb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-384#xywh=0,0,5900,9430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/84071345-2371-47ac-9323-296b2ea66dee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nonnulla namque ita sunt simplices"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/list/18.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/3d631f9d-3abe-4b24-99b0-22c07d609ab9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-24#xywh=0,0,3594,5652",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/1c65f1f0-4866-48f9-8443-a076f690d4d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad album perficitur. Fit."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/b733516b-1f59-4ef4-b8b1-eaa24e3c3130",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-24#xywh=0,0,3594,5652",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/515e999d-09e0-45ad-a679-b448cf8088fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Reportatio Raymundi"
+      }
+    }
+  ]
+}

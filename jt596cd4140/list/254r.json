@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/list/254r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/annotation/f0b14752-8c3e-49ab-8415-a94068535f5b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/canvas/canvas-517#xywh=0,0,6033,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/res/22db8938-6682-415a-b73d-5e905be8cf2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermons in several hands"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/annotation/f617b878-f3e5-4b12-a958-70af6fc3b3a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/canvas/canvas-517#xywh=0,0,6033,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/res/e14baf62-43d1-40fd-afff-700008e22291",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum venit plenitudo temporis"
+      }
+    }
+  ]
+}

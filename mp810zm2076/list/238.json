@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/238.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/23ad423e-db68-42f0-9a80-fdeda2334662",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-246#xywh=0,0,3324,9270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/e8399fa9-41e5-476c-a882-95125d892f50",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Quod Francigenae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/48830fb8-e110-4942-b080-881f1b817063",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-246#xywh=0,0,3324,9270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/aeb1d835-30e1-4ac6-ab16-929e9728d3c6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De rotunda tabula Edwardi III"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/list/159v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/annotation/ab7a42f5-ed47-4174-ac1d-7217bc1e6909",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/canvas/canvas-336#xywh=0,0,4192,6364",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/res/71993780-5ab3-462e-988a-2ad568ee1be8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De qualitate ordinandorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/annotation/0998e7dc-f600-44fa-bd40-891032e9961c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/canvas/canvas-336#xywh=0,0,4192,6364",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf566xv6588/res/6f8e5506-fc59-4d4d-81f4-91719f0931fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishop in blue chasuble and mitre. Tonsured clerk in white kneels on R. The Bishop holds his hand and speaks"
+      }
+    }
+  ]
+}

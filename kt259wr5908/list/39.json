@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/list/39.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/d1d3b9a6-5f2e-4693-a12b-734f8e67df03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-45#xywh=0,0,6256,9062",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/b9507034-648f-406c-9c05-b51c6fe54a43",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: vinum eorum que ad potum pertinent primum est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/434b697e-6103-47ca-b4a8-0b94586c0041",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-45#xywh=0,0,6256,9062",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/c2c736f8-bf8d-4ad3-9abf-f830448dc29e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Apostolus ad romanos primo. Sapiens ait quod malum est"
+      }
+    }
+  ]
+}

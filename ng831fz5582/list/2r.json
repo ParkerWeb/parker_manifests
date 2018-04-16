@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/2cc5ae54-968a-4a81-b7c3-31f8dfda252d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-11#xywh=0,0,3788,5820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/629dd22c-7107-48e1-a5fb-0f4c297f81fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula (30)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/22750546-7e85-4a5b-af1b-2c6cd65b2663",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-11#xywh=0,0,3788,5820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/8fc735bc-89bf-40e8-81ce-b2459633ba35",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1. De bono humilitatis"
+      }
+    }
+  ]
+}

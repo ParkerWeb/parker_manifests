@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/161r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/f8e975de-072e-43a0-b171-e09c960d02d4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-329#xywh=0,0,5832,8911",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/a9ea4b92-eda7-4534-aa97-62099e3aa0ba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Item habeat alias de sabelino siue simbilino. ex heremino. ex matrice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/d2b1dced-83bd-4b1d-96df-577f3e84534c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-329#xywh=0,0,5832,8911",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/f95fcbea-ee3a-4712-a831-db0886254afc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Three receipts in French for making colours"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/list/150.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/5bf057bc-1b43-4ff5-84d2-8059aa8034a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-158#xywh=0,0,6298,9294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/172e7867-7fd8-4c81-accf-cf95651a671d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Capitula (32) precede"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/1e38d66c-20c8-4f50-9bc7-4112cb0168b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-158#xywh=0,0,6298,9294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/42c1617b-52a1-4c7f-b565-0bae0c9334af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Manifestum est autem operacionem"
+      }
+    }
+  ]
+}

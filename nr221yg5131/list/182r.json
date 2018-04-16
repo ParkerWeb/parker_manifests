@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/list/182r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/annotation/7971c8e8-59ea-4691-9ef8-263ec3095d73",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/canvas/canvas-369#xywh=0,0,5314,8166",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/res/b9020020-9375-414a-a00a-bd081e4d4614",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sanz jour iusques al retorn de celui"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/annotation/b36d1373-2cd9-4112-a9d8-8f88d80ad35b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/canvas/canvas-369#xywh=0,0,5314,8166",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/res/af216912-38fa-4b29-9ec0-efe64a6e9b1d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber qui dicitur Breton"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/annotation/70302c6a-2e07-4e4c-88c0-907c3a8da588",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/canvas/canvas-369#xywh=0,0,5314,8166",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr221yg5131/res/b1f53447-e941-4b0e-b68c-0cc378435fe9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Icy comence les chapitres del primer liure de Breton"
+      }
+    }
+  ]
+}

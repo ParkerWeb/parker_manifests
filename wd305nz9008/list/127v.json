@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/list/127v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/annotation/5c609c42-5f5b-46d7-b8ef-79379ac8a0ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/canvas/canvas-266#xywh=0,0,3830,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/res/fdb0e478-d74c-4a17-aa47-da804d136975",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Thomas de la Moore in libro suo de morte et vita Edwardi secundi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/annotation/1e60663d-9af8-496b-9084-554393e86d9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/canvas/canvas-266#xywh=0,0,3830,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/res/a55f63a3-e7c2-4537-95bb-66b0130f16d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Mittuntur littere increpatorie custodibus (Castri de Barkley)"
+      }
+    }
+  ]
+}

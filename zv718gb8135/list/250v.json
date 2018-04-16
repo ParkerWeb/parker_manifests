@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/list/250v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/annotation/3c81f7a8-b757-4e27-97ef-5b060b72c798",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/canvas/canvas-508#xywh=0,0,4091,5968",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/res/4f02f800-2107-437d-b8f9-baaab5ba29bf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nec lassari ad quam patriam nos perducat ille qui viuit et regnat per omnia secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/annotation/8613533e-fffa-4b2c-aaf3-8d8f897827a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/canvas/canvas-508#xywh=0,0,4091,5968",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv718gb8135/res/91e537e4-3187-4db0-9534-67574378fd62",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt postille super psalterio a fratre nicolao de guiram compilate"
+      }
+    }
+  ]
+}

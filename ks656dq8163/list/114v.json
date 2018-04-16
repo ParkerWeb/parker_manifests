@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/list/114v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/26fafe5a-495f-4489-bbae-218099396dd9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-234#xywh=0,0,4078,6213",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/a7b21ea0-69d4-456c-93b9-994c74f94c7f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nomina pontificum sedis apostolice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/45c78117-04e1-4506-a8dc-2a3ac7ff146c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-234#xywh=0,0,4078,6213",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/84d75e6b-0769-4d22-84d7-87a0c6dad3a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "PetrusPoppo"
+      }
+    }
+  ]
+}

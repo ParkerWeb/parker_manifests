@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/list/242.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/08dde8aa-487a-4939-a46a-9c5491cfc609",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-250#xywh=0,0,3830,5649",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/7fc43f46-d32a-4f40-83ac-93bb73497a27",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Eiusdem de conuersatione monachorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/70e309a2-37e5-44fa-b7d5-dd5f3f15f476",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-250#xywh=0,0,3830,5649",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/45eb0bbe-b49f-462b-8fed-cfc18f9b6029",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vtilissima res ad homines uenit conuersatio monachorum"
+      }
+    }
+  ]
+}

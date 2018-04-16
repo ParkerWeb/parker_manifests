@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/list/11v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/f25792ff-d24c-498e-8916-f31591c3e522",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-28#xywh=0,0,5877,8511",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/b4524772-a9dd-42e8-bf7e-34af7d172522",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Feria 3"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/ec5f3b8e-fb65-44a1-8319-c2316017efa9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-28#xywh=0,0,5877,8511",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/77026061-8db0-43f8-99e2-21df8720d3ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Glorias vere"
+      }
+    }
+  ]
+}

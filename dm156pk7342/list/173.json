@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/list/173.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/a8ca21ca-0706-4ae9-8166-e6760ab6ef44",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-191#xywh=0,0,3913,6203",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/96c8cf2c-7949-496a-b616-b4f110d456cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola Albini leuite ad ÆðELNARDUMApparently altered from ÆðELDARDUM archiep."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/46058989-ec16-427e-b355-9fddc07db85f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-191#xywh=0,0,3913,6203",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/7b9574bf-ee9e-42a2-9bbd-fc9cd8474578",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pio patri et sancte sedis presuli æþelhardo"
+      }
+    }
+  ]
+}

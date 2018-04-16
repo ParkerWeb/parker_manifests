@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/list/8.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/9400a2bb-0e77-4bc8-9b96-98854d9ec169",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-16#xywh=0,0,5558,7976",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/fc0dbd29-b2f3-4328-8399-0510735757a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primus assiriorum Rex ninus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/22bbf030-7852-45a8-8ebd-aa2ae0bdab90",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-16#xywh=0,0,5558,7976",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/fe16ad74-c2e0-46f3-a1e8-41ce4b274a71",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial. Gold ground. Sceptred king (Ninus) sits on L. On R. above"
+      }
+    }
+  ]
+}

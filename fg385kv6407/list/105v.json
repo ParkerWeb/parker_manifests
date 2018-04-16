@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/list/105v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/14d752af-529c-42a0-ad45-2fcece2ca350",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-221#xywh=0,0,3862,5592",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/39aa0964-e810-4256-aaa7-7b8427a9282a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Itinerarium anime"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/99f4d94c-bd8f-443f-890b-8215e2091997",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-221#xywh=0,0,3862,5592",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/f6147410-d16d-485e-a156-72fbdaa67e12",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum omnis sciencia gerat trinitatis insigne"
+      }
+    }
+  ]
+}

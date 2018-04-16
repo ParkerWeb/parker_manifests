@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/list/179r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/4c41866c-6898-4870-9ff4-8dd2792f77c2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-368#xywh=0,0,4041,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/03553fb2-cf61-4cff-9338-173cde4eb3a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: orantibus esse conciues"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/c665033b-1da8-47b0-af15-62fe9dd52ad5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-368#xywh=0,0,4041,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/3e00072a-a086-4d12-9e63-24d9dd668607",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Amen"
+      }
+    }
+  ]
+}

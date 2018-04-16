@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/list/119.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/0fde37b5-d927-4230-880e-817e10ee5ba5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-127#xywh=0,0,6265,8941",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/de1600ad-a6b9-4dae-a46f-c126b68cb776",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctissimo in christo patri ac domino nostro Innocentio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/418ccd19-c2c1-4010-89dd-e0fcaf75db6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-127#xywh=0,0,6265,8941",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/143cf8d8-7bdc-4224-9aad-02c2bbe073ca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: operi constimacionem (!) imponit"
+      }
+    }
+  ]
+}

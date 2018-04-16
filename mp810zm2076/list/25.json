@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/25.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/68f86b66-2116-4d13-bdac-a71b300a3958",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-26#xywh=0,0,3379,9154",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/808da629-e7e5-4996-88c5-d0fb0185adaa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De diebus quibus sancti venerantur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/6127205d-a4f1-4c1b-9c2c-37c5871547f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-26#xywh=0,0,3379,9154",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/05e176c2-a248-4e04-be79-4160efe21690",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Excerpta ex kalendario ecclesiae de Bodman"
+      }
+    }
+  ]
+}

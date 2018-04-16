@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/list/8v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/046ab53e-9a05-4ba9-b7c6-f902f439fbf5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-24#xywh=0,0,5860,8866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/31efb7d4-f1fb-41fb-9f89-7a1f808f115f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit de libro sexto"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/73480bd7-4b50-4ae9-9ced-e4aabf52e16c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-24#xywh=0,0,5860,8866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/15e04efb-6df5-4cb0-8eaa-bacefca87263",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit de libro septimo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/7414994d-a875-446b-9247-efa50218b6e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-24#xywh=0,0,5860,8866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/b0d783fd-83cc-42fc-8ee3-d0d767a7077e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hildebrandus qui et Gregorius viius"
+      }
+    }
+  ]
+}

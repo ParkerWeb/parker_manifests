@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/list/41v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/60b27e43-eeb2-4f61-9b28-7de61fd08e6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-132#xywh=0,0,3693,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/d9e455ca-e65f-4e89-901f-d40054d74a64",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et regnat deus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/8604a422-c29c-4af1-a87e-d61f65d1234b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-132#xywh=0,0,3693,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/e5785d3b-43fb-47ee-80a7-318c670d8894",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Synonima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/06fd9e4c-2b4e-40ea-89ad-b28f39aa2947",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-132#xywh=0,0,3693,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/f0b5b7eb-92e3-4d17-84e7-7702e4f514ba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anima mea in angustiis est"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/list/233.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/annotation/e354680b-4317-437a-8100-ab310882350a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/canvas/canvas-243#xywh=0,0,5546,8511",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/res/94e6dd33-1d01-424d-acec-3d5064757dc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ludouicus qui fuit huius prosapie regalis rex ultimus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/annotation/5510f5f1-6862-420c-8108-34d87a4e0382",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/canvas/canvas-243#xywh=0,0,5546,8511",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/res/e71fb308-0a43-4eb8-b642-86bd9d23a27b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Karolus princeps Pipini regis filius"
+      }
+    }
+  ]
+}

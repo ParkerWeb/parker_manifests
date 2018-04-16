@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/list/367.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/annotation/79af7bd7-148a-4bdd-8845-5d597a40a8b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/canvas/canvas-377#xywh=0,0,3998,5982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/res/488f07af-2106-492f-84b6-a327157ecb84",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Alphabetum theorice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/annotation/6c478722-56aa-4bda-bfa7-02fa131da6a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/canvas/canvas-377#xywh=0,0,3998,5982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/res/36074239-25de-4973-b09c-2c387cb465ff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: A significat deum"
+      }
+    }
+  ]
+}

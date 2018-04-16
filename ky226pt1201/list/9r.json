@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/9r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/1feede2d-d0f5-4712-b919-1e8574be620e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-29#xywh=0,0,3872,5631",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/f01d647e-48cc-4a06-a033-2e399987ccef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Medea"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/1ceb5944-ff13-4b6b-9af9-b03cb6636c18",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-29#xywh=0,0,3872,5631",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/8dbd4b6c-1277-4b7a-a17f-645de20ce7b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Flammata facies spiritum ex alto citat"
+      }
+    }
+  ]
+}

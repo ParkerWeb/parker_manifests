@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/annotation/0f65fce5-9cd2-4f4c-90ad-bfb13ddeadea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/canvas/canvas-13#xywh=0,0,3872,5484",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/res/271958aa-bf73-49d8-97b5-f3bde7bdb53e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dominica Ia aduentus domini sermo de epistola. opus fratris Willelmi de mauli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/annotation/31f30bb5-64d0-4ffe-96c6-a6bfbc2ab242",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/canvas/canvas-13#xywh=0,0,3872,5484",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb304wh5721/res/d49e7ce2-ab8e-4efe-a6f1-1518a132b379",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abiciamus opera tenebrarum ... scriptum est ad ebreos .v. adeamus ergo cum fiducia"
+      }
+    }
+  ]
+}

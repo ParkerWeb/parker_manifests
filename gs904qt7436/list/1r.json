@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/annotation/8120c83c-93d0-4261-98d8-dc5bbf7ed6a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/canvas/canvas-11#xywh=0,0,5830,8526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/res/5ece57f0-7fd0-4ec2-beba-4e66d69ba6c4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prefatio Claudii presbiteri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/annotation/c68aac86-af6c-4754-86eb-bd393c442f69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/canvas/canvas-11#xywh=0,0,5830,8526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs904qt7436/res/75650f72-22b9-49fe-be9d-4f81c2d3123d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino sancto ac beatissimo et mihi peculiari cultu etc."
+      }
+    }
+  ]
+}

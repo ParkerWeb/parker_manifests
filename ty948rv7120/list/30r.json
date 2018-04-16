@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/list/30r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/faf53b1e-def3-4717-a74a-a6fbe20f4353",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-65#xywh=0,0,6313,9103",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/9fce5dc3-63b4-4ba8-afbc-e280cdc2a970",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Passio Sancti Cirici et Iulitte matris eius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/f5b1815c-792b-4c4c-af1b-e23f9c2fd325",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-65#xywh=0,0,6313,9103",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/61675100-9669-4237-92d3-a4ffc8b4b0e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Factum est in diebus imperatoris Alexandri"
+      }
+    }
+  ]
+}

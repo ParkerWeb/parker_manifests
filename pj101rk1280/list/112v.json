@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/list/112v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/490715b5-0b6f-4560-b4e1-bacd506a1bbc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-236#xywh=0,0,5195,8442",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/b2e197d7-879b-44e2-8c1b-5c3f49b264af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ianuarius Augustus et december iiii nonas habent"
+      }
+    }
+  ]
+}

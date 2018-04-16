@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/cd16d8bd-95e6-4f14-a28b-93c245ae697a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-17#xywh=0,0,3806,5719",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/a19a7c6e-283a-4339-9728-20752fea4c94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De puerorum nobilium erudicione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/c796ea84-b7bd-4c89-a8d9-284ea1b97b3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-17#xywh=0,0,3806,5719",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/4ee2808e-f789-4cca-9276-afc5e4b85d9c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Filii tibi sunt erudi illos"
+      }
+    }
+  ]
+}

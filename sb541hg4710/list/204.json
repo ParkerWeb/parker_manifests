@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/list/204.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/d5dec473-668d-499d-9153-3738670f42bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-216#xywh=0,0,3310,5524",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/8d3bc39c-0b49-47e0-9c1c-4bcc5416cf0a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Her onginð be cristendome"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/dfff010f-606b-4f29-84e1-843a90881b22",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-216#xywh=0,0,3310,5524",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/4fd6736c-8193-48ff-8282-36fdcd1d957a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Leofan men eallum cristenum ... þaet hy heora cristendomes"
+      }
+    }
+  ]
+}

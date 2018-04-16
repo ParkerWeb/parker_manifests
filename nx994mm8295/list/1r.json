@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/annotation/448908d4-1898-4776-8b15-03e98f78c73f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/canvas/canvas-7#xywh=0,0,3612,5888",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/res/cf144e5d-61f1-47f7-86cc-0e388e3408be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Leonardi arretini Epistola ad ducem Gloucestrie sequitur hoc modo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/annotation/8fed6816-6a81-4ac5-82e7-4ad2bbe2e852",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/canvas/canvas-7#xywh=0,0,3612,5888",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/res/ac56b323-4ddd-4ca8-80e6-2e49f751b178",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Libros aristotelis multis a me vigiliis multaque assiduitate et opera in latinum traductos"
+      }
+    }
+  ]
+}

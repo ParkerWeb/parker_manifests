@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/list/124r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/6ee5af57-106a-4319-bbf1-4c4ec4c1e84d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-253#xywh=0,0,5844,9076",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/a33d02a5-feaa-4be5-8f5e-1116679cd153",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Vita Sancti Symeonis Syri qui in columpna stetit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/ada3c164-539f-4820-a13d-bdea499ae10c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-253#xywh=0,0,5844,9076",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/b8f60c31-0e22-4be5-9ab8-619db13ccc0e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctus igitur symeon"
+      }
+    }
+  ]
+}

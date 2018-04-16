@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/list/viir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/2d27171f-0cf4-4f5b-bca0-ff8a624a17f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-17#xywh=0,0,5882,8655",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/0188e690-c834-4b93-8727-7600ee938dd1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber V"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/d49c0bcc-f9a9-4851-baa1-987857fa51c4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-17#xywh=0,0,5882,8655",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/748e4541-bda9-430f-abfc-e9bdc5c135ae",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: a legatione Rotrodi Rotomagensis archiepiscopi"
+      }
+    }
+  ]
+}

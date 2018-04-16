@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/54.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/dc7b4e7e-7404-44d3-a486-9bab5223c23b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-58#xywh=0,0,3397,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/4a02eb08-09a5-4a13-a7b1-fd58d6dcdb76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Descriptio ecclesiae de Bridgewater et excerpta ex kalendario"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/9f690cf3-da1b-45b6-aefd-2c48fee7e9a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-58#xywh=0,0,3397,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/7d168387-278d-4411-af89-9419e4d829d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Descriptio ecclesiae de Kirton"
+      }
+    }
+  ]
+}

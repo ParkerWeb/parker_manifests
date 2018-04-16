@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/245r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/15a3191f-65e6-441b-95b2-254c3ce19db5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-495#xywh=0,0,4094,6660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/9aa92107-71fc-4bfe-a72d-77e360135ce7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Johannes apostolus et euangelista quem Ihesus amauit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/627e4cc9-d484-4c74-afd4-7966c983e082",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-495#xywh=0,0,4094,6660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/13b22df2-8d60-4732-a233-c91732607117",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Racionem uerbi"
+      }
+    }
+  ]
+}

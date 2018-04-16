@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/list/149r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/annotation/5082d294-f990-48bb-bcb9-77db7ef9a73d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/canvas/canvas-311#xywh=0,0,6464,9333",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/res/febd8012-2810-4d5c-81d8-4c8a8d4d239f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/annotation/aedf6763-bcc3-4831-97f5-5639bed58a1e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/canvas/canvas-311#xywh=0,0,6464,9333",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/res/b27c1457-cc94-431f-864b-ad5cb441fa63",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quam deus ipse suis promisit fidelibus qui est benedictus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/annotation/14e63096-5a92-467d-8246-cfff1d1c9935",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/canvas/canvas-311#xywh=0,0,6464,9333",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/res/aa73d006-05c7-4abb-8299-1fe767d9f8d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber de regimine principum editus a fratre Egidio romano ordinis fratrum heremitarum Sancti augustini"
+      }
+    }
+  ]
+}

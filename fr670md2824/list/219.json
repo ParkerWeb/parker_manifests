@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/list/219.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/ee56404e-dbcd-4713-b92c-a32c7aaa46a4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-233#xywh=0,0,5590,7820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/d4b1cb66-af0c-4109-9a69-6f0934145014",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Alius sermo Feria IIIa in Rogationibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/6b313295-02ef-46d7-bf0c-1b984be9ed7c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-233#xywh=0,0,5590,7820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/2175190c-797d-48aa-b495-b0d745f6c6ae",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Mine gebroðra þa leofestan þis syndon halige dagas 7 haldƿendlice"
+      }
+    }
+  ]
+}

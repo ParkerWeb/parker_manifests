@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/list/130r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/c236d890-bca8-4d71-b821-9fa61e3ff9a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-259#xywh=0,0,4912,8247",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/2e266d3f-c6ef-4cab-b1d5-efe35bfc0cea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: feliciter peruenire"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/f8653680-9672-44a9-a61e-84ffb8698f6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-259#xywh=0,0,4912,8247",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/ab4f5ad3-4e3d-4790-b265-d527823953ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tituli maioris huius operis"
+      }
+    }
+  ]
+}

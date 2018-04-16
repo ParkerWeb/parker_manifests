@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/list/iiir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/annotation/f5860acf-c756-48b5-b1ce-157e6287250e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/canvas/canvas-9#xywh=0,0,5397,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/res/536c0c30-5de8-43b3-9a31-74c57e223d51",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Item liber orationum eiusdem diuisus in"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/annotation/1f7e010b-9574-47f1-a7a0-80530f558497",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/canvas/canvas-9#xywh=0,0,5397,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/res/ddb4ace1-b93e-47d8-9716-1c9b5cd5178b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "i ad deum patrem pro uenia et virtutibus etc. xlvii ad deum et ad omnes sanctos coniunctim. Item xiii orationes pertinentes specialiter ad sacerdotes qui habent missas celebrare"
+      }
+    }
+  ]
+}

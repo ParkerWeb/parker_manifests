@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/list/213.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/411f1cd2-d2e5-4a45-a390-ddc0ec40b9cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-221#xywh=0,0,5194,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/eb630e37-8e70-4352-b5a2-24d01bc99e92",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Eodem die de dominica oratione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/2b164bdc-49b4-4190-a816-e1a163bd3391",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-221#xywh=0,0,5194,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/e66eeb85-c8fa-4c97-9328-a6ad1a0fe0f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Se hælend crist syððan he to þysum life com"
+      }
+    }
+  ]
+}

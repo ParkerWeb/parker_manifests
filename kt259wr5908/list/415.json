@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/list/415.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/bb30525c-5854-4620-be59-6790fa051e8c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-423#xywh=0,0,6079,8998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/d924e3e4-e8bd-42a9-bcf3-5a3d679dd981",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: non deuiantes a declaracionibus ordinis generales"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/3aaa6f1a-7995-4f2d-8438-1e8d37118f86",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-423#xywh=0,0,6079,8998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/a94b5ae5-e58a-45cc-b6de-5f93ff89f19d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit quedam capitula de summa fratris Aluari"
+      }
+    }
+  ]
+}

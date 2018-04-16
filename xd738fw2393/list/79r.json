@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/79r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/83ab76bf-92e5-4d0e-a625-29c357f127e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-163#xywh=0,0,5786,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/f42f1822-4752-44b7-b648-c1a66132cf75",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: XVI Kal. Oct."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/e4ba83de-2d28-4032-acf3-346a6b54c706",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-163#xywh=0,0,5786,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/469d2b1a-f8c8-47ef-a8f2-2773c06160e7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "monast(erio) ƿyltunensi Sancte (ead)giðe uirginis"
+      }
+    }
+  ]
+}

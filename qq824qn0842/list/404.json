@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/list/404.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/b685e086-0a49-4267-973b-6c1bc9244dcf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-422#xywh=0,0,5770,8370",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/9d4bde8a-bd37-489e-9028-6fbd6f189d73",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in his sacris sollempniis prestante domino nostro Ihesu Christo qui uiuit et regnat in secula. amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/9abca2b1-cdc3-4140-8bd3-5c2212928e34",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-422#xywh=0,0,5770,8370",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/8fd75a48-ec7b-4f5b-801e-3dde2d627172",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt miracula Sancti Jacobi apostoli"
+      }
+    }
+  ]
+}

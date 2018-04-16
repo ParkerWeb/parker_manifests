@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/annotation/194db666-9b27-4859-aba5-6aaba962a6f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-1#xywh=0,0,4451,6656",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/res/df279a48-e061-44cf-89ba-0a89d46bca6d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Musical notation for antiphon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/annotation/b1645d8b-3877-498d-9b01-403b011323ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-1#xywh=0,0,4451,6656",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/res/05f17f8b-191f-49f7-a987-7d8aa8036be3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Historia Salomonis Ad Vesperam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/annotation/0653d300-71e2-4dbc-98dd-61b0ab8eb5d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-1#xywh=0,0,4451,6656",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/res/e4dcaafa-b5d4-48d4-baf6-c0400b4eded2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "3-line calligraphic ornamental initial tinted in pale yellow for the versicle: Dilectio illius custodi"
+      }
+    }
+  ]
+}

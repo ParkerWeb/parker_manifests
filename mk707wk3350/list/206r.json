@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/list/206r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/289149bc-87dc-4162-806e-9e45780bc27f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-427#xywh=0,0,3891,5057",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/616406bb-49db-4a9f-8007-b118751ffad4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Praefatio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/47e58891-349f-468a-afde-a5a7a0da9fce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-427#xywh=0,0,3891,5057",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/0568e7e5-491f-4c2e-b082-7996c94a7681",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iohannes euangelista"
+      }
+    }
+  ]
+}

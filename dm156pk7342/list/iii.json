@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/list/iii.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/5c2f8442-6ee7-4f8a-babc-6b5f0a608c11",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-9#xywh=0,0,3908,6148",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/624c0632-ce9b-4cce-a792-f69f0242e8bb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1r"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/bdf7d772-48dc-46cc-84a5-a50f78bf25ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-9#xywh=0,0,3908,6148",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/cda1ac4a-617c-4130-96e1-678a8cd99c97",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The first four leaves contain the Table with titles in red capitals"
+      }
+    }
+  ]
+}

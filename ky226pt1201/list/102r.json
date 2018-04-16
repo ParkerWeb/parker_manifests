@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/102r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/aa1ff48e-b596-40d1-a30a-24f14e99d092",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-215#xywh=0,0,3728,5668",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/f8d7a294-4daa-420b-b92f-51c481e737de",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber magistri Galfridi (Vinesauf: cut off) Anglici ad Willelmum de Wrotham epistola prima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/d94a59b2-0d9f-4ec5-83ea-399a512f3f05",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-215#xywh=0,0,3728,5668",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/b583489f-f7ef-4af9-aaf4-5cd1caa72fc7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quem pape scripsi munus speciale libelliAccipe flos regni primo pocieris honore...Sed licet omnis apex tibi crescat honoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/593a1180-6b4e-4ec8-b054-d9e987767ad5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-215#xywh=0,0,3728,5668",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/df8a89dc-4718-4a84-b294-75e1e358c8e7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Papa stupor mundi si dixero papa nocenti"
+      }
+    }
+  ]
+}

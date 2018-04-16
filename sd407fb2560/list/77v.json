@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/list/77v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/annotation/ec192014-b8f3-4e18-b544-33a2caa39f2b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/canvas/canvas-160#xywh=0,0,3830,6150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/res/ae21afc4-a509-4321-91e1-d2e2ffca9858",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Luke"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/annotation/a5facb6d-4e40-48ab-84bf-554778cb8895",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/canvas/canvas-160#xywh=0,0,3830,6150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sd407fb2560/res/2f9fc220-672c-40cf-9b43-1bb8f41d82ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue"
+      }
+    }
+  ]
+}

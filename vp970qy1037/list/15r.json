@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/list/15r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/annotation/aefd6c9d-a125-4073-87a3-6c5f10837d6c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/canvas/canvas-41#xywh=0,0,5614,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/res/b3f2c3c5-bb5d-47ee-a474-b889bcd912ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit unum ex quatuor seu concordia euangelistarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/annotation/4ca67ccd-cd22-4631-8e56-6701eae58c62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/canvas/canvas-41#xywh=0,0,5614,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/res/d90b2330-a321-4e5e-a653-5643140e150a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In principio ... apud deum. Verbum id est sapientia nata"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/207v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/8ca9dea4-e3f5-4a4a-ae7e-092822e87b7c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-428#xywh=0,0,4446,6897",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/55e3013f-5b1d-41be-80de-3f78f76b0221",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Two fish"
+      }
+    }
+  ]
+}

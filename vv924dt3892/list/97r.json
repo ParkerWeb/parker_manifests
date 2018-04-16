@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/list/97r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/1212ad18-a103-4e04-908a-d7e6314e57cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-201#xywh=0,0,3474,5398",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/52d55691-2d86-4f34-bfd6-5cbe1d9fb00a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Datum per manum nostrum apud Wodestok. xii die apriles anno regni nostri quarto"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/37fe4a1d-22da-479b-a4a5-67b0e84ddbde",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-201#xywh=0,0,3474,5398",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/6eb85f19-5d1c-4467-9e2a-a4c483434bc2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Prouisiones ordinate per commune consilium ciuitatis Waterfordie"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/list/97r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/annotation/664e8c86-de23-4ed4-9a8e-9071cea5c8f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/canvas/canvas-203#xywh=0,0,3776,5754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/res/cfeb0153-1f02-4a39-bb0e-cb51694ad56b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quia in ea peracta est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/annotation/4f8e2a10-0f9f-4c9c-9771-31c29767d3a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/canvas/canvas-203#xywh=0,0,3776,5754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/res/3a4f540f-7561-4cc9-bbb1-40556ac8db95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ΦΙΝΙΘ DΗΩ ΓΡΛΘΙΛΣ ΛΜΗΝ"
+      }
+    }
+  ]
+}

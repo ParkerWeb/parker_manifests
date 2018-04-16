@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/list/109r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/027b5aa0-082c-4c94-b4d6-637cccd7b7a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-231#xywh=0,0,4149,5852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/a0e75d74-57a2-46d4-b5ae-142cb120ce57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: vitam eternam possideas. quam tibi concedat qui"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/a173da6b-b6ae-4b8a-84ff-4a830e929567",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-231#xywh=0,0,4149,5852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/f8df4dd3-72f9-490d-b037-26be4a1de3e2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit speculum peccatoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/efe1ee90-0bc7-4c49-b97b-8b63eb66fecc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-231#xywh=0,0,4149,5852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/4f356602-b275-4114-9b7e-920fccb51216",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Bernardus in 2a omelia super missus"
+      }
+    }
+  ]
+}

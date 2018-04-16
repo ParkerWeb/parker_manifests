@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/a2f4da07-3982-41b0-99ab-399c0c2378bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-6#xywh=0,0,6130,7914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/8e1d4295-36c7-4e20-9147-bbbfde89fafe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: canticum graduum xv"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/5c9d663d-2d0b-45d6-a843-a33bb86e233b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-6#xywh=0,0,6130,7914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/a69e2284-8d5e-4b1b-a110-739c7f96a1d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Praefatio Sancti Hieronimi presbiteri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/8df8f66b-de46-4841-99c6-32faeaf66957",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-6#xywh=0,0,6130,7914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/2d911f1f-993d-45cc-85b0-5f1193a17ea6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Psalterium romae dudum positus"
+      }
+    }
+  ]
+}

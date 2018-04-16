@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/list/53v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/de26758e-ab08-4f80-88e9-8e2341e82fa8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-116#xywh=0,0,3595,5526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/6b1d7eb7-59d3-49c3-b373-4e03cc3757cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola I Anselmi Archiepiscopi Cantuariensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/cf8af69e-fffb-43d9-af60-6d63d70b75df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-116#xywh=0,0,3595,5526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/7d816fca-44b6-46f3-abac-16d565e03b32",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino et fratro karissimo Hernosto frater Anselmus"
+      }
+    }
+  ]
+}

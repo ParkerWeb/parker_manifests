@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/53.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/cf053184-fe92-41e5-8bab-738ec5c5baba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-57#xywh=0,0,3662,5598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/e3a9e6d4-4cfe-40b5-a087-533ca22f0578",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Canon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/affb2710-b5af-4ffd-bb81-314c824cb511",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-57#xywh=0,0,3662,5598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/4ae9da5a-e9d8-4dd2-8020-d8eb84445a1e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The initial is a cross"
+      }
+    }
+  ]
+}

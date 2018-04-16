@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/list/192v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/8d4ab4da-46c0-4995-ac00-89cdab2f3c5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-394#xywh=0,0,6192,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/8712b792-3256-4f13-a00c-dae467f86fcc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Notes on Wisdom"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/ed85707f-c738-4f2e-9c29-a1130ff722a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-394#xywh=0,0,6192,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/f33ac6ad-eda7-4f36-8827-d727fa4d1195",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Benignus est spiritus sapientie"
+      }
+    }
+  ]
+}

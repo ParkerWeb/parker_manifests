@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/list/118r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/dfabfb42-685c-40e9-b747-f11ceecee537",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-243#xywh=0,0,4106,5946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/3dd7d0d1-4c80-4b2c-87b6-80c4fa3f4594",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: possideas quam nobis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/aae8c38f-1f88-4d00-8e5c-fca5507c2966",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-243#xywh=0,0,4106,5946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/3b3735f0-549b-43ca-b11a-d004593ef6ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (Notandum quod) ... Sex species timoris"
+      }
+    }
+  ]
+}

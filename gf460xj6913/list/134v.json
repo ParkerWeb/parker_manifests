@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/list/134v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/annotation/dabc7e13-17e6-4d8e-a22a-a89b9732b450",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/canvas/canvas-280#xywh=0,0,5414,8476",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/res/0b516127-7e5e-4458-9bbe-051f287620b5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Item oratio eiusdem ante percepcionem corporis Christi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/annotation/6b664b98-2982-417e-bc59-01465d52b2f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/canvas/canvas-280#xywh=0,0,5414,8476",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/res/d2f76d88-f3c8-4564-a631-9a56382f179f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine Ihesu Christe fili dei uiui qui ex uoluntate"
+      }
+    }
+  ]
+}

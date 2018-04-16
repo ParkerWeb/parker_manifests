@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/list/13r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/d48a75e4-225b-4423-bd4d-4b3273e14cc2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-36#xywh=0,0,3921,5584",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/67bff4f1-7408-4271-90e6-ca4b273ead7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo ad clerum de effectu verbi dei"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/68f96da0-0acb-4abb-bb79-9ebae4030e14",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-36#xywh=0,0,3921,5584",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/90925361-5e7e-464f-8236-353d4f0432fb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Murmurabant Pharizei"
+      }
+    }
+  ]
+}

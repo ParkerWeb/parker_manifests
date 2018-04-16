@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/166r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/baa1703c-99e3-46ca-bb2f-ee7bad2952f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-339#xywh=0,0,5818,9042",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/ecc2130b-cbf9-40ab-9a51-50fbfb9116fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: bonorum mercedem recipietis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/03876d77-9a53-47e1-90aa-f688f501e8a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-339#xywh=0,0,5818,9042",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/11ae0067-f68f-47c2-ab32-33093a0dbf6d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uniuersis ... pusillus grex monachorum Thorneye"
+      }
+    }
+  ]
+}

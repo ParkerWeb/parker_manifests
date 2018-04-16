@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/list/211v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/annotation/c749366e-6606-4f77-a9ce-bb9829e84f6d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/canvas/canvas-468#xywh=0,0,6032,8898",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/res/09003fd7-a0ba-4294-a7ee-ef3db140f7b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in archidiaconatu nostro donec fuerit presentatus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/annotation/aa467e39-50da-490f-aa27-8b14b85efd76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/canvas/canvas-468#xywh=0,0,6032,8898",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/res/ff269cca-ee74-4dce-8d07-71040ba76baa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt constituciones sinodales"
+      }
+    }
+  ]
+}

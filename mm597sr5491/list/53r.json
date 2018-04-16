@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/list/53r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/a22136f9-90ee-4a43-ab07-ad4c44554eeb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-115#xywh=0,0,3631,5527",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/8ba3a9c7-8c28-45fd-b966-ae2f35f5a439",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "No title"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/c6d55b7e-7af4-4c75-ad95-06146414507c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-115#xywh=0,0,3631,5527",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/3f6af8b4-b057-4fa2-807d-bfa1c6eed5db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Flete mecum precor. (!) mea pignora flete fideles Tempora leticie nam periere michi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/12ab1a20-cb8e-439b-8560-d91ac64a6604",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-115#xywh=0,0,3631,5527",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/3e94ac14-e963-4076-90a5-05e9872e7bc8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Quo me nitentem succurrens uisibus egris Proue(h)at omnipotens trinus et unus amen"
+      }
+    }
+  ]
+}

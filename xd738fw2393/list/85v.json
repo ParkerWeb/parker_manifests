@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/85v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/bcd408b0-967c-4809-a331-c1b6b55656ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-176#xywh=0,0,5779,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/d5805f09-10a4-402b-a351-5869bdfc1042",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Kalendae Mensis Novembris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/71bdbbcb-afbc-4015-b4c7-e90bb3510826",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-176#xywh=0,0,5779,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/d8884e65-ba82-4a44-804f-03479eae8202",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ignulfus mon. sac."
+      }
+    }
+  ]
+}

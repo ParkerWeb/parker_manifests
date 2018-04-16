@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/list/283.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/06afaa4d-233d-49f4-b0f0-54ec26a194c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-287#xywh=0,0,3816,6550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/f4df26bb-340e-4c74-92cc-f0ce3f4a32f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: ii Kalendas iulii. Natale Sancti Pauli Apostoli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/f48e0ac2-5828-4259-8189-84c6d504a357",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-287#xywh=0,0,3816,6550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/aedfb8ea-42b0-4ff0-aa62-d5341f86d1fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Godes gelaðung"
+      }
+    }
+  ]
+}

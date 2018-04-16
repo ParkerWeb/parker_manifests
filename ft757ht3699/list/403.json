@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/list/403.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/ad91202e-09e1-4409-9476-ffe5023b0bfd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-421#xywh=0,0,3630,5446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/21ce6e26-3b70-474e-a02f-b29e703093c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Feria ii in Letania maiore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/068de9d3-6967-43ca-97d8-4d4cf0d174e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-421#xywh=0,0,3630,5446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/257c4ce9-bb25-473a-974a-c173485d75a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Men þa leofestan us gedafenað ærest þæt ƿe gemunen"
+      }
+    }
+  ]
+}

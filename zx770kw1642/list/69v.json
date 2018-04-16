@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/list/69v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/annotation/7bc40cf0-3a8e-454d-99e7-9dfc9e4341ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/canvas/canvas-146#xywh=0,0,3615,5595",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/res/27919a34-435b-470f-b6fb-0039f69f7a2b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On 140 at top a note perhaps by Robert Talbot: ἐγ̀ω τον βυβλ́υον ἐκλεπτσ̀α απο του ἰῥα του υίνδ̀ε (=? I stole the book from the priest of Wendy or Windsor?) and other scribbles"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/annotation/501c20de-a7e9-4185-a2c3-1faaadbd3375",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/canvas/canvas-146#xywh=0,0,3615,5595",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/res/aa380608-8663-4185-ae0e-9bb210255601",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "140"
+      }
+    }
+  ]
+}

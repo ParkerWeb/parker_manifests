@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/annotation/fa6b1db9-212f-4473-8479-4eec0d44ad1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/canvas/canvas-13#xywh=0,0,4069,6019",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/res/289daaf7-3fb7-4b9c-ae29-49a50f711553",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Liber Eutropii de principibus Romanis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/annotation/1704ce73-c1b6-4f23-92af-58aaae0cc10a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/canvas/canvas-13#xywh=0,0,4069,6019",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/res/0ff4ee8b-9baf-47c0-91ee-6e5879dedbbe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino valenti gotico etc."
+      }
+    }
+  ]
+}

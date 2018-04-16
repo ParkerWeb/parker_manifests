@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/list/112.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/0e984dde-3a95-47d6-866c-da6f985ed800",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-124#xywh=0,0,3326,5502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/8f686005-7545-4175-8d6a-7c2e428b629f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo de baptismate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/ae70a5f8-a01e-4d63-b800-cb47317ff063",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-124#xywh=0,0,3326,5502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/1663a0e4-dcbd-44c1-aeb1-465e875f9b23",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Leofan men. eallum cristenum mannum is micel þearf þæt hy heora fulluhutes"
+      }
+    }
+  ]
+}

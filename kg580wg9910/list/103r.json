@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/list/103r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/a1c90d78-5a44-4d39-807b-5a895d3815f0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-212#xywh=0,0,4057,5713",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/f6c62039-91b4-4771-bf17-f7657aad26a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(9) Arn. Bost. Jo. Paleonydoro Ghent"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/2cdc99e4-9c32-4370-b5a7-1e2daf490841",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-212#xywh=0,0,4057,5713",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/336dbb6c-4ece-488d-91b2-21ca2dcdb287",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(10) Idem ad eundem Ghent"
+      }
+    }
+  ]
+}

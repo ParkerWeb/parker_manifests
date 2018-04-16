@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/2dd38904-fe97-416e-8453-b84e0b73a354",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-7#xywh=0,0,6178,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/b4dd5d22-b5a2-4792-b416-f16c41d3c9f3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Sancti hylarii episcopi de trinitate primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/5450cd94-7ad5-40fd-9cce-e77feecf9eff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-7#xywh=0,0,6178,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/e02c3ea8-8edf-4bd5-8ae9-222341d415f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Circumspicienti mihi proprium uite humane"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/fc50ca36-6583-4f0e-a5d4-1d0a4c42e18e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-7#xywh=0,0,6178,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/fb1cad7d-9377-47c5-abee-82619bd4267e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in gold: blue ground"
+      }
+    }
+  ]
+}

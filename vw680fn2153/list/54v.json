@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/list/54v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/annotation/bc72a78d-c274-44c2-9660-2f3be07a2d33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/canvas/canvas-114#xywh=0,0,3935,6080",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/res/2398fa5e-0565-49b0-838c-7879a10ea687",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber V"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/annotation/7919b33e-f8fd-41aa-95ee-42bbf8d30704",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/canvas/canvas-114#xywh=0,0,3935,6080",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vw680fn2153/res/6453470c-2c40-4f3a-b48e-1cedd07a9173",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Juxta librum alium quem vidi iste liber 5 non diuiditur in capitula. hic tamen diuiditur et iuxta hoc cotaui"
+      }
+    }
+  ]
+}

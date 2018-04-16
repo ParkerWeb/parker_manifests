@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/5f56a712-6457-4983-8faf-64a4fe1ee94e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-15#xywh=0,0,5621,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/1f55c7a6-cb0f-462a-9c5e-733541f8f691",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Jerome ad Paulinum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/6db02135-bcf2-4970-8851-6028f01a8cf9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-15#xywh=0,0,5621,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/f4088c4b-ce9e-4022-91c1-f92ddbe8e7c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue. Jerome nimbed"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/list/15v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/0d24c6e6-c3bd-4b0b-bf4c-75852247ce4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-34#xywh=0,0,3796,5855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/8cfcbe30-36d4-478f-8463-898ca0e1cb5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: triumphat et regnat per omnia secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/ad743ff9-b8a9-492c-9a01-0d9f175e0451",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-34#xywh=0,0,3796,5855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/06c6c4dd-8ac7-467e-921f-8a58726fc957",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Job filius Sare de bosra rex ydumeorum"
+      }
+    }
+  ]
+}

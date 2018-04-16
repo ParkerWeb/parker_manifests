@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/6.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/12b5192b-50e8-4863-bc98-d791cda0905a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-7#xywh=0,0,3258,8952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/ef4b32bd-f892-48c7-8e29-fa02e69571d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De Fontibus fluviorum Avyn Thamesiae Frome et Castelcombe"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/2fb10a41-f23d-41bf-9ec4-4af707282227",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-7#xywh=0,0,3258,8952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/418f5eff-fade-4af8-abcf-0eb73a148f78",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De castro antiquissimo vocato Yeffandebry super le Playn de Salesbery"
+      }
+    }
+  ]
+}

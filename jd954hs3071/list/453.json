@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/list/453.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/ee5c87e5-b8bd-47ab-99f0-6481d690b990",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-463#xywh=0,0,3185,5010",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/5fafa1f7-65aa-4ee7-b4e8-3101ca4947f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: rescribi mihi impetrem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/0c6ffc43-d91b-437e-814d-86eac3dbaf19",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-463#xywh=0,0,3185,5010",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/0bbb7dc1-2097-4f6b-8584-8acf688b2902",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Litteras istas fecit magister Gualterus ad dominus hugonem. Ipse enim contra has questiones fecit hunc tractatum"
+      }
+    }
+  ]
+}

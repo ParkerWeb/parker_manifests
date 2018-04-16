@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/47r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/ab27414b-8e34-4542-8b1b-7ae293a8c853",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-101#xywh=0,0,5147,8058",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/88d567db-b55c-4a98-a2fa-81c186b737b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit proemium in uitam Sancti Hugonis Lincolniensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/cae92c70-e9f0-4421-a190-d770242af608",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-101#xywh=0,0,5147,8058",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/d26bda5c-e078-486d-aa53-7c22d56e8f34",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quanto rarius"
+      }
+    }
+  ]
+}

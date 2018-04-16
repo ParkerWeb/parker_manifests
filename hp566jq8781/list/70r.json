@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/70r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/3dbc3478-af47-4d1e-a3a3-27762b1654a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-145#xywh=0,0,5050,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/37a5a96d-ec63-48ae-b86e-33b19266e584",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the Lord's Prayer"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/35612bf5-79b6-496c-96f3-fcabdab2a099",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-145#xywh=0,0,5050,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/cc6573c5-ab74-4685-9059-5c7e5454ca9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: ure rice gif ƿe hit geearnian ƿyllan"
+      }
+    }
+  ]
+}

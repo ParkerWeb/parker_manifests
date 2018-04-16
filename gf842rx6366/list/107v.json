@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/list/107v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/98a0efcf-f6d5-4a16-8bc9-181c0d26e2c6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-226#xywh=0,0,4881,7582",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/7d5862b5-05dd-40c8-9689-12aa0f663b2b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: certitudinem communicare dignetur expolicius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/e42e2384-e2fe-4a34-91a7-4e9cfe6ba6d7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-226#xywh=0,0,4881,7582",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/6187b089-663d-4b54-8436-cd04e07e7724",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: (Explicit de 7 septenis)"
+      }
+    }
+  ]
+}

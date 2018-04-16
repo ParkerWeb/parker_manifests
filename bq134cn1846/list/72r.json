@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/72r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/811ad005-4e82-4915-95b2-86417c79f806",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-145#xywh=0,0,6130,8010",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/c7d2fff2-7e3f-4780-8da8-f735c87e93e5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Beginning of Allegoriae Petri Comestoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/d613ce90-68d7-4e12-9203-31ae1bd67d93",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-145#xywh=0,0,6130,8010",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/08520bf2-e9a6-4403-9c3d-3d956316e284",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In precedentibus premissa descriptione originis"
+      }
+    }
+  ]
+}

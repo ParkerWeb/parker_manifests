@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/7r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/66f76250-0c46-4346-a212-a93c804cd3f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-19#xywh=0,0,4262,6770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/73bbef59-2e24-4b33-9557-1e85186fb856",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Pref. b. Ieronimi presb. ad Desiderium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/fb3a9099-5e11-4d46-8d42-21073f80fa89",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-19#xywh=0,0,4262,6770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/e012c28b-5c90-4e7b-be49-4661622087de",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prol. to Pentateuch"
+      }
+    }
+  ]
+}

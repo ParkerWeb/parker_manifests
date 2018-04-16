@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/list/244r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/491c3bfa-7c9e-4c47-8f0c-b967c93e8d96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-497#xywh=0,0,3797,5653",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/a7636cd4-50eb-4d1d-825d-a0175803f2ef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: medelam implorare digneris (bis) per d. n. I."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/da0c0968-7187-4c11-a710-6798fbdd2beb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-497#xywh=0,0,3797,5653",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/e646ea08-7ff2-4dcc-bb34-154875dab613",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Videtur huic operi inserendum"
+      }
+    }
+  ]
+}

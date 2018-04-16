@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/list/142r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/dfcccf2c-7dd0-4b95-9654-10353a48a5c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-293#xywh=0,0,5471,9462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/2281acb7-b6a1-4dfe-9faf-d743491552c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the following page in a hand of cent. xvi in double columns is an abridged extract from the Gesta Regum beginning"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/6c096046-db73-49ce-8d57-5d2a669c354a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-293#xywh=0,0,5471,9462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/165f50e9-d424-489d-add4-882bd5b77a69",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: et profecto conceptum opus pietas explesset"
+      }
+    }
+  ]
+}

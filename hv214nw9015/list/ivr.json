@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/list/ivr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/6bd42ff5-2a57-43a6-8efa-58aed7d92942",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-11#xywh=0,0,5995,8759",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/eaac4aec-9f7d-4c3c-8614-6fd0608f05ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Liber II a legatione Willelmi et Othonis cardinalium"
+      }
+    }
+  ]
+}

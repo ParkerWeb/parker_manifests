@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/8f97d9fc-af31-45db-bf11-f0456933cc62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-7#xywh=0,0,3882,5420",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/86cd7279-ca3d-4526-a53d-6e2fa7a12638",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The title of the work"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/adc4b1fe-4032-4921-ac72-b9b4834feb7b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-7#xywh=0,0,3882,5420",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/eb3861d6-9b5f-45bb-9b49-117de0c7bac2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tu quem psallentem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/bdbb44ad-d298-4f5b-9b31-7a9340b781bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-7#xywh=0,0,3882,5420",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/a97cfbcb-c222-4e1f-8853-414eed375152",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The initial"
+      }
+    }
+  ]
+}

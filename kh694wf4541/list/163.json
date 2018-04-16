@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/list/163.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/a9623d97-bad8-41d5-84f8-9adf4b39d877",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-171#xywh=0,0,6250,9342",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/08af19a8-8688-4faf-9666-448d461d829c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: esse de numero sapientum antiquorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/6025793c-02ec-4ffe-b2ef-5f2cfb00b39c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-171#xywh=0,0,6250,9342",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/db97b631-e782-4e36-b62a-c37192ae3071",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit rosarius maior philosophorum uerissimus et in arte nostra optimus"
+      }
+    }
+  ]
+}

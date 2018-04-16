@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/list/146r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/annotation/09593513-c231-4d2c-b62f-401fced29c5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/canvas/canvas-305#xywh=0,0,3422,5030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/res/7292d9cd-377f-4416-b1ab-6cd33d157904",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Uestrum est martiri famulancium laudum preconia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/annotation/a48f6db5-c3da-4a72-9802-3a8b86d284d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/canvas/canvas-305#xywh=0,0,3422,5030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/res/fab6ffba-0dad-421d-9388-d543be6294df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prosequi"
+      }
+    }
+  ]
+}

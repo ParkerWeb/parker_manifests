@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/78r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/3874ed59-240b-44cd-b085-a76ee6362945",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-163#xywh=0,0,3806,5886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/894171cd-e8f7-4c77-b811-5132d17a5893",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ending"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/866b77d6-316f-4c60-a53d-992c3eee3f83",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-163#xywh=0,0,3806,5886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/65433fd3-db0f-4b13-bc93-fa1d57401c72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Alleluia pio cantu sine fine per euum. Amen"
+      }
+    }
+  ]
+}

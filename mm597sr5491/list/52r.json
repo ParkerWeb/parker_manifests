@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/list/52r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/013a37bb-d971-4c05-8aba-c37126c0f3d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-113#xywh=0,0,3596,5544",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/50c4f0d1-b269-4dbd-9ced-42f024ecbbc6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "No. XCV. Gaufrido Windocinensis monasterii abbato"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/4b77fac0-274a-4d58-99ca-26ab8946daf0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-113#xywh=0,0,3596,5544",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/ae88bc82-975d-45c9-b5df-576e426b468f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "XCVI. Urbanus ... clero ac populo carnotensi"
+      }
+    }
+  ]
+}

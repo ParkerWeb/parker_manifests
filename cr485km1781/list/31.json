@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/list/31.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/dde37fee-7841-4da3-9f18-384bbe04fd65",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-41#xywh=0,0,4904,8840",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/cc860d30-bf97-4918-91f7-b21ffee0e9e0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: To gehadedum mannum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/annotation/c9177074-1320-42aa-9008-817e2b45fedd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/canvas/canvas-41#xywh=0,0,4904,8840",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cr485km1781/res/df90114d-30cc-45cf-86fd-98aa706ec22b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Us biscopum gedafenað"
+      }
+    }
+  ]
+}

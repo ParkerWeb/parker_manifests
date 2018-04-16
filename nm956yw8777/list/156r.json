@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/list/156r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/annotation/58c8282e-4738-4fac-aa66-6a3c614d8a4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/canvas/canvas-321#xywh=0,0,5566,7962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/res/88fb518a-60e9-44cd-93db-86ff4d46b41b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nulli instabilitati subiecta est. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/annotation/4a861600-8a84-4bec-aff3-a80c168409a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/canvas/canvas-321#xywh=0,0,5566,7962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/res/d14661ec-50ff-46d4-9676-fe0abc197392",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequitur de sanctis"
+      }
+    }
+  ]
+}

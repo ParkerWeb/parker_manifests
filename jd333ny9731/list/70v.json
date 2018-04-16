@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/70v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/661caaa3-3a7d-40eb-8617-8a4bd4513c0f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-158#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/f99171c5-2c34-48bc-801f-be14d3394b26",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Electio trium monachorum Cantuariensium ad tres abbacias"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/113efb93-544c-4e4d-ae23-fe84c4e98f42",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-158#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/c64aa864-1aa7-4e6e-8d2c-01d829a737ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Resignacio Herlewyni prioris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/e0363630-9848-4547-bff7-6f467d182650",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-158#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/23fc0306-df6d-4ba3-a2f2-01a103fd24a3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nota de reliquiae Sancti Audoeni et de incendio Ciuitatis Cantuariensis"
+      }
+    }
+  ]
+}

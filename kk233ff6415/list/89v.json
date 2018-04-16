@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/list/89v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/a4aa4be3-171c-4043-9b7a-48512e08b55e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-228#xywh=0,0,3699,5258",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/d120e95a-9d0b-4aa0-a852-cd512dd5726a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sancti Augustini salubris ammonitio ad compescendam superbiam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/e82511fa-8eea-4912-85bc-524b06e86428",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-228#xywh=0,0,3699,5258",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/bf558fe1-d272-4098-a816-feb2db820b13",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Diuitiis et floribus et maiorum nobilitate te iactas"
+      }
+    }
+  ]
+}

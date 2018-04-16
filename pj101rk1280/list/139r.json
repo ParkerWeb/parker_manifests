@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/list/139r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/2834633c-77f0-4f04-8100-600cc1f15b99",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-289#xywh=0,0,5374,8526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/da727a46-c08e-46aa-aceb-c6f554001076",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: aut eiusdem anni epactam siue terminum pascalem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/e5c7a5b6-ba83-4ee7-a753-bc7728f72089",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-289#xywh=0,0,5374,8526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/6a761c9a-915a-42a2-b61e-d6ced7aa8266",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table of the 19-year cycle with Concurrents"
+      }
+    }
+  ]
+}

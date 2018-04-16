@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/bee13881-7803-4d0e-a32d-77af7703087d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-6#xywh=0,0,3808,5871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/28b55482-657e-487a-bf01-d74843b99d95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: recolo vel legisse"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/5f430329-593c-4561-97a6-ba409d53e307",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-6#xywh=0,0,3808,5871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/59b3b790-18ab-461c-923c-31c4c7123717",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vir erat etc. Tria hic ponuntur"
+      }
+    }
+  ]
+}

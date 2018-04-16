@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/list/22r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/043ca538-330a-4a52-baaa-98ce8108a789",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-53#xywh=0,0,3632,5514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/35584c5e-cba4-4ac1-a2f1-804426ef6635",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ad instruccionem multorum quibus deest copia librorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/d53ad10c-b6f4-4f4d-a209-079625b9a062",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-53#xywh=0,0,3632,5514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/b263f638-9748-4110-a8df-adec5ff530b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Mundus dicitur quasi (?) undique motus"
+      }
+    }
+  ]
+}

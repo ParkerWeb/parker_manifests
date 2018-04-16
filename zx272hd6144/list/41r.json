@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/list/41r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/aaf05fcb-ae93-4fc6-9631-555cf76abf7e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-89#xywh=0,0,5534,8447",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/a325707b-1fc8-4fc2-8aa1-424c374a381e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: possibile ex euidenti exemplo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/94f8bb9c-139a-4474-a615-d8edb1e386ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-89#xywh=0,0,5534,8447",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/a1b6bd97-7385-40c1-83e9-ea2374e87294",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Capitula precede)"
+      }
+    }
+  ]
+}

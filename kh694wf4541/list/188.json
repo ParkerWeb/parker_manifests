@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/list/188.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/ebf712cf-ec65-4bb3-a9a7-590785ddde27",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-196#xywh=0,0,6346,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/37169fb4-08e9-4ade-9d25-95fa7ef56fe7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quam possis percipere racione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/annotation/faa3ea55-b4bf-4b74-8131-c24471dd33f1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/canvas/canvas-196#xywh=0,0,6346,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh694wf4541/res/1141c490-98a8-4357-93d4-51a44289a465",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Nam si nature uulgo secreta paterent...Sunt preciosa magis cum rarius inueniuntur"
+      }
+    }
+  ]
+}

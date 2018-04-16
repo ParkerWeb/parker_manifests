@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/list/12.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/fef72c37-5ea2-444e-9ee0-419fa8221ab8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-27#xywh=0,0,5447,8190",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/b19d04ce-8e25-4180-adaa-ae9245cf0642",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prefatio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/a6b73da4-13c4-4d79-8fb8-87e8c154a1be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-27#xywh=0,0,5447,8190",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/8be91df8-ef57-4a2c-b057-79c5a62839e0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quod modo infantes cathecumini"
+      }
+    }
+  ]
+}

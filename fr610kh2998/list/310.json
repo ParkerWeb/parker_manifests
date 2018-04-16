@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/310.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/7b4069ad-02dc-499d-9b4b-8d29ec80ec62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-316#xywh=0,0,3559,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/9780576f-0c18-499c-bddd-f48ecbad6782",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In a hand of cent. xii. Excommunication"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/0ee91726-33d5-422a-91f0-d54c35cc4479",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-316#xywh=0,0,3559,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/c7ba66e0-2e86-4ca5-a653-af5cb0ccfe62",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ex auctoritate patris et ex uerbo filii"
+      }
+    }
+  ]
+}

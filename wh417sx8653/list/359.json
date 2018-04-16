@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/list/359.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/96a6bcf1-301f-4a2e-aa34-e19c4e86b354",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-357#xywh=0,0,3590,5550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/6afb3a0f-ce4f-4b75-95d8-06f592bdf5f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: decus religionis defensio crimi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/910c97ca-7ef8-4984-9c20-e196033180bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-357#xywh=0,0,3590,5550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/74ded768-9387-4057-9821-e7dc6814a77a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Instructio nouitiorum secundum consuetudinem ecclesie Cantuariensis"
+      }
+    }
+  ]
+}

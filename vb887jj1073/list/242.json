@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/list/242.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/499eb574-86c4-41e0-84e4-37bb6fb0e8bb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-252#xywh=0,0,5920,9036",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/e8dd493c-83c9-415a-baff-affc750f2d7d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Aurelii augustini doctoris de uera religione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/ce596b06-6bfd-41b0-a90a-f86a738c2830",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-252#xywh=0,0,5920,9036",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/7a38ba3b-5ef5-4d58-93d7-9d97736f1fa0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum omnis uite"
+      }
+    }
+  ]
+}

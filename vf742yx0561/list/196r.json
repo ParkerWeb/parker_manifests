@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/list/196r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/bbb91a6c-80bc-49d4-b26f-8ff80cb9825f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-399#xywh=0,0,5987,8587",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/0f93d86f-1815-45a3-be26-94f56d3b27eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dulcedo cordium Iesus. qui est benedictus in secula. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/1af502c2-b4df-4157-b307-e9dea44f59ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-399#xywh=0,0,5987,8587",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/28aa5966-738e-4d12-b407-c1f66519e5ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/653cc5b0-b046-46bf-a740-f1b6787e951b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-399#xywh=0,0,5987,8587",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/48cfcdc4-e377-4f89-b1e8-90ddfaa21447",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(in a different hand)"
+      }
+    }
+  ]
+}

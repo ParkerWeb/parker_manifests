@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/list/131v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/b2aacbcc-826a-4642-913d-eaef42e7ce12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-268#xywh=0,0,4063,5910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/8a5a9a8a-d9e3-49e3-9019-ee705aad624c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Si ab eo quod est lepos non ab eo quod est lepus deflexum est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/e2406c3f-3592-4784-9b00-55ece67966a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-268#xywh=0,0,4063,5910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/64fb93f5-82d9-4282-9466-a096a990c1ff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit aurilii augustini epistola de dialectica"
+      }
+    }
+  ]
+}

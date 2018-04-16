@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/a59c6a03-81c8-4f46-8621-b2c9c2855b00",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-13#xywh=0,0,4882,8118",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/af93757d-129f-4558-961e-4c15e4e1d48f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prophecia sibille que floruit ante incarnacionem domini ao dco lxo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/51e4b641-3bd7-4862-b317-c93e87ee1931",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-13#xywh=0,0,4882,8118",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/d0dbfd89-d502-4c90-bab4-99fb8aacf786",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sibille generaliter omnes femine dicuntur prophetantes"
+      }
+    }
+  ]
+}

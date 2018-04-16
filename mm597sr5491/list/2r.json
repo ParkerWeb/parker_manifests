@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/aea0d751-ccb4-44c1-8727-f01a25c8959f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-13#xywh=0,0,3462,5382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/779af087-75d9-43a1-bfa7-7db7b8632fa3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De conueniencia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/annotation/614bbfbe-a796-45c1-a223-513e21bae5f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/canvas/canvas-13#xywh=0,0,3462,5382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mm597sr5491/res/5927b1cc-bb07-44c6-bedc-0d71487c1da2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Benefitia que pro saluandorum"
+      }
+    }
+  ]
+}

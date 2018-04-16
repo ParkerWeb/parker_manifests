@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/list/93v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/annotation/4003c0a6-ccff-45cf-a439-77e969e2f854",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/canvas/canvas-196#xywh=0,0,3582,5062",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/res/218c1889-7a2b-4c45-b534-a7fae4a0c09f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo in ramis palmarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/annotation/af5e67d7-d071-4e6c-a310-c1b34a707264",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/canvas/canvas-196#xywh=0,0,3582,5062",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/res/704f4e04-8bc8-456e-89c8-cba21ee44c4d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iam hyems transit et ymber abiit"
+      }
+    }
+  ]
+}

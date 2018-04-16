@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/list/25.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/c27fe4aa-6217-44a3-adbc-1754b7953e54",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-31#xywh=0,0,3247,6715",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/22190c10-141c-44c4-aa9d-7cc38835ac52",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit decreta Clementis pape"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/6efba984-35c6-4178-8668-c389e470a292",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-31#xywh=0,0,3247,6715",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/6c9a09fc-29d0-4c5c-89d3-8581c0234a9c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si qui ex fratribus negotia habent inter se"
+      }
+    }
+  ]
+}

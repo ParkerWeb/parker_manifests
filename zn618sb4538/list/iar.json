@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/list/iar.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/184f6b1e-2bf9-485b-a429-79bf63929368",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-13#xywh=0,0,4268,5842",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/d564a6ec-6de4-4249-ac9e-d44159b4a6d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The first leaf in a different hand from the rest"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/179afb1f-7646-41c6-8ace-39a205e14b6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-13#xywh=0,0,4268,5842",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/a718bde4-f05f-4202-9653-c3ffde5a392a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam ut apostollus prima ad Cor. iiij. Omnia honestate"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/list/84r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/3f7abf3d-26e9-43eb-8599-2a516ff01d04",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-177#xywh=0,0,3150,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/364e9393-a745-44f5-888a-5ff8db6083f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Greek alphabet twice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/077db338-6cfb-428f-9f5b-eff7f9fb8d57",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-177#xywh=0,0,3150,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/b36bbb1f-fdc1-4a31-adce-3fe366c4ce8d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: A (Alfa) agricola B (Beta) uetus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/7e18394e-10e9-42c3-bc87-d394aa30d7f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-177#xywh=0,0,3150,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/02d4fa57-bc9d-4119-9b70-f3fe662e9e00",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "then with numerical equivalents"
+      }
+    }
+  ]
+}

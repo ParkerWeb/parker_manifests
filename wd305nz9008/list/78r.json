@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/list/78r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/annotation/184bc1fd-7c52-4481-9bf4-7168ac96cbf1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/canvas/canvas-167#xywh=0,0,3846,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/res/be669a53-7b26-497b-96b1-e97e3c6e61a3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Emenso pelago cum demum gallus ad anglosApplicui placuit applicuisse mihi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/annotation/5dd46517-d85e-401c-812b-78d8957adfb8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/canvas/canvas-167#xywh=0,0,3846,5726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd305nz9008/res/05d063fe-4e1b-4ee1-84bf-25c71411a6f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ingenii precium facies promittere letaAc monstrare potest officiosa manus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Cambridge, Corpus Christi College, MS 363: Nennius (attrib.), Historia Brittonum",
+  "attribution": "© the Master and Fellows of Corpus Christi College, Cambridge. Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
+  "seeAlso": {
+    "@id": "https://purl.stanford.edu/sq763wg3834.mods",
+    "profile": "application/mods+xml"
+  },
+  "sequences": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/normal",
+      "@type": "sc:Sequence",
+      "label": "Current page order",
+      "canvases": [
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-1",
+          "@type": "sc:Canvas",
+          "label": "f. 1r",
+          "height": 8247,
+          "width": 5904,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_001_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8247,
+                "width": 5904,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_001_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-1"
+            }
+          ],
+          "otherContent": [
+            {
+              "@type": "sc:AnnotationList",
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/list/1r.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-2",
+          "@type": "sc:Canvas",
+          "label": "f. 1v",
+          "height": 8215,
+          "width": 5920,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_001_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8215,
+                "width": 5920,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_001_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-2"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-3",
+          "@type": "sc:Canvas",
+          "label": "f. 2r",
+          "height": 8247,
+          "width": 5872,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_002_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8247,
+                "width": 5872,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_002_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-3"
+            }
+          ],
+          "otherContent": [
+            {
+              "@type": "sc:AnnotationList",
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/list/2r.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-4",
+          "@type": "sc:Canvas",
+          "label": "f. 2v",
+          "height": 8310,
+          "width": 5968,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-4",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_002_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8310,
+                "width": 5968,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_002_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-4"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-5",
+          "@type": "sc:Canvas",
+          "label": "f. 2ar",
+          "height": 8247,
+          "width": 6496,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-5",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_002a_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8247,
+                "width": 6496,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_002a_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-5"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-6",
+          "@type": "sc:Canvas",
+          "label": "f. 2av",
+          "height": 8103,
+          "width": 6400,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-6",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_002a_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8103,
+                "width": 6400,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_002a_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-6"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-7",
+          "@type": "sc:Canvas",
+          "label": "f. 3r",
+          "height": 8343,
+          "width": 5808,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_003_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8343,
+                "width": 5808,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_003_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-7"
+            }
+          ],
+          "otherContent": [
+            {
+              "@type": "sc:AnnotationList",
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/list/3r.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-8",
+          "@type": "sc:Canvas",
+          "label": "f. 3v",
+          "height": 8406,
+          "width": 5808,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_003_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8406,
+                "width": 5808,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_003_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-8"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-9",
+          "@type": "sc:Canvas",
+          "label": "f. 4r",
+          "height": 8327,
+          "width": 6048,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_004_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8327,
+                "width": 6048,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_004_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-9"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-10",
+          "@type": "sc:Canvas",
+          "label": "f. 4v",
+          "height": 8279,
+          "width": 5952,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_004_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8279,
+                "width": 5952,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_004_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-10"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-11",
+          "@type": "sc:Canvas",
+          "label": "f. 5r",
+          "height": 8247,
+          "width": 6080,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_005_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8247,
+                "width": 6080,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_005_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-11"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-12",
+          "@type": "sc:Canvas",
+          "label": "f. 5v",
+          "height": 8279,
+          "width": 6048,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-12",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_005_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8279,
+                "width": 6048,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_005_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-12"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-13",
+          "@type": "sc:Canvas",
+          "label": "f. 6r",
+          "height": 8406,
+          "width": 6000,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-13",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_006_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8406,
+                "width": 6000,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_006_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-13"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-14",
+          "@type": "sc:Canvas",
+          "label": "f. 6v",
+          "height": 8486,
+          "width": 5888,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-14",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_006_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8486,
+                "width": 5888,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_006_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-14"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-15",
+          "@type": "sc:Canvas",
+          "label": "f. 7r",
+          "height": 8359,
+          "width": 6080,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-15",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_007_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8359,
+                "width": 6080,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_007_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-15"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-16",
+          "@type": "sc:Canvas",
+          "label": "f. 7v",
+          "height": 8438,
+          "width": 6032,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-16",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_007_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8438,
+                "width": 6032,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_007_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-16"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-17",
+          "@type": "sc:Canvas",
+          "label": "f. 8r",
+          "height": 8342,
+          "width": 6048,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-17",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_008_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8342,
+                "width": 6048,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_008_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-17"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-18",
+          "@type": "sc:Canvas",
+          "label": "f. 8v",
+          "height": 8358,
+          "width": 6080,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-18",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_008_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8358,
+                "width": 6080,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_008_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-18"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-19",
+          "@type": "sc:Canvas",
+          "label": "f. 9r",
+          "height": 8374,
+          "width": 5776,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-19",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_009_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8374,
+                "width": 5776,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_009_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-19"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-20",
+          "@type": "sc:Canvas",
+          "label": "f. 9v",
+          "height": 8422,
+          "width": 5920,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-20",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_009_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8422,
+                "width": 5920,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_009_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-20"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-21",
+          "@type": "sc:Canvas",
+          "label": "f. 10r",
+          "height": 8374,
+          "width": 5888,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-21",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_010_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8374,
+                "width": 5888,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_010_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-21"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-22",
+          "@type": "sc:Canvas",
+          "label": "f. 10v",
+          "height": 8343,
+          "width": 6000,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-22",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_010_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8343,
+                "width": 6000,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_010_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-22"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-23",
+          "@type": "sc:Canvas",
+          "label": "f. 11r",
+          "height": 8359,
+          "width": 5872,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-23",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_011_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8359,
+                "width": 5872,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_011_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-23"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-24",
+          "@type": "sc:Canvas",
+          "label": "f. 11v",
+          "height": 8342,
+          "width": 5984,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-24",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_011_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8342,
+                "width": 5984,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_011_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-24"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-25",
+          "@type": "sc:Canvas",
+          "label": "f. 12r",
+          "height": 8422,
+          "width": 5760,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-25",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_012_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8422,
+                "width": 5760,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_012_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-25"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-26",
+          "@type": "sc:Canvas",
+          "label": "f. 12v",
+          "height": 8470,
+          "width": 5920,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-26",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_012_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8470,
+                "width": 5920,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_012_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-26"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-27",
+          "@type": "sc:Canvas",
+          "label": "f. 13r",
+          "height": 8279,
+          "width": 5936,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-27",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_013_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8279,
+                "width": 5936,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_013_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-27"
+            }
+          ],
+          "otherContent": [
+            {
+              "@type": "sc:AnnotationList",
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/list/13r.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-28",
+          "@type": "sc:Canvas",
+          "label": "f. 13v",
+          "height": 8327,
+          "width": 6048,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/imageanno/anno-28",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_013_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8327,
+                "width": 6048,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_013_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-28"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "viewingHint": "paged",
+  "logo": {
+    "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "thumbnail": {
+    "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834/363_001_R_TC_46/full/!400,400/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/sq763wg3834%252F363_001_R_TC_46",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "structures": [
+    {
+      "@type": "sc:Range",
+      "label": "Table of Contents",
+      "viewingHint": "top",
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/range/r0",
+      "ranges": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/range/r1"
+      ]
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/range/r1",
+      "@type": "sc:Range",
+      "label": "Nennius (attrib.), Historia Brittonum",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-1",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-2",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-3",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-4",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-5",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-6",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-7",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-8",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-9",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-10",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-11",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-12",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-13",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-14",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-15",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-16",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-17",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-18",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-19",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-20",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-21",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-22",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-23",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-24",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-25",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-26",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-27",
+        "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-28"
+      ]
+    }
+  ]
+}

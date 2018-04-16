@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/616.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/f1b05ba1-f957-4533-9ecc-b3fc0ed5ec64",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-628#xywh=0,0,4841,8352",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/458f85b9-3ed9-44ea-a11e-9049828360d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ego uolo esse confessus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/26f65ff2-5aa8-4b60-b499-3e4a14d68233",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-628#xywh=0,0,4841,8352",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/c181fce5-ab65-4066-afc0-8ea260e9e707",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "but ends imperfectly (a leaf gone)"
+      }
+    }
+  ]
+}

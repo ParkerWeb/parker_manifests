@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/list/123r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/ae2db3f0-18b7-4478-b96a-3cf3c9277910",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-256#xywh=0,0,4019,5596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/09736406-c5e1-44ab-bd70-856fbd0d6727",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber de consciencia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/e4adddd6-6113-461f-9516-4550dd8bc40c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-256#xywh=0,0,4019,5596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/421e5caf-231c-42b5-9094-082ec190af2f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domus in qua habitamus ex omni parte sui ruinam"
+      }
+    }
+  ]
+}

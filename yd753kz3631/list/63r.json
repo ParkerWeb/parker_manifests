@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/list/63r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/37ec6b81-fad0-4126-9360-9e02c572dd31",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-131#xywh=0,0,5842,9006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/90a3f51d-6b77-4b77-a20c-17020a071376",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De continencia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/afab5555-56cf-4d32-81fb-3921ee91f47e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-131#xywh=0,0,5842,9006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/5c4b5e9d-3376-49b8-96a1-d8782a684644",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fratres aliqui uolentes"
+      }
+    }
+  ]
+}

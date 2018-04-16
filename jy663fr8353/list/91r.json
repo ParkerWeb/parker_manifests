@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/list/91r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/b507ee69-e5d7-49d5-be1b-9f4837e97d0a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-195#xywh=0,0,5062,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/6394af0f-84f3-4b6f-a8fb-e513f725de61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: prophecia de Benedicto xio de ord. predicatorum (1303)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/cb6b20d1-0868-4c61-9944-3656b8d84c9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-195#xywh=0,0,5062,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/afc99d00-fb33-4a65-9f3f-9f0eb804b4f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Church. Below a hooded head blowing upwards"
+      }
+    }
+  ]
+}

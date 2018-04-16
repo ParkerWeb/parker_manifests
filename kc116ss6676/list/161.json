@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/list/161.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/0a98dc5c-e921-4b1c-9021-fc7e0c98df3e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-167#xywh=0,0,3535,6688",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/79bdbafe-4c05-46c2-9ce9-e663a2fbd923",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ieronimus de membris domini nostri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/ec8982a2-849c-4eb3-8c30-66bee2ccccc7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-167#xywh=0,0,3535,6688",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/c8e1b671-1729-4415-b925-476fddd50cd3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnipotens deus pater et filius et spiritus sanctus unus est atque trinus unus uidelicet in natura trinus in personis"
+      }
+    }
+  ]
+}

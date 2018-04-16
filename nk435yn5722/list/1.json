@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/8d1d8025-aa2d-4901-9906-c999140b702a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-7#xywh=0,0,3704,5553",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/f4d405e9-f8a8-4f68-a090-4f8e7a55f370",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo Sancti Augustini episcopi doctoris de presentia dei ad dardanum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/42a7320a-3adf-41f8-b91b-b6a3aceea0de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-7#xywh=0,0,3704,5553",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/64a3c7ba-296d-4188-a701-a0170d8d7641",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fateor me frater"
+      }
+    }
+  ]
+}

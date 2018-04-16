@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/list/81v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/ca08822e-d74c-4b36-af23-ffe93b0596e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-164#xywh=0,0,5808,8071",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/ca0e80d1-f975-44a9-97f4-415b529e83c8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A receipt Pro osse fracto of cent. xv partly in English"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/d438dab2-6adb-4256-9479-4630ecd509a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-164#xywh=0,0,5808,8071",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/b65a4537-6d16-432f-8bfe-c25c122ec4cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In medendis corporibus et maxime purgandis"
+      }
+    }
+  ]
+}

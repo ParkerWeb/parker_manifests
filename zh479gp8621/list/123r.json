@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/list/123r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/cc379d5f-11f8-4670-b3ce-5a2ed28aaf7b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-255#xywh=0,0,6098,9134",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/d1162254-b64d-4f82-88f3-b47150cb62b0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dominus et deus noster"
+      }
+    }
+  ]
+}

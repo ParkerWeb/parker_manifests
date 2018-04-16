@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/list/185r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/395000a5-35df-44f3-a97d-c3a5eabf3007",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-425#xywh=0,0,6118,8634",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/f9392b8e-e266-4e44-ad51-2ee9815b97d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit metalogicon Johannis. Liber I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/a6158f89-c048-4bb8-a689-5eb39b6b3dc9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-425#xywh=0,0,6118,8634",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/5be3e731-c0a1-4313-841d-17a3aa071559",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aduersus insigne donum nature"
+      }
+    }
+  ]
+}

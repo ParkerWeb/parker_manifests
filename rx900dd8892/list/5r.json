@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/list/5r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/fc2cf6bf-ce54-464a-95da-16d21ff9d402",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-17#xywh=0,0,3291,4952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/2f322b61-8d54-4b63-9e35-d18c4a45f1e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit exposicio Magistri Hugonis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/512b8153-20fb-48d0-bd69-83bec81b029f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-17#xywh=0,0,3291,4952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/f8e1f60e-156b-4137-a44f-56aa88e3312c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primus liber dyonisii theologi"
+      }
+    }
+  ]
+}

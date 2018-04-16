@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/list/9r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/9f46333e-bf79-47e2-ac19-090635c0f8fa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-23#xywh=0,0,3383,5393",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/a43c7224-f8ab-44e8-a060-ab03553f99a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Proemium in mappam mundi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/1265f646-eb61-4764-96bd-351ed1ad4d48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-23#xywh=0,0,3383,5393",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/25a5fe4e-a393-4037-9aeb-6bddc7e2ce40",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anglicane insule situs et temperies"
+      }
+    }
+  ]
+}

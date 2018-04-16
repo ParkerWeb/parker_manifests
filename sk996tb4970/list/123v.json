@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/list/123v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/b272e274-abd7-45e5-90ea-e148fc4f0aa1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-256#xywh=0,0,5158,7883",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/bffa113e-96fa-4c6a-87b7-0e633e318d38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Alleluia. Expliciunt psalmi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/cfc79758-a14a-4ee0-b527-9743b81d431b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-256#xywh=0,0,5158,7883",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/060aaf83-7ae1-4056-ab9a-585c3588b6aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Psalmus ipsi Dauid"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/fd88d7c8-d9e4-45a9-b20c-3eb0c402bd98",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-256#xywh=0,0,5158,7883",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/c0fe3c21-155c-46cd-a1ee-00d447208b67",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pusillus eram"
+      }
+    }
+  ]
+}

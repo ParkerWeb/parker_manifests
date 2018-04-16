@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/list/57r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/annotation/07f4ebc8-c653-41bf-ac47-17e187f6ad8d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/canvas/canvas-123#xywh=0,0,6095,8694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/res/887908e7-f4bb-4cc1-9053-f5d91fb09cd7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Þof it be writen þat dyuers has wryten"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/annotation/28f7913d-7806-4605-9cbf-be834922e821",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/canvas/canvas-123#xywh=0,0,6095,8694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq542pz5281/res/6b02029d-9a24-4c4e-adcf-fca796185785",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rough initial"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/7v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/34f86c5b-2a22-4de8-a204-8977623ecfeb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-16#xywh=0,0,6130,7998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/fef8b6b8-19d4-41ab-9f96-efef6ebf9127",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: intendere valeamus. Dat. rate secundo Idus Sept. pontif. nostri anno secundo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/aefc31b2-2900-4716-8fe8-bdc97afca9b4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-16#xywh=0,0,6130,7998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/b0fa164b-dd5c-4af4-9a0b-40391c8719d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "blank"
+      }
+    }
+  ]
+}

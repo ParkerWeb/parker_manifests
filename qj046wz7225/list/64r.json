@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/list/64r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/annotation/251a3bc1-6648-4901-b16b-0adc21137d76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/canvas/canvas-129#xywh=0,0,5939,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/res/d71b40bb-a927-40de-8451-9132bead616e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quam in toto antecedente reperiatur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/annotation/72eed03e-cef6-4ef6-bf14-3b69f255038e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/canvas/canvas-129#xywh=0,0,5939,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj046wz7225/res/c660da89-ef96-49f9-90b4-715d308d4f45",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic finis a maiestatis regiae legatis disputationibus est impositus"
+      }
+    }
+  ]
+}

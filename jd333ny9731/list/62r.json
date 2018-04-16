@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/62r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/e447a1d0-b1c0-4fa4-b766-6c1225eb0384",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-141#xywh=0,0,4053,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/a0a25dc0-34cf-4b8b-a69d-4811e06781f3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio Clare(m)baldi Abbatis de ffauersham"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/8fb7ac4c-c890-46cd-b122-3d16c37898d8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-141#xywh=0,0,4053,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/2e5e4660-8f61-43b1-a95c-ecdf556212c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Waltero Priore Ecclesiae Christi"
+      }
+    }
+  ]
+}

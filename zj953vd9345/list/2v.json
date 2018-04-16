@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/annotation/84b75f26-c522-459f-a12d-b43960d4ed78",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/canvas/canvas-12#xywh=0,0,5806,8802",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/res/ad5a93fd-3025-46d8-8a90-258537448b49",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus theologice ueritatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/annotation/0ed2d338-1900-46e6-8058-146e1f196f2e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/canvas/canvas-12#xywh=0,0,5806,8802",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/res/dc158a8a-8ea0-46e3-a2d6-2c875a2debad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ueritatis theologice sublimitatis"
+      }
+    }
+  ]
+}

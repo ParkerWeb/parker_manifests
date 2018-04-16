@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/list/246v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/annotation/0e5bb9f5-aa29-4647-b666-91de0cb82c5c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/canvas/canvas-502#xywh=0,0,5878,9510",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/res/04b0b194-49d4-44ae-9a21-d1218a981b4a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ueterum de germine natus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/annotation/0fde3ac4-31b5-4c14-ab98-4841a26c9a3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/canvas/canvas-502#xywh=0,0,5878,9510",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/res/2d360a6e-1cf2-4fd4-a6ad-8a876d22fc2d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber in canticis canticorum"
+      }
+    }
+  ]
+}

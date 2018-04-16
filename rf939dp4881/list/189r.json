@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/list/189r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/annotation/1ea9ce49-7874-42e5-8f8c-2ab2168f3edc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/canvas/canvas-383#xywh=0,0,6123,8952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/res/f3d3ce49-809f-4077-b266-1fec26efd9aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Quanto leuiori impulsu fuerat prostratus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/annotation/16931205-751f-450d-97aa-2386804da5a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/canvas/canvas-383#xywh=0,0,6123,8952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/res/ec0af97f-3c77-4e86-8f84-459ee9a00bc1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Que non tantum istas aures corporreas sed interiores"
+      }
+    }
+  ]
+}

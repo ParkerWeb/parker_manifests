@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/list/115r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/831c0120-b032-4c05-a12d-8c9bc18ab884",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-237#xywh=0,0,3513,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/69f2b5e5-96c1-41c0-bef6-ce730aa387bf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus contra Iudeos thalamoth"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/annotation/9e967a7e-e291-49cc-9768-7a39e995edc8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/canvas/canvas-237#xywh=0,0,3513,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ng831fz5582/res/40f7270d-b715-4b6a-9eda-1a04a92fc9f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(in large letters"
+      }
+    }
+  ]
+}

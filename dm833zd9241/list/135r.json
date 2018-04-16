@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/list/135r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/annotation/ce9ae78b-9707-4807-aca1-9aa7d6fc236c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/canvas/canvas-279#xywh=0,0,3544,5260",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/res/96350648-1bc8-413d-a27b-5b203a3d390d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: se esse proditorem regum temporalium et cristi enim domini regis regum et cetera"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/annotation/dd91ba22-42bf-4a22-b34d-ed33f17667a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/canvas/canvas-279#xywh=0,0,3544,5260",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm833zd9241/res/183e6c41-ef5b-4d13-9da7-74751c21335a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus de officio pastorali"
+      }
+    }
+  ]
+}

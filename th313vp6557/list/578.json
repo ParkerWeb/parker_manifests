@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/578.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/2bc4fd7f-7555-4ce1-b517-b4725f5d9290",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-590#xywh=0,0,4820,8294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/d80f3c54-6a3a-4d55-ba0b-c0441c52233c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio ung(u)enti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/e538c540-23ef-49d0-b51e-4ef71b085a48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-590#xywh=0,0,4820,8294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/cbe4927f-a49f-427c-9d07-bb9e42c64acc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio uue uel fabe"
+      }
+    }
+  ]
+}

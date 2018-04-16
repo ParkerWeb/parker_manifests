@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/list/84r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/901377d8-8653-4ff5-847b-14a1c708b3b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-177#xywh=0,0,3701,5972",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/9c20ccef-108d-42c9-82dd-917aeb680351",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: terminabo in eis orationem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/904d6184-9cd3-4328-88f3-834b1e50cb0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-177#xywh=0,0,3701,5972",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/70bc7ec0-5ecb-48c0-82d0-3380aa9627dc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (R)esuptiua uero et enutriens in conualescentibus"
+      }
+    }
+  ]
+}

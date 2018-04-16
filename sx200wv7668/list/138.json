@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/list/138.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/3c6adb0c-98fc-453a-8d37-0e6703e769db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-138#xywh=0,0,5734,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/26f836ef-5a74-412d-ac51-1caa4837f012",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio ad imaginem sanctae mariae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/2c961103-5b27-4729-98a6-1720ae29538b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-138#xywh=0,0,5734,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/218d36ab-eb40-4c75-bb1d-9b3159fb9841",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "[Anglo-Saxon glosses occur on pp. 138"
+      }
+    }
+  ]
+}

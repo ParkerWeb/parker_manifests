@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/list/10r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/a5cadb7c-ab22-4b63-b987-e855dbee2a8b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-33#xywh=0,0,5633,8653",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/27cb9098-e24b-48a8-9c29-454ca75e8e10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: peruersitate compescere"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/cb30a34f-c96d-4910-8952-873fdd4f254b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-33#xywh=0,0,5633,8653",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/2aee3478-f831-4210-8cba-aa255e289c46",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Descripcio templi Salomonis secundum librum regum"
+      }
+    }
+  ]
+}

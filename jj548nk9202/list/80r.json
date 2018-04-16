@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/list/80r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/adba462e-0f06-473c-aa2f-092a0914863a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-163#xywh=0,0,5926,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/3ae34fd7-db2c-49db-93ec-bbb4dd47d498",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Libellus breuis et utilis de articulis fidei et sacramentis ecclesie et preceptis decalogi cum quibusdam aliis annexis in fine pro rectoribus et curatis ecclesiarum nostre lodouensis dyocesis ad erudiendum plebes sibi commissas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/028c7e7d-4c0f-4067-ac5e-e7a38272adb1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-163#xywh=0,0,5926,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/7a6cb43b-223c-444e-911b-a1281156bbf7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam ut ait apostolus hebreos xio sine fide etc."
+      }
+    }
+  ]
+}

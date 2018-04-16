@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/47v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/16d57bca-ddd9-47c2-b6e5-0fe16c31fdca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-102#xywh=0,0,3886,5958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/5048ee9c-72cd-4811-b28f-c863f934b136",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber XIII)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/11e7db82-4dbc-4ccc-8225-1234bf0f0b0b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-102#xywh=0,0,3886,5958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/2c941287-e0d2-4cd2-b959-1f0faca2e39e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tresdecimi norma radiat nunc arte polita"
+      }
+    }
+  ]
+}

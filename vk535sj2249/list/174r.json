@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/174r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/faa0678b-8896-4614-a467-5de821bb76aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-355#xywh=0,0,5686,8969",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/f0821280-9936-4c66-a278-39fe8de6dc1c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Titulus ofElyforAbbot David"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/74cb6d17-2315-4f51-9087-05a7e87c51f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-355#xywh=0,0,5686,8969",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/6cc7f8fd-c61d-4910-8514-8ff883bca96c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Titulus ofBattleforAbbot Thomas"
+      }
+    }
+  ]
+}

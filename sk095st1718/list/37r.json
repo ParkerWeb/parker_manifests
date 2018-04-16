@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/37r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/cfaaf722-1b70-4978-879a-60ec5ffaa2fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-81#xywh=0,0,3719,5869",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/5c9c0f06-66e5-4f99-8740-3d3fd0c7168f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This folio begins in Liber XI 16"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/60f3cccc-69ba-4d81-80ad-be821159ff43",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-81#xywh=0,0,3719,5869",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/00a62394-c4e3-436c-8325-5d6caced6b4c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: fuit separata. Sed quam post (?) coeram separata manet"
+      }
+    }
+  ]
+}

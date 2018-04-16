@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/list/15r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/e58a4321-07f6-4a99-b19a-e54215989b9f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-37#xywh=0,0,2599,6686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/f7d77202-e376-4fb8-be02-e4bddfbf8685",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Nil alibi tutum nihil est a morte solutumNulla foris tuta morti sunt queque tributa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/70314ead-cdfa-4f02-bc70-8d8ad12d520e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-37#xywh=0,0,2599,6686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/1a9e6fea-fa41-4d73-bf61-bd3a715f10b7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "the rest of the page is blank"
+      }
+    }
+  ]
+}

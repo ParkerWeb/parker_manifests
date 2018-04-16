@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/52r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/ba147cee-ca61-488a-b4bf-99147942faca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-109#xywh=0,0,5753,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/528182aa-3a91-4b10-acc2-ca51d31686df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: VI Kal. Apr."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/6c05318c-f863-472a-b3cf-4776a3925680",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-109#xywh=0,0,5753,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/a73b2e84-01ef-4a96-89b8-78ef4da486c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rogin ... et monachi"
+      }
+    }
+  ]
+}

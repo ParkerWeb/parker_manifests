@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/list/266r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/80c19d2d-c286-4fc1-ab1e-cab076c0ca5d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-515#xywh=0,0,5686,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/dd5f5641-0f08-4b87-8f9f-2cadfb3d8d80",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: suffragia rependatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/302d798a-a7e6-4c78-869a-f20ae96a01b4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-515#xywh=0,0,5686,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/489c5d5f-b47e-45b0-b7e5-b229cfa91c2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Excellencie uestre recipi literas"
+      }
+    }
+  ]
+}

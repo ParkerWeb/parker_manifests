@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/list/91r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/fda745b1-2130-4fd1-bcb8-c60516393112",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-185#xywh=0,0,3069,4863",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/9a1cd5f1-f5ae-4d06-8db7-bbc16caee59b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Two thirds page framed miniature"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/7571d26c-a935-4fd7-a6eb-4b6591ebe7ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-185#xywh=0,0,3069,4863",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/2f6bf230-9b3b-4ec5-9652-e6ca18ee894c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine ne in furore tuo"
+      }
+    }
+  ]
+}

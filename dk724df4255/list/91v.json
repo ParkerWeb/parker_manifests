@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/list/91v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/0123a978-175b-4da7-acbd-d9a36373b231",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-186#xywh=0,0,3855,5820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/e94852fb-4604-40a8-b41f-c91fddc8d65e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nec in cor hominis ascendit que preparauit deus hiis qui diligunt eum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/da2dd7c7-e5d9-4035-9da0-c806d1d799bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-186#xywh=0,0,3855,5820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/3e4f1061-4f0d-4f50-bf4c-3bda428dee43",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A man schuld pray to almyhtty god to ȝyf hym grasce etc."
+      }
+    }
+  ]
+}

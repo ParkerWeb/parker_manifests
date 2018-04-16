@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/list/241v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/annotation/0ee356c1-2681-413e-8a44-3347915fcf06",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/canvas/canvas-498#xywh=0,0,3895,6307",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/res/3806a869-71ac-40b0-b9ef-43df3e261e90",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber anselmi de ocupacione bona"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/annotation/8b92dea9-c782-4b42-8952-26ece4c987e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/canvas/canvas-498#xywh=0,0,3895,6307",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/res/d746def1-b57c-4d98-af92-737921df8e7f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad insinuandam interioris hominis custodiam"
+      }
+    }
+  ]
+}

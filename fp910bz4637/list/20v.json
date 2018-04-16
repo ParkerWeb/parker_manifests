@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/list/20v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/b02fca2a-6c8a-4172-9d7d-251db8d9cc48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-32#xywh=0,0,6070,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/a9b737e1-1f9c-4ea3-bb44-e208172f66a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Retractatio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/eeb7075f-1e44-4f4a-9300-4345d629dace",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-32#xywh=0,0,6070,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/9eff0ff5-f0fd-4852-98d6-4cd11318bf42",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Respondere diuersa"
+      }
+    }
+  ]
+}

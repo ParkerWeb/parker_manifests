@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/annotation/e514025a-0534-45e2-aadd-41bce0ac45ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/canvas/canvas-19#xywh=0,0,3345,5160",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/res/002145c3-eb4e-4551-8f0a-a551a9d0b0b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt leges Howeli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/annotation/aefed07b-3051-47b6-9c52-7336c890cec7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/canvas/canvas-19#xywh=0,0,3345,5160",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/res/e46d3843-2882-46b5-9b93-7fdef54fcbc4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum Howel da filius cadell diuina prouidencia in regem Wallie fuisset sublimatus ... qui unanimi consilio decreuerunt (?) ut de quolibet pago regni sui de clericis et laicis duos sapientes con."
+      }
+    }
+  ]
+}

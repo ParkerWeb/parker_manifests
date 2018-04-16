@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/list/6v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/7019df66-61ab-4b4f-8365-acda4d7ee4dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-18#xywh=0,0,3886,5541",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/082fb26a-2b76-4f5c-95d0-fe63eef220af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: benedictus in secula. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/f8f809f4-77c7-453d-82de-a48e808cf390",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-18#xywh=0,0,3886,5541",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/4d1f52ba-26fb-4dc4-a80d-762258b7e5b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit bona improbacio kalendarii nostri. Et correctio eiusdem plane"
+      }
+    }
+  ]
+}

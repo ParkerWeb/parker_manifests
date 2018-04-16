@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/list/165r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/5d335ee1-898b-447d-ac17-b14d2ffc3d49",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-331#xywh=0,0,4076,5758",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/65386fd4-e850-45e4-b7a2-2cd1eac0bacf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Letter of Boniface (4 Kal. Mai xith year)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/d433b482-0708-44ec-811d-11099484af23",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-331#xywh=0,0,4076,5758",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/803f61af-5fd3-47ce-993a-36c401306bf6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Magistro et fratribus hospitalis b. marie theutunicorum ierosolimitanorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/ef088402-a2b9-45d7-86fc-17d944bd73c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-331#xywh=0,0,4076,5758",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/33f80f70-98af-4eac-8bc6-4a1b733062fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Alexander magro et fratribus hospitalis S. marie theutunicorum in prusia (16 Kal. Jan. 5th year)"
+      }
+    }
+  ]
+}

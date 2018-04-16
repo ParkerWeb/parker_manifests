@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/list/72r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/8a8329ad-859d-4190-92fd-97dc97d57982",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-147#xywh=0,0,5938,8610",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/dfa63dbf-db3a-4db1-ba41-730c9128a029",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nomina apostolorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/dffcd847-762b-481b-87e0-0852121a69a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-147#xywh=0,0,5938,8610",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/87ada72e-4e11-44f4-80d7-6fe3620e7c73",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nomina duodecim apostolorum"
+      }
+    }
+  ]
+}

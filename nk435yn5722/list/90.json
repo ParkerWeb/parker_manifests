@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/list/90.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/89b83df5-3396-4999-ba71-88831f94c682",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-96#xywh=0,0,3701,5687",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/80e51ff0-2aef-48fb-a0ad-9a2268203ac6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: precor et arguatis et corrigatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/annotation/d21a6e65-40ad-4a59-bc6f-3de65ea82da9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/canvas/canvas-96#xywh=0,0,3701,5687",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nk435yn5722/res/6f01ff4b-c1e6-4229-ab70-3d62aeff2e65",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Rathramni de Anima"
+      }
+    }
+  ]
+}

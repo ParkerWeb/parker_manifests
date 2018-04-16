@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/list/120.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/540c63e4-810d-436e-bcc1-e18f53297c07",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-136#xywh=0,0,3676,5866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/c155f49e-785c-4f1d-957b-e1b24b456b44",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In passione domini duo fuisse gladii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/c04ba4f3-6bc4-4b20-8c0e-7c37763f96b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-136#xywh=0,0,3676,5866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/2f5db12d-efdb-464b-8826-4dec657b8355",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in sanctorum commentariis queri debent"
+      }
+    }
+  ]
+}

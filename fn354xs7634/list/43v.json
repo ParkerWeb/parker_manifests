@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/list/43v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/920406ad-d13a-4243-9b7f-6d6185f79f85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-92#xywh=0,0,5961,9168",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/52682349-590e-4326-99db-39d08840942c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tres libros Salomonis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/5c28a4ff-49f0-4129-99c5-fd057abc52eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-92#xywh=0,0,5961,9168",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/2ce8f3c1-ef5b-4714-b4a6-ff1b9665f64f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula (60)"
+      }
+    }
+  ]
+}

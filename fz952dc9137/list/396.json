@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/list/396.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/a61f87ba-a861-4f9a-a567-7781e137eaed",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-408#xywh=0,0,4075,5671",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/b225129e-26f8-4416-876e-fc1d553da8ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quod equum constat esse velocissimum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/a5e3696c-af7a-434f-ac25-223a27ec2d01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-408#xywh=0,0,4075,5671",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/8615f50f-77e6-4b5d-9356-6ee9d32b1da5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus de ortu deorum et integumentis breuibus et utilibus"
+      }
+    }
+  ]
+}

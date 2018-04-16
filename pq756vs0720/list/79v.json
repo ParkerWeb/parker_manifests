@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/list/79v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/ead20536-bec5-46b4-a418-317f20d038c6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-160#xywh=0,0,6127,8745",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/4ade9792-586b-4ce6-8324-4d3931c2310f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De hoc quod apostolus Iacobus Karolo apparuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/57dd552f-e627-4114-93c6-e7399bf85ec1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-160#xywh=0,0,6127,8745",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/d8d6076f-5e3e-459d-a026-81528e26f3c9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gloriosissimus namque Christi apostolus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/list/63r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/d28d0dd2-fb67-4a1d-89a5-4ab649b49f46",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-133#xywh=0,0,2871,5646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/695faf6f-fde3-40b9-a1dc-56670c710dd8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ex decreto beati Gregorii pape"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/9ccd5508-6b23-446c-b997-53108b9dd4a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-133#xywh=0,0,2871,5646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/cc616300-6586-47ba-ba82-6c4f114412b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Episcopus missam celebrare debet in ordinatione presbyteri"
+      }
+    }
+  ]
+}

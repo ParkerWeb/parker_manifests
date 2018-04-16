@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/list/105v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/642bedca-3396-4876-8f99-aed1479c2ec5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-218#xywh=0,0,4654,7129",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/cccf321f-6f75-4b46-85df-e504af5c63da",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: unum in templo diane ephesiorum alium bibliothece sue exposuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/d2bfc5d4-8e5f-4db9-8ca3-75ddf38ec776",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-218#xywh=0,0,4654,7129",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/d0513df2-5a0a-4941-a59d-fadc2cc29759",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si per ignorantiam euenerit quod absit ut missa(m) cantans pauem uel uinum oblitus fuerit"
+      }
+    }
+  ]
+}

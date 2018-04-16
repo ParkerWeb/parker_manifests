@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/annotation/b0b0896b-e24e-42c8-babf-c68b50840323",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/canvas/canvas-9#xywh=0,0,3996,5280",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/res/8b80b86e-7500-43fd-819c-39674d09e72e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit cronica fratris martini ordonis fr. predicatorum domini pape Capellani et penitenciarii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/annotation/afb6ceed-ee87-4cec-8fe5-92d1235f0b2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/canvas/canvas-9#xywh=0,0,3996,5280",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/res/1cf2adba-f7fd-4f0c-8b28-a829c64a030b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam scire tempora summorum pontificum romanorum"
+      }
+    }
+  ]
+}

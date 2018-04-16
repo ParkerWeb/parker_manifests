@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/list/333.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/9ae40fac-b5c9-491f-b6a9-30a36e00f9bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-351#xywh=0,0,3606,5422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/bd7d42e8-1d1a-462a-ae7f-6e5a3f96c0d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De cena domini in v feria"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/ef07899e-e22f-4e40-abc6-12b942cbe393",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-351#xywh=0,0,3606,5422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/738d32d2-5534-4791-a313-d48b43be197f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Her sprycð be ðære arƿurðnysse"
+      }
+    }
+  ]
+}

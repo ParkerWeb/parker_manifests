@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/list/63r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/a4d689a5-cfb0-4e79-bdda-928c32c502d6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-141#xywh=0,0,3742,5281",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/98a6aa2a-5e87-4ba3-9cf6-e9f66d497aa2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: satis clare habentur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/37ef4978-79f2-411a-bfea-a11844927cf6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-141#xywh=0,0,3742,5281",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/c8a7e6af-abdb-428d-8094-11e99157afec",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Notes of British history"
+      }
+    }
+  ]
+}

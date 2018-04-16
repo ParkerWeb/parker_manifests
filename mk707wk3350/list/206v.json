@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/list/206v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/83bbbebb-3e56-40fc-bd43-ce6dd66a6e0d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-428#xywh=0,0,4098,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/b982256e-f3ae-4980-8380-2c6e2d70f5aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: doctrina seruetur. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/394d4326-11e6-4991-92b2-ef9e1383d04d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-428#xywh=0,0,4098,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/0f43cc7d-c060-4c39-b227-64063e00ed8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prologusIncipiunt capitula"
+      }
+    }
+  ]
+}

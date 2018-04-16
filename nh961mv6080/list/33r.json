@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/list/33r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/annotation/d01836fe-3c7e-4316-b8c8-fbdf62e06a83",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/canvas/canvas-101#xywh=0,0,5151,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/res/fb2553f1-6a5e-41a7-ada7-42e5f4ce8119",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Exposicio vel meditacio fratris hieronymi Sauonarole de ferraria ordinis sacri predicatorum in psalmum. In te domine speraui quam in ultimis diebus dum vite sue finem prestolaretur edidit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/annotation/cd075558-11ad-4596-bf66-92868919a142",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/canvas/canvas-101#xywh=0,0,5151,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/res/896e6a99-fa41-4f63-b7f4-6c70cd2c5a27",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tristicia obsedit me magno et forte exercitu"
+      }
+    }
+  ]
+}

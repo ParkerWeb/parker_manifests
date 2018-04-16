@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/list/ivv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/annotation/05ac02ad-9f2d-4bdd-ad43-639be9551686",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/canvas/canvas-20#xywh=0,0,3437,5225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/res/f067309b-e802-448f-8828-f691eb7182c8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Notandum quod opus subsequens seu liber seu tractatus intitulatur Malogranatum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/annotation/6d536cc0-433e-48d8-9906-ae60d2cf73a8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/canvas/canvas-20#xywh=0,0,3437,5225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/res/99454cc5-727c-423b-92ab-7b61ab98e11f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: virtuosam ac eciam perfectam poterunt peruenire"
+      }
+    }
+  ]
+}

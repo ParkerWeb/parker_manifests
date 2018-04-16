@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/list/75r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/71515c1f-89db-45a4-a4b6-0357febfcebb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-149#xywh=0,0,5774,8055",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/8c7105be-125d-4af6-abe6-151e62eea137",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dicitur urina quoniam sit renibus una"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/0c81c50c-fbd6-4837-aa71-ba6846f23508",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-149#xywh=0,0,5774,8055",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/f99e99f0-0bb9-4384-b477-0d7495c97435",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Egidius facit de urinis metricum tractatum ut in memoria facilius habeatur"
+      }
+    }
+  ]
+}

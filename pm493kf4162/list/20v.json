@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/list/20v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/3177bfd2-6024-41eb-b03f-7639e8c9306f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-46#xywh=0,0,3880,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/38ae9aca-e077-4730-8dac-22b012c28078",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ipse est auxiliator. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/3ec7b190-bc3b-43bd-9414-1b12998fa4ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-46#xywh=0,0,3880,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/1fc1934e-5125-48e4-973c-9abcc78c0eb6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt flores Albumasar de secretis philosophorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/annotation/56b11468-be7c-4218-bd2c-bc6afd5951d5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/canvas/canvas-46#xywh=0,0,3880,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm493kf4162/res/c3257d2b-4396-4a72-9ee6-607eb4f3ba64",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum circa(?) disposicionem aeris ad aliquod certum tempus"
+      }
+    }
+  ]
+}

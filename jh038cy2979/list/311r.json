@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/list/311r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/7c5b14e7-c984-4b7e-9f34-aaa1eda80069",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-623#xywh=0,0,5802,8459",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/48fd2beb-df20-455f-afc5-48358960d22a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ending (the Right half of the leaf"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/ccebb9dc-917c-4a5a-ad5f-35041ba3d9e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-623#xywh=0,0,5802,8459",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/a9e55ec0-4a23-4bfd-be08-55a70c50b701",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: uel in aliud transferunt"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/list/90v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/ec027e00-ec78-4918-8289-e9f015aafdcb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-186#xywh=0,0,5987,9169",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/f2c73b0a-189c-47cf-a1cb-70898a01aa91",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De sobrietate (liber xi)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/e4c422c8-9f00-473e-a49a-0108827a0118",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-186#xywh=0,0,5987,9169",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/dfa98ab6-4132-4e96-a46a-e992d4df28ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Frater interrogauit abbatum Arsenium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/list/78v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/b6180614-3bfa-4df0-ba62-df6b99ef73b4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-164#xywh=0,0,5917,8678",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/3eda916f-a7c1-4a64-9438-12089fccf977",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: rationis obsequitur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/3c6e27c4-6602-4a9d-838c-0c1d0076bd0c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-164#xywh=0,0,5917,8678",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/53cdba0d-b7b8-4580-8113-3b43a8bdc743",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Innumeris quidem signis"
+      }
+    }
+  ]
+}

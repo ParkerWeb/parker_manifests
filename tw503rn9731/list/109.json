@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/list/109.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/dc45c752-cb87-4a72-b5de-d160d2b04286",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-125#xywh=0,0,3967,5396",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/5bb89cb8-4349-4912-add2-4dfefb7319bf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Names of the children of Edward III. Distich on Kings of England"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/18742811-a28c-41fc-b3a6-21ef006b9435",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-125#xywh=0,0,3967,5396",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/29b26ffd-d81a-4dde-b602-b52a048de450",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Edward I to the Abbot and Convent of Westminster"
+      }
+    }
+  ]
+}

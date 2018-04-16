@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/114r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/c4dd88bd-9939-4408-9cbb-d7b96aa66108",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-245#xywh=0,0,3987,5644",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/775d897e-755f-47e5-ad19-4ac913f9d1ac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De prioribus ecclesiae Christi Cantuariensi etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/705db9f8-4f5a-4b17-bdf9-6591547cd303",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-245#xywh=0,0,3987,5644",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/6ea7db90-7df9-4952-b01d-c9fe2b58ccc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Henricus primus prior ecclesiae Christi Cantuariensi contemporaneus Lanfranco"
+      }
+    }
+  ]
+}

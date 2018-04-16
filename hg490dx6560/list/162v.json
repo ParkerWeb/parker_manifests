@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/list/162v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/47f91f72-51bd-4f0a-9928-328a98910400",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-324#xywh=0,0,5750,8130",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/601abc50-dedb-496c-9d1e-2d424e50c0eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: semper adia secuntur et que non"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/57cef4f2-10f9-40fa-99ee-75117b2b0961",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-324#xywh=0,0,5750,8130",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/0c96966a-63dd-437e-876b-89e8f53b667d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expletus est liber de morbo et accidente galieni viri gloriosi Anno domini mo cococo nonagesimo octauo in die Sancti Viti deo laus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/0c5a0b35-014f-4308-a624-7489054973d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-9#xywh=0,0,5863,8810",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/a8355089-9568-4479-9999-ebdc160d4101",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Alani Epistolae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/19b25aa9-d1f4-4d66-b3d8-0701d3d261dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-9#xywh=0,0,5863,8810",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/058db28d-d895-4689-9f4f-b9a404ef2b9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1. Philippo ... francorum regi I"
+      }
+    }
+  ]
+}

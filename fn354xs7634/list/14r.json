@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/list/14r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/962c0310-8cb9-4f22-9ba9-9cbcb509fb1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-33#xywh=0,0,5772,8787",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/babc9066-812f-45ea-b61a-a617d4735c90",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Psalterium rome dudum positus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/c9ba53e8-efbb-4cb1-ad84-b98d008e9ac7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-33#xywh=0,0,5772,8787",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/e748c220-10ff-4f01-bab1-2c834ebeaa0e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial. Beatus vir"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/list/37.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/5470e6c8-5aba-413a-bab6-2e284ebb46a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-35#xywh=0,0,3478,5542",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/114d1d67-e776-4241-a134-5c8319efefa3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus in librum penitentialem M. R."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/1187f168-9724-46f9-b60e-03bee51c38a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-35#xywh=0,0,3478,5542",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/8e8dae41-d154-4b6d-9eae-3f858a752758",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Res grandis immo permaxima cuilibet nedum meis impar uiribus"
+      }
+    }
+  ]
+}

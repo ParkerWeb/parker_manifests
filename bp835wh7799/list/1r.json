@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/annotation/cc6f8100-134b-404b-9bcb-a2d15043d1a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/canvas/canvas-9#xywh=0,0,3867,6136",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/res/d0665663-ea2f-42f2-824c-4fd1dde35999",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt regule pastorales Gregorii pape urbis Rome. scripte ad Iohannem episcopum Rauenne urbis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/annotation/fe0551fa-fa12-491d-8aec-1e61487b7f69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/canvas/canvas-9#xywh=0,0,3867,6136",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/res/f47ce1b8-9179-4b6b-8f18-4f263a41152e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pastoralis cure me pondera fugere"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/list/270v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/0359e22b-7dbd-4b1a-964f-56a5e98993e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-546#xywh=0,0,5640,8871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/c0bd2fbb-6a90-4197-a8cb-b21b99f5b902",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula 7"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/a9d8f4a2-6f24-49ad-a035-fdb2dcfa59a4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-546#xywh=0,0,5640,8871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/82d565ec-4996-45c9-8a0e-2b64162e39db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial without gold"
+      }
+    }
+  ]
+}

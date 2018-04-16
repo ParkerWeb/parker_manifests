@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/25r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/947679f9-dec7-4b08-94e4-71615b353614",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-59#xywh=0,0,5821,8837",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/510da6ee-05ad-4e5b-abf6-93bfa0780c18",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "49"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/f5d8abf5-d0c7-48e8-bcac-dacdfed1e98f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-59#xywh=0,0,5821,8837",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/07151ddd-c30c-4e17-bd3b-7f296523c8eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "No. II is printed from this MS. in J. de Trokelowe etc. Chronica (Rolls Series) pp. 155-420"
+      }
+    }
+  ]
+}

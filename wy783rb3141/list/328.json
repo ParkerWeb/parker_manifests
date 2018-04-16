@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/list/328.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/6df01ea2-2598-4895-af6f-5dfd56955064",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-336#xywh=0,0,5266,8994",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/69980f98-a196-4ed5-9617-da442c2499df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: scripti sunt in libro uitae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/237b7812-968c-4cd4-b917-028cfe454cd0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-336#xywh=0,0,5266,8994",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/42c7bfa8-9211-4cc7-b442-26f9bfdfcc79",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A Collect in a large hand"
+      }
+    }
+  ]
+}

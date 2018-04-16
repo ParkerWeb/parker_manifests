@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/list/33v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/4e22b271-9e99-405e-a542-b5c0a452e3be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-73#xywh=0,0,4056,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/f50b01fa-ce9f-4807-8ba3-f71192f114aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/8e9b7994-f0db-433d-8a5a-656e382dac6a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-73#xywh=0,0,4056,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/bfe0438a-d804-4bf5-89b6-d3ae407820b5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Frequens sodalium"
+      }
+    }
+  ]
+}

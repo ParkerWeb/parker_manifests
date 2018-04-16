@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/list/62r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/f2c70212-1b2f-4d0b-afb4-7a09e26a3a6c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-131#xywh=0,0,2927,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/8baaac45-756f-4591-be76-9ee164d5f68d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: donentur uictoribus premia sempiterna"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/1b584956-204f-4e24-ba00-3ef425e184a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-131#xywh=0,0,2927,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/caf8a003-eb17-4eb9-ba40-f051c17f4fd7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ex concilio Bonefacii pape qui quartus a beato Gregorio fuit. quod liceat monachis cum sacerdotali officio ubique ministrare"
+      }
+    }
+  ]
+}

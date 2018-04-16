@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/annotation/111e20f5-5691-4d2f-9ac3-854b612027e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/canvas/canvas-7#xywh=0,0,6130,8310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/res/2eab2cda-42f3-4c08-8c86-18ae716e5f91",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber de vij sacramentis (?)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/annotation/e2013688-8bac-468f-8337-6a527413a441",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/canvas/canvas-7#xywh=0,0,6130,8310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/res/45ccc39c-61b4-41ed-9951-64da9a5e24cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Non est opus valentibus medico sed male habentibus"
+      }
+    }
+  ]
+}

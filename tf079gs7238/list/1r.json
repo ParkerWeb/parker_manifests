@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/62d58407-9953-4f37-b788-0c99b6a02928",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-13#xywh=0,0,3536,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/95d3aa91-8ded-41da-b8fa-1311a9240dc7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In a xvth cent. hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/4b677fa5-7358-4f2c-96be-435322a9b3f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-13#xywh=0,0,3536,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/72015530-672a-4399-b17b-f83209b782b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "There are some notes on measures besides the matter described by Nasmith"
+      }
+    }
+  ]
+}

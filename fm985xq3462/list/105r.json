@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/105r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/50b19993-30c9-4fc8-a860-b56b85fbfa29",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-219#xywh=0,0,6044,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/24044567-2bb0-4ce6-9309-bdf0d85228b7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "large. Pope Adrian I in tall crowned mitre"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/02bdca04-b76e-4bf6-a28a-bc359493fa2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-219#xywh=0,0,6044,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/d2d77683-90fe-44d5-a3b5-5a68301c2cd0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Seven more busts of popes"
+      }
+    }
+  ]
+}

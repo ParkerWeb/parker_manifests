@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/list/122v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/6914401c-ca0a-4e6b-95f6-06f88bb9d2f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-256#xywh=0,0,3318,5079",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/86896993-7c05-4e9b-a93a-7ca2beb41736",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Pro consolacione afflictorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/a16fe7d6-42ab-409b-897c-da68e60b7b90",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-256#xywh=0,0,3318,5079",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/1b9af197-382f-487e-821f-08508c30dafc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Plus currit in certamine confessor omnis sustinens quam martis ictum"
+      }
+    }
+  ]
+}

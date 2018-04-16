@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/35r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/f9d398ed-75e5-453d-9734-9c0ca2b61588",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-77#xywh=0,0,3690,5877",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/7e1985f1-ed57-400f-a213-b80b918bd197",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber VII)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/05d37189-74dd-442b-b5a5-4522beb1f1db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-77#xywh=0,0,3690,5877",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/9b0fc0eb-543f-472a-9181-28f3c9895b23",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Septimus assurgit nodoso iure libellus Auxilium tu Christe tuum nunc pandere cura"
+      }
+    }
+  ]
+}

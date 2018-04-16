@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/list/7.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/c6bda6e1-0cfa-4418-8070-2b55c659f353",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-15#xywh=0,0,5592,7963",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/facd4f8b-6d57-4f94-8625-26f3bfe53bf3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: cum summa breuitate ponemus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/1ad0e16f-c7c5-4db7-b80b-652d03301593",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-15#xywh=0,0,5592,7963",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/189934cb-fbf0-444d-9556-58e2498e2b6e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prefatio"
+      }
+    }
+  ]
+}

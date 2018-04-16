@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/list/84v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/938533ed-6b33-40fb-858c-bf311c069944",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-178#xywh=0,0,3278,4918",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/dbd26f54-0578-4ddf-85e8-9d97605e7631",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Extract. Magister Gilebertus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/a7b376b7-eb46-4bd5-a356-471547f3e91d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-178#xywh=0,0,3278,4918",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/4c0921ce-dc74-44d5-8dc8-4a55d54c31d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Redemisti uirgam hereditatis tue"
+      }
+    }
+  ]
+}

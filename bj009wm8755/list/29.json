@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/list/29.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/78d34f52-5bd4-45c4-87a5-a2ad27a01f85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-27#xywh=0,0,5790,8327",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/a0da5bd6-eeda-42d8-ac63-619161f8dac4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit principium Regum Cantuariorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/1ce1a792-e6e6-4c66-b75a-df0df8851d57",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-27#xywh=0,0,5790,8327",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/15aca6a8-77d7-4ed8-ad7b-93f75874238e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Angli saxones imperatoris Marciani tempore"
+      }
+    }
+  ]
+}

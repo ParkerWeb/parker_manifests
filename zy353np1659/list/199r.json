@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/list/199r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/406cfe26-33ad-421a-83b3-e4296a45e8d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-407#xywh=0,0,6592,9046",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/756f3d80-1509-4c91-85d1-880e81d7fa2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ad Robertum nepotem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/annotation/0fcc9e60-bb37-415d-9f10-fe4def89fe67",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/canvas/canvas-407#xywh=0,0,6592,9046",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy353np1659/res/a67f8c85-cd02-4ace-a4a2-fa05f51ed18e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Satis et plusquam satis sustinui"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/12.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/3c286b24-c67a-4457-b366-14c77704e5a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-13#xywh=0,0,3324,9072",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/beba07f0-621b-4377-aac4-dc544910fdb2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "* A medicine for the stone"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/86d3f185-69f5-4a5e-aef1-bf581ec2b996",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-13#xywh=0,0,3324,9072",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/9a86701b-173b-416a-926e-cbc291a75a47",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De hospitio ducis Bedfordiae"
+      }
+    }
+  ]
+}

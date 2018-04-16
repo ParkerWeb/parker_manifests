@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/list/202r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/annotation/1f4f2573-72a2-40b5-864d-5e90fccdb7a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/canvas/canvas-411#xywh=0,0,4191,5894",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/res/c3627bf9-ed01-4826-81c3-5957849caf1c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: determinationi SS. domini nostri pape quarti et sacrosancte Romane ecclesie. et sic dicta sufficiant. deo laus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/annotation/f3c945f4-9928-4f94-84b7-c5dd1a672dba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/canvas/canvas-411#xywh=0,0,4191,5894",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/res/67e4b029-d79a-4280-9df6-7d4a68956b44",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

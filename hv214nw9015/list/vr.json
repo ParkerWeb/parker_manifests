@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/list/vr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/2b322fae-df1b-4eac-bad4-61e906e968c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-11#xywh=0,0,5995,8759",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/41b6b6dc-9967-4e7e-b91f-165cc0a96cbc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/af7d9796-8d15-457d-ac7e-a6908dcdcdf2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-11#xywh=0,0,5995,8759",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/91c90e11-b235-4975-a430-02e5805b3dc2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: a legatione Gratiani et Viuiani cardinalium"
+      }
+    }
+  ]
+}

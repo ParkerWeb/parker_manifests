@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/list/109v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/14f13ad1-10df-4a56-80c4-e2304fe327c9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-229#xywh=0,0,3862,5592",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/b7cc5a82-a62a-4bb3-a0e2-3d61b1731aa3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De negligenciis que possunt accidere in missa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/annotation/559837e4-3eec-437b-9e82-6e226cbc3c3a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/canvas/canvas-229#xywh=0,0,3862,5592",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fg385kv6407/res/b93aca7d-da9b-4140-a17d-1d6468de6d25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quando sacerdos deficit uel moritur"
+      }
+    }
+  ]
+}

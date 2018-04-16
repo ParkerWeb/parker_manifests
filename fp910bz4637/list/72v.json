@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/list/72v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/fcbd29e8-10b5-4033-8fcb-e60ebbef8b92",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-136#xywh=0,0,6238,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/c8b09c43-6146-4187-bc1e-7147c0cf727a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Propitio Christo fratres karissimi prope sunt dies"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/3edbb736-175f-44f7-b333-ebff4417a146",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-136#xywh=0,0,6238,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/c83f614c-1e70-4b02-8c4c-8380818c6eb4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Licet propitio Christo fratres karissimi credamus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tei="http://www.tei-c.org/ns/1.0/"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kc116ss6676/ImageAnnotations">
+    <ore:isDescribedBy rdf:resource="http://dms-data.stanford.edu/Parker/kc116ss6676/ImageAnnotations.xml"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotationList"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kc116ss6676/ImageAnnotations.xml">
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kc116ss6676/NormalSequence.xml">
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kc116ss6676/Manifest.xml">
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/kc116ss6676/Manifest"/>
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kc116ss6676/Manifest">
+    <dc:title>CCCC 442</dc:title>
+    <dc:identifier>CCCC 442</dc:identifier>
+    <tei:country>United Kingdom</tei:country>
+    <tei:repository>Parker Library</tei:repository>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Manifest"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <tei:institution>Corpus Christi College</tei:institution>
+    <tei:idno>442</tei:idno>
+    <tei:settlement>Cambridge</tei:settlement>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/kc116ss6676/ImageAnnotations"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/kc116ss6676/NormalSequence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kc116ss6676/NormalSequence">
+    <ore:isDescribedBy rdf:resource="http://dms-data.stanford.edu/Parker/kc116ss6676/NormalSequence.xml"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Sequence"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+  </rdf:Description>
+</rdf:RDF>

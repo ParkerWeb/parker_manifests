@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/list/25r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/annotation/f27f2b8f-bc58-42f8-986d-0d2342cca703",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/canvas/canvas-69#xywh=0,0,3906,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/res/cf084af4-b345-4698-8c99-0f31e8fc1d16",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In the same hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/annotation/123be7cd-7a89-4848-9f9d-9056bc377457",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/canvas/canvas-69#xywh=0,0,3906,5294",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs070yh9296/res/058fabef-f5e1-4dc1-99f3-f36e4f6f95c6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uenerabili patri et semper domino Rob. olim priori Wintoniensis ecclesie: Suus Ricardus dictus diuisiensis"
+      }
+    }
+  ]
+}

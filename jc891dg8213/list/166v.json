@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/list/166v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/annotation/587f6b44-5855-43d5-b51f-5375ec2e2d44",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/canvas/canvas-340#xywh=0,0,5494,9448",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/res/a31ef34b-55d4-4562-a858-4b51613a11fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus in uitam Sanctae Helene"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/annotation/944a6660-93ca-4a80-8823-af72c34ba5d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/canvas/canvas-340#xywh=0,0,5494,9448",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jc891dg8213/res/5c6dedc1-a69f-41f2-8983-57ff207e8eba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Licet protoparentalis preuaricacio"
+      }
+    }
+  ]
+}

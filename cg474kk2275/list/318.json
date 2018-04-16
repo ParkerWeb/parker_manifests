@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/list/318.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/e30cbcf4-05fe-448d-a4c4-710a2648f66f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-322#xywh=0,0,3899,6525",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/4d792a46-9132-479e-848a-ccdd3edfba0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Assumpcione Beate Marie ex Epistola Ieronimi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/97029bdd-0e6a-44ea-87c1-b71bf53bcaf1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-322#xywh=0,0,3899,6525",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/f7a57c9c-d2b0-4f10-9adc-41b31aa695c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ieronimus se halig Sacerd"
+      }
+    }
+  ]
+}

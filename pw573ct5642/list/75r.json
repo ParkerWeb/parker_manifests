@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/list/75r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/annotation/10204709-0036-491e-a58f-385ed291604a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/canvas/canvas-155#xywh=0,0,3907,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/res/a96cb8b9-8324-4e90-9506-8be5136bada4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Aldhelmi Episcopi de virginitate seu laude sanctorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/annotation/9c1ca97a-fc5f-4cf2-b920-a1d22e7d8af0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/canvas/canvas-155#xywh=0,0,3907,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/res/7d838678-a596-4eb0-b71b-347fd5e3b977",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Metrica tirones nunc promant carmina castos"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/6f906fd6-8f1d-42d0-a7d1-0b652a30b29b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-17#xywh=0,0,6154,9005",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/fc7b19ac-bdfd-4540-b573-03f670759e49",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/f3d683af-fcce-46cd-bb18-99005d4dbfa9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-17#xywh=0,0,6154,9005",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/3688f398-3209-48de-bf27-5f1dc96c44a6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quantum mihi uidetur"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/list/vr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/edb1ae01-bf46-4b5a-9511-f6425852a54d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-11#xywh=0,0,3665,6290",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/838a3455-9c41-4e61-b408-e1fb97f7e779",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Glosa Iohannis monachi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/d63ce85b-4361-47da-badc-f006b3359f1e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-11#xywh=0,0,3665,6290",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/94aa459c-4216-4925-95cb-ac5e3a5f7afc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Super cathedram etc. Hoc statutum ordinat prouidet et decidit"
+      }
+    }
+  ]
+}

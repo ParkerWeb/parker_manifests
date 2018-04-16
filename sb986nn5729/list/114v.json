@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/list/114v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/2eeb415b-75a3-4426-b4bb-f417f9f32d76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-236#xywh=0,0,3648,6024",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/0710875d-776b-46fd-bb30-797610d0ff61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: patientia miseriarum portus est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/499fb54b-0402-4e35-8264-cec64bb7614b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-236#xywh=0,0,3648,6024",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/5930148a-c804-400f-907d-be6643564480",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De latrone et eius suspendiculo"
+      }
+    }
+  ]
+}

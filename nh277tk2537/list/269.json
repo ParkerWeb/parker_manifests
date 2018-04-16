@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/269.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/3a742cf1-eb2d-4429-b8ab-8ebb2cac3ef5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-277#xywh=0,0,3570,5871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/a2c99bd2-925f-415a-81de-54941e7c4a89",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De discretione uestimentorum diuinorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/ea13b6df-6e41-43f8-a788-398625029d63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-277#xywh=0,0,3570,5871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/1ff35fed-030d-4122-bdf3-abd1763d370b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amictus est primum"
+      }
+    }
+  ]
+}

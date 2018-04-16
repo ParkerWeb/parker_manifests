@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/ef736ca1-0e55-4b30-b4ae-6e3f51006cf3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-65#xywh=0,0,3755,5834",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/8ef4d699-4875-42ff-8c7c-1bdb177b12e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit sentencie a diuersis doctoribus excerpte. Johannes Apostolus de caritate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/annotation/abf0c5fc-1405-4923-987b-4e47623ed9c9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/canvas/canvas-65#xywh=0,0,3755,5834",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dk724df4255/res/43481dad-8fc4-4b1c-9008-db5706dd0cc9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Deus caritas est"
+      }
+    }
+  ]
+}

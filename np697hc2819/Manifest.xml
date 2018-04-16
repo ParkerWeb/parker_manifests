@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tei="http://www.tei-c.org/ns/1.0/"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/np697hc2819/Manifest">
+    <tei:repository>Parker Library</tei:repository>
+    <tei:institution>Corpus Christi College</tei:institution>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Manifest"/>
+    <dc:identifier>CCCC 245</dc:identifier>
+    <dc:title>CCCC 245</dc:title>
+    <tei:idno>245</tei:idno>
+    <tei:settlement>Cambridge</tei:settlement>
+    <tei:country>United Kingdom</tei:country>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/np697hc2819/NormalSequence"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/np697hc2819/ImageAnnotations"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/np697hc2819/NormalSequence">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Sequence"/>
+    <ore:isDescribedBy rdf:resource="http://dms-data.stanford.edu/Parker/np697hc2819/NormalSequence.xml"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/np697hc2819/ImageAnnotations.xml">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/np697hc2819/ImageAnnotations">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotationList"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <ore:isDescribedBy rdf:resource="http://dms-data.stanford.edu/Parker/np697hc2819/ImageAnnotations.xml"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/np697hc2819/Manifest.xml">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/np697hc2819/Manifest"/>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/np697hc2819/NormalSequence.xml">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/list/52v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/b7119453-89d5-499f-b1cd-3d32088fd945",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-110#xywh=0,0,5472,8590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/d2e79b59-4165-4188-a168-16eba464a38d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: prout iustum fuerit procedemus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/dfb4761f-01ef-48b2-8cfc-cbd54ec1e28d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-110#xywh=0,0,5472,8590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/17358b85-72b0-4833-bfe4-135fe030d008",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliunt hec. anno quo supra in die sancte dorothee virginis et martiris"
+      }
+    }
+  ]
+}

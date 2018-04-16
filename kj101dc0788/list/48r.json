@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/48r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/e782eabc-b8eb-4bdc-9bb3-a14fa1d71bdd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-99#xywh=0,0,5761,8492",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/dce141ce-f24c-429e-b34b-66d99cd8f192",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Lincoln to Hugo (II)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/f81449d8-2946-479a-a3bc-a7b335602269",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-99#xywh=0,0,5761,8492",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/be5ba1eb-d103-4a3d-a3ab-5398b8731680",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Ely to Eustace"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/list/185.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/26e0e636-4414-4262-be79-7a1535749297",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-199#xywh=0,0,5450,7870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/93f6b0ac-c740-4158-9120-2f34e70c6667",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo de apostolis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/e3648894-d597-4a47-bf69-dd6c82adf4e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-199#xywh=0,0,5450,7870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/6b3f43cf-cad1-4719-a1f3-81e3fed4d85e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ðes apostolica freols dæg munegað us to sp(r)ecenne"
+      }
+    }
+  ]
+}

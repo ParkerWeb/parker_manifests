@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/list/56v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/24448588-f71e-4c13-8ab4-7171145e8db7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-120#xywh=0,0,3952,6261",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/6562d845-6513-49c9-8009-c868f8d50045",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber valecra idest leuiticum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/fd9dbbd1-c589-48f3-8b16-f6751f7b5884",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-120#xywh=0,0,3952,6261",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/c0b8ac90-fd6e-446a-a3f7-424b672a9b0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Outline initial"
+      }
+    }
+  ]
+}

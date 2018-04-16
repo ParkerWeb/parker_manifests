@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/list/27r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/c5032c26-79a6-41fe-ba0c-d626119cd5e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-63#xywh=0,0,3658,5521",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/7e84d87c-917c-4767-97fc-b8a533c6efdc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de sculturis lapidum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/d825fc8e-55a6-4764-b152-334dcc362f72",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-63#xywh=0,0,3658,5521",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/e0f0f484-8810-4535-8016-e7a0309692fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quod non inuida philosophorum largitio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/217.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/4e790a7e-364c-4d35-a732-31397af7a38d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-224#xywh=0,0,3211,9029",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/bb5253ae-23d8-4964-aaae-8dc1d1bbfa9c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Descriptio monasterii Glastoniae"
+      }
+    }
+  ]
+}

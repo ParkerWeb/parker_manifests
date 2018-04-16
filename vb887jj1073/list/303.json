@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/list/303.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/97776926-8228-4aba-a4a8-3dc5b258cded",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-313#xywh=0,0,5920,9107",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/e0ef3091-28a4-4634-99e1-1bb692bc3d94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit eiusdem de simbolo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/annotation/69d7e1e9-486d-47f3-9a78-d19bdcfc93c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/canvas/canvas-313#xywh=0,0,5920,9107",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb887jj1073/res/2a2c3387-2a9f-455d-b105-0e21546bdcff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sicut nonnullis"
+      }
+    }
+  ]
+}

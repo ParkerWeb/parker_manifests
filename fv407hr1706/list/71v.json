@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/list/71v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/61b66c05-7e63-4567-8fb1-3cba153c1614",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-148#xywh=0,0,4159,6126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/1112f068-69f7-4b32-bfd3-a943b4229fe9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Neque enim est commune unum genus ominum(!) omnia que dicuntur aut ut genus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/c1eac9c2-33c0-4ce5-8a87-3e67d505fd68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-148#xywh=0,0,4159,6126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/8d0fd86b-4b08-4d7c-9d15-308e256fcb06",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nec ulla falsitate diffinitio maculatur. Rursus"
+      }
+    }
+  ]
+}

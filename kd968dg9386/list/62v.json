@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/list/62v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/d2c4ea20-77db-4202-b68f-934de76dc664",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-131#xywh=0,0,5339,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/dfcd61af-2ef9-484f-9dec-94d56b84ac18",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Confrater eorum per eam que in Christo est regenerationem Osbearnus pacem bonam etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/7b696855-7358-455a-b8d3-a8621cfe9078",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-131#xywh=0,0,5339,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/80366f03-ddbf-4b90-87eb-8b405f72d113",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Multorum sepe ac uenerabilium"
+      }
+    }
+  ]
+}

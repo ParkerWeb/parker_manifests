@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/list/372r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/a11c6b68-7936-4fd6-af3b-673424837256",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-753#xywh=0,0,5321,7887",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/c7cbe284-b873-49e8-9f3d-32bfd2c1e71c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: inmensus infinitus et eternus qui est deus benedictus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/3ecb7801-5171-4100-ade3-d4b67e418653",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-753#xywh=0,0,5321,7887",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/4b298f48-9749-46de-ab31-97b88f3d0a37",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt postille ffratris Nicholai de Gorham super Apocalipsym"
+      }
+    }
+  ]
+}

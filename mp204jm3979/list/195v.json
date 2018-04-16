@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/list/195v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/annotation/bba82744-cc8a-4f0e-bf44-4bc41b416ec0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/canvas/canvas-402#xywh=0,0,3870,6299",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/res/a4465bd7-993d-423f-b377-3ca86e613463",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber Augustini de muliere que in adulterio deprehensa fuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/annotation/cb724535-f6c3-49e8-9533-454aad439399",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/canvas/canvas-402#xywh=0,0,3870,6299",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/res/9b7413f0-821f-4fcd-a731-2422c9a4dc77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Timendus est dei filius et amandus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/list/176r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/b108d41f-8834-4f2c-9a1c-7c4ea6b21f3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-359#xywh=0,0,5228,7258",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/4705d683-99d3-41bf-8fba-9efe5c36575d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo beati Ambrosii ... de natiuitate Sancte dei genitricis Marie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/565f3a74-b765-4f07-a6cc-8a8255192938",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-359#xywh=0,0,5228,7258",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/ddbd2079-7d01-4872-8dc1-9ee2c763e037",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Natiuitas gloriose genitricis"
+      }
+    }
+  ]
+}

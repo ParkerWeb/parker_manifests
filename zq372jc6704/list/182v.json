@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/list/182v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/2ce9e565-a358-4dfe-a77a-6ec34eaee55e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-372#xywh=0,0,3484,5338",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/06ff4a57-8dbc-404a-8eb9-2f68902eb073",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: oratio misericordiam dei significat que precedit et subsequitur hominem in bonis operibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/941a8ad0-bc74-40c2-8c16-81a4d1585835",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-372#xywh=0,0,3484,5338",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/f1d9761b-c32a-4102-a1b4-b2a05ed692db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus misse"
+      }
+    }
+  ]
+}

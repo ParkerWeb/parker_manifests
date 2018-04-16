@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/list/41r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/34564017-4727-403f-add8-85fcdff50a0d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-131#xywh=0,0,3708,5311",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/541e11ab-2c5a-4e2b-b6d7-804ae2a35b93",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In nomine domini nostri Iesu Christi Incipit prologus in libro synonimae Bedae (sic) Ysidoris spalensis urbis episcopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/d14c3239-84c2-4cec-9654-8f8903d36f2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-131#xywh=0,0,3708,5311",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/82d2899e-f65e-4b75-a7ff-e947ffb7cf62",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In subsequenti hoc libro qui nuncupatur synonima"
+      }
+    }
+  ]
+}

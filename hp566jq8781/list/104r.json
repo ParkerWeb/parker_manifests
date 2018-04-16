@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/104r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/3a3f870a-f1e1-485f-ae95-3b47759bc85d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-213#xywh=0,0,4846,7591",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/693f6556-5413-47d0-b2fa-ee4b7a2340f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In a hand like that of no. 8 with neumes. Sequence for Epiphany"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/4ae78eb6-6f95-48a6-9c7d-e27ae7aaa54d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-213#xywh=0,0,4846,7591",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/3e00d6ae-392c-4fbe-966b-aec22e026bd7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Letabundus exultet fidelis chorus alleluiaRegem regum intacte profudit thorus res miranda"
+      }
+    }
+  ]
+}

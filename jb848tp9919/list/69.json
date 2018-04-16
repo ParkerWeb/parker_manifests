@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/list/69.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/8ef3b54a-7e83-4407-b56e-f62d2516a9ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-75#xywh=0,0,3590,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/1f9a2155-2d1b-4062-9aba-a9398a44b7ef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This page is framed and has full-length figure of Woden crowned holding gold flower"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/6518fab3-76fc-4490-bc47-c84e6248dda2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-75#xywh=0,0,3590,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/d8d1140e-77e4-48e0-87d9-28a37d4963a7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber primus de gestis regum"
+      }
+    }
+  ]
+}

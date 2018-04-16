@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/list/43r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/ad08f3a2-34b1-4631-98fb-8e1901aceb66",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-87#xywh=0,0,6219,8778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/4d1aebe8-804d-4b33-8f81-9076e24da16a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Coegit me alexander"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/4e387091-25b3-45f0-a893-f3f37b0086e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-87#xywh=0,0,6219,8778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/3cff7837-144d-4721-9102-e4186233a0f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sedente itaque uortegorno"
+      }
+    }
+  ]
+}

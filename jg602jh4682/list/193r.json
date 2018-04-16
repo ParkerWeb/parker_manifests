@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/list/193r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/annotation/0b076de1-93da-486c-b226-2ccbcb5c2a14",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/canvas/canvas-391#xywh=0,0,5854,9178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/res/55877e66-5e3b-400f-9c91-61daabe86f58",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad infernalia deificatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/annotation/3cafc564-f1a4-4cc4-8a10-4a142cc4dab8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/canvas/canvas-391#xywh=0,0,5854,9178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/res/985e6ce2-5e73-4285-8a35-ca7c9d34f19e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Interim dum predicta agerentur instanti quodam noboi (nobili) Romano pluries apud eundem episcopum"
+      }
+    }
+  ]
+}

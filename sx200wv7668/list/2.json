@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/list/2.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/9cd8ddb5-eb38-4499-b3bb-42bb21316844",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-12#xywh=0,0,5830,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/b67aa177-9909-4b3a-914b-30b1c43be222",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit ordo uel examinatio in ordinatione episcopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/a124ca0c-ad68-4367-8e30-e8ec84b8099b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-12#xywh=0,0,5830,8034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/de07aedb-52fd-4ce7-8bbb-926ecaa38cfe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Antiqua sanctorum patruum institutio"
+      }
+    }
+  ]
+}

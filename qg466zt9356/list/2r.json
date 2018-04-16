@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/8a1f1b6a-340d-4bbd-abce-123c49a9e113",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-11#xywh=0,0,4422,5940",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/aecec611-9558-422c-92d0-7af1f71e37df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/b88a146b-2699-4cd5-b580-1f6c25d1866e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-11#xywh=0,0,4422,5940",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/77143e6e-c283-4478-a234-2ef45e214098",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Venite ambulemus in lumine dei nostri ysa iio. Qui volumus prout debemus in fide credibilium proficere"
+      }
+    }
+  ]
+}

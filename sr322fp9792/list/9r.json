@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/list/9r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/874db4a3-b8ec-4026-9f63-ae1d4fa49c67",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-25#xywh=0,0,3742,5142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/c1f48b8b-244e-471f-8f17-183fd95bf502",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Ferrandi Diaconi ad Reginum comitem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/b860091a-0471-4ac6-90c1-877bf64d087f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-25#xywh=0,0,3742,5142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/b7e486a0-4eab-44b7-a52d-3ad745f7cbe2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Socialis uitae laboribus exercendus"
+      }
+    }
+  ]
+}

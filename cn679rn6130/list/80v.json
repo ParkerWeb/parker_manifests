@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/list/80v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/037f90b9-d628-4b0f-850f-afd76fa8fe48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-178#xywh=0,0,5890,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/27e81682-b404-41ef-9638-45d49726830b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Pontifices"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/3a9f02ac-d55f-478e-8379-4627eeb724fd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-178#xywh=0,0,5890,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/24577975-bcf7-440e-999f-b474f20b6b01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno xliio octouiani augusti natus est Ihesus Christus in bethleem"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/list/49v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/1fdf243c-2445-4f67-aa83-7d2ccd45fa9a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-102#xywh=0,0,6094,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/13463f3c-dfc2-4ead-be1b-ad8c39b216af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Si par per medium sibi multiplicata propinqua"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/c1703fcb-3173-4b94-b6c3-ad745c9d7713",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-102#xywh=0,0,6094,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/c59a46e2-5b3d-46fd-b6c3-b8f76022e1ae",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Algorismus"
+      }
+    }
+  ]
+}

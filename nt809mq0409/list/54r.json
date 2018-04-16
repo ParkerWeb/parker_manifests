@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/list/54r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/9cb63082-acf1-4370-b57d-2a24d90afc32",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-123#xywh=0,0,3744,5280",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/90ff21da-3079-45e4-b6cd-8721043b47b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Historiola of Cantilupe"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/5f8ce597-4a8d-4b08-a222-6f06c58215d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-123#xywh=0,0,3744,5280",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/1af81f72-7e58-40aa-9eba-b918ebfd4fbf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno a mundi creacione 4321"
+      }
+    }
+  ]
+}

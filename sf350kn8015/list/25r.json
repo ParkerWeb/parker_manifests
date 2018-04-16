@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/list/25r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/annotation/bb41f523-649f-43f0-a01b-bde5aa45cc04",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/canvas/canvas-57#xywh=0,0,3261,4881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/res/6b7cb74f-9328-4f8f-afef-7619ab592577",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De metro"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/annotation/c4aa4d00-f8c5-4ade-bdd1-fb94d927e008",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/canvas/canvas-57#xywh=0,0,3261,4881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sf350kn8015/res/aa8ed140-0f10-40ee-b115-45117a0ec054",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tria sunt que exiguntur"
+      }
+    }
+  ]
+}

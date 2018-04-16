@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/list/17r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/annotation/224f3f69-c074-4006-a0b1-0a2d48605b61",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-45#xywh=0,0,5892,8413",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/res/76996202-257d-4f52-ba81-fb696b403ece",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit cronica abbatis prumiensis monasterii ubi lotharius imperator ad conuersionem uenit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/annotation/1aa6b786-7680-44fa-abd1-1c837e5a936b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-45#xywh=0,0,5892,8413",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/res/cbeb312b-03c4-4bb4-9e40-30aa299115af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno imperii Octouiani cesaris xl. ii. iesus Christus filius dei natus est"
+      }
+    }
+  ]
+}

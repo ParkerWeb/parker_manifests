@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/list/59v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/eb519fdf-a052-4e40-9ab3-5676663e0c5b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-118#xywh=0,0,5783,8079",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/d68ac49b-da21-442b-ab51-2381a1cbf741",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber anathomie incipit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/d555eea0-3199-46a3-9896-805a403d49d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-118#xywh=0,0,5783,8079",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/af198f86-f074-4532-8831-a18f7ff0af5f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Medicorum anathomiam necesse est precognoscere"
+      }
+    }
+  ]
+}

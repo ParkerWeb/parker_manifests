@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/list/83r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/6825bc4b-c2f2-4dbf-8841-ece3e9ac199f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-171#xywh=0,0,6490,9355",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/bed12497-3576-43b7-9247-efec030fee96",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De calumnia et iniuriis per Willelmus Bateman ... in monasterio S. Edmundi illatus et per merita S. Edmundi finitis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/23adb2df-8ad2-4910-bdca-1dd0f6f91987",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-171#xywh=0,0,6490,9355",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/cba7b611-91c9-4c9d-99f2-2ca5b1fc9617",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ex libro 22 histor. auree Johannis anglici cap. 49"
+      }
+    }
+  ]
+}

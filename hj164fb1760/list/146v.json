@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/list/146v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/edc057b4-a43c-4762-ab80-5599530def16",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-300#xywh=0,0,3346,5367",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/f420b7ef-b8e5-4fbf-b0cc-52d6505495f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Of responses"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/7f606f5e-1cac-4018-ae8f-22885053a158",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-300#xywh=0,0,3346,5367",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/a3a373ee-e735-4bd3-b3de-2fe00382b688",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De presente defuncto"
+      }
+    }
+  ]
+}

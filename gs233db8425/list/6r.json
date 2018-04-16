@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/79dd57ef-f05e-4801-aeb5-af654d61ab3c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-25#xywh=0,0,3972,6514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/67c65a18-8024-4a09-adc5-e2b6ae2a3a5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "November. Beats oak"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/c2893f61-3a88-4537-94a1-c236b16e761d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-25#xywh=0,0,3972,6514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/dc044edf-28c5-4eee-b932-fa99197fd8e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "November16. and 20. Both Edmunds in red"
+      }
+    }
+  ]
+}

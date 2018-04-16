@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/list/163r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/2f7c527f-6697-4599-9d03-6813ad16bce5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-327#xywh=0,0,4076,5776",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/578bc4c3-1ff4-402c-ab53-8880720fb4de",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Considerauit semitas domus sue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/62e40cd2-d2f8-4294-8cfc-81249838dd24",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-327#xywh=0,0,4076,5776",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/3ee28727-7252-4108-8848-17fc80f7de3f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At top is scribbled hynricus de frimar"
+      }
+    }
+  ]
+}

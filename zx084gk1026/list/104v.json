@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/list/104v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/96a2a7c2-d08c-412e-97fd-0638b0170f55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-214#xywh=0,0,6207,9303",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/e711fac5-50e7-4d39-a30f-ecd94c1a6edd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "103v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/dada24d8-ee4d-4dd1-bdfb-4bc94c4739cd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-214#xywh=0,0,6207,9303",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/9e66d763-df62-45e7-a520-a6cb9f0b63a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Sagittariorum domesticorum et familiaris comitiua. quidam premissa faciebat licet sibi caucius alii ipmus"
+      }
+    }
+  ]
+}

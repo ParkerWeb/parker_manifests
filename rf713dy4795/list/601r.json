@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/list/601r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/annotation/8767b39a-ff78-4c1d-8962-39e3c27f6da4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/canvas/canvas-1225#xywh=0,0,4210,6801",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/res/8d88a23e-6ec4-42a8-a93e-624243f92c89",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalter Gallican"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/annotation/6b50c3a9-c5a2-4671-93d6-ecf8aeb27838",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/canvas/canvas-1225#xywh=0,0,4210,6801",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/res/f00dbd30-51f0-4633-b220-1b4bae38d080",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalter. David playing the harp"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/list/180v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/437c6ce1-e61a-4645-822b-031bb968d53d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-386#xywh=0,0,3716,6239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/0120eb04-320a-4413-a82e-17b17bcc2278",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: intercessiones inueniam. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/24c97e5a-e743-4feb-8541-302e2e2be02e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-386#xywh=0,0,3716,6239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/30173286-af31-46db-ac4e-98e093e753e2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "108v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/065bd17e-4e18-4e30-9200-e0b864ea15e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-386#xywh=0,0,3716,6239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/6ef93831-9d10-4ae5-8a9b-245dfab06f51",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Tria sunt iudicia mortis etc."
+      }
+    }
+  ]
+}

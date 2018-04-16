@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/list/98v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/9545ad70-0476-4298-9304-d804eb86006c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-222#xywh=0,0,5812,8987",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/1a07b4b5-644d-473e-84ea-abe323b53b3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber VII"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/a55e8cca-d3b3-48ed-905d-2b19ff1ccfc3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-222#xywh=0,0,5812,8987",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/0ecfd1f3-1fc7-4455-806d-8d4588657a1d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De morte sedechie etc."
+      }
+    }
+  ]
+}

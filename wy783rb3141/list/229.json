@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/list/229.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/b2d1c235-e463-472b-bdcc-f7b398830b97",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-237#xywh=0,0,5110,9102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/570bff05-21c8-46f7-a21d-50cd48574f9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finiunt Dominicales Benedictiones"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/f7372501-7bef-4033-82d0-7bab6052069f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-237#xywh=0,0,5110,9102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/3d7168d7-d92b-4afd-8699-804894e578b3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio de Sancta Trinitate"
+      }
+    }
+  ]
+}

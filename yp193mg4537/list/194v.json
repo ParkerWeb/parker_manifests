@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/list/194v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/d35f1950-dc9d-4d85-a70c-32f550d63299",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-398#xywh=0,0,3039,4932",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/ecee4f51-ada9-4258-a48f-2dc9b97f6e37",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Good round hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/7cd21506-626d-40e6-abe0-142ef1ae28ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-398#xywh=0,0,3039,4932",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/2c61ee73-ed0d-40fc-b0fe-96c8c191feef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gaude maria"
+      }
+    }
+  ]
+}

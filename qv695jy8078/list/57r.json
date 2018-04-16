@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/list/57r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/annotation/42fe1c36-b12f-45dc-8b71-9b63e97d90ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/canvas/canvas-119#xywh=0,0,5796,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/res/379dea8c-695f-43c7-8ae8-a37c9babcfa1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "xlvii (Historia Ecclesiastica IV 32)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/annotation/870d7e84-012f-4bad-8e1a-c09500ddf421",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/canvas/canvas-119#xywh=0,0,5796,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/res/ce01edae-3e80-469e-bd3f-7d571cfa20b3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nec silentio praetereundum quod ante triennium"
+      }
+    }
+  ]
+}

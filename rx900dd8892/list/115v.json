@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/list/115v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/548edb4d-2a02-428b-a2ae-667952b4de26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-238#xywh=0,0,3452,5012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/ba72daf2-bb06-407f-a6b0-4c2f2a9bf1f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et summitas omnium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/a538223f-2573-48da-a939-0db35a005547",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-238#xywh=0,0,3452,5012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/e6f5cdf8-730b-4f93-83f1-750559da2ab5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dyonisii ariopagite athenarum episcopi de mistica theologia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/a7960524-b576-4d5a-a2d8-c45298002c01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-238#xywh=0,0,3452,5012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/1a5ea1cd-ec44-48ed-8036-0c3affba187b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Eiusdem epistole diuerse"
+      }
+    }
+  ]
+}

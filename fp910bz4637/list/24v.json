@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/list/24v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/6b83e454-d147-448d-bdd8-eeb01b12b633",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-40#xywh=0,0,6093,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/57a11c9d-0e96-45c4-9501-9f586107a634",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Retractatio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/annotation/e407e164-5e44-4511-937d-f3e340eb6055",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/canvas/canvas-40#xywh=0,0,6093,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp910bz4637/res/160b1717-e277-4ace-b9ea-bde49065ca1a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Voluenti michi dici"
+      }
+    }
+  ]
+}

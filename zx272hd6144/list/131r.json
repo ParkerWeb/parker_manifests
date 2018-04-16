@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/list/131r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/33041390-440d-45cf-b498-86dd4ef64983",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-269#xywh=0,0,5702,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/9fbe4f43-ba84-40b7-8773-620499fd582f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: corpus spirituale ad quam gloriam nos perducat qui etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/03d9f956-0403-4d86-a772-1a2db74e986e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-269#xywh=0,0,5702,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/ec623033-c142-4b3e-b069-ed8ab844bb44",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia sacris angelorum sollempniis"
+      }
+    }
+  ]
+}

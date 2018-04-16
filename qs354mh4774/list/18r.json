@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/list/18r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/81a507c1-f68b-409b-ac0c-b3ba27bf99e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-43#xywh=0,0,3840,5567",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/d89a4dae-2fef-4a16-8a28-7c75fa1d6e2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: cum custodibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/37cf1cf7-9091-4ba1-b17b-e0d11d58bae3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-43#xywh=0,0,3840,5567",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/9cc257ae-aac4-4473-ac04-48ec051d2bba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt concordancie passionis domini nostri Ihesu Christi"
+      }
+    }
+  ]
+}

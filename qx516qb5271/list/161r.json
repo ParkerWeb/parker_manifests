@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/list/161r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/annotation/e8190fb4-79e3-45e9-abcb-81da3b63c726",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/canvas/canvas-335#xywh=0,0,6368,9302",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/res/2da04308-00f7-415e-abb6-8d95e6266cbf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: wil con:wil rufushenstephanushen que secundus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/annotation/635e99b8-7a3c-4ba6-be43-c97714fb51da",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/canvas/canvas-335#xywh=0,0,6368,9302",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx516qb5271/res/dae7dd74-174c-46ba-b4a1-6c759dc2961b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: post hen sep regnat felici tempore uiuat"
+      }
+    }
+  ]
+}

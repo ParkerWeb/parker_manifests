@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/list/12r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/6d04c0f9-a181-49eb-a400-d5288165bfdd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-25#xywh=0,0,5065,8392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/13577d8d-00fb-474b-9890-6b61aecd237a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/d936cdf3-33f6-4c70-a458-80a9d7758ab3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-25#xywh=0,0,5065,8392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/5a7d3717-88bf-4364-93ff-da6783dc93ba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Ina rege"
+      }
+    }
+  ]
+}

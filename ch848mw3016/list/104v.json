@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/list/104v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/annotation/fc4a4413-8a48-4571-955a-e949d9125aa5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/canvas/canvas-226#xywh=0,0,5290,7804",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/res/5f484b94-978b-4a82-8017-5d2f8b630375",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus de indulgenciis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/annotation/3c763c30-8555-4516-8b55-6d2a2301ab9f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/canvas/canvas-226#xywh=0,0,5290,7804",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/res/53cc7a7c-7986-4c32-872d-3f54dbf994f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De indulgenciis primo quid sit indulgencia 2o unde dicatur"
+      }
+    }
+  ]
+}

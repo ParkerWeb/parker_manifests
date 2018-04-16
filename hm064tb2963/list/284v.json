@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/list/284v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/21e1be8a-13f4-445b-95c5-b21f955088d6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-594#xywh=0,0,6160,9239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/141de8fb-d365-475a-8b04-4f1cb1584246",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Sanctis Agapito et ceteris martiribus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/3db71f83-ea24-4301-97e6-e6bfe580e1d7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-594#xywh=0,0,6160,9239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/7186976c-cc6d-4d20-98e1-13f89e45aac5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This ends imperfectly: only one leaf seems to be wanting"
+      }
+    }
+  ]
+}

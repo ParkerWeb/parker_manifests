@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/list/183r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/90d4860f-1062-418e-a55f-90e6a4965c99",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-371#xywh=0,0,5590,7913",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/96b13ee2-44b0-402a-a92d-961966f2f5fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De peccato et eius speciebus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/25b53f47-6141-437e-a753-cad671da5066",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-371#xywh=0,0,5590,7913",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/2ae308ee-3547-4681-ab83-ba9bf43a42e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Status proficiencium consistit in 3bus:perhaps unfinished"
+      }
+    }
+  ]
+}

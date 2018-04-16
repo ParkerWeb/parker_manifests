@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/94.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/082d5fd1-55b2-4f0f-8b7d-26cb6b374148",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-100#xywh=0,0,3502,5830",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/a5f580af-8c23-45d5-9832-dbc2dd29aafc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "β. Qualiter sacerdos suscipere debeat penitentem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/9c97e3f9-21e1-4def-93b2-bd2dc9f18bfc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-100#xywh=0,0,3502,5830",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/44ac41f5-9847-4f6f-af87-25274fdfbe0b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit qualiter sacerdos"
+      }
+    }
+  ]
+}

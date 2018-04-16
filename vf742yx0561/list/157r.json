@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/list/157r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/387c0632-dc87-4e16-87eb-61971317dcae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-321#xywh=0,0,6059,8671",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/c572fecb-25d2-46a4-ad72-ec3cf6e26f40",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber eiusdem de diligendo deo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/annotation/733f0ab5-a39e-44ea-be7c-06172ea921ca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/canvas/canvas-321#xywh=0,0,6059,8671",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf742yx0561/res/b1cad769-fc3f-42aa-a082-976744c1a253",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uiro illustri domino A."
+      }
+    }
+  ]
+}

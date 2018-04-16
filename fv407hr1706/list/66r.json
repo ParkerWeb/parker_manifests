@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/list/66r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/eca29a45-eb89-477d-838d-86dabb6faa15",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-137#xywh=0,0,4302,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/35304c09-e8b5-4fa2-ad00-fedb43efde68",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit IIII"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/592b2d63-cd3d-40e4-9254-a5dbca623c65",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-137#xywh=0,0,4302,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/866b6184-e254-4165-afae-0f5b00581f2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Secundum genus discrepant homo et arbor"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/33r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/f888387e-dcb3-40a5-8410-0ccbf807baa0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-73#xywh=0,0,5895,8745",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/8fcae27e-7822-4527-b1d4-34b2313ebccb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De officio ecclesiastico distincte egimus per totum anni circulum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/f20e3e5e-b3bb-434b-ae66-e9db9929a440",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-73#xywh=0,0,5895,8745",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/22b7d355-3df8-4c01-a12a-fbe75fee69db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Domine ne in furore cantatur quia quod dauid prophetauit apostolus predicauit"
+      }
+    }
+  ]
+}

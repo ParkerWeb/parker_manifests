@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/list/128v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/44be3d0e-c4e2-4c54-ac18-6aa65bb9429a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-262#xywh=0,0,5760,8534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/92a24539-5c3f-4f3d-abce-86d88d57befc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In dominica nouissima post pentecosten"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/de914aaf-50ab-4980-b09a-f269772cb192",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-262#xywh=0,0,5760,8534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/63b06f15-df92-49c4-a65b-b4ef378cd5e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Miracula que fecit dominus"
+      }
+    }
+  ]
+}

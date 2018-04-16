@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/list/120.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/6b27bb8b-f060-4c28-b4df-607de71e2bf3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-126#xywh=0,0,4175,6241",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/211a46f9-720e-49a0-9520-9b58ca71fe93",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Latitudinis lune"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/5bfb1c93-7618-428f-8a4f-08c19e899e0f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-126#xywh=0,0,4175,6241",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/c5a0733c-4b37-47d0-9561-9d061a64bfce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Eclipsis lune"
+      }
+    }
+  ]
+}

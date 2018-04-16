@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/18v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/c7d6a31c-e898-4168-9164-179a4504e013",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-42#xywh=0,0,3696,6277",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/bc31419b-e17f-4fdb-b985-f642101f83a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ordo induendi et benedicendi heremitam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/04220dcd-55ad-4a7e-807d-c586ab431ef3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-42#xywh=0,0,3696,6277",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/1813b683-c4e7-43db-b7e6-7d8f71b0eddb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Init. Hermit bearded"
+      }
+    }
+  ]
+}

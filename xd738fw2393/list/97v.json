@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/97v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/2a23d1c6-b560-4f93-af59-8ad07f01a836",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-200#xywh=0,0,5700,7812",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/2e245e04-d3ae-42d4-80ec-87eb71234778",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hoc est remedium eius qui uitiorum temptamentis exaestuat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/6eed90f2-af6c-4b0d-b370-d9c6200d2119",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-200#xywh=0,0,5700,7812",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/67ca93b6-99d9-4d38-a10a-8ff185c674f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This has a very good initial of fine interlaced work with dragons' heads"
+      }
+    }
+  ]
+}

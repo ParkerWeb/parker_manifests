@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/153r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/a77cb561-634a-4bdd-87d9-4590ddd65127",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-313#xywh=0,0,4588,7715",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/258aeea2-be20-46ee-aceb-dd501fcafc10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The xv Oos of St Bridget with a Preface"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/6f4838d8-6815-4a58-b1ae-0c4baeb8ff3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-313#xywh=0,0,4588,7715",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/2d04be7e-e377-4713-a906-a6ff8ca28463",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quicunque hanc infrascriptam oracionem per circulum unius anni deuote frequentauerit"
+      }
+    }
+  ]
+}

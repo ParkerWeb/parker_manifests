@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/list/102v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/a07531fc-c1df-48f2-b26a-9785cc363ad7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-206#xywh=0,0,5470,8463",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/d5241f38-66cc-496a-ad62-afc7654fb432",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hec est conuentio et finis quam Willelmus Rex Scotie fecit domino suo Henrico"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/annotation/f6d2ff21-7b15-49f4-a3c3-959bbbb6df4b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/canvas/canvas-206#xywh=0,0,5470,8463",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq756vs0720/res/bfb2f451-cf86-4911-8041-a0f0e6ac3cd8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Conuocatis per dominum Edwardum Regem Anglie illustrem apud Norham super Twedam prelatis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/list/35r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/fdfeb043-9d06-417e-b51e-8f912481151a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-79#xywh=0,0,3936,5701",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/cb21b4ef-f951-418b-89cb-13c184e06c2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/110a8f3c-1e2b-454c-a68d-b31d295b68b8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-79#xywh=0,0,3936,5701",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/48de19ca-4a4c-4416-a7a6-ec5e39faa129",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial. Man shooting at butterfly"
+      }
+    }
+  ]
+}

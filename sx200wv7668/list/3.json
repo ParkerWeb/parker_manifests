@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/098167d6-f6d8-4c2a-95b0-e982056e3cac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-13#xywh=0,0,5830,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/66732ecd-6a42-4793-a2e8-b3bc2471aa28",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the margin of p. 3 is the Ely mark"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/a6fe6778-c4c5-4f73-8539-a7d57dad734f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-13#xywh=0,0,5830,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/33e23ebb-1ec5-462b-b61a-24529e7f6562",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In the lower margin an erasure"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/0de85e0f-8973-4f69-80b9-da44e973625b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-13#xywh=0,0,5830,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/f0311c73-f70a-435d-9af6-b7778c8512b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Iste liber pertinet ecclesie ..."
+      }
+    }
+  ]
+}

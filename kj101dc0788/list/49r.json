@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/49r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/e72e55f6-7870-48a2-b90f-110c7f7483cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-101#xywh=0,0,5805,8470",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/223c7a77-e73d-4f83-9dac-f7f713b74332",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Chester to Galfridus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/dd61722c-fd68-4a72-9691-5add867ea8e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-101#xywh=0,0,5805,8470",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/809a175b-a848-4b2b-938e-000ec94929a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Norwich to John (II)"
+      }
+    }
+  ]
+}

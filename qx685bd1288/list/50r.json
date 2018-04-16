@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/list/50r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/0bf523fb-6d42-493b-8b94-8ca4ad49554b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-111#xywh=0,0,3958,5710",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/15e676c4-e6f2-458c-a8f5-22ff1961df0d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/annotation/aaae1ff6-fdeb-48cc-8ec0-89433062fcaa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/canvas/canvas-111#xywh=0,0,3958,5710",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx685bd1288/res/4d4eaa6f-d419-411d-b525-cf7cccd28f75",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sepcies in die laudem dixi tibi"
+      }
+    }
+  ]
+}

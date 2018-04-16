@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/list/8r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/6e258527-67f5-4a50-b829-d24d0c4d97fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-25#xywh=0,0,3897,5664",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/06f6e092-7599-4fba-aa11-63e84462dcd8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An explanatory paragraph"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/da146130-3f4f-4de6-9c30-e2fd9786e670",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-25#xywh=0,0,3897,5664",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/97fafe9d-5a7b-493c-ac96-a62cc523e2ec",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic est diligenter aduertendum quare caritas dicatur Immortalis"
+      }
+    }
+  ]
+}

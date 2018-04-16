@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/list/27r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/f9a81d51-7bd6-4a29-bc04-7291b20cb3ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-57#xywh=0,0,6142,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/88ac50e9-e6b2-4593-b24c-2be9202cd7a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Kalendarium Eluedene"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/3cdaa3ec-e90c-4631-b5aa-fd248005f8b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-57#xywh=0,0,6142,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/f7a1c10d-8f7b-4f95-90c1-e8af67b0f525",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Occupacio diei artificialis"
+      }
+    }
+  ]
+}

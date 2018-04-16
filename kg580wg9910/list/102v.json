@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/list/102v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/7c0e9984-233d-409b-a1a8-d1fdb920b43b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-211#xywh=0,0,4015,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/08775288-15d2-496e-9408-1e475def229b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Poems by Gul. Bibaucius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/fe038547-ad8a-40e1-b07a-2d26d7c0ca86",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-211#xywh=0,0,4015,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/797bb8f0-4e71-41db-b57d-f7844d65ecc2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ludite pieridum redolentia carmina fontes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/list/226.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/02c47c17-b44a-4f6f-bcc7-f9a21cb171bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-240#xywh=0,0,5560,7840",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/b1e982a2-d036-427d-b7b5-5570d4b4e8b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Feria IIIIa in letania maiore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/88b65506-0908-4967-b5b7-65da44a48a63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-240#xywh=0,0,5560,7840",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/895275a3-1340-40a9-a690-637db1d1161f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iohannes se godspellere aƿrat on þisse degðerlice godspelle"
+      }
+    }
+  ]
+}

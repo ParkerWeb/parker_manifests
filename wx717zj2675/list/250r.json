@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/250r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/91d236d3-2f7d-4a64-b652-1ba86207d9a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-505#xywh=0,0,3936,6652",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/430da32a-b2c2-4aa5-9a72-cb98137f69e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnis textus uel numerus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/291d70f2-444b-4204-9ca3-1043f3438284",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-505#xywh=0,0,3936,6652",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/c11be461-613a-44de-aae9-9234bb539466",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Romani sunt qui"
+      }
+    }
+  ]
+}

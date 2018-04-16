@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:oac="http://www.openannotation.org/ns/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-5">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2142</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7080</exif:height>
+    <dc:title>Foredge</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ujPAWhNN6">
+    <rdf:rest rdf:nodeID="ujPAWhNN7"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-5"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ujPAWhNN5">
+    <rdf:rest rdf:nodeID="ujPAWhNN6"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-4"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ujPAWhNN4">
+    <rdf:rest rdf:nodeID="ujPAWhNN5"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-3"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stacks.stanford.edu/image/app/cm030hj0433/216_SPN_TC_46">
+    <exif:width>2177</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageBody"/>
+    <exif:height>6984</exif:height>
+    <dc:title>Cropped</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-1">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4306</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6012</exif:height>
+    <dc:title>Front outside binding</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-4">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5454</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2214</exif:height>
+    <dc:title>Top edge</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-1">
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotation"/>
+    <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation"/>
+    <oac:hasTarget rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-1"/>
+    <oac:hasBody rdf:resource="http://stacks.stanford.edu/image/app/cm030hj0433/216_fob_TC_46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stacks.stanford.edu/image/app/cm030hj0433/216_BFE_TC_46">
+    <exif:width>5472</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageBody"/>
+    <exif:height>2193</exif:height>
+    <dc:title>Cropped</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-2">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4384</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5710</exif:height>
+    <dc:title>Back outside binding</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ujPAWhNN3">
+    <rdf:rest rdf:nodeID="ujPAWhNN4"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stacks.stanford.edu/image/app/cm030hj0433/216_fob_TC_46">
+    <exif:width>4306</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageBody"/>
+    <exif:height>6012</exif:height>
+    <dc:title>Cropped</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ujPAWhNN7">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-6"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stacks.stanford.edu/image/app/cm030hj0433/216_SFE_TC_46">
+    <exif:width>2142</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageBody"/>
+    <exif:height>7080</exif:height>
+    <dc:title>Cropped</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-5">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotation"/>
+    <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation"/>
+    <oac:hasTarget rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-5"/>
+    <oac:hasBody rdf:resource="http://stacks.stanford.edu/image/app/cm030hj0433/216_SFE_TC_46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stacks.stanford.edu/image/app/cm030hj0433/216_TFE_TC_46">
+    <exif:width>5454</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageBody"/>
+    <exif:height>2214</exif:height>
+    <dc:title>Cropped</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-2">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotation"/>
+    <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation"/>
+    <oac:hasTarget rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-2"/>
+    <oac:hasBody rdf:resource="http://stacks.stanford.edu/image/app/cm030hj0433/216_bob_TC_46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://stacks.stanford.edu/image/app/cm030hj0433/216_bob_TC_46">
+    <exif:width>4384</exif:width>
+    <rdf:type rdf:resource="http://purl.org/dc/dcmitype/Image"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageBody"/>
+    <exif:height>5710</exif:height>
+    <dc:title>Cropped</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/ImageAnnotations">
+    <rdf:rest rdf:nodeID="ujPAWhNN3"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageCollection"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-1"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-5"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-6"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-2"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-4"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-3"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-6">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotation"/>
+    <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation"/>
+    <oac:hasTarget rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-6"/>
+    <oac:hasBody rdf:resource="http://stacks.stanford.edu/image/app/cm030hj0433/216_BFE_TC_46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/ImageAnnotations.xml">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/ImageAnnotations"/>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-4">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotation"/>
+    <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation"/>
+    <oac:hasTarget rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-4"/>
+    <oac:hasBody rdf:resource="http://stacks.stanford.edu/image/app/cm030hj0433/216_TFE_TC_46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-3">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2177</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6984</exif:height>
+    <dc:title>Spine</dc:title>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/imageanno-3">
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotation"/>
+    <rdf:type rdf:resource="http://www.openannotation.org/ns/Annotation"/>
+    <oac:hasTarget rdf:resource="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-3"/>
+    <oac:hasBody rdf:resource="http://stacks.stanford.edu/image/app/cm030hj0433/216_SPN_TC_46"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/cm030hj0433/canvas-6">
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5472</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2193</exif:height>
+    <dc:title>Bottom edge</dc:title>
+  </rdf:Description>
+</rdf:RDF>

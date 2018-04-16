@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/annotation/d070fd55-a289-4c2b-8769-3ba8e757b95a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/canvas/canvas-4#xywh=0,0,5726,8367",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/res/88378e7e-029d-4216-afad-da5a0d462812",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit prologus domini Radulfi flauiacensis monachi in tractatu leuitici"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/annotation/d7f13c0c-a974-455d-991a-d00328b844d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/canvas/canvas-4#xywh=0,0,5726,8367",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk994tv6710/res/e9228d3d-15b4-4c31-a110-503094461516",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Cum inter sotios aliquando sermo"
+      }
+    }
+  ]
+}

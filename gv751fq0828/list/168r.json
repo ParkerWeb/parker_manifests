@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/list/168r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/96e70711-d90e-4077-b089-7509475a925c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-341#xywh=0,0,6118,7902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/faa402da-433b-4580-8959-786b0cb3bf65",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Incipit symbolum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/c2231607-0446-4c59-8fbe-1b89910b99ca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-341#xywh=0,0,6118,7902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/e0ed0102-c667-4b88-a4f9-2429d683e60d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(In margin the Aue in a hand of cent. xiv)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/f502c9ce-c04d-4205-bc3b-35093521b011",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-341#xywh=0,0,6118,7902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/b44efcc1-2f66-4857-b79f-aed160b6d913",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Oratio Sancti Benedicti"
+      }
+    }
+  ]
+}

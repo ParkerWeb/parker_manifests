@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/badb5aba-c4f0-4e88-922b-2cdd4b45b285",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-10#xywh=0,0,5506,8395",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/41e2d6ea-d8fb-4697-a477-54aa743c2d88",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Angli saxones imperatoris martiani tempore a brittonibus inuitati"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/fcd05335-db26-45b3-afbe-3dfbbbba8ae3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-10#xywh=0,0,5506,8395",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/81f44a9a-adf9-410b-95cf-b7da25d35e2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genealogies occupy the central column"
+      }
+    }
+  ]
+}

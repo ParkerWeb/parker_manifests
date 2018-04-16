@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/f4d29c1e-6011-4817-b3c4-49bb1aa0b38a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-9#xywh=0,0,5435,9473",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/20200ac3-1007-40e4-b9dc-9abf5cfcd932",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber W. Malmesburiensis monachi de summis pontificibus liber primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/annotation/8be1b9fc-42b0-4bba-8698-405f24f10a2c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/canvas/canvas-9#xywh=0,0,5435,9473",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp667cv9012/res/017aa052-07d9-48f5-9cde-74d34ea9c779",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Prima sedes episcoporum"
+      }
+    }
+  ]
+}

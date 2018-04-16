@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/list/iiv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/ee2bcb93-adf8-4c1f-81d9-e6cb3594d538",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-56#xywh=0,0,5734,8646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/4dfd69e7-0e71-4f57-b3f6-15632e0f847a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Vix pateris dici pauca uel ista tene"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/198dd7d3-1804-4726-8626-d38ed3cab1d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-56#xywh=0,0,5734,8646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/5354442a-c632-4028-a193-e586e574516b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus Policratici de curialium nugis et uestigiis philosophorum"
+      }
+    }
+  ]
+}

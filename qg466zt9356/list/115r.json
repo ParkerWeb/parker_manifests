@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/list/115r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/71020b26-6d8c-4faa-aa36-25fc72af43aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-237#xywh=0,0,4106,5951",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/db939bdd-eedf-4073-b865-8f1905fbe14d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit speculum peccatorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/1e3d7cb7-7c6b-4959-a77e-3da8ef25a989",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-237#xywh=0,0,4106,5951",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/bfa430dc-f212-425a-b4ec-44f67ccce46c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam karissimi in via"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/list/63v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/annotation/e936fe6a-67df-4975-8c8f-2f2750dee28a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/canvas/canvas-136#xywh=0,0,5530,8861",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/res/e419e941-bcdb-4c2d-bdad-369450ed3be8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "puto si flactus (Flaccus) aduiueret apologum suum de urbano et rusticano mure michi adaptaret... Esopus eciam de sua cornice garriret etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/annotation/5e43ba18-bae2-46ed-8ee5-e28ac19866ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/canvas/canvas-136#xywh=0,0,5530,8861",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs557zw6332/res/5d6f9ebd-79c5-4517-8e60-7036f026232a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Tu ergo bone ihesu qui tres mortuos le..."
+      }
+    }
+  ]
+}

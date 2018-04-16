@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/19.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/7cdae10d-d3b5-437f-be5b-97ee22b73c2c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-25#xywh=0,0,3505,5780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/4bd99132-6798-4460-a6a5-6ae56e86db60",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De variis obseruationibus episcopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/26d91c7a-fa0e-4c27-bf60-d99514eb21dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-25#xywh=0,0,3505,5780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/616c8658-e0c5-46a8-8f1a-ae39943fbcd6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Canons of Conc. Carthag. IV"
+      }
+    }
+  ]
+}

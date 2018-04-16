@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/19.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/fd429fd2-8dd6-476f-8895-95551bb0d488",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-20#xywh=0,0,3301,9178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/7a4b3d06-3a55-4689-8253-693c0d6c4ad5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "* Regulae astrologicae de fausto precandi tempore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/06b4aaad-fb8f-40ba-b15a-bda7641ab89a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-20#xywh=0,0,3301,9178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/2a3401ad-1a96-4daf-80c9-ce7f1fd3bf22",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De insulis occidentalibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/570beb40-651a-4fb7-980a-f1869d7be7ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-20#xywh=0,0,3301,9178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/4adca18a-9174-4cad-9078-2082981f9104",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De navibus Willelmi Canyng"
+      }
+    }
+  ]
+}

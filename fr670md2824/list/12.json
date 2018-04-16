@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/list/12.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/8d0bf2f1-5f3a-4f56-9c63-ed159d53a072",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-24#xywh=0,0,5540,7900",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/9cd42e8e-6223-4989-b23e-05093cf3bf20",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ewangelium secundum Lucam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/ad969c44-5f01-443e-836b-f5a1907aa8d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-24#xywh=0,0,5540,7900",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/0b8c908e-3727-4235-84c0-1de30841a527",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum turba plurima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/annotation/10bcf081-ebc4-4ba8-b5df-3934aafe68aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/canvas/canvas-24#xywh=0,0,5540,7900",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr670md2824/res/df90b3af-574d-4cb3-8d7f-c2c413ade2a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: On sumere tide"
+      }
+    }
+  ]
+}

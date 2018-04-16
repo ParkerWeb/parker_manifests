@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/list/275r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/e7623e41-f364-4e4a-a75b-b9327b3993b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-559#xywh=0,0,5226,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/8560a9e2-d21e-4c90-bbb4-f9946ab0fcc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Misse sunt epistole ex regis nomine"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/d862a4aa-950e-4174-bb22-0c2ae6c1af37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-559#xywh=0,0,5226,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/8d2f9166-c0a4-4deb-bbc8-0a22f956c122",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Partial border and initial"
+      }
+    }
+  ]
+}

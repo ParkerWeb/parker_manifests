@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/list/21v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/8427ce8d-a038-4ad0-907b-3be2253689fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-52#xywh=0,0,3572,5503",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/35acf659-ab78-4625-b86b-cca49244d48d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: unde nos eripere dignetur dominus noster Ihesus Christus qui etc. per infinita secula seculorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/123da16f-9b6a-430e-9606-bc07b052a642",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-52#xywh=0,0,3572,5503",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/6554a719-9bec-4b68-90d0-8c4d802c8b92",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Amen"
+      }
+    }
+  ]
+}

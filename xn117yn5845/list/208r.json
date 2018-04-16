@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/list/208r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/85bdf858-00aa-417a-85dd-eb600e0afb97",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-421#xywh=0,0,4051,6088",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/e753bf4d-2898-4a54-93df-3df298d6a5fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sue carnis substantia uerum hominem genuisse. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/adf1a8ec-336c-4f05-8448-06a668b84295",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-421#xywh=0,0,4051,6088",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/5471c64c-bed8-4625-99a2-c16875a5f429",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit de conceptione Sancte Marie"
+      }
+    }
+  ]
+}

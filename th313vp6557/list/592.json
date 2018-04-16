@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/592.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/12f0462d-1cd4-449f-985f-4b9a0eb73ebe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-604#xywh=0,0,4779,8402",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/012b97bd-a2c3-4fd8-8f43-16d576246172",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio ad Sanctam Crucem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/ed67fa82-f2a8-49ae-804d-9a2c96058603",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-604#xywh=0,0,4779,8402",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/56666cac-d42e-41d8-9245-605bb0c060d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Crux christi ego te diligo"
+      }
+    }
+  ]
+}

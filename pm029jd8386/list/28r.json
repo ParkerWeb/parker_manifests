@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/list/28r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/6c5745b7-db29-454f-9db4-cfbde6709144",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-65#xywh=0,0,3711,5948",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/04e01e22-8a7b-4c96-bbf8-52d3309ecc35",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: desiccat corpora"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/16ba81eb-1ea1-4bb5-9ff4-a33694992839",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-65#xywh=0,0,3711,5948",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/1600ecc4-19a2-4b40-aa60-e0252ef5b2d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber afforismorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/54efe9a0-8ceb-4ff4-a86c-5faff4ef0973",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-65#xywh=0,0,3711,5948",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/313a856f-d8a1-4b6e-936c-54ccb2a780f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber pronosticorum ypocratis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/list/77v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/annotation/a8d4dba8-19e4-4c8c-8bc3-467967dc2b91",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/canvas/canvas-160#xywh=0,0,5159,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/res/967de5b9-4e73-4626-8981-143a5f9e06ff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/annotation/90800261-8473-402b-a3b6-413ba52fa7e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/canvas/canvas-160#xywh=0,0,5159,7795",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/res/d9e0ffeb-4e5c-4072-966c-06691e208cd3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ubi uenit plenitudo temporis"
+      }
+    }
+  ]
+}

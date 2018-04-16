@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/44v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/798dd182-112a-43de-b458-d7ad571f782f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-94#xywh=0,0,5098,8046",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/e1de5e8b-8ae8-4066-b7a5-8078ada8bbba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sub hoc conpendio terminetur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/02ee60a7-0c91-4063-ae64-dcfb5b9a89b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-94#xywh=0,0,5098,8046",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/03ee7f27-f1f2-42e1-a5dc-f4510112750e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

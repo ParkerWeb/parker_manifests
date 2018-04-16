@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/252.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/c491c08b-7b28-486a-982f-8e4b537e6b03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-264#xywh=0,0,4796,8363",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/ee59e5ee-998d-40b3-a29b-9e93ed9f4a27",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "After Pentecost is added (xii) a hymn"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/11d1475f-b2b4-4b84-b6a7-e3fd8b29c279",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-264#xywh=0,0,4796,8363",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/b539f28c-fadd-4895-8d16-40a19b019647",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Felix per omnes festum mundi cardines"
+      }
+    }
+  ]
+}

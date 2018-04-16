@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/list/122v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/1ca6443d-33b0-47c5-b108-567143d3962f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-254#xywh=0,0,4070,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/385234dd-033c-47b8-90a1-46874c4669b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text with fine initial in red and green"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/2dc1e9f2-8e62-4e6f-bf48-2b69c18d50bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-254#xywh=0,0,4070,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/cd5614db-8483-471e-b9a8-978720effcbb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Canones 41"
+      }
+    }
+  ]
+}

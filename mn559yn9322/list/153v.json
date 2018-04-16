@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/list/153v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/606ea8f2-a9a2-4425-adce-ca4e4693040f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-320#xywh=0,0,3844,5631",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/d36ddce1-c87f-4927-80e8-999877adf013",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Alia arenga de eodem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/annotation/7739ffc0-202a-4b41-adaf-3828a4c69d15",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/canvas/canvas-320#xywh=0,0,3844,5631",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mn559yn9322/res/80360e2d-9503-4c66-ab2b-870c0de1b1f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Redde uxorem viro suo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/list/121r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/annotation/c1e8e186-5dee-4382-80bd-c5f8b109e141",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/canvas/canvas-237#xywh=0,0,5800,9186",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/res/40303da6-2c4f-4e81-9259-a3b1133303ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "de Dedicatione Ecclesie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/annotation/1a86b955-9a9d-4974-8d61-321604ebaf6c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/canvas/canvas-237#xywh=0,0,5800,9186",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/res/28322e2e-aba6-461c-887e-f6eaedc10c61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "de Proprio Sanctorum"
+      }
+    }
+  ]
+}

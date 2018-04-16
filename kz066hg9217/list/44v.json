@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/44v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/aed9cb68-76bf-4adf-99d2-eb8065e74fc9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-94#xywh=0,0,5837,8858",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/2f87e899-bd68-45d8-8f9d-16da011ebeeb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dominus illuminatio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/3783084c-876f-4aed-b455-cf36325a497c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-94#xywh=0,0,5837,8858",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/680b8181-9a07-4821-ba1a-416a7a7914b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial to Psalm. Christ stands on R. with small cross. On R"
+      }
+    }
+  ]
+}

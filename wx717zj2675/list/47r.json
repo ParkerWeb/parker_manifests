@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/47r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/1b28b7ea-bca0-4982-8a59-ab31a3c628c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-99#xywh=0,0,4050,6702",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/344e1e2c-738a-4a2a-9d72-18f282be6803",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Jos. Prol."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/86b52448-78c3-45da-bb5b-04deb5fafcbd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-99#xywh=0,0,4050,6702",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/1462656b-905a-4880-b26c-006efeafd509",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tandem finito"
+      }
+    }
+  ]
+}

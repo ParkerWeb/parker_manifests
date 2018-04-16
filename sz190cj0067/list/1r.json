@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/41424548-640b-4ed2-b235-78fb6d16a978",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-7#xywh=0,0,5891,8947",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/6c9e63f9-f549-47a2-a9b6-3bcb4374a471",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Super Isaiam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/f44b437b-312c-4c40-9eb1-195b7e410c76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-7#xywh=0,0,5891,8947",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/07b8851f-3f6f-4b33-8399-32e66ea64dbe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ysaias filius amos salus domini"
+      }
+    }
+  ]
+}

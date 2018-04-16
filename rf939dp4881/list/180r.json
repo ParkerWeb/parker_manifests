@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/list/180r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/annotation/5fc64867-a4bd-41d9-985f-f84a7a19438b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/canvas/canvas-365#xywh=0,0,6035,9008",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/res/f92364e7-ace5-470a-a720-4af3ef5e8c57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipiunt sententie mag. hugberti ficfiensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/annotation/dd516878-df4e-43a4-b232-31e3f6f12c25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/canvas/canvas-365#xywh=0,0,6035,9008",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf939dp4881/res/7c25dc30-1fae-42c3-a44f-846879720416",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De fide et spe que in nobis est omnipotenti (omni poscenti) rationem reddere ut ait petrus in epistola sua"
+      }
+    }
+  ]
+}

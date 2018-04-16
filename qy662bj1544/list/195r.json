@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/195r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/f068101f-7bf0-49a2-b0ad-10fa4919e71e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-407#xywh=0,0,5839,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/b6a4f96b-e281-4b1c-ab14-08ad5190f152",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalter Gallican"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/4c7cf339-6770-4761-9b6f-d6a172aa11e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-407#xywh=0,0,5839,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/41d522ea-9c77-4bcc-ba7e-b77257eaf702",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalter. Beatus vir. Above. David plays harp"
+      }
+    }
+  ]
+}

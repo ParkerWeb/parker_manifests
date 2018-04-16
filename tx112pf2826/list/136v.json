@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/136v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/f20ea83f-4f2d-489a-ad5c-a1439704d64b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-282#xywh=0,0,3766,6343",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/8e78a20d-fff8-4962-9a62-761b16dbac2f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "112v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/41f1527b-1165-4217-a903-b109c3bbb648",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-282#xywh=0,0,3766,6343",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/8f801ec1-7a76-44c8-ba72-5e8b6607cc3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Sword"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/bbf04b08-ee65-4f00-87c5-c45fcffe8679",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-282#xywh=0,0,3766,6343",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/b4dff2f4-1528-47bb-bf34-96a059ef57f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Armillae"
+      }
+    }
+  ]
+}

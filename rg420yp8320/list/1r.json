@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/annotation/d314af37-7be1-457d-b79b-e652510fe15d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/canvas/canvas-7#xywh=0,0,5314,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/res/add9e47b-0642-4c36-9568-dac423a43956",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus sequentis Ch(r)onici operis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/annotation/36ff8263-d8bf-48fa-af89-059a58fe89ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/canvas/canvas-7#xywh=0,0,5314,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg420yp8320/res/625667c0-6167-4819-953b-97540525d296",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quamlibet Rem Publicam testatur tullius felicem fore si uel a sapientibus regatur"
+      }
+    }
+  ]
+}

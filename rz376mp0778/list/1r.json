@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/annotation/37a009f8-906f-471f-ba58-0dd67935e728",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/canvas/canvas-7#xywh=0,0,2980,4336",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/res/71598eac-a1e7-4454-a24d-19d4a8594f47",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue without title"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/annotation/feab3b01-da43-436a-92ac-0ffd960390aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/canvas/canvas-7#xywh=0,0,2980,4336",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/res/fb6e5615-e6be-4c09-b26b-b448a17d54c4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum fortuitu in manus meas incideret unum ex quatuor euangelium compositum. et absente titulo non inuenirem nomen auctoris"
+      }
+    }
+  ]
+}

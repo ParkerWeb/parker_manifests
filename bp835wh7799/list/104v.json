@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/list/104v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/annotation/dfdd8ffd-a2ee-47d6-9b6f-6dd063414011",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/canvas/canvas-216#xywh=0,0,3840,6135",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/res/7366b7d7-2c41-4913-ab30-c1c9783654ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Temporibus diocliani imperatoris cum ipse ad consortium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/annotation/676182c4-5206-4520-b96e-81bca5b69fcd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/canvas/canvas-216#xywh=0,0,3840,6135",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp835wh7799/res/f2ac5efa-92ac-4fd9-bd3a-f0bfe3ff4b29",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Tunc hi preerant legioni mites affatu. dixerunt ad"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/list/71r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/annotation/ca3ef7a9-892c-4d77-81a3-0c2d729f8c6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/canvas/canvas-147#xywh=0,0,5811,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/res/136b433f-615e-4523-8440-19d4d6ee76ad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit epistola bede presbiter ad iohannem presbiterum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/annotation/ee483982-e536-4647-9a5c-0e700b305f5d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/canvas/canvas-147#xywh=0,0,5811,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/res/bfc22473-893b-462a-b969-989012ccd1cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino in domino dominorum dilectissimo"
+      }
+    }
+  ]
+}

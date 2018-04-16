@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/list/92v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/b953909d-8ebc-4e8c-a23b-a3d6e7cdea6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-192#xywh=0,0,5699,8514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/efaec105-4c30-4a68-9d9b-1d41b9b3789e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad gloriam regni sui perueniamus eternam. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/4843edae-2b13-49e8-90a2-75d6db5ac7f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-192#xywh=0,0,5699,8514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/7c3f1707-1732-4c38-872e-b13a83aa8ebd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit regula Sancti Benedicti secundum Bernardum abbatem monasterii Cassinensis"
+      }
+    }
+  ]
+}

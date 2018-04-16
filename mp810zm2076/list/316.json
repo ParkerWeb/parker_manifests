@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/316.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/8600c7cd-c5bc-433b-8ebd-72e5615675e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-329#xywh=0,0,2766,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/d3f1bb86-f048-457b-b508-d75a248ebb59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De temporibus quibus ordines religiosi instituti sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/2a35d6dc-d78c-4401-a3cd-a35213611265",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-329#xywh=0,0,2766,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/2dc730d6-4b90-42e5-a1fd-79b175df697c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De abbatiis ordinis Premonstr."
+      }
+    }
+  ]
+}

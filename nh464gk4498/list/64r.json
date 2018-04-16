@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/list/64r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/c938fc04-deca-49d4-b88a-a1ec35f9e523",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-135#xywh=0,0,3990,6110",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/163b2804-7368-42ef-b721-619176c83c08",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad virginis laudes que sit benedicta in eternum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/c78ced43-c7cb-404f-86df-0a4f7b91d9be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-135#xywh=0,0,3990,6110",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/c3e12c38-3e81-46e9-8ed1-36b9c22784fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit sententia ffrancisci de maronis de conceptu virginali"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/list/88v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/a5366914-5c68-4778-ac18-190a6141bbe4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-180#xywh=0,0,4141,5946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/a8fd33d1-af18-4c02-b6fc-02c4bd7293a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: occupacionum necessitas necessario claudit stilum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/4b7aaafe-174e-4419-94f7-80faebf9aefb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-180#xywh=0,0,4141,5946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/c850d0a0-2e25-4324-90b6-19f143915e77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Another copy of no. 6: but rougher"
+      }
+    }
+  ]
+}

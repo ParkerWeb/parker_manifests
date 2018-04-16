@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/list/305.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/2dd92e84-98ca-423b-b951-e36e3b8da3bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-309#xywh=0,0,3832,6549",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/c0961c13-d2ca-4aed-a6e2-49811022be33",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: iiii Idus Augusti. Passio Sancti Laurentii Martyris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/b48e1284-17ef-4a07-9389-83f0f6ce1c45",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-309#xywh=0,0,3832,6549",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/c94917cc-bda2-46ba-a78d-e0a6556fe43a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: On Decies dæge"
+      }
+    }
+  ]
+}

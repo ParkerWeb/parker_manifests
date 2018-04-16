@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/list/156r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/annotation/76c64bcf-92b3-4f4c-bf92-d876dfa78ebe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/canvas/canvas-319#xywh=0,0,3638,5523",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/res/57691b86-2833-40b6-b690-a3396794a2d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Tract without title"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/annotation/a8c5b1e3-30ba-4eff-b8b8-8db23a614c01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/canvas/canvas-319#xywh=0,0,3638,5523",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/res/20603e0f-23a7-4235-b63f-71cf8e36a964",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Secundum ptholomeum una linea debet imaginari transiens ab oriente in ocidens"
+      }
+    }
+  ]
+}

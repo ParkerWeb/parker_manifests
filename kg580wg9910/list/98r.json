@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/list/98r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/41544484-9495-4233-a0c1-85a1651a653a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-202#xywh=0,0,4108,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/5c381aad-267f-4247-bb33-d866e86b78b5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: consolatus es me ad uitam perhennem. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/041c3206-da8a-49e6-8317-5548bf7f82b6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-202#xywh=0,0,4108,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/b4f6b494-7ba5-4595-b5b4-17d885614a2f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatus qui intitulatur consolacio peccatorum"
+      }
+    }
+  ]
+}

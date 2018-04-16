@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/list/250v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/89bf4e57-c378-417e-adce-30078e83cd85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-510#xywh=0,0,3867,5625",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/3df021cc-4e7b-4fac-b78e-d2417de86ca2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequitur principium repeticionis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/b8e5b528-93df-4d90-9f56-9d3774ec3407",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-510#xywh=0,0,3867,5625",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/c1692f89-16a2-4961-9c6b-f0beaacb09e9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine ad adiuuandum me festina ps. 69. transpne in canone"
+      }
+    }
+  ]
+}

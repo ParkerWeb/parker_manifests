@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/list/76r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/23c15ef1-e773-485f-9ea8-215b0998f068",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-159#xywh=0,0,3950,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/a308cc2d-33b7-4897-acaf-628c9f438aa4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad consummationem seculi uobiscum sum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/0a9b4f0d-0e5d-4b9f-ac17-5229c634cb03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-159#xywh=0,0,3950,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/8195a75c-10ba-4280-8eee-3bc2bb4c1193",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    }
+  ]
+}

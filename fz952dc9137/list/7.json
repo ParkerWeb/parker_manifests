@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/list/7.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/7cf537a2-fa9d-4fa8-8de5-3c8544ba6e0d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-17#xywh=0,0,3871,5515",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/e1f2bcf3-e727-42b9-a99e-4711b636766b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: conregnetis in eternum cum Christo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/1efa9f10-fd67-4f6b-82e6-261f16fb3326",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-17#xywh=0,0,3871,5515",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/a9603de5-59ea-4f8d-8d41-894d1f43d71a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prefatio Secuntur tituli capitulorum operis sequentis"
+      }
+    }
+  ]
+}

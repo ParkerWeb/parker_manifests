@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/list/161r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/0e93f470-b570-496a-959d-35fa5f051e95",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-331#xywh=0,0,4080,6278",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/2dfce539-cd21-4985-af74-811430da1454",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "HISPANICA. Concilium Eliberitanum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/47e01b1b-9459-43b5-bd17-2ae5751d8534",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-331#xywh=0,0,4080,6278",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/dcec3856-c1ad-4cdb-abdc-0e25063699b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Huc usque Gallie Concilia"
+      }
+    }
+  ]
+}

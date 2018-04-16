@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/list/153r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/annotation/0b6c8afc-ae1c-47cb-a69d-5de845b0aea6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/canvas/canvas-307#xywh=0,0,3536,5780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/res/c32147d0-92b3-4287-a4bd-371b0fc6b7a7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: paulus concludit ceteras orationes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/annotation/25a8689d-f744-43ad-a2e0-6abd238cd4cc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/canvas/canvas-307#xywh=0,0,3536,5780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/res/d0da5464-953b-412c-83a6-87ef71823bf2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Suscipe clementissime pater hanc oblationem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/annotation/7cebe32d-8a47-44c6-9e85-858e4c31322f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/canvas/canvas-307#xywh=0,0,3536,5780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp140pk0305/res/25dcb076-849d-49af-b79f-7398dd3f6f00",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Obtulit in sacrificio qui uiuit et regnat deus in secula seculorum. amen"
+      }
+    }
+  ]
+}

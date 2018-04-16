@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/list/140r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/75731e07-84b1-45f5-954e-f8adc245cdcc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-305#xywh=0,0,6003,8711",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/d0f6432a-9ee3-4958-a443-e95dd7312c6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber IX"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/631cb32e-6cba-4fae-8ed1-0ce49368d5c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-305#xywh=0,0,6003,8711",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/2e5d07d8-36e1-4024-8ce9-14188197cec4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De natiuitate domini"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/list/5r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/annotation/32673e87-ccd8-42ae-a6e3-ae976186d1a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/canvas/canvas-11#xywh=0,0,5639,9210",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/res/057301d8-3f21-4a93-936e-02e2fc23b9bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quod in nouo testamento post christum dominum a petro sacerdotalis ceperit ordo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/annotation/03bd2424-d331-4abe-9162-845a9c4c63e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/canvas/canvas-11#xywh=0,0,5639,9210",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz069xd3008/res/999bdffe-9b3e-41d6-a8ea-061c73f6aeb8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In nouo testamento post Christum dominum nostrum"
+      }
+    }
+  ]
+}

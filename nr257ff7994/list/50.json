@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/list/50.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/67c70f3a-9bdb-4ba4-8b7b-24e227ee5180",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-64#xywh=0,0,3589,5881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/59cce28d-384d-4bd8-97b8-491e6fb144db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: [De priuilegiis peculiaribus]"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/a1b3689a-3316-400c-8c27-37be25f269b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-64#xywh=0,0,3589,5881",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/80d1b7e0-b379-4f6a-a97c-c8a538677dad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Precipit apostolus immo per apostolum Christus ut omnis anima sullimioribus potestatibus subdita sit"
+      }
+    }
+  ]
+}

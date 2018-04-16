@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/list/135r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/33558d7c-ba1b-4a59-8438-6b7fbd345a95",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-285#xywh=0,0,5753,8992",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/23878798-7c4a-4816-8a7a-bed5dd0a3c64",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Compilacio de gestis britonum et anglorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/eefe2204-b3dc-490d-a17c-54ba188706c7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-285#xywh=0,0,5753,8992",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/48abf64b-886f-4c7f-8a0b-5bfa53f1e128",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Non solum audiendis scripture sacre uerbis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/list/110r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/74465047-7093-48f0-8788-d22f3e7fa7e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-227#xywh=0,0,3368,4928",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/61d60fc9-c686-4974-b5a5-61496297b881",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit statutum de prouisoribus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/111c0f1c-82fd-44e7-85a7-87956dbc3d16",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-227#xywh=0,0,3368,4928",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/94e68f3c-355e-43ed-b265-54897f51b2a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Come iadys en le parlement"
+      }
+    }
+  ]
+}

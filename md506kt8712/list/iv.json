@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/list/iv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/annotation/50afc035-de6b-4d30-875d-938960efa171",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/canvas/canvas-6#xywh=0,0,5554,9330",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/res/e047e14c-8827-4c49-b4c6-7f40b3bc9127",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Arabic digits in red"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/annotation/b6b4799e-c2ab-4761-88d8-f5b5d1ae995c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/canvas/canvas-6#xywh=0,0,5554,9330",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/md506kt8712/res/7340b01b-9955-4949-ae85-60f6f6395c7e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cest art algorism hom apeleUn art daconter bon et bele"
+      }
+    }
+  ]
+}

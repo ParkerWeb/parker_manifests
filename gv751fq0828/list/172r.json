@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/list/172r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/78160617-7f0e-4b6f-b666-91eabf886d17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-349#xywh=0,0,6179,7890",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/dccb64e4-4ac7-46a5-8f35-d5f2950adffd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Orationes ad completa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/9fa33334-790d-43a6-bed7-b49fd0e07dbc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-349#xywh=0,0,6179,7890",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/6161bbc1-48af-4359-b41f-066b6f5f7af3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine exaudi"
+      }
+    }
+  ]
+}

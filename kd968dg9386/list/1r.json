@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/ec0f5bb8-6bf1-4b7e-adab-d95c7bc87260",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-8#xywh=0,0,5159,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/2aeb8edc-246a-4689-ab29-66e4017f7c13",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber de Vita Sancti Martini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/df8e0c83-ea2b-4aac-a66b-118adfec29d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-8#xywh=0,0,5159,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/7a4ecdf8-91ae-4493-8799-af6e98451f24",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In natali Sancti Martini lectio I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/7315809c-46ea-40e2-8d34-f719d8f3f674",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-8#xywh=0,0,5159,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/09df1d48-6d2d-47bd-869b-761ede1441a6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Beatus martinussabarie pannoniarum oppido oriundus"
+      }
+    }
+  ]
+}

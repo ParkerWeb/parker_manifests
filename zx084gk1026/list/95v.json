@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/list/95v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/05a5b634-3653-4069-9446-bdcb628a707c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-196#xywh=0,0,6183,9086",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/df31e834-87ce-4ab8-aa7e-832540ec6f02",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Et sic reposita est nobis corona iusticie quam reddet nobis in illa die iustus iudex"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/d145c87e-bfb3-4e84-8810-1e26268abb60",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-196#xywh=0,0,6183,9086",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/ae7576e3-ef2c-4d5a-889c-9ed33889701e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Itinerarium cuiusdam anglici terram sanctam et alia loca sancta uisitantis"
+      }
+    }
+  ]
+}

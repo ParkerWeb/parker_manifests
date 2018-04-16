@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/list/45v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/075b405e-019b-460a-b03a-c52281c26bca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-98#xywh=0,0,3374,5490",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/e4f08c30-63ea-4ae1-9802-ed06d3e4fa17",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/747a65cf-a140-4bde-8bed-79125421b028",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-98#xywh=0,0,3374,5490",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/6ab9750d-fa6e-4246-90d8-c19839401196",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Summa tocius heresis ac diabolice secte"
+      }
+    }
+  ]
+}

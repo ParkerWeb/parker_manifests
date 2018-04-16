@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/list/115r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/b19a293e-f976-4778-a6ad-2e93b28fd303",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-240#xywh=0,0,3963,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/9c3e67d3-06ae-46b4-bae3-9387568fdbf8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De concepcione precursoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/487b9e8e-b44c-4f2f-bdd9-2645f8820118",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-240#xywh=0,0,3963,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/3f12fded-6462-4041-bf77-e425383c5314",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fuit autem in diebus herodis regis Jude affluxis annis regni eius undetriginta"
+      }
+    }
+  ]
+}

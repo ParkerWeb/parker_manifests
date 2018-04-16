@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/166v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/2b7b30cc-01d1-4a82-b04d-2ef6793443d6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-338#xywh=0,0,4087,6668",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/ab728b83-f1e2-448e-8803-a267d5711240",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Followed by extract. Hic post incensam a chaldeis iudeam)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/8eebe098-0fc1-4076-89d2-b4c77d1e7761",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-338#xywh=0,0,4087,6668",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/e1008b8c-c4f6-4159-acfb-4146bb203ad6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hester"
+      }
+    }
+  ]
+}

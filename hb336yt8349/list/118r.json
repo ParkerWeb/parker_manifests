@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/list/118r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/annotation/ae566578-2b54-4378-9077-13ad1805b856",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/canvas/canvas-243#xywh=0,0,3823,6105",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/res/0b26f0ea-8c5a-453d-8ed0-19797f6a5f5d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ergo patris tanti festum gratanter honoransCantica sollemni digna repende die"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/annotation/eae18b30-4b94-4535-b949-f8f233da044b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/canvas/canvas-243#xywh=0,0,3823,6105",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/res/32c559d5-7fcf-4dcd-8e42-df89f8dfb948",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Salue festa dies celebri dignissima laudeQua deus Albanum uexit ad astra poli"
+      }
+    }
+  ]
+}

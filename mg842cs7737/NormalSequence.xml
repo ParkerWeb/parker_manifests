@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-3">
+    <dc:title>004 M</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5626</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5428</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-2">
+    <dc:title>003 M</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5471</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5428</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ZYhczown8">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-6"/>
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-5">
+    <dc:title>006 M</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5659</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3122</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ZYhczown7">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-5"/>
+    <rdf:rest rdf:nodeID="ZYhczown8"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ZYhczown3">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-0"/>
+    <rdf:rest rdf:nodeID="ZYhczown4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-0">
+    <dc:title>001 M</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5325</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4700</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ZYhczown6">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-4"/>
+    <rdf:rest rdf:nodeID="ZYhczown7"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-4">
+    <dc:title>005 M</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5711</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5428</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ZYhczown5">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-3"/>
+    <rdf:rest rdf:nodeID="ZYhczown6"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="ZYhczown4">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-2"/>
+    <rdf:rest rdf:nodeID="ZYhczown5"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-6">
+    <dc:title>001 D</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5315</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5051</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/NormalSequence">
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-1"/>
+    <rdf:rest rdf:nodeID="ZYhczown3"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Sequence"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-3"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-2"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-5"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-6"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-0"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-4"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/NormalSequence.xml">
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/mg842cs7737/NormalSequence"/>
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/mg842cs7737/canvas-1">
+    <dc:title>002 M</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5420</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5428</exif:width>
+  </rdf:Description>
+</rdf:RDF>

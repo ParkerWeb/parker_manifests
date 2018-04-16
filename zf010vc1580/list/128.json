@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/list/128.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/annotation/b9afd15c-649b-4328-8938-4d55e4337f43",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/canvas/canvas-134#xywh=0,0,4071,6350",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/res/701ee984-9921-4cf9-9597-2cbe59ab71f0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ygan a wake"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/annotation/2cd80a5a-c002-494a-aa2c-ec911f2d3b18",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/canvas/canvas-134#xywh=0,0,4071,6350",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zf010vc1580/res/8a8c5146-de3a-4e12-9782-b3ab92902cad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit secundus et ultimus de dobett"
+      }
+    }
+  ]
+}

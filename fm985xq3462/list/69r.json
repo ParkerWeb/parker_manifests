@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/69r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/068dbecd-7997-44d1-a137-075a453ec408",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-147#xywh=0,0,5948,8925",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/e7294f4d-84f5-4cd1-b71e-61d2dfe2ef95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "137"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/fc0eb067-c7f7-4b36-8f15-7b21c3bf1d12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-147#xywh=0,0,5948,8925",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/ac3c1271-28c3-49d1-89e7-3403f38d783e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "No. III is in two hands"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/list/99.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/d803d522-e126-49db-9aa8-1957649dc5c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-113#xywh=0,0,3799,6517",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/3e24c32f-06e2-4c81-bc2f-3935690abcf9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Kalendas ianuarii. Circumcisio domini ac saluatoris nostri Iesu Christi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/annotation/b0a53484-8deb-4003-84dd-3467d7f8ace1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/canvas/canvas-113#xywh=0,0,3799,6517",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg474kk2275/res/0b059bfb-4f8b-44c5-8059-9fe6bbc4fa73",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Se godspellere lucas beleac"
+      }
+    }
+  ]
+}

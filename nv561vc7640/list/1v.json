@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/b4fca6b8-a179-4127-b260-3941d7af3c26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-8#xywh=0,0,5464,8510",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/4fe20b3c-7898-4873-92eb-fd7ded39af49",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit philosophia monachorum. prologus premittitur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/ee2e5d4e-c9e0-4543-a962-5906dee027e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-8#xywh=0,0,5464,8510",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/163fe1ba-4e70-4ac9-a113-ec3f6fc7f1a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Volo set nondum valeo qui autem dedit velle"
+      }
+    }
+  ]
+}

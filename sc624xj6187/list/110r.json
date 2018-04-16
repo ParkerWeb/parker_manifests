@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/list/110r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/annotation/6a82072a-17e4-4e4e-acd5-8661ffa82d4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/canvas/canvas-233#xywh=0,0,3656,6034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/res/ef83f364-e5ee-43a4-9ae5-7e99f52e29d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abba Pater Ab iiulius mensis Ab augustus mensis Abdico alieno. respuo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/annotation/8131d001-993a-4012-a2ea-1a6389ac9fe6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/canvas/canvas-233#xywh=0,0,3656,6034",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/res/253da67d-dd27-43de-8cc7-f9afd075dad0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Fine initial in outline with patches of blue: interlaced lines discontinued at the intersections"
+      }
+    }
+  ]
+}

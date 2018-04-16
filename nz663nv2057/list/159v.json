@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/list/159v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/annotation/38c8f6f7-5bcb-4c6b-9dc3-7e137fb0ae37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/canvas/canvas-330#xywh=0,0,6514,8443",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/res/061a3067-8d49-46d7-bb12-d9316f1f0510",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: iudicata si deleas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/annotation/5fb7af97-fc04-4088-9796-98bead66080b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/canvas/canvas-330#xywh=0,0,6514,8443",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz663nv2057/res/5422ebdc-0419-4c33-b272-5f7841ddae45",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finit Orosii liber septimus"
+      }
+    }
+  ]
+}

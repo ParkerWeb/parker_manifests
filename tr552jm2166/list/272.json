@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/list/272.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/384c92e4-c1a5-4ab3-94d3-f7227a4e4384",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-274#xywh=0,0,5795,8501",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/583e4863-63fd-42e0-b8e6-97430fad2cc9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In natali Sancti Augustini anglorum apostoli (lectio prima)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/c1cbb4e3-353e-4c3a-994e-718ed4ddb852",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-274#xywh=0,0,5795,8501",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/cef043bc-0b10-4cd2-877b-e8ed34d386db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno ab incarnatione domini quingentesimo octogesimo secundo mauricius ab augusto"
+      }
+    }
+  ]
+}

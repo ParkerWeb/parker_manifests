@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/108v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/b44172c9-ed61-4aaf-80e9-e2ac3d54e465",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-224#xywh=0,0,5902,8790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/f19901ff-758f-4fe1-9e1b-1af45f1dd11a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dilectio uestra credat. Datum taurini iio Aug. iii indictionis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/82f78b22-44f4-4b9c-a8e3-dd7d3e4dabac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-224#xywh=0,0,5902,8790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/f3847add-c168-4f2c-8edc-6c9d3d365a17",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fredericus dei gratia etc. illos felices describat antiquitas"
+      }
+    }
+  ]
+}

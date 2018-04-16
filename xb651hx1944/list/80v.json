@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/list/80v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/annotation/06228a31-18a3-48a7-ba45-f5c4da7187e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/canvas/canvas-166#xywh=0,0,6447,9273",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/res/9ff4edca-6b57-47ed-b4db-5d549d24440c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: uel ab inaequalibus ad aequalia aequaliter uel quotlibet"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/annotation/dd0cc2ba-65bd-45d2-b77e-70668de2db21",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/canvas/canvas-166#xywh=0,0,6447,9273",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb651hx1944/res/06c989fa-1f58-48e7-a3d1-3122c04d4d72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De maxima et perfecta symphonia que tribus distenditur interuallis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/list/5r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/annotation/0335a9d0-1de6-4d1c-87b8-26c126699d50",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/canvas/canvas-33#xywh=0,0,4192,6783",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/res/58f8a88f-1f8f-4f78-901d-1b6db8148df6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genesis-2 Par."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/annotation/d36b30f8-1fbe-4f62-acc1-36c3de847953",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/canvas/canvas-33#xywh=0,0,4192,6783",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/res/613460c0-9931-4fc8-a9e6-81dddea6e56c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genesis. Days of Creation"
+      }
+    }
+  ]
+}

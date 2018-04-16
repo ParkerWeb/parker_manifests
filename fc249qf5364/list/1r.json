@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/annotation/1a442bb8-a985-4e6b-a0b9-27f0a5959653",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/canvas/canvas-13#xywh=0,0,5796,8699",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/res/dc632fdc-01b6-4a9b-8dfd-c00e507b1ba7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Liber 12 Cronicarum Johannis. De Sancto Mauricio cum sociis suis c. i"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/annotation/db5ea0fb-e7f7-4eee-b67a-a7d5181a88cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/canvas/canvas-13#xywh=0,0,5796,8699",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/res/589f53ef-5206-4df8-9e38-0e9573342477",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dioclicianus incepit regnare"
+      }
+    }
+  ]
+}

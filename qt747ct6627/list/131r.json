@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/list/131r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/93f7eac6-d220-48e5-b213-af5c0e613bc2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-269#xywh=0,0,3854,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/fce41e49-5eaf-4daf-9bb4-7c690f34ccfc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: beata resurrectione donandus per Ihesum Christum dominum nostrum cui etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/8de19cfd-0692-4fc6-8f56-c492adb3c2a4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-269#xywh=0,0,3854,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/c8e03e3f-d009-42a9-a13a-00b4ff65d065",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Rebus humanis exemptus quam potens fuerat"
+      }
+    }
+  ]
+}

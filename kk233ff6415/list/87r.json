@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/list/87r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/b15d7b92-e609-4a57-a623-e89772fe2797",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-223#xywh=0,0,3647,5299",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/8bfd3082-e6e4-4c63-b202-7da29588ecd2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In nomine domini Incipiunt versus de die iudicii sibille antiqui poetae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/8a61019f-c08a-4909-8331-073847ccbe82",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-223#xywh=0,0,3647,5299",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/f19c0c23-8ae8-42ea-b601-d3d30c027c70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iudicii signum tellus sudore madescet"
+      }
+    }
+  ]
+}

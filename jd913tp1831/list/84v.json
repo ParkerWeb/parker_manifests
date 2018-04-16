@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/list/84v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/6726cdf1-61b6-4f83-a9ff-b05e94fef3b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-172#xywh=0,0,3290,5333",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/fbe32e98-889e-4adf-8823-c040224d1fdc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Missa de beata Maria"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/e8e27ccf-a7fe-4e53-a67f-b26b3e88b806",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-172#xywh=0,0,3290,5333",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/0e3df4c0-bb72-40ad-9076-fcc3ddddae31",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Salve sancta parens"
+      }
+    }
+  ]
+}

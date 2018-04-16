@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/list/93r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/0f593a1d-9b7e-4cee-a827-0426c0f6efb7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-193#xywh=0,0,5623,8538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/3acf9abc-0f48-47b0-86e3-fa4bc91bcdf1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Liber iste qui stimulus amoris in dilectissimum et pium Ihesum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/0d6a24f3-af3b-4f1c-8d0a-2fe2034b7c5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-193#xywh=0,0,5623,8538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/73926f80-e9e7-4da4-811c-75eab2063b4c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Currite gentes undique"
+      }
+    }
+  ]
+}

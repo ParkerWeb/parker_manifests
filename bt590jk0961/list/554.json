@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/list/554.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/7efca911-03b2-4dd0-922a-4d93882bd130",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-570#xywh=0,0,2288,3765",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/8021c479-1970-45a5-a77a-493c05f96c5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Augustinus de spiritu et anima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/annotation/63eacb20-5023-4f07-9f73-fc705f36b78a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/canvas/canvas-570#xywh=0,0,2288,3765",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt590jk0961/res/b6832548-8f5a-459c-b78b-5e3bf9dceed4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tria sunt quibus homo constat"
+      }
+    }
+  ]
+}

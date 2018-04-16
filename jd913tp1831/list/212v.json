@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/list/212v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/6a125b44-6b3a-44e8-ac96-d8670b886cf2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-428#xywh=0,0,3154,5162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/4b075db5-1fe8-4567-a445-81d9e765bf5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nota qua cito merita attribuuntur homini propter visionem Christi."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/a5914d1e-b7b1-4435-9aac-8ef7c3d04807",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-428#xywh=0,0,3154,5162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/3e6d3431-35fb-430f-9158-9edc8822d962",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primo necessaria vite illa die sibi ministrantur"
+      }
+    }
+  ]
+}

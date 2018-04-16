@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/annotation/456da26f-25db-48a1-8785-cd337ef218b2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/canvas/canvas-3#xywh=0,0,5747,8736",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/res/252c266a-08e0-48f5-893a-2684765bad7b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Martino benignissimo pape (lined through) quinto uniuersi gregis Carmelitarum etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/annotation/69f49b31-b7c2-4689-a5fc-bc954bd18505",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/canvas/canvas-3#xywh=0,0,5747,8736",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/res/b763fcf8-16a9-4461-9aab-03615dba05db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Beautiful initial and partial border in the English style: executed with a very rare degree of delicacy. The gold is very fine"
+      }
+    }
+  ]
+}

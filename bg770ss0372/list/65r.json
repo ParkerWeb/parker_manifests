@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/list/65r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/389e8db8-b69a-4865-b510-dac5b54c6ea3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-155#xywh=0,0,3671,6247",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/07032b0a-6a8a-4a43-b77f-8fac7b0bd253",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber bede presbiteri de gestis anglorum prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/eadfcecf-4306-4e95-ade3-fb8d6aa8e879",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-155#xywh=0,0,3671,6247",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/6fd7b1df-e4d2-4c6a-92cb-faaa51db85a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gloriosissimo regi Ceoluulfo"
+      }
+    }
+  ]
+}

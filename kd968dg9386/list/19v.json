@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/list/19v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/ad10e62b-4594-48ad-821d-48ccbc40368c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-45#xywh=0,0,5243,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/b1a0d759-058c-4883-89d3-ba252af021d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad amorem tanti martiris. Vale pater in Christo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/6536f150-f794-4065-8dea-55641e055056",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-45#xywh=0,0,5243,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/9fff04ea-ada3-4adf-afc1-e231d88d8572",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Asciti aliquando in brittanniam"
+      }
+    }
+  ]
+}

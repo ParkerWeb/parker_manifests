@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/list/41r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/c535a24f-8557-4424-9427-0c9c975fa32f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-89#xywh=0,0,3849,5950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/0a72fbd1-edc3-4834-a729-a4bfff1db22f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Another hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/25ea70e6-b677-4dcb-a213-c934e79c7f3f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-89#xywh=0,0,3849,5950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/f231c554-5e51-486e-9d95-d6549fc448fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus dompni Innocentii pape super vii psalmos penitentiales"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/6c9047fb-6267-4831-b9b5-80a849f2ccb2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-89#xywh=0,0,3849,5950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/3d908553-137e-4c10-9a11-ec965752e2a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ne inter occupationes multiplices et sollicitudines uehementes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/list/130v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/23ca104f-406c-45b6-bf75-42f8bce3304a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-272#xywh=0,0,3291,5319",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/279e39d4-2848-4cb4-b7d9-e2bb5e3a9dc9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In nomine Ihesu Christi Visio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/72f38081-933c-4380-a34d-20f1ecf94afa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-272#xywh=0,0,3291,5319",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/1ae9c679-76f1-4e70-a774-1e1dbbc74dc3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dum eram Iuuenis ibam per mundum uniuersum secreta creatoris altissimi eterne indagans"
+      }
+    }
+  ]
+}

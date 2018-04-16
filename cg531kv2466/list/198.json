@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/list/198.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/dc66d203-af79-479a-aa65-973d35a30baa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-206#xywh=0,0,5254,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/86e4719a-04e7-46e4-be37-03b208a656c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo in Letania maiore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/cad5aa53-6ca2-43e3-bce5-107a26c66b9f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-206#xywh=0,0,5254,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/b32324cd-6b19-4b7f-b268-2a4a16752450",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Þas dagas sind gehatene letanie"
+      }
+    }
+  ]
+}

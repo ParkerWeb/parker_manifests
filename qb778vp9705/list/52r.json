@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/list/52r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/annotation/dcc40af7-1174-4130-a8a4-7ba7783871a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/canvas/canvas-113#xywh=0,0,3942,6159",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/res/3295e4c0-22c8-4407-9c2c-51699a81fdc7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Nomina herbarum et earum virtutes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/annotation/45fc02f0-b0ca-41d4-bed2-71b393193d1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/canvas/canvas-113#xywh=0,0,3942,6159",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qb778vp9705/res/9901fbe9-51b7-443f-b81c-79fb00fcab6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Garofila latina Romanice garofle"
+      }
+    }
+  ]
+}

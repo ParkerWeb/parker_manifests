@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/150v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/043f56dc-8b6d-45b6-8368-66df6a05422a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-308#xywh=0,0,5590,8960",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/72dea887-dd67-473a-a06b-163d6980e7ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt experimenta magistri Willelmi de Sumereye"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/d0ef1975-173d-436e-9b3d-5a8e0b36b4d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-308#xywh=0,0,5590,8960",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/abb0c1a3-175d-43d5-a663-03c02b0e44e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Huius opusculi series circa quedam membrorum remedia tam consimilium quam officialium seu omnium uersatur. quibus magister Willelmus de Sumereye probatissima experiencia usuque plurimum esse fidem asserit adhibendam"
+      }
+    }
+  ]
+}

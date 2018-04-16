@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/list/45v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/3bbc9689-5655-4414-aa90-e1bb9f2570f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-108#xywh=0,0,4930,7938",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/f7cb5470-3e2f-4fe0-b4c4-a73d7ee87200",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Lectis certa prodest"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/45a89cef-178a-4e71-8a36-15b8ffb57ddd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-108#xywh=0,0,4930,7938",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/9be2f73e-2526-4ce9-bf75-d02ef34d6d30",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: elegantior inuenitur"
+      }
+    }
+  ]
+}

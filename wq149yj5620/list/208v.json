@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/list/208v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/a3ee1d84-dcff-43df-b482-2e347b0d5beb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-422#xywh=0,0,3447,5392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/87e7027f-e830-435b-a83e-e69786894921",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Account of Council of Cloveshoo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/0c8987a1-8693-4be5-ac66-d6b7e0be3921",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-422#xywh=0,0,3447,5392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/528a522e-b0fd-42df-8ea7-0208eacdfbe4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno domini dccmo xlij Cutbertus archiepiscopus dorobernie"
+      }
+    }
+  ]
+}

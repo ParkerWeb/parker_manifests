@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/annotation/ce9d420c-c83e-4ee6-beea-5f8d83214b98",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/canvas/canvas-14#xywh=0,0,3217,4903",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/res/2af504b1-6f0d-47a1-8515-b525c5a10f0a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: imprimis esse diligencius insistendum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/annotation/78ec17da-807b-43e6-b699-3a226e59a48d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/canvas/canvas-14#xywh=0,0,3217,4903",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/res/a1cad8a4-15ac-446c-8b1e-dca71f116c7b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit pars prima: Capitulum primum. Johannis primo. In principio"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/30a28280-374f-4ca3-a591-e81190b04e69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-31#xywh=0,0,5860,8782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/090866ae-ea3d-4372-bf2d-288fd4099e3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prima epistola. Thome cantuariensi archiepiscopo Johannes pictauensis episcopus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/annotation/7c7907fc-f036-4398-b8cd-119ed4953805",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/canvas/canvas-31#xywh=0,0,5860,8782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hv214nw9015/res/f1ee6915-2af7-41bc-8f7e-d145eb713de9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Reuerentissimo domino ... Thome ... suus Johannes ... Vix mihi domine uel unum diem"
+      }
+    }
+  ]
+}

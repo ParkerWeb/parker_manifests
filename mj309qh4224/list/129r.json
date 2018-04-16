@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/list/129r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/fdc24c2e-d54b-40d6-bc88-5ac3f56a92df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-257#xywh=0,0,4960,8151",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/f0ecbd80-1581-4a8e-b437-7f405fa19dc1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Regimine dominorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/845d455b-e4ad-46f6-bacb-4b8f89ed0f69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-257#xywh=0,0,4960,8151",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/bd4d1c66-2942-42ac-a778-115fc1fbd867",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber secreti secretorum ad instanciam Alexandri magni ab aristotile editus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/c26c0d92-7f96-4039-994d-3405cbebb3e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-257#xywh=0,0,4960,8151",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/9f5b9a11-c683-4285-98d1-024f915e7892",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino suo excellentissimo ... Wydoni ... Philippus"
+      }
+    }
+  ]
+}

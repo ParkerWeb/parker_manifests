@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/8138413f-6335-4b35-9b38-7abbb3dfb6dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-10#xywh=0,0,5948,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/b1282041-0a76-455e-9765-b5f047181985",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Beatus vir"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/d21abd05-9432-43ab-8189-f2365a70d6a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-10#xywh=0,0,5948,8803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/769249e6-c64b-4f62-84e8-b58d29dc86d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Large and splendid initial"
+      }
+    }
+  ]
+}

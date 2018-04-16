@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/list/157r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/annotation/d177c094-0415-436b-a90f-55b8b02db2ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/canvas/canvas-323#xywh=0,0,5578,7974",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/res/77dda3fe-9339-4669-b905-658da8cdb8ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Sancto Andrea sermo primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/annotation/7da20a03-b6e3-408e-9189-7912938e110c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/canvas/canvas-323#xywh=0,0,5578,7974",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm956yw8777/res/9bcec8b2-93d1-43ba-a9aa-c1c0af7fd068",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Extendam palmas meas ... Hoc verbum Moysi beatus Andreas potuit dicere"
+      }
+    }
+  ]
+}

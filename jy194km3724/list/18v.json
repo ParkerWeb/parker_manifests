@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/list/18v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/annotation/ecc77287-758e-4ef0-aa98-bd298f6a9f95",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/canvas/canvas-44#xywh=0,0,4006,5894",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/res/d1d41630-36f9-49fd-b978-cf7466c31993",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: falli vel obumbrari non potest. qui est benedictus in secula seculorum amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/annotation/d74735b7-2502-4004-8a8a-d9ae2f886980",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/canvas/canvas-44#xywh=0,0,4006,5894",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy194km3724/res/508d3bd3-ef27-4f19-bf03-af667812f4bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit breuis libellus et utilis de iurisdictione imperii et auctoritate summi pontificis. Anno domini 1441"
+      }
+    }
+  ]
+}

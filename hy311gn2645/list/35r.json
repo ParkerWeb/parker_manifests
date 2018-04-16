@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/list/35r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/640becc6-99fa-4e1f-8af7-477e58f91ae5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-77#xywh=0,0,4947,7387",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/a9f248da-b7dc-477f-9dce-5bf1c65db656",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Vale"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/f14baab0-3f82-4956-800f-97ccf3312ba4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-77#xywh=0,0,4947,7387",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/6bb8bcd7-d8b6-4b43-bd5a-00908317c5fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dauid futura spiritu prouidens liberauit inquid deus pauperem"
+      }
+    }
+  ]
+}

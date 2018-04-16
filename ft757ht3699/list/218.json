@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/list/218.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/b07e4c8e-8c13-499e-b437-75eb9131d28a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-234#xywh=0,0,3654,5454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/a76e82b6-e34e-47eb-9b36-d9f0445675ae",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Item alia doctrina populi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/annotation/1b110681-b8d1-44e6-8282-97003406646f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/canvas/canvas-234#xywh=0,0,3654,5454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft757ht3699/res/44d211fc-726b-48ba-9db1-b0be8c37aa27",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Men þa leofestan us eallum is cuð"
+      }
+    }
+  ]
+}

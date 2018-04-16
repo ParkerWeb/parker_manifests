@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/list/115r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/annotation/3ecc93e1-dba7-4551-92ac-43c5e0f6af5b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/canvas/canvas-235#xywh=0,0,5858,8749",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/res/6080ea88-d510-426d-b4a0-1a00953da445",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In festo S. Andree"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/annotation/d50dde01-50d2-4019-abfb-7a460fdced28",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/canvas/canvas-235#xywh=0,0,5858,8749",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/res/e311dd4c-1d8c-4be3-9eab-79ffd90ca408",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Preteriens ihesus secus mare"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/list/116r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/8472a3c4-f1b6-49e0-adae-cc191909b16b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-237#xywh=0,0,4155,6225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/3e18e592-0d0f-4070-8d9f-fcc623b7650a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "West-Saxon translation of the Gospel of John"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/14f91aa4-605a-4f2d-92a3-8b4a75bc6530",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-237#xywh=0,0,4155,6225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/6f5f8fd5-29c8-45c7-983c-26bd6e56309e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The first words (On frymðe ƿæs) are in red capitals and the initial in purple red has ornament of various colours within it"
+      }
+    }
+  ]
+}

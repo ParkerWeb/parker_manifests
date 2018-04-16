@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/list/110v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/annotation/7f7cd301-56f2-4f64-af6a-ae2e271a175b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/canvas/canvas-228#xywh=0,0,5950,9006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/res/b2708589-cd62-448d-aa2d-2f03bcf5572f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: and also þat ye wolde vouchesafe to prey for me. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/annotation/c2b9831c-6729-4f24-be60-cc8dd7912032",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/canvas/canvas-228#xywh=0,0,5950,9006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/res/7492c0d0-21d6-4613-9df8-0fa6f44d360f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: And þus eendiþ þis Confessioun"
+      }
+    }
+  ]
+}

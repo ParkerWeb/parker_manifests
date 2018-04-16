@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/list/175v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/6312f9c8-bfaa-40b3-942f-58e417eb981d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-358#xywh=0,0,5714,8373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/3cc8a714-a3fe-4d32-9f8e-b67214c51e1a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Conrado imperatori successit Fridericus imperator"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/b35eaf0b-0c43-48aa-be92-0bbe79b045a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-358#xywh=0,0,5714,8373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/d104daee-eb5f-48d1-b726-bfe24236280a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Celebratum est diuorcium inter lodowicum"
+      }
+    }
+  ]
+}

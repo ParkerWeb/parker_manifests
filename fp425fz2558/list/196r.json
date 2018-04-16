@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/list/196r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/annotation/1abf10c6-0c52-4ade-809e-ffac71ed4a2b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/canvas/canvas-417#xywh=0,0,5830,9054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/res/6ace2b7e-063f-48f3-a19c-91715e565f1f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: habita modica occasione. supra de uxore ii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/annotation/dd5aa228-ae07-4896-b36d-17b6974b4100",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/canvas/canvas-417#xywh=0,0,5830,9054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/res/f009edd1-b2b4-41ec-836e-4fe31836fdee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/bffa6650-8d8a-4246-9a7f-a3cb9b74b9cd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-69#xywh=0,0,4701,6669",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/3f3d1032-a93b-4fd0-a902-7e1a240bf749",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De ordinibus ecclesiasticis. Capitulum I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/a67df0a6-559d-4d17-ab9e-e4a17660e927",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-69#xywh=0,0,4701,6669",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/58523135-4d6c-4e0a-a2b9-b956bcb3e699",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nunc ad considerationem sacre ordinationis accedamus. Septem sunt spiritualium officiorum gradus"
+      }
+    }
+  ]
+}

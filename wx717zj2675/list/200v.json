@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/200v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/e0c8b51b-0c5e-4a16-894c-64c15714308e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-406#xywh=0,0,4220,6676",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/c4e829d7-7688-4e5a-961c-11d95019a535",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Canons under arches"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/05deed72-19e3-44cb-9781-6b4e118db21c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-406#xywh=0,0,4220,6676",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/015c3038-65ef-49cc-bc5a-8a82e6d5b79d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Canons under coloured arches with coloured shafts. A delicately mottled marble shaft (see on Gen.) is very striking"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/ec4e4d9f-37ba-439e-80d0-2286e76ad9de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-18#xywh=0,0,5734,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/bf73e0ce-54ba-4042-8b2f-4cb662330139",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit ordo catholicorum librorum qualiter in ecclesia ponendi sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/9d7e696c-9155-459e-8e13-f7afede12a85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-18#xywh=0,0,5734,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/935fb32f-0c84-44f4-bcd2-73d6b206bfd8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In uigilia natalis domini leguntur lectiones tres de esaia"
+      }
+    }
+  ]
+}

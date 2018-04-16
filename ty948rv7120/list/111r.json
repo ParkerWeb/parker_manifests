@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/list/111r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/ea57e5a8-fc14-41da-99cc-05d20bb8d9a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-227#xywh=0,0,6149,8966",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/a889a43e-ed16-4fb1-a95f-03159a757c1b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Passio Sanctorum Crispini et Crispiniani quod est viii kal. Novembris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/934b7590-d3c2-4e7c-b0a8-1ce8a95839ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-227#xywh=0,0,6149,8966",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/60a3525c-5b49-438a-83c3-ae8e9b8eab14",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum sub maximiano et dioclitiano"
+      }
+    }
+  ]
+}

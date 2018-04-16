@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/list/15.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/1602f789-7397-426e-96cc-554d2844b561",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-21#xywh=0,0,3379,6417",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/a3e6eb93-ddf9-4543-bb37-6c6fd923a7cc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ex concilio bonefacii pape qui iiiitus a beato Gregorio fuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/6306c180-0dc1-4d76-869f-1137332c13ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-21#xywh=0,0,3379,6417",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/8aa94d10-3c0a-490c-b679-f86303f6a3bc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sunt nonnulli stulti dogmatis"
+      }
+    }
+  ]
+}

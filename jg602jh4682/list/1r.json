@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/annotation/d8dbe8ae-3fb8-4887-bebc-1c2c51017296",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/canvas/canvas-7#xywh=0,0,5630,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/res/9e663b2b-2b03-4c6b-ab65-9eac4f76a6cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/annotation/a0aa0068-d4f9-4b52-8c89-6ff5e0f094c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/canvas/canvas-7#xywh=0,0,5630,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg602jh4682/res/6a1998b9-02a7-4053-b9cd-45aca2ebe9a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abstinencia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/list/88r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/1459b894-f450-47a0-959f-079b606cf630",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-181#xywh=0,0,5177,8480",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/499c5128-0349-4701-bba6-837d2332eab3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Nicholaus natione romanus sedit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/324bbafd-b0ba-42a6-a6de-79c09138f06a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-181#xywh=0,0,5177,8480",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/fd1f7a23-d834-4b70-a375-e19fba0a06a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Eleutherius papa misit fuganum"
+      }
+    }
+  ]
+}

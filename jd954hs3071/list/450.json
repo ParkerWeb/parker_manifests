@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/list/450.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/64182f3d-9b1c-496d-9d3d-bbcc1f1928a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-460#xywh=0,0,3210,5025",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/2f94b7ad-8de3-4d1d-bb31-0ba9661d0e5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hugoni Sancti Victoris priori Galterus salute"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/b9824d25-4946-4e64-b1ca-03bcd964d277",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-460#xywh=0,0,3210,5025",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/a24bdb85-4ed6-4c69-8019-e47666ccd2af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nuper de parisius ueniens"
+      }
+    }
+  ]
+}

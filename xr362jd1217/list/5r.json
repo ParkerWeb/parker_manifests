@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/list/5r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/46f64c79-c39b-48ac-ba7c-9bf0e50a5651",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-13#xywh=0,0,6028,8726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/4fc57f7a-c758-485a-9e7d-4d30c1b11add",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: scriptum Tiuoli anno domini mo ccco xxxiiio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/aa32b9d3-9f4e-40ee-b67e-515aca1ac694",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-13#xywh=0,0,6028,8726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/6a3b344e-22af-4396-b61e-b17064fb71cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/f5ba774c-1023-4e39-9a99-8eff840e15c2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-13#xywh=0,0,6028,8726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/b80c9d19-8e50-4f04-a59c-be4bc59e50e5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam sciendum quod dicit propheta malachias"
+      }
+    }
+  ]
+}

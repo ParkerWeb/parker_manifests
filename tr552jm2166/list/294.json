@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/list/294.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/647c9e44-6019-4381-b3bc-b8ae127a2b24",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-296#xywh=0,0,5792,8372",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/a289a3d5-cdb9-44d7-958b-48d20c16d403",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Responses etc. with music on four-line stave"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/bb0b1739-8ad7-4ab9-9318-1f4913637f46",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-296#xywh=0,0,5792,8372",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/e815d05a-80ef-4393-bc47-c7c0abf5a688",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Regnas augustine augustis seculi sullimior"
+      }
+    }
+  ]
+}

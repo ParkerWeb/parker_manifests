@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/list/3v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/b05307ce-a17f-4eed-b625-a4cb105f1226",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-12#xywh=0,0,4001,6127",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/d60b9ae9-4bb3-4160-a9e4-03b383559e6d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domno Eadmero suus Nicolaus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/annotation/1e351282-d6b1-4860-9bae-61a1fd1c67e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/canvas/canvas-12#xywh=0,0,4001,6127",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn117yn5845/res/c43654ad-19ea-46f4-8fba-4d3735dcdbf9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Purple initial"
+      }
+    }
+  ]
+}

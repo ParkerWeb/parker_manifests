@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/6d3b766c-686b-476a-be84-9d1dff99ccd9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-9#xywh=0,0,5558,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/bbc0296f-ca5a-4cfb-827b-844b9adcb945",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit breuis compilacio theologie edita a fratre Thoma de aquino"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/31b12e1c-e95e-48ad-817c-ec5c517fcff1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-9#xywh=0,0,5558,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/a1975b86-1dbb-4e70-989e-40967bdd9643",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Eterni patris uerbum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/annotation/00d1aaea-302a-4896-901d-882f6d525e92",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/canvas/canvas-9#xywh=0,0,5558,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx272hd6144/res/e8668ce0-0d91-4da7-a9ce-ec77a9164b40",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Good initial in gold and colour"
+      }
+    }
+  ]
+}

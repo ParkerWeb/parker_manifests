@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/list/419.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/55fba78a-1952-4ef9-be20-f0b909e3905c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-431#xywh=0,0,3991,5707",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/801388ef-274b-4d65-b62c-055a5b4d3821",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et cepit albanum ciuitas Rome subiecta esse"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/9cd55077-6fcb-4abc-8808-6b81cfe27a08",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-431#xywh=0,0,3991,5707",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/42ba4088-707f-4905-a5aa-aa288197bfb0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anglia modo dicta olim Albion dicebatur et habebat inhabitatores gigantes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/list/524.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/8a4ab909-151a-4bb4-bbfc-8ed9cef6d744",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-522#xywh=0,0,3566,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/8bd806ef-c85d-4ca4-aaa8-72b675d070a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de magistro Roberto (de Chartres)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/annotation/b53d878b-8e7a-466f-a6b9-02f307d30eb9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/canvas/canvas-522#xywh=0,0,3566,5606",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wh417sx8653/res/d912cf57-7d88-4de4-9b3a-b4e1c7bc07c9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de quodam Robineto"
+      }
+    }
+  ]
+}

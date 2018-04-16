@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/7c542d95-744e-493b-ade7-df67be843def",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-5#xywh=0,0,5782,8083",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/8b6e9946-bcf2-48e7-aa13-9acd1e0f262a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nunc autem hunc componam librum quem in quinque sic diuidemus libros"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/ff26bff4-44b4-485c-b45f-13e19676e09d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-5#xywh=0,0,5782,8083",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/a779ec42-7046-4daf-966e-dd9d8e1ce192",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula follow"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/list/46r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/annotation/75f248a8-14d9-421f-baeb-a4dc7f4f5d75",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/canvas/canvas-103#xywh=0,0,5844,8675",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/res/bd704844-4d6a-4014-adb1-3c7843c1fc7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber XIII. c. i"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/annotation/6bcc5ddc-d25c-4d5d-94d1-04041dfc1df0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/canvas/canvas-103#xywh=0,0,5844,8675",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc249qf5364/res/13ccaadb-c36f-4052-9f5c-918db91615c8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De S. katerina virgine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/255r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/f6cb6690-4ab6-48ed-882d-36e5b47ce9ad",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-521#xywh=0,0,3668,6045",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/5b25a865-05b8-4d66-bc99-a4094927d7cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ccxxxi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/34028f65-015a-4ae7-a861-9d346286cb68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-521#xywh=0,0,3668,6045",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/4f422ed8-c0e9-4b6c-bb59-40b9599cece2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Miniature: Baptism. Frere"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/list/210r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/225da45a-31b8-4f00-a211-4b813f8f25f0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-425#xywh=0,0,3589,5824",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/fc09ff3f-0bf0-45f1-a4d8-e38e4d517988",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Boni versus de corpore Christi (3)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/27915a6b-e0db-4ed5-a7c7-51d831b269eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-425#xywh=0,0,3589,5824",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/24ab2b24-a5db-4c32-853a-86ec65225fbc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tres partes fracte"
+      }
+    }
+  ]
+}

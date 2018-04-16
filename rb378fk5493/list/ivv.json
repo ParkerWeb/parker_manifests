@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/ivv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/b23e109a-5387-4e2e-b7c5-df8ed84876fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-14#xywh=0,0,5951,8986",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/f5eb6eec-5c41-4f1b-bd10-c5b5f3480ecb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "f. Map of Britain"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/3482482e-749f-4e35-9ff3-741da0bbd182",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-14#xywh=0,0,5951,8986",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/fb568f43-ad2f-42c0-bbd0-c1ffec0e3d59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Part of map of Britain"
+      }
+    }
+  ]
+}

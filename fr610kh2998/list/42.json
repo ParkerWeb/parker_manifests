@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/42.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/3cafdd93-cbe2-4df1-8a6e-8da674ef6a7a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-46#xywh=0,0,3559,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/8fd4d2f9-54b3-461b-8dee-a8227412b005",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Paschal Tables with notes in Anglo-Saxon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/a8396728-ea15-4bf4-b18e-dce22059d1ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-46#xywh=0,0,3559,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/7fea584a-4494-49ea-8ab5-fb8bf38df9d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gif ðu ƿille ƿitan hƿænne septuagessima beon sceole"
+      }
+    }
+  ]
+}

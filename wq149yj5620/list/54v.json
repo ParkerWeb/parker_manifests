@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/list/54v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/01150659-a381-4835-a47e-af601f1503ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-114#xywh=0,0,3537,5427",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/ac49f390-ebf2-4214-b1bf-20a1cea4a78e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sic apta solucio fiet"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/46e42cbd-68b6-4e1e-93a9-4ed9e17b8aaf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-114#xywh=0,0,3537,5427",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/b2fd381a-5944-4de1-a632-0d3f4b45070c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note from Papias on coriandrum"
+      }
+    }
+  ]
+}

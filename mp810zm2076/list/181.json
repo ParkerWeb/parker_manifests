@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/181.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/227f323f-f7ed-4eed-bd3b-ad2427cd1199",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-186#xywh=0,0,3271,9113",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/516a4608-55b4-4f92-9369-71e3e18c701f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "* Dicta sapientium sive proverbia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/930b19c9-553b-482d-bf1b-5c9d6ddf7848",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-186#xywh=0,0,3271,9113",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/57b17d4c-88b3-4082-bcd2-1661c7866b68",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prouerbia certorum (?) philosophorum compilata per magistrum Iohannem halle de Aula Regis Cantebrigie"
+      }
+    }
+  ]
+}

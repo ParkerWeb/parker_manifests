@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/d3115443-c44f-4a96-8977-e4c3d4e2421c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-9#xywh=0,0,4019,6158",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/1d938ff7-c154-48e2-b7bb-f2a63940e69e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit passio Sancti ATHELBERHTI regis et martiris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/36e9f3d2-7b42-42ea-b4bc-2295bbc71dc2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-9#xywh=0,0,4019,6158",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/143d2a6e-6d45-4eb0-94e8-e3cad2e50241",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gloriosus ac summo regi acceptus rex ATHELBERHTUS"
+      }
+    }
+  ]
+}

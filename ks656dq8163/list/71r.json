@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/list/71r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/5129c205-4aa2-4e63-b7dd-914002382116",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-147#xywh=0,0,4144,6196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/3a95d70b-ed8a-42ea-94ba-240112c3b2e2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Letter of Christ concerning Sunday"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/e683d004-1b5d-4be1-b88a-256eca9d71ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-147#xywh=0,0,4144,6196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/77a84ffc-ff3f-4c88-ae7e-441dea6d1e8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (Men þa leofestan [above the line]) Her onginð þæt (halie [above the line]) geƿrit etc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/list/219.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/annotation/3ecb8c8c-f574-452d-9d79-6db76305fa87",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/canvas/canvas-233#xywh=0,0,4084,5828",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/res/4b0040ae-5b4a-4421-bb4f-2c3e1b197be2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De deo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/annotation/0f18954c-c357-459a-9ca4-878aa1efacbd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/canvas/canvas-233#xywh=0,0,4084,5828",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qp717gx8314/res/d97c4179-b923-4bfc-b1f4-50ef9fa722de",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Audi Israel deus tuus unus est"
+      }
+    }
+  ]
+}

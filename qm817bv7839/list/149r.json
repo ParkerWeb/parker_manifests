@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/list/149r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/d5688612-f7e2-4700-b32b-75b04edf72c7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-315#xywh=0,0,5074,7962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/cae8cd14-782a-4872-b222-b98d931562c6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Breuis magistri Giraldi responsio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/d14f75b6-dd61-4394-b54c-1cbd23bf9208",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-315#xywh=0,0,5074,7962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/a9a1a5a2-ad92-45d0-9503-e85642f4583b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Florida fructifera"
+      }
+    }
+  ]
+}

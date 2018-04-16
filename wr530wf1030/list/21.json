@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/list/21.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/45e52eae-9745-4de4-a240-0f2696c55658",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-27#xywh=0,0,3573,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/175f7e01-5190-4832-9d13-2b1a1dbfef65",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Amicus amicum redarguit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/2e3bb534-52dd-41fa-9e4b-264fe634866d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-27#xywh=0,0,3573,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/5276913d-8c01-46ff-a338-c6decf5a4f5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quid et qualiter ... rerum temporalium adipe non sullimis"
+      }
+    }
+  ]
+}

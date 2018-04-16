@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/163r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/a5e5b060-9dfb-4356-8dac-6afa1a59bda9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-343#xywh=0,0,5814,9007",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/e2a918eb-1bf4-4320-8525-2b45b0359dc8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Esdr. - Job (Proll.) (185r)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/9bf0ef3d-b37b-464b-b356-763410c84c3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-343#xywh=0,0,5814,9007",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/406efd60-ad3a-4744-8c3e-665caafc5cdb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue to Esdras. Josiah at altar: people adore on L."
+      }
+    }
+  ]
+}

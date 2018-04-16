@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/annotation/1dc090c1-e864-421c-905d-4bbe23549b6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/canvas/canvas-3#xywh=0,0,5758,8790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/res/d201bab6-7ef3-4e8b-997e-c9577ed4f54b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus super Evangelia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/annotation/876bc517-612e-40eb-bfc3-327366dbbba7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/canvas/canvas-3#xywh=0,0,5758,8790",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx826tz1598/res/48148ee8-1927-432c-89d8-7f3d541d9f6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quatuor facies uni"
+      }
+    }
+  ]
+}

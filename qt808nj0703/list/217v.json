@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/list/217v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/annotation/a313f156-c47a-43c3-b2e8-f519f0b076ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/canvas/canvas-442#xywh=0,0,5688,8625",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/res/7ff460b0-f487-43c4-9e6c-35f77ca3a6cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Shield of Norway"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/annotation/59000dcf-bfa9-4b3d-a295-d232e76731ed",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/canvas/canvas-442#xywh=0,0,5688,8625",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt808nj0703/res/a931e974-9d9f-49cd-b98c-d58783534e73",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Reversed shield of Ferrers"
+      }
+    }
+  ]
+}

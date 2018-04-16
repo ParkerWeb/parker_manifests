@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/list/15.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/07e9fd18-a861-4029-bf61-f1bdebf3aa69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-27#xywh=0,0,3655,5796",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/e10df254-c2fc-41b8-9788-661fbf9139ca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Exameron Anglice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/2c5dd3b7-9961-41b7-83e6-ca88e96e7605",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-27#xywh=0,0,3655,5796",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/d639c3f2-2e2c-4334-a099-c6d125c6eb43",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: On sumum oðrum spelle"
+      }
+    }
+  ]
+}

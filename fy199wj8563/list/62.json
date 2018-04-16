@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/list/62.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/97aa6b50-43fe-4bfd-8a5d-84fc08dc441c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-70#xywh=0,0,3773,5501",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/a4b0e592-3d38-4f2c-9fe9-96dd75fdf89e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: per milites parliamenti et comitatus regni Anglie duas integras xvd."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/eb37a8e2-b0dc-4794-bf24-3f7965fec8ac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-70#xywh=0,0,3773,5501",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/2aba2a61-f6c8-4275-9bfc-c5e2fcb1da46",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note from Bale on Richardus Cicestrius follows"
+      }
+    }
+  ]
+}

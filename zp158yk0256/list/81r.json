@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/list/81r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/annotation/dea25335-67d7-46e9-8258-e7a03b6c572e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/canvas/canvas-171#xywh=0,0,3454,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/res/e27e5327-d890-46c3-aeb0-3df1da50dac3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Summa (?) penitenciarie cum parte synodi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/annotation/c35c9fcb-0067-474c-9174-b0b92a37157c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/canvas/canvas-171#xywh=0,0,3454,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp158yk0256/res/f9dd6bed-cb7b-4996-87c0-a116e5629f67",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Altissimus de terra creauit medicinam Ecc. xxxviii. Iste altissimus est de quo canit ecclesia dicens tu solus altissimus"
+      }
+    }
+  ]
+}

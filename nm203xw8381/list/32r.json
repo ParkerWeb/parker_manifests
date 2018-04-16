@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/32r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/f6819b9f-cd77-4157-a691-a1ed725c6518",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-71#xywh=0,0,5915,9454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/a742bbb0-346f-434b-a476-dbf86d97487d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Bresith id est genesis. habet versus tria milia octingentos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/3e9f1edf-bd03-4d3d-82d5-3e14c20332e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-71#xywh=0,0,5915,9454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/502a1976-c270-4ae6-8575-50a2959d66d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula libri Hellesmoth idest Exodi (xxi)"
+      }
+    }
+  ]
+}

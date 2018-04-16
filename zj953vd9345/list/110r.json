@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/list/110r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/annotation/5a28901a-5ec2-49c8-9e80-a30464ad43f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/canvas/canvas-227#xywh=0,0,5889,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/res/dd8c56ca-b496-49ef-816f-60a1787126fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: recipiet secundum merita sine fine. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/annotation/4aca95e7-0e86-4e94-8954-b1100ef91d16",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/canvas/canvas-227#xywh=0,0,5889,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zj953vd9345/res/6fbe19ed-9ce3-4e9a-898b-38a90af94f23",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit ueritas theologie"
+      }
+    }
+  ]
+}

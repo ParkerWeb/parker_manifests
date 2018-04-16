@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/fec12ecd-267e-4a95-b33f-0df2168e1443",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-5#xywh=0,0,3606,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/6ddccaca-5c8b-4e12-a889-93840a050033",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The first page of the MS. is very illegible"
+      }
+    }
+  ]
+}

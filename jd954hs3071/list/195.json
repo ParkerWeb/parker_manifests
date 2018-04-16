@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/list/195.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/ef6cb1cd-9566-4ebd-909d-2868bfff1273",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-203#xywh=0,0,3272,5035",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/91100931-1de0-4d44-9943-eb49e185357e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Aurelii Augustini doctoris disputatio incipit contra Felicianum hereticum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/8e03945e-10c5-49cb-b51b-9716edfe3ace",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-203#xywh=0,0,3272,5035",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/143269a6-0b60-4a3f-a7eb-4ae01b593345",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Extorsisti mihi dilectissime fili"
+      }
+    }
+  ]
+}

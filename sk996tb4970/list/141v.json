@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/list/141v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/e85408ba-48e5-44e0-85c7-816f1256097b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-292#xywh=0,0,5219,7859",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/3ff7076b-7c3b-4fec-afbf-8b653953da94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Secundum Marcum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/2163fdea-e0d5-4ea4-b90e-c63fd00dc7b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-292#xywh=0,0,5219,7859",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/a25cb2ab-53a7-48e4-9566-fec77edc05ec",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Maria magdalena ... emerunt aromata"
+      }
+    }
+  ]
+}

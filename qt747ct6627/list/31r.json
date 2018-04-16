@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/288145c8-5c34-4822-8f48-727c31e34617",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-69#xywh=0,0,3982,6030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/9104558f-64cb-4208-b1cc-7f694efbd7a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula (vii) in vitam Sancti Erkenwaldi lundoniensis episcopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/16acf2b2-dede-4af1-bd1e-69c184053f37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-69#xywh=0,0,3982,6030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/a83747d5-b13e-442c-aee2-f6152822c65a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post passionem ac resurrectionem dominicam cum catholica fides"
+      }
+    }
+  ]
+}

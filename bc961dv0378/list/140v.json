@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/140v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/22bc909c-fb9d-4ca3-9515-9c8907bbd94a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-288#xywh=0,0,3231,5348",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/10f16aac-b346-4c76-929e-793fb0dcb9a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Exultet mater ecclesia renascentis noue prolis fecunditate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/42d5226a-1fe5-44ba-9bc6-db33b79f7a5c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-288#xywh=0,0,3231,5348",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/bcd78e02-81c8-4d6e-882b-fd5b53635099",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "dat lugdun. v kal. aug."
+      }
+    }
+  ]
+}

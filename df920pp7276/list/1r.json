@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/0d2f698f-1126-4325-a911-c3b07f291a7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-13#xywh=0,0,5914,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/9a82373c-8db6-4ad8-8f17-64f1046b8086",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Prefatio historie Ecclesiastice. Epistola Rufini ad Chromatium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/d3fc970b-5af1-436f-853b-31fc791dd3f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-13#xywh=0,0,5914,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/b416cf0b-9e26-47aa-bd16-a7cc8b13a61c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Peritorum dicunt esse"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/3d86de86-5c50-4657-875f-18c3761f5221",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-13#xywh=0,0,5914,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/e4edee1b-8ca6-439d-8cba-6a3bad0076e2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in red"
+      }
+    }
+  ]
+}

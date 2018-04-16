@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp146pz7537/list/75r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp146pz7537/annotation/03296a7e-0605-469b-9131-8ed9a99e9ad0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp146pz7537/canvas/canvas-155#xywh=0,0,3956,5848",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp146pz7537/res/373b9151-c6a8-423a-847f-d53d44ef6b3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text of Luke with magnificent initial (containing a dragon)"
+      }
+    }
+  ]
+}

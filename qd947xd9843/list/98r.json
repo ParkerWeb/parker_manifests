@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/list/98r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/86a5f13b-06c2-465e-a288-82f775e06a07",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-203#xywh=0,0,3864,6122",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/e5147673-0934-4061-aba7-bca8d6b49d95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber numeri qui appellatur hebraice valedaber"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/6549b218-648a-47d9-8fe1-e1602050f956",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-203#xywh=0,0,3864,6122",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/dab30090-022e-437c-81e5-c0e81d4fa3e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula de libro deuteronomii (156)"
+      }
+    }
+  ]
+}

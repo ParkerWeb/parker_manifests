@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/list/366.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/486d5f94-2fd8-4541-af7e-f85f4a070832",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-376#xywh=0,0,4075,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/d1231397-1f41-439a-b861-61ec7d9402f0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: rugose frontis et tristis offenditque correptos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/db5296ee-5f13-488a-a965-0aa09382bf3e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-376#xywh=0,0,4075,5766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/467e14f3-af7f-4db0-810b-40da049c817d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

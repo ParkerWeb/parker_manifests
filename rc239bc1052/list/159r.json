@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/list/159r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/7433035e-9763-4a1a-a780-f74fe5fc35f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-323#xywh=0,0,6096,8950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/70c8d4a3-54d8-46fe-a06d-0ed54dead84d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: insolenter in dei rebus ignarus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/94ef9758-518f-4a8c-8111-f8d73f308843",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-323#xywh=0,0,6096,8950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/65d2a0ae-f079-4ad1-a0bb-4e3a1e1dc15a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus Sancti hylarii ad Constantium Augustum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/d10de448-6a10-4aa4-ba69-177039aac129",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-323#xywh=0,0,6096,8950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/8a3f48d5-c175-4a7a-8630-ac371431fb14",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Benefica natura tua domine beatissime Auguste"
+      }
+    }
+  ]
+}

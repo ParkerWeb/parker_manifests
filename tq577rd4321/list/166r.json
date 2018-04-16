@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/list/166r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/annotation/aceac03e-60ea-40dc-8b4a-04ed3796c06a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/canvas/canvas-345#xywh=0,0,3130,4598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/res/1828de33-dfe8-495f-b57c-ea62802e7ac5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Cogitetur igitur quomodo predicti imperatores siue boni siue mali exinaniti sunt et ad nichilum deuenerunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/annotation/c65fde91-0a63-4297-ad97-19865ef1c381",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/canvas/canvas-345#xywh=0,0,3130,4598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/res/bbd512d2-ee08-488c-a424-cb320366efdc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Regnum a regibus dictum"
+      }
+    }
+  ]
+}

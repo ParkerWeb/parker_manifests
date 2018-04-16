@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/104r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/cceb729e-d75f-4935-a20a-2d142eb1d524",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-215#xywh=0,0,6046,8658",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/61d33f39-6716-455c-b8c6-0383e3269b0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Verses on Evangelium: on the Church (Fata monent) etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/d2e9e100-ff85-4522-badd-c2019203af13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-215#xywh=0,0,6046,8658",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/8efccd2e-aa22-44a1-ae1e-bc274acbec89",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De facto tartarorum uobis scribo"
+      }
+    }
+  ]
+}

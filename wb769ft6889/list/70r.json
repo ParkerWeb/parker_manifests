@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/list/70r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/563829e0-d846-4141-b63c-111febc1b98c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-143#xywh=0,0,3888,5396",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/dc88d5f9-da70-45cf-a813-c58dc4e35ddc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Gloss on Martianus Capella"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/e50ba516-5d4f-47b9-9aa7-f03123c88457",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-143#xywh=0,0,3888,5396",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/f3afcc6f-499b-4397-ab83-7159dd22395d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iste martianus genere kartaginensis fuit studens primo philosophie"
+      }
+    }
+  ]
+}

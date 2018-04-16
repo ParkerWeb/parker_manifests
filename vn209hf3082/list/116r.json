@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/list/116r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/a600f1f2-b367-44bb-bf76-cdaeba4b36ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-243#xywh=0,0,3666,5685",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/b67ec171-7954-40f7-825c-555918a1c257",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Civil Law in a fine hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/ee4b47e7-1a9e-4d92-b00a-0b77f9ac0410",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-243#xywh=0,0,3666,5685",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/7dc66fcc-883f-44a7-8e2f-c0d7939c3581",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Regula est breuis rerum narratio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/fd8497e0-8e5d-4b49-88af-45533981ac94",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-243#xywh=0,0,3666,5685",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/18aa0067-5b36-4a1b-a505-63faa26f6a38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Paulus. Regula est que rem que est breuiter enarrat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/list/34v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/fd956799-9b9a-48e9-aef2-136c168b3686",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-74#xywh=0,0,6060,8983",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/3b02941a-5936-461c-9172-8f9e8977dc88",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: per iagraphus prenotuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/e445ac72-2fe5-4cdb-a2ef-d5bfdbcbcb09",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-74#xywh=0,0,6060,8983",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/3c7ea3ee-7369-468a-b75f-42805f280311",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post uindictam scelerum que facta est"
+      }
+    }
+  ]
+}

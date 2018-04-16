@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/list/221.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/annotation/0a261ed0-a8b4-4a86-8431-ae5d69d5c993",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/canvas/canvas-231#xywh=0,0,5544,8718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/res/6fe4f098-3f5e-4ff3-adb1-a812c3e62c38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dehonestatus iniuria moritur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/annotation/9f24387f-a0f7-4240-abfb-286ed6d7f3d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/canvas/canvas-231#xywh=0,0,5544,8718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/res/f621e3ce-5f49-4afb-9e7b-80aba40e40cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ab orbe condito usque ad urbem conditam Anni iiiior milia cccc octuaginta iiiior"
+      }
+    }
+  ]
+}

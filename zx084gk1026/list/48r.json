@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/list/48r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/e8ea10da-23fd-4b68-909c-4ddf28f88b5d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-101#xywh=0,0,6338,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/f491fd8e-695c-4946-9b74-02cc20e20965",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic incipit gesta Alexandri magni Imperatoris et Regis Macedonie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/annotation/4c824ea8-0838-4b1c-9427-0cd6ef2a8eeb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/canvas/canvas-101#xywh=0,0,6338,9354",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx084gk1026/res/eed7862a-ea40-4156-81f0-e3a6221acae5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sapientissimi egipcii scientes mensuram terre"
+      }
+    }
+  ]
+}

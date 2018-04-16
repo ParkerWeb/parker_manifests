@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/annotation/4e72917f-5fac-4327-847b-a0b4a116bfc6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/canvas/canvas-15#xywh=0,0,3398,5022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/res/73b699b0-c2f1-4685-b309-c45f43ef485c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus vite beati Thome martiris compendiose et historice tantum a Ihoanne de Grandissono Exoniensi collecte"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/annotation/e0fdf8fe-2568-4a98-bf9f-f19fda41b35c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/canvas/canvas-15#xywh=0,0,3398,5022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/res/0a28838b-039c-4822-a6bc-a3222ec27001",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Archipresulis necnon et archimartiris Anglorum"
+      }
+    }
+  ]
+}

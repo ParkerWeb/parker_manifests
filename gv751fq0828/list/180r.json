@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/list/180r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/620615b6-9099-4ac6-94f8-ebe520de8b0a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-365#xywh=0,0,6166,7879",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/37081f7d-382e-4d04-90f4-c841d40cb30b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio Sancti Gregorii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/a4850aea-b28b-4d69-8f7f-7835cd351d21",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-365#xywh=0,0,6166,7879",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/890ea88c-80d6-4648-a810-50597c4050b0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Rex seculorum et domine dominator"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/annotation/46469483-2fa3-4420-b68d-ca8ea30257f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/canvas/canvas-9#xywh=0,0,3126,4727",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/res/924dbe86-a011-4674-b97e-2254f57017d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus vite beati Thome martiris a Johanne de Grandissono Exoniense collecte"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/annotation/b9f124e8-1d46-49d4-9c1a-5b6f037675f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/canvas/canvas-9#xywh=0,0,3126,4727",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/res/bb537e56-26c8-460e-aa18-4bb9b1fa77b3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Archimartiris necnon archipresulis"
+      }
+    }
+  ]
+}

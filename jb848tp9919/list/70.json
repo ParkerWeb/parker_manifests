@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/list/70.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/6fd54bab-5a71-4d81-a32e-2b4bd7525ec7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-76#xywh=0,0,3669,5816",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/6659ce6b-1962-4c33-aab8-c0fc1a9856ff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The hand changes to a thicker and smaller script"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/41c12743-0adb-471d-b254-52379bfffd9b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-76#xywh=0,0,3669,5816",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/af80d348-c880-4627-a86c-6b5a8ee2190c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Prenotata serie generationum ex qua primi anglici generis reges prodierant"
+      }
+    }
+  ]
+}

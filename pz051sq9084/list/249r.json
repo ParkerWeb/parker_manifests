@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/list/249r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/annotation/30f79a0d-3b2f-4fe0-9614-7c6b6c6b64a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/canvas/canvas-501#xywh=0,0,5998,9342",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/res/79486e51-e470-41e9-9583-048f125dac23",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: circa talium institucionum officia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/annotation/6e3e1f54-6cbb-4e54-a14a-fcc3323a7ef9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/canvas/canvas-501#xywh=0,0,5998,9342",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/res/c309d47b-c742-4988-bb9b-97573705be70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An erasure at the bottom of this page"
+      }
+    }
+  ]
+}

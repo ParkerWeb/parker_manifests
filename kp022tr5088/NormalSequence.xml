@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kp022tr5088/NormalSequence">
+    <rdf:rest rdf:nodeID="WWEguphj3"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Sequence"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/kp022tr5088/canvas-2"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/kp022tr5088/canvas-1"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/kp022tr5088/canvas-1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kp022tr5088/canvas-2">
+    <dc:title>f. 1 V</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6707</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9007</exif:width>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="WWEguphj3">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/kp022tr5088/canvas-2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kp022tr5088/NormalSequence.xml">
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/kp022tr5088/NormalSequence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/kp022tr5088/canvas-1">
+    <dc:title>f. 1 R</dc:title>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6766</exif:height>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8996</exif:width>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/list/54.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/51c3c8b6-c521-41c9-be3a-32b86c93aa29",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-64#xywh=0,0,3878,5554",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/ee47ffae-b61b-4d79-829a-346e63499ba5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Lamentatio scriptoris super statu ecclesie anglicane"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/7af0dfc4-8dd0-4987-a065-3ad83ff51fee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-64#xywh=0,0,3878,5554",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/b9568c21-8ca1-46b2-8d57-8240b2a17098",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quis ergo dabit capiti meo aquam"
+      }
+    }
+  ]
+}

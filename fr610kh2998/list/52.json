@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/52.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/78ff2de4-f76b-41fb-a992-2b8728602e26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-56#xywh=0,0,3567,5646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/b92da785-00be-46a9-b140-3e1b6d94c68e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Preface"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/764a52ad-571a-48e6-bae1-eaaf7fd27c55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-56#xywh=0,0,3567,5646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/97460579-d607-4e13-8aeb-8aa6264ccbbc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The upper half of the page occupied by a drawing mostly in green outline. Christ beardless in mandorla with book blessing"
+      }
+    }
+  ]
+}

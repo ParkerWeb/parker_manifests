@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/a1d525cd-d5dc-46ac-b791-5eae1271dff2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-13#xywh=0,0,5710,8646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/d226e7d4-a910-4c32-9d35-8cd6fefe5721",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: stelle in perpetuas eternitates quod ipse prestare dignetur qui cum patre et spiritu Sancto uiuit et regnat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/a0487c79-570d-4dbe-a537-b8361d4a0d6f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-13#xywh=0,0,5710,8646",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/a2b4b53a-65ab-4651-aecc-5248712710c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Libri subsequentis capitula"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/list/283v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/annotation/d9581a60-86d5-479a-ae3b-5e6717fe8ddc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/canvas/canvas-574#xywh=0,0,4112,6232",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/res/feabb2d0-3960-40fa-b845-d1a5e783c117",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in die quo noui"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/annotation/a7e7f634-d03c-4363-82a8-c922dc32342a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/canvas/canvas-574#xywh=0,0,4112,6232",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg483cz7854/res/e6120bde-b723-495a-82c7-9256a25b68c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit summa super Ysaiam. secundum archiepiscopum Cantuariensem"
+      }
+    }
+  ]
+}

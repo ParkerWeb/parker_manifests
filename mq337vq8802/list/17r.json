@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/list/17r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/0dddbc43-8bd2-47b5-bc80-159505614ff1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-33#xywh=0,0,5830,8190",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/01680d49-2356-403b-a95c-af6faf16c131",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1r"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/3ff5e7f2-14e3-4990-a3a3-bb26b265e7e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-33#xywh=0,0,5830,8190",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/d790b891-d233-46f5-8f18-3b819d246c2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abel dicitur principium ecclesie propter innocenciam"
+      }
+    }
+  ]
+}

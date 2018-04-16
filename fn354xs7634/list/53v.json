@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/list/53v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/42a1eae8-2e9c-4c46-ad6e-0d8eea81dbbb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-112#xywh=0,0,5817,8959",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/ed37f469-6c1e-4bb2-b552-4224d2e364c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula of Ecclesiastes (31)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/annotation/5e190877-f04b-4dd4-927a-7c620dd7da22",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/canvas/canvas-112#xywh=0,0,5817,8959",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn354xs7634/res/33a2ef3b-d591-4287-b070-0e199ce5a4eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial decorative"
+      }
+    }
+  ]
+}

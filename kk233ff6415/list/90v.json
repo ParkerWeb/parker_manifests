@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/list/90v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/5945141c-2589-44b9-b7a9-9e3d4ab54187",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-230#xywh=0,0,3699,5282",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/499a7f72-0772-464e-bc8d-17d875befa3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit de opusculis suis Prudentius Immolat patri deo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/annotation/20bee97e-dbd6-454c-b688-a2430a7777e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/canvas/canvas-230#xywh=0,0,3699,5282",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk233ff6415/res/bc579a46-6e70-42da-bf12-1192dca0c929",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pius fidelis innocens pudicus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/list/231.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/cb889218-3a91-4237-8ca3-753a51b97af7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-235#xywh=0,0,5519,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/54373fe1-ddc8-451f-83b0-146641b6f64e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus de amicicia christiana"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/74fdd21d-a2dc-4965-9d09-98365708dd8e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-235#xywh=0,0,5519,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/145afe46-3669-4b2c-a051-12a5f865f51e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam diminute sunt ueritates"
+      }
+    }
+  ]
+}

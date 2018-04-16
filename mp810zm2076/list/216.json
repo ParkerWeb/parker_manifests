@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/216.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/bbe2791b-6b5e-47d7-ad10-6ae76c2e9676",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-223#xywh=0,0,3375,9156",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/97b5aa42-ae9e-4c8a-bb92-a8f5ac1da0a2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De piscatione in aqua currente de Woky-hole"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/c899f00a-4e18-40a3-8a5f-b8c59dea24af",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-223#xywh=0,0,3375,9156",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/dffc6056-b11e-4868-bc8d-7b3f04e26336",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De castellis prope Wellys"
+      }
+    }
+  ]
+}

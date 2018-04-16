@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/list/140v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/f4ee4602-0f6b-4593-bd57-81bf21b9b8c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-290#xywh=0,0,6232,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/2f9838f6-e20c-4705-a615-ac214b7a068e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: socios tue beatitudinis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/f1b5270f-a6c0-42ad-a08b-597b07dc7f14",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-290#xywh=0,0,6232,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/6bc9caa1-bd6d-462e-87eb-fb5685b9bcaa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Scribere de clementia nero cesar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/list/220v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/182baa85-5fba-462e-8d1a-55349f99f275",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-446#xywh=0,0,6383,9019",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/54476d36-f6dd-432d-b9b9-e8b4399c8a21",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sub die idus decembris prestante etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/annotation/38e1ffd7-d328-4766-8ab8-9e1125c48a6f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/canvas/canvas-446#xywh=0,0,6383,9019",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ty948rv7120/res/ecc2085d-14ad-48ab-a7d4-fcee11117ae1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (N)obilissimis aecclesie dei filiis"
+      }
+    }
+  ]
+}

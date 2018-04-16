@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/list/169v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/9fbac34c-f03e-41bd-976c-2f3b74fe51b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-348#xywh=0,0,5770,8778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/851711e0-5259-414c-813b-c72d763c90dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo de beata Maria Magdalene secundum fratrem Walterum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/5ff4f7a2-61cf-4556-9841-aedc23190dd4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-348#xywh=0,0,5770,8778",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/99c6bf87-8577-4876-a616-fc483203d0f5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Babylon dilecta mea posita es michi in miraculum"
+      }
+    }
+  ]
+}

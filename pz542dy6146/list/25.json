@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/list/25.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/15051d6a-ffe3-42f8-ac44-026358d6d45b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-35#xywh=0,0,3343,5782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/694d54b8-5341-4f23-96ff-4c9b0aa1c899",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In natale unius Apostoli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/2c1f4fc4-5ff2-4728-94a9-1f614a6b9273",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-35#xywh=0,0,3343,5782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/f7cd1353-9560-49b5-b3f3-d30c5e78a4cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ðes Apostolica freols dæg"
+      }
+    }
+  ]
+}

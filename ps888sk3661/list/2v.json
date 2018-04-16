@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/annotation/6afec7fe-d8c0-4f42-8761-4d86bd2246b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/canvas/canvas-6#xywh=0,0,4918,7663",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/res/0c9589d4-bfd8-403e-99ad-7172f5b93542",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A list of thirteen lines of advice"
+      }
+    }
+  ]
+}

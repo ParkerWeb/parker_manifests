@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/annotation/c2d86bfc-b687-4ecf-bb3a-477cb6769bc7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/canvas/canvas-8#xywh=0,0,3404,5287",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/res/5bb1b70c-b73c-4987-ad6d-3f18ceec3b79",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In die natalis domini sermo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/annotation/94b2877a-6066-49c8-beee-36bb68fef6c7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/canvas/canvas-8#xywh=0,0,3404,5287",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk506vd5013/res/aeccb326-3427-41dc-bdd4-2cd650ba2fbb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Letentur celi et exultet terra"
+      }
+    }
+  ]
+}

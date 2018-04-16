@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/122r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/e9683425-77a9-4db3-8a99-9e239549d0ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-251#xywh=0,0,3569,5334",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/956ce7b0-3019-4ea5-b1b4-6649051d0448",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ici comence ascun estrange paroles de fraunce"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/a9e04600-6b7a-400a-90da-1077b30afd8d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-251#xywh=0,0,3569,5334",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/a4f6462e-b14c-4fdf-a1c6-863fd2b78346",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Quant lui enfes est neeLors deit estre mailioleLenfant en berz est cocheE par sa norice est berce"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/list/101.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/be92b180-6813-4410-b9b4-3622f9ca2922",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-113#xywh=0,0,3220,4832",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/73c1016e-1f03-40ab-8cc3-db47b641c03e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus in libro lapidum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/3ad364ff-c612-47a3-bae7-5c9aca727e96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-113#xywh=0,0,3220,4832",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/fb112db4-ea3d-440a-9898-35808350c8b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Evax rex arabum legitur scripsisse neroni"
+      }
+    }
+  ]
+}

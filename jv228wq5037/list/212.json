@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/list/212.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/551b5a93-9319-4ce5-b91f-a72536e9d1b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-222#xywh=0,0,3849,5611",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/70a9b255-3f59-4c94-bd13-f74e6d547ade",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et alicuius doctrina excitata incipit discernere et intelligere veluti siquis acutis oculis tene"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/dada2613-f1d8-4757-99f9-d91a0ae077d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-222#xywh=0,0,3849,5611",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/8e31cbc7-e820-48b8-8eee-46aaf58320f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An erasure below"
+      }
+    }
+  ]
+}

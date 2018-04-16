@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/list/38.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/a74371e2-3e2a-45cf-bf27-0ad23f3c0671",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-50#xywh=0,0,3302,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/fe589908-9391-4fa0-971e-0741a81d69c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sunnan Dæges spell"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/4364c439-79d3-404f-87a3-aa243bc38c7c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-50#xywh=0,0,3302,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/8ecac3c3-65e5-4b53-9cac-d16e931bbe6a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Her sægð on þises drihtnes aerend-geƿrite"
+      }
+    }
+  ]
+}

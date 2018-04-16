@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/list/100r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/annotation/b7b51cb2-1eab-4355-a1c5-9e520a9d27f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/canvas/canvas-205#xywh=0,0,3921,5973",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/res/37aae700-a60a-45e1-a4a0-c79e46b33904",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: possit merces concedi. Finis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/annotation/108d3644-07e4-44e4-aa16-90eb6f3f679b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/canvas/canvas-205#xywh=0,0,3921,5973",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/res/7d1606ee-3f96-427a-987d-30612b701385",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Two paragraphs in the same hand on a penitent and a theft of jewels"
+      }
+    }
+  ]
+}

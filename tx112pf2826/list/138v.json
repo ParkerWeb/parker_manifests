@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/138v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/8e163574-bb4a-408f-9169-f7b71420fde9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-286#xywh=0,0,3754,6373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/60837c91-f234-4641-a271-3356bbd29dbd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Sceptre"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/ab4a2590-9088-4a5b-81bd-699a527f9f8e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-286#xywh=0,0,3754,6373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/eeb0f2bc-bcf0-4752-adea-ae098ac34cbb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Rod"
+      }
+    }
+  ]
+}

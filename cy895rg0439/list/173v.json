@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/list/173v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/annotation/f3c00423-f236-4618-929d-b2ce8f649a80",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/canvas/canvas-354#xywh=0,0,6046,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/res/bc57c122-3ba9-4392-86d6-b09dcbcf0b74",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the (blank) verso are pencilled many numbers"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/annotation/2c31c87c-348e-4db9-a207-80d1483798bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/canvas/canvas-354#xywh=0,0,6046,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cy895rg0439/res/fba602d3-683e-4afe-b64e-82ab387daa15",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In ink (xiii) W. de O. and some xvth cent. verses"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/list/120r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/0036ae0b-24f3-4b22-8252-604905dff216",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-213#xywh=0,0,4070,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/a6792952-fa67-432f-8700-10c6db1f509e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A better hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/341e1306-b550-4dbd-9f34-7f8bd83e3dd2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-213#xywh=0,0,4070,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/a1715081-baa9-4d9b-8b7f-4f9362e376fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sunt precepta quedam"
+      }
+    }
+  ]
+}

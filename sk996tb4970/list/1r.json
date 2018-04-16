@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/5890dfb3-d92c-4030-8368-ef9d2edba411",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-11#xywh=0,0,5194,7797",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/6197f2f9-91a4-40d7-9845-b703a689110a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: cor laetificat etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/30e439ad-8119-47bc-b128-eed5d14c52f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-11#xywh=0,0,5194,7797",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/109af9b3-4de3-4997-bd26-0ccb162aa2f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: animam suam in caelo mirificabit in saecula saeculorum. Amen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/54r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/9e0b5f9c-d6a7-466d-8a73-8a68b4744825",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-115#xywh=0,0,3638,5899",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/7ae6ef15-b678-4aef-9b0a-c7b162069d17",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber XIV)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/115d3ff3-2870-457e-b626-8fec4910752b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-115#xywh=0,0,3638,5899",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/d6827ff3-3edc-44b9-9d3c-03207d450ad5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Conditor almipotens eternis sedibus asstans Quartum nunc decimum iusto moderamine comple"
+      }
+    }
+  ]
+}

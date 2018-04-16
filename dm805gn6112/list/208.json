@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/list/208.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/831bfbc8-e8c4-4776-9762-5784d2e01ce1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-214#xywh=0,0,3622,5230",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/075172f7-2fc7-41d7-9e98-5e36712dbd3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: feliciter peruenire"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/c1b29df3-fabd-45f6-851b-1e216995b7be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-214#xywh=0,0,3622,5230",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/e5663fa8-2e6e-427f-b287-a339d576ce07",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula of the ten books"
+      }
+    }
+  ]
+}

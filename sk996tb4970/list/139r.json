@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/list/139r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/b939eaa2-5dc6-47ab-9995-bdbb154fa43e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-287#xywh=0,0,5335,7882",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/d6747b68-bbb4-4dc3-8d0a-d25f896f0781",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio ad chorum sanctorum martyrum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/055c8186-36a9-4a04-bc25-479056da20eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-287#xywh=0,0,5335,7882",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/81501530-5cb6-4dfe-857e-f93b5f50b7cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio ad omnes confessores"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/annotation/317d6040-b762-4448-aec8-e7865550ff0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/canvas/canvas-287#xywh=0,0,5335,7882",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk996tb4970/res/89990190-e137-4c88-a141-a52174355bc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio ad sanctam mariam et omnes sanctas virgines"
+      }
+    }
+  ]
+}

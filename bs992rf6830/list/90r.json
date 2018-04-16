@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/list/90r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/annotation/2f05500e-0de3-4d3d-bc23-dbf6fc20ff0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/canvas/canvas-183#xywh=0,0,5207,8898",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/res/8f53b396-117f-4135-bfb8-ec6b5e69cd10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Retractationes siue declaraciones quorundam dictorum precedencium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/annotation/a84d36ac-50ba-466c-a778-abc9b39ce09b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/canvas/canvas-183#xywh=0,0,5207,8898",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bs992rf6830/res/866e7a38-8037-40ad-9e82-86f8b7cad856",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In quinto libro de pauperie"
+      }
+    }
+  ]
+}

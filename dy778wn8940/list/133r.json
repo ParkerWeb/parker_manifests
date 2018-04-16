@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/list/133r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/annotation/25e87aab-0599-4811-9224-75621f6fc494",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/canvas/canvas-275#xywh=0,0,5279,8566",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/res/619011d2-32e4-4979-9657-ce251eeda65a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In nomine Sancti Trinitatis incipit liber ferrandi cartaginiensis ecclesie diaconi de bono duce ad reginum comitem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/annotation/917bc853-b341-4beb-b9ed-7dc023b77e3a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/canvas/canvas-275#xywh=0,0,5279,8566",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/res/1b58829e-06be-49f4-bd68-75f59629ee1b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Socialis uite laboribus exercendus"
+      }
+    }
+  ]
+}

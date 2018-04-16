@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/list/166r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/annotation/26651a67-c98d-4b0c-9724-1760910728fd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/canvas/canvas-335#xywh=0,0,3854,5550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/res/54daf4f7-b6b3-4b39-beb2-d491f78fa508",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quod omnes (?) unite sunt (?) in gloria per omnia secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/annotation/1bdb7af1-8fe1-47c4-b3cc-f3c1a25dd2e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/canvas/canvas-335#xywh=0,0,3854,5550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/res/3864b486-6d49-46bc-8b11-2e648d098954",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finis est libri qui vocatur paradysus anime"
+      }
+    }
+  ]
+}

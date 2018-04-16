@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/annotation/98472ac4-0480-400c-b936-ae675aae9afa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/canvas/canvas-15#xywh=0,0,3359,5732",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/res/19123dc9-030a-4ebc-a8a0-986a1d9d847b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit breuiloquium pauperis in sacra scriptura"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/annotation/adc82e2f-9958-4ad2-b0c6-d4ad9ccf3317",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/canvas/canvas-15#xywh=0,0,3359,5732",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/res/06d260ce-c77e-4548-a792-a033fcf42635",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Flecto genua ad patrem domini nostri Ihesu Christi ex quo omnis paternitas"
+      }
+    }
+  ]
+}

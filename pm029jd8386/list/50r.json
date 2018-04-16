@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/list/50r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/ff0773f4-a0a2-444e-b7fc-beda07498bd0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-109#xywh=0,0,3753,5954",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/f335ca24-d4ab-44bb-a917-1450d4f56e1f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: conuenienter exposuimus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/9e30f493-ee9f-4b06-854c-a15e704475c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-109#xywh=0,0,3753,5954",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/f18fae07-593f-4acc-81e1-04b4adbcf324",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Intentionem habemus in presenti conscriptione"
+      }
+    }
+  ]
+}

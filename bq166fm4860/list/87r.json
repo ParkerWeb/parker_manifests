@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/list/87r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/annotation/2ec0b772-f72a-44d1-bcf9-cae70fc214bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/canvas/canvas-177#xywh=0,0,5324,7395",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/res/d5c1afdc-4bf1-4275-8084-242a6a0558c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Triginta diuisiones grammatice artis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/annotation/0839dd53-cb9d-4b5c-b6d5-b3df295cff2e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/canvas/canvas-177#xywh=0,0,5324,7395",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/res/251a61ac-7450-4e7e-9126-bd84cce5519f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gramma on grecisc ys lyttera on leden"
+      }
+    }
+  ]
+}

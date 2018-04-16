@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff244gc7115/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff244gc7115/annotation/7b983d53-3135-46a3-a63c-fde67c0f0497",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff244gc7115/canvas/canvas-23#xywh=0,0,3411,4884",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff244gc7115/res/b312b351-2f88-4f63-89b4-78ba74458f77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Dedication to Melanchthon"
+      }
+    }
+  ]
+}

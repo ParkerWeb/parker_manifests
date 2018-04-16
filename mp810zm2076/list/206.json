@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/206.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/d3b6b919-4ce1-4443-a39b-9af1328ad234",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-213#xywh=0,0,3211,9084",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/a39cf44d-b302-4fa0-b3b7-9af5c7080cba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Willelmus Rufus occisus in foresta Ykene"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/58639793-8243-45f6-9406-fb5aac4037b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-213#xywh=0,0,3211,9084",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/a970bd2e-9604-4af5-825c-1636817bd372",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De castro Torre"
+      }
+    }
+  ]
+}

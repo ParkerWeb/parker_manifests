@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/list/83r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/59423c52-bf76-44ba-9fe7-af086a07ea6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-165#xywh=0,0,5914,8118",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/c5ecee9b-7453-4bca-9675-a7f98479f56c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Petrus de RigaAurora"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/16a596d0-b724-4423-867e-05c4efd2ab57",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-165#xywh=0,0,5914,8118",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/326b8f8e-ff4e-45a4-85a1-e00bed7f745f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnis scriptura diuinitus inspirata"
+      }
+    }
+  ]
+}

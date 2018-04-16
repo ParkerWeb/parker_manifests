@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/99r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/746f699a-0ea0-4621-939a-2785df11f1c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-217#xywh=0,0,3782,6406",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/5202b71c-b731-4833-a31d-3404d24595b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De confirmacione cartarum. et visu franci pleggii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/7b3e0f24-b185-42eb-981d-4e6b41141fb3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-217#xywh=0,0,3782,6406",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/7a8c39d0-88d8-4aef-8190-6954ce9dd1ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Edwardus deo gratias ... Inspeximus cartam"
+      }
+    }
+  ]
+}

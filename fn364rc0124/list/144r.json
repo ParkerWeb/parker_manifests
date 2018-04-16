@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/list/144r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/6af9e1bc-a54b-4775-a97e-3bab329dc9ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-295#xywh=0,0,3632,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/b61f14d8-230c-4d9d-a99f-bbd72a9af1f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1. 1386. Roger Raude de Kenynghale"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/annotation/93b39ed4-8e14-47cc-91ff-fb8046d243ca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/canvas/canvas-295#xywh=0,0,3632,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fn364rc0124/res/84e7977d-999d-4328-b3eb-d64646c9397f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "3. Relates to Steucheworth (Stetchworth) 1387"
+      }
+    }
+  ]
+}

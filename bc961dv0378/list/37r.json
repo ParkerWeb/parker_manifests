@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/37r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/3bd4930b-8149-41f0-bcab-ec004b8a677f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-81#xywh=0,0,3308,5353",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/c644168a-13ea-48e5-ace7-bf43cb273117",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ad meliorem et probabiliorem partem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/3193a8a2-044e-47c5-a172-c72ea1c5b93a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-81#xywh=0,0,3308,5353",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/ba883703-1138-49c8-b6c0-9309d3bb8ff9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit tractatus de signis et moribus naturalibus hominum ad regem magnificum Alexandrum qui dominatus fuit toti orbi dictus monarcha in septenterione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/cb774f34-b1b0-4067-9cf6-23cc3477f6b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-81#xywh=0,0,3308,5353",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/954da4ff-e31e-40ac-84a6-21479bc233e2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Secundus philosophus fuit. hic philosophatur in omni tempore"
+      }
+    }
+  ]
+}

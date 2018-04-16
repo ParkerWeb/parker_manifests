@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:exif="http://www.w3.org/2003/12/exif/ns#"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nb647fd0133/canvas-2">
+    <dc:title>f. 1 V</dc:title>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4383</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#rest"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6647</exif:height>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nb647fd0133/canvas-1">
+    <dc:title>f. 1 R</dc:title>
+    <exif:width rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4451</exif:width>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Canvas"/>
+    <exif:height rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6656</exif:height>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nb647fd0133/NormalSequence.xml">
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/nb647fd0133/NormalSequence"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+    <dc:format>application/rdf+xml</dc:format>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nb647fd0133/NormalSequence">
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/nb647fd0133/canvas-1"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/nb647fd0133/canvas-2"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Sequence"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:rest rdf:nodeID="zRvYosUC3"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/nb647fd0133/canvas-1"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="zRvYosUC3">
+    <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+    <rdf:first rdf:resource="http://dms-data.stanford.edu/Parker/nb647fd0133/canvas-2"/>
+  </rdf:Description>
+</rdf:RDF>

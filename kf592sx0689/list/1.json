@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/annotation/2a8e4500-8974-4c17-b6dd-be8c2119c63e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/canvas/canvas-11#xywh=0,0,3966,5784",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/res/dac36241-5f3a-45e3-a2c0-442bc02639b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Henrico dei gratia regi anglie et francie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/annotation/ac7234dd-db04-4993-940f-8a8fba689bbf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/canvas/canvas-11#xywh=0,0,3966,5784",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kf592sx0689/res/7db487f2-cd33-44df-9384-76a3f987c7a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "... frater iohannes ( capgrave added later above line in what is said to be Bale's hand Hingeston points out that the book once belonged to Bale) doctor minimus"
+      }
+    }
+  ]
+}

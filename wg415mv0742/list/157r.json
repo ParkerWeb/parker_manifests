@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/list/157r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/461c00a7-6791-4c1e-bbdc-56288d5acbf7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-323#xywh=0,0,3725,5634",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/84635373-4902-467e-a580-9532abe63cf6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Reuerendo in christo ... Kel (?) dei gratia Ep. ffrisingensi ... hinricus de odendorf de colonia utriusque iuris et artium professor"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/8b0790a5-d2b9-4f49-9dc3-d5c955aa80b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-323#xywh=0,0,3725,5634",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/39abedb9-6696-4671-913e-3ff7abcdf4fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: breuiter esse volo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/annotation/1fad7ba5-b846-446b-a2fa-070228072a01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/canvas/canvas-323#xywh=0,0,3725,5634",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg415mv0742/res/623a67db-dfe8-4d60-bbc0-c9e56d4d7993",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Tables of chapters in the Six Particulae"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/51f2b5e6-9b3f-4b89-b73d-cc88c57d1799",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-67#xywh=0,0,6319,9416",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/5fe8dd69-dfcb-4046-805c-7390632bebb8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Tabula super Moralibus Gregorii pape"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/f3ccc8ad-7771-466d-929d-7b3e5f1995cd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-67#xywh=0,0,6319,9416",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/6d33ee94-b0c8-4330-a425-6de8989ab8e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abstinencia. Cum anima a carne abstrahitur"
+      }
+    }
+  ]
+}

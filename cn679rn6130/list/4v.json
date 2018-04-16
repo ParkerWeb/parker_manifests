@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/268b1674-3ece-41d9-9d3c-8ba5f02a20ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-14#xywh=0,0,5687,8998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/b5bba200-9248-4361-93ab-b7d98114f772",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic incipit liber qui vocatur Scala Mundi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/annotation/c9a1cd8a-9b54-48e4-a523-f900acd00017",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/canvas/canvas-14#xywh=0,0,5687,8998",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cn679rn6130/res/bf2cd2a9-883e-405c-8d45-c148ce81dc6f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De creatione mundi et opere prime diei"
+      }
+    }
+  ]
+}

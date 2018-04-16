@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/annotation/2742a6ba-d5a3-4f4b-b427-820bcd204ab5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/canvas/canvas-23#xywh=0,0,3470,5304",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/res/32a9423c-f48d-41e8-8acb-cc172834fcf9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber primus Malogranati"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/annotation/768ea2bf-826b-4fae-b45a-f0bc7a1cc4ed",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/canvas/canvas-23#xywh=0,0,3470,5304",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn537zy2368/res/7753ab9e-a964-4b10-bf0e-51bbe2b4d0c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fili accedens ad seruitutem dei"
+      }
+    }
+  ]
+}

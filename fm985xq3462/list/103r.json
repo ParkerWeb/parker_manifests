@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/103r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/32d4eaaa-f94b-42b9-95f2-87baca46ab9a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-215#xywh=0,0,6020,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/883b19be-8fc6-4f83-8300-4c2e288d04cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "a large miniature of Offa in scarlet over blue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/d28991e2-f210-4572-8bbe-6b0fa1597f85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-215#xywh=0,0,6020,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/c64d5127-d508-4256-b245-e36b674dcd55",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Four other small miniatures"
+      }
+    }
+  ]
+}

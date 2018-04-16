@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/list/113v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/80c2e432-9b70-4ccd-b4f1-9b872d85189a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-226#xywh=0,0,5647,8031",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/2e3155df-06ea-45ba-8d41-f1a58b33a12b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Platearius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/3c55b6ab-d85b-492a-978e-10c05ed8ab25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-226#xywh=0,0,5647,8031",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/3de998ba-3e90-4324-b754-5462c7dc72ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amicum induit qui iustis amicorum precibus"
+      }
+    }
+  ]
+}

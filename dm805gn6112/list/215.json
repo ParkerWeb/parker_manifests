@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/list/215.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/9ec182d4-a8ce-46bb-a194-1847bbe7ef6c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-221#xywh=0,0,3694,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/66b1a697-d005-4189-8952-fa9305059b2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: alie naciones"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/cc249e75-7207-42bd-a96c-808bd9d72411",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-221#xywh=0,0,3694,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/258eff3b-fb0e-4175-9733-92a0be905d97",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iohannes qui transtulit hunc librum"
+      }
+    }
+  ]
+}

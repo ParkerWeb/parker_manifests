@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/list/47.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/5805c2d9-b067-4039-b558-22ebe150642f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-53#xywh=0,0,3618,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/df659065-3fc2-4608-b4ca-f7535fa1f723",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Opus bonum atque perfectum per B"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/e2b3b74d-81a2-4414-a58b-6820910cdc8e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-53#xywh=0,0,3618,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/270ac004-51dc-4008-8dbb-e91f8601d77e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Accipe corpus quod vis"
+      }
+    }
+  ]
+}

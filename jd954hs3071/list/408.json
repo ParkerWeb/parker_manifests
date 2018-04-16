@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/list/408.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/f6cb8876-6599-48e4-9b2c-3b90a17ca367",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-418#xywh=0,0,3169,5043",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/d016c573-45ac-46c8-aee5-ab6106f1cb46",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo de aduentu domini cuius supra"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/annotation/1086f7fa-891a-43a0-9374-2a1acf49d566",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/canvas/canvas-418#xywh=0,0,3169,5043",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd954hs3071/res/71d331ea-b8d5-45d4-a73b-f79b4d209258",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam presentium obseruatione dierum"
+      }
+    }
+  ]
+}

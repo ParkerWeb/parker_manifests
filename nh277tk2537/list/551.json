@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/551.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/67ab4c07-58d6-4c77-8b62-7c15c2dfbf51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-549#xywh=0,0,3585,5876",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/53e35aa9-302c-4c00-9d47-bec24d52464c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The flyleaves are from a magnificently written Pontifical"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/a6338585-285f-41fd-9605-6ccfb3af7bef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-549#xywh=0,0,3585,5876",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/f90bee8c-c130-479d-9b77-65d2728076bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Begins in the Blessing of incense"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/92r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/2e3cb9bc-c9f1-4a24-a683-b31cd2e8081f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191#xywh=0,0,5891,9527",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/3e3beb5e-dba9-42aa-85bb-e25d28a030c2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Numeri qui hebraice dicitur vaiedaber habet versus III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/1408d545-85b8-4dd2-9171-85fbb6e18844",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-191#xywh=0,0,5891,9527",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/a48a2ff1-3618-4a5a-a86a-f37fa30f884f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula of Deuteronomy (152)"
+      }
+    }
+  ]
+}

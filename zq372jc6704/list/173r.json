@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/list/173r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/da785ec8-3c88-4a5f-84a6-a8fb111fab55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-353#xywh=0,0,3474,5417",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/110e9a6c-7c45-4be1-9868-5729a9451516",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit speculum ecclesie et primo de uestibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/5e307321-9c00-49e9-bb94-929c3517d7f4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-353#xywh=0,0,3474,5417",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/544cb1d6-a080-49c7-abb6-cdb8f8bfbf78",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dicit apostolus ad epheseos. Induite uos armatura dei"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/list/87r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/8e223b26-2310-4a4e-8cd4-b0e01cf5ca86",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-183#xywh=0,0,3094,4950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/6f378abc-09af-46cb-ab8a-a708bd5816ca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt consuetudines lanfranci archiepiscopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/50489bbf-5f3a-4c47-9cf1-db7d78b1c32b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-183#xywh=0,0,3094,4950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/ca6a174b-7374-4cc5-8d34-99a7e23b0213",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Lanfrancus indignus ... henrico priori ..."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/00ac731f-3969-4947-b8e7-78c7eb27bb30",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-183#xywh=0,0,3094,4950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/96193706-6264-482c-98ac-e4cf91e01c38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Mittimus uobis nostri ordinis consuetudines scriptas (cl. 444)"
+      }
+    }
+  ]
+}

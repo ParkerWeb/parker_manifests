@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/list/26r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/be043243-1f27-4adc-9e70-c3ab4b806088",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-55#xywh=0,0,6646,8838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/716e5f20-cdb0-4202-a122-a7147d2862c2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Kalendarium de Scaccario"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/3b149f4d-aeef-42b2-8f1b-001f416419eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-55#xywh=0,0,6646,8838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/00d5a84d-5954-4fb0-87fc-0c014de400c9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia Anglicana mos est quod quilibet computans incipiet titulum compoti sui in crastino S. Michaelis"
+      }
+    }
+  ]
+}

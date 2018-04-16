@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/list/153v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/d37e2ded-a759-4d20-9fe5-785f89bce316",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-314#xywh=0,0,3578,5439",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/8da91dc1-6f6f-41fe-9fd8-f15c669e1b88",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Constitutions"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/annotation/7518b976-8ddb-49af-9608-c8419064979a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/canvas/canvas-314#xywh=0,0,3578,5439",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zq372jc6704/res/5e206beb-3bfa-4f09-ab48-bff6e6315858",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Constituimus et voluimus quod in cunctis ecclesiis parochialibus per archidiaconos constitutis uniformis sit peticio decimarum"
+      }
+    }
+  ]
+}

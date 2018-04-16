@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/list/131v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/a551d3ba-c51f-4f86-9f9f-ab52184ac738",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-268#xywh=0,0,5848,8497",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/55ac29fd-e30e-4682-8fc2-e5134908ee3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prefatio Aurelii Augustini de assumptione beate et gloriose semper uirginis Marie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/d4868794-2989-45c6-8ad1-deac123e8efd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-268#xywh=0,0,5848,8497",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/c27cc01a-e7f4-4ddb-903e-7b22caef7a28",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad interrogata"
+      }
+    }
+  ]
+}

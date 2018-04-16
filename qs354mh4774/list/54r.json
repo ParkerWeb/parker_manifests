@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/list/54r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/586011f1-02a6-4e12-a9e5-f21f399c1ec0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-115#xywh=0,0,3760,5558",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/569266d9-b08f-42b1-a8c8-e99fe99ef69a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt postille per circulum anni de sanctis et primo de Sancto Andrea apostolo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/annotation/9b1fadbd-6ca2-4a69-b54a-93beb5c66399",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/canvas/canvas-115#xywh=0,0,3760,5558",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qs354mh4774/res/00710c95-c681-4859-b5bb-d92a7b6aa7e0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ambulans Ihesus ... hic dicit haymo"
+      }
+    }
+  ]
+}

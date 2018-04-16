@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/list/70r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/annotation/4351fc9a-2d51-461e-9197-4ab96473e0de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/canvas/canvas-141#xywh=0,0,5346,8148",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/res/e77ab175-448e-4651-bab2-1ab5abd42360",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in whiche þei schul be deed"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/annotation/15ab37f3-607d-42e0-a572-558866719239",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/canvas/canvas-141#xywh=0,0,5346,8148",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/res/44848587-083a-4626-acfc-8b7a582e03a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit commune sanctorum"
+      }
+    }
+  ]
+}

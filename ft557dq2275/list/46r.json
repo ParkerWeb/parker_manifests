@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/list/46r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/90ae57f5-464e-4689-be57-2b807c62b1a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-95#xywh=0,0,6166,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/f66dd199-cd94-4da5-8dc1-ba33dcc86c68",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber compoti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/82abbdea-c6fb-4191-ad84-9cd05b6d7f37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-95#xywh=0,0,6166,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/012f506a-c485-4183-b56e-b9ba02c6af61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aureus in iano numerus clauesque nouantur"
+      }
+    }
+  ]
+}

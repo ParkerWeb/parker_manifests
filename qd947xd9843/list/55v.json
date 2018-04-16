@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/list/55v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/cb93cc7f-b427-42a7-8fe6-567052b62d73",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-118#xywh=0,0,3935,6248",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/59f302b7-64ff-44c2-b74b-55b7c58d695b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit ellesmoth. idest exodus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/4a59fb9a-28e6-47de-b90f-28c1a1d19702",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-118#xywh=0,0,3935,6248",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/b94e0359-5bde-4ba4-958e-036489cca01e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt capitula libri leuitici (89)"
+      }
+    }
+  ]
+}

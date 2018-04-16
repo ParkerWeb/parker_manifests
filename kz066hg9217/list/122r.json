@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/122r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/dab8ffd2-2a24-4954-920d-56ab2e168587",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-249#xywh=0,0,5793,8870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/ec244a90-3c4f-4dd7-811d-b1fb39645f04",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Salvum me fac"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/91ffd137-2a4c-4ee6-930c-80147b601a98",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-249#xywh=0,0,5793,8870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/b801862c-3243-4cf1-a725-ef0f9627c5be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalm. Above"
+      }
+    }
+  ]
+}

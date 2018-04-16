@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/list/254.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/a6dcf8a4-6c57-451a-866a-94fc2b788376",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-264#xywh=0,0,3495,5782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/fdbf843e-76b4-421c-b0e6-75006bf420bf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Feria III. De Dominica Oratione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/f5cc313d-b9fb-4f04-b75c-b1358ad4a231",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-264#xywh=0,0,3495,5782",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/7cd80024-8d8d-4819-b088-1d091ce659f1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Se hælend Crist syððan he"
+      }
+    }
+  ]
+}

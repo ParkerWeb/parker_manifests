@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/list/54v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/annotation/aed3c335-491b-4d7c-85e8-50ffc04ba109",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/canvas/canvas-116#xywh=0,0,3597,5565",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/res/e7d4268d-35b6-4e08-b05d-b928f914e0df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The text of the French treaty of 1420 is given in full"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/annotation/90378d27-d887-4dcc-a8cf-9843bfb73cc3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/canvas/canvas-116#xywh=0,0,3597,5565",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx770kw1642/res/f65fff48-33bf-4760-b0f7-11a52613d66e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "110"
+      }
+    }
+  ]
+}

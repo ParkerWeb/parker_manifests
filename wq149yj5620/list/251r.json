@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/list/251r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/bbd4c676-8cc3-4304-a376-737b3ba884fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-507#xywh=0,0,3498,5360",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/809c75d9-3b33-4695-b597-4adfab65f795",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "509"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/940b3f05-7079-4a7d-85bb-3d7c441c5366",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-507#xywh=0,0,3498,5360",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/e3aa795a-984d-4a0c-b4c4-74821545ffef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: hanc Rex Iohannes ecclesie subtraxit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/0f991f7a-6c66-4d51-b1fa-4fdf0dc270ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-11#xywh=0,0,4022,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/a0ddd7cb-6845-4ea8-a47a-d845caf7b4fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In red capitals"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/bab65dd4-aa2f-45de-8bf4-19e42bd93d9e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-11#xywh=0,0,4022,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/a9fa3f14-7dbf-464a-9167-d9a55ff6803c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Marci Tullii Ciceronis Rethoricorum liber primus Incipit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/36d009a7-df14-4244-b53d-3f745d9ca6b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-11#xywh=0,0,4022,5695",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/2f6fe49f-1ac9-47d7-80c3-cf55bee27f38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sepe multum hoc mecum cogitaui"
+      }
+    }
+  ]
+}

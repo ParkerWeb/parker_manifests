@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/list/54r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/annotation/076ad8b7-01a0-470c-81f7-ebab56c2cbb4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/canvas/canvas-143#xywh=0,0,5296,8534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/res/4f0a321d-5b99-462e-9c95-148f7ffd6c1f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et propter nomen tuum deduces me et enutries me"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/annotation/896e15aa-f320-4698-aa3d-a72f5e8c69af",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/canvas/canvas-143#xywh=0,0,5296,8534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/res/3b92c8da-caea-4bc2-9962-e0ff8e68dbb6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Explicit exposicio etc. in psalmum In te domine speraui quam morte preuentus explere non potuit"
+      }
+    }
+  ]
+}

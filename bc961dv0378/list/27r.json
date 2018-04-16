@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/27r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/6112c566-2414-4530-9d08-f81d8313ae1d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-61#xywh=0,0,3215,5352",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/0f6f3f11-09a5-425d-a87f-65507c540d6f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The legal hand begins herein double columns"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/c58da4d2-6d35-4a3a-b1f4-f0773123a3c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-61#xywh=0,0,3215,5352",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/63b26126-449f-4ef5-8fa2-8e1237165a8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A tauro torrida"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/list/166r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/54d7daa3-65c8-4910-83a2-f69a0175038e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-337#xywh=0,0,6119,7867",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/782dff4f-636c-4488-ad86-f7bc09d9241a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit fides catholica"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/e7327dda-1930-4de3-afe8-81848b98f9dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-337#xywh=0,0,6119,7867",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/f3acbe99-7729-435b-b492-fbfdc403b490",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quicumque"
+      }
+    }
+  ]
+}

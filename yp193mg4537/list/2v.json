@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/d87d6dae-f42c-41ef-a234-ee5a54e827fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-6#xywh=0,0,3017,4910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/db4581bd-e043-4cf5-a83a-fb11b5a2a41a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Alleluias"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/cb484ca3-f9f8-4027-868a-2d4bfd8c383b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-6#xywh=0,0,3017,4910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/f0eb1d31-d61f-4f85-b399-eff45c8a07fa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Alleluia. Ymera agiasme ni epifani mon Dies sanctificatus inluxit nobis"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/list/253.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/1ff62287-a235-46bf-be92-d2fda5cb00ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-263#xywh=0,0,3855,5791",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/7cccdf78-801f-4e19-b9eb-d0aafcb4fb68",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In Ascensione Domini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/1f371ebc-c470-42cb-ac00-b3c4ea53d955",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-263#xywh=0,0,3855,5791",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/c66ab4ea-1b01-45af-9e53-07c9018297cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (Men ða leofestan) Lucas se godspellere us manode"
+      }
+    }
+  ]
+}

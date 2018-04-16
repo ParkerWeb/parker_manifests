@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/list/55r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/9a80e1dd-8418-434f-b4fb-6828238f6630",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-117#xywh=0,0,3907,6053",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/e6605527-3ac4-4b85-b370-e1117fe5b34f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola panagirica atque apologitica ratione transcursa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/4bcd4e7e-16a6-44f1-9bf8-f15e07a1841f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-117#xywh=0,0,3907,6053",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/d17f0b71-f513-4476-825c-6227dcbeeda6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Inclito et pie venerando ... Adalberoni ... Dude ... Gloriosissimi nominis tui diuulgamen"
+      }
+    }
+  ]
+}

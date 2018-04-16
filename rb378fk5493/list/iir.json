@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/iir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/0d49ba20-cd90-4443-878a-a6662b481156",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-9#xywh=0,0,5872,9113",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/87f437be-2e77-4b52-9227-065522909551",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "e. Drawing of the elephant"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/218cc533-ab2c-467d-929c-77565671cc01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-9#xywh=0,0,5872,9113",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/5e25199e-7fd3-4394-870c-de3cafb49a1b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The elephant and his keeper"
+      }
+    }
+  ]
+}

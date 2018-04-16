@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/vr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/040b0077-18c0-463b-9d4c-5282c9ea8438",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-13#xywh=0,0,6044,9125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/23bc894f-9738-4e7c-9fd7-58668a9aec4d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "d. Genealogia orbiculata from Alfred to the children of Henry III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/028c830b-fe38-4885-bc83-fb4be1d21a64",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-13#xywh=0,0,6044,9125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/02d5ef5a-63cf-4ec3-9616-beaec73b96d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genealogy. Medallion of Alfred seated"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/list/213.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/ca5d8b3b-10c5-486f-a07b-6c2b28420842",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-225#xywh=0,0,3256,4754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/f658e7b4-2967-437e-b512-2a6b3a473499",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola uindiciani ad pintadium gadum nepotem suum de urinis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/374a1d6f-1324-448d-a6ab-4e918d8ec7a4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-225#xywh=0,0,3256,4754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/951e2a38-6a9e-4c0b-ba3f-f2df1bd5f992",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Corpus hominis constat iiiior humoribus id est sanguine colera"
+      }
+    }
+  ]
+}

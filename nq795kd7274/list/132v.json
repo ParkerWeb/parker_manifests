@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/list/132v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/d61fb159-c0b4-4722-92fe-44a1f9400f64",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-276#xywh=0,0,3369,5325",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/61d2eb77-d7b0-4880-8e3d-b4a473b1c1cc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et super hoc cessauit nec ulterius loqui voluit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/annotation/e7f53a1e-c3c4-4050-9ef5-7103bcb29a42",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/canvas/canvas-276#xywh=0,0,3369,5325",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nq795kd7274/res/e11fb526-cba4-4901-a957-063ab5fc8e06",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit dialogus inter Hilardum et spiritum"
+      }
+    }
+  ]
+}

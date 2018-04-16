@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/list/169r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/annotation/34abc718-db1d-4037-a729-0e0c55d02abe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/canvas/canvas-343#xywh=0,0,5506,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/res/cbf00088-a665-48ee-8af6-40ef661e4feb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit constitutiones prouinciales in consilio Oxoniis celebrato edite per dominum Stephanum Cantuariensem Archiepiscopum anno domini mill. ccxxiio et anno regni regis henrici filii Johannis octauo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/annotation/48bfa8b8-9f18-4fc7-94b9-fc7061b3b527",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/canvas/canvas-343#xywh=0,0,5506,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/res/70c78f92-4ae2-4dae-88fa-c6c84ee55b6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ex auctoritate dei patris"
+      }
+    }
+  ]
+}

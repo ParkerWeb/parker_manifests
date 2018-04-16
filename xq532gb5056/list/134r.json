@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/list/134r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/d393c662-aace-4960-8c2d-841fa4813bbc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-273#xywh=0,0,5368,7943",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/ba1fcd2e-c87a-45e0-bca5-e30ad6820e61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo de dedicacione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/66f0d391-9472-4810-a387-3865631a3fae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-273#xywh=0,0,5368,7943",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/d3d0d466-1bcc-488a-be62-4d3f013f8bef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctificauit thabernaculum"
+      }
+    }
+  ]
+}

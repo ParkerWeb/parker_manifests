@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/37r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/0ee8f5d7-081a-4d8c-89f9-3162cc0d33b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-79#xywh=0,0,5122,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/a535ccc1-6221-4c7b-b2d6-fcbc8273f081",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Similarly"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/ecde0f8a-ab39-41bb-9c77-98f825da02b3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-79#xywh=0,0,5122,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/5b6a737f-08a8-47a2-acce-bacba87db96f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de Baldewino Cisterciensi et Hugone Cartusiensi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/b7e6d866-68a7-461f-a578-efe3d74116b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-79#xywh=0,0,5122,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/b0322f9a-bd20-47b6-9a6f-17f808de99aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An initial with two half-length figures"
+      }
+    }
+  ]
+}

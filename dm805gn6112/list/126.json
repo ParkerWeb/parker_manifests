@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/list/126.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/a0b3853f-b230-4031-b079-7f71b0251921",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-132#xywh=0,0,3566,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/88620631-098f-4108-ac3d-18807dcecadc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et ideo luna non retro graditur vide figuram"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/c6505865-f65d-4812-a91a-3e37b70eefcb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-132#xywh=0,0,3566,5214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/bd1a59d1-0aae-4d83-9528-4eb69241b655",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit theorica planetarum"
+      }
+    }
+  ]
+}

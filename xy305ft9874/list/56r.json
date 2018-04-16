@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/list/56r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/annotation/8532910c-0300-4ccd-ac10-0279f14797fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/canvas/canvas-115#xywh=0,0,3704,5590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/res/1ab059b1-9ba3-46de-8132-f078e5017279",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: non distabunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/annotation/daef4b97-9625-4799-b777-326f7b487feb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/canvas/canvas-115#xywh=0,0,3704,5590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/res/b20e3910-18e0-43c9-97ea-ff20ed7d77cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Clauses of the Creed"
+      }
+    }
+  ]
+}

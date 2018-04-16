@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/44f7bab6-e74e-4e53-ace8-1f4bde3230e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-3#xywh=0,0,5712,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/659a2f82-3997-4276-b1a7-5c7c4b28058d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in red capitals. Initial of text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/9ec9a3c9-75e9-46fe-a72b-547796aa2d19",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-3#xywh=0,0,5712,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/ea9a4ae2-e959-4b81-a622-2c953c601c56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola de vita Sancti Dunstani archiepiscopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/2dfd08c9-8722-4d60-a8c4-12a8b5d2b2ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-3#xywh=0,0,5712,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/70635964-11cd-4e30-8133-ef41cf4e7da8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Universis catholice matris ecclesie filiis ... osbearnus"
+      }
+    }
+  ]
+}

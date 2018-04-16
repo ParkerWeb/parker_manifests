@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/list/197r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/daf732c8-dbf5-4ff9-baf4-edd7bf22e15a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-403#xywh=0,0,3073,4924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/f02afb8a-d781-4c54-ace7-12f4ebef4323",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Good upright hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/01e5e1fb-a216-4709-ac0b-85090c2a2326",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-403#xywh=0,0,3073,4924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/9fd14273-acb8-457d-a889-be246acbcc2b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note: I . IN . D . II . A"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/52a11d62-ae86-46bb-b953-57b0b52d8cfd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-403#xywh=0,0,3073,4924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/71c3d9fc-2d51-4b75-81d8-dfcc7b7c3c73",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Gloria (8 times"
+      }
+    }
+  ]
+}

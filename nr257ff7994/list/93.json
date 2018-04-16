@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/list/93.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/33a3c669-6ff7-40a9-a1cb-e1cd889662ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-107#xywh=0,0,3648,5882",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/da06d4b3-acbd-4971-b438-cf8847342a60",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: [De ecclesia Romana et Hierosolimitana]"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/1f611c23-28da-4226-8209-714979a43c22",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-107#xywh=0,0,3648,5882",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/f8f62f42-9318-47d6-97d0-75fee035db40",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Videamus de romana et hierosolimitana ecclesia. que rectius alteri preferri debeat"
+      }
+    }
+  ]
+}

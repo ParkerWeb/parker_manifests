@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/list/190.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/be1cf421-dc63-4c60-87f5-2477e67d70b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-190#xywh=0,0,5710,8142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/409156c4-68d2-4679-9528-da7c2c460812",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio ad generalem cultum aecclesiae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/cf461149-a3f9-411d-b6b1-368e8f048e0b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-190#xywh=0,0,5710,8142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/ce7e8ceb-0d7b-4491-bea0-5c77d62b0004",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Benedictio super munus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/list/49r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/d533742a-4798-4106-b1d0-b0f9c932d722",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-101#xywh=0,0,6034,8574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/76f52875-d426-4968-b0bf-34e0bcd48342",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Comites Tholosani"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/2d421858-6aa1-4e97-b57c-bf275399b1ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-101#xywh=0,0,6034,8574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/7168e464-3e86-4004-be81-59adc4ed1ca2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Legitur in gestis et cronicis francorum"
+      }
+    }
+  ]
+}

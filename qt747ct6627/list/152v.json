@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/list/152v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/c19cab54-c6ae-46b9-b984-bb391483b0de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-312#xywh=0,0,3774,5974",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/3628d316-c7dc-4fb6-bc78-8a54dcf49b7c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: hinc superno regi laus et gloria cuius maiestas et imperium extat in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/annotation/be5a698b-2701-48e5-ad95-351e6d9d3504",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/canvas/canvas-312#xywh=0,0,3774,5974",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt747ct6627/res/7f22f066-f7d7-49ff-8fad-965870caf539",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Vita et miracula Sancti Eadwardi regis et confessoris abbreuiata ex tractatu domini Osberni Westmonasterii prioris"
+      }
+    }
+  ]
+}

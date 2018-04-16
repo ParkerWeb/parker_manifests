@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/list/71v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/annotation/77fb3d4f-2f65-4593-b6e2-51396d38d46f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/canvas/canvas-144#xywh=0,0,5177,7846",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/res/4873d678-0de4-4920-8138-cae4098e970f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An original list of the statutes is on f. 63v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/annotation/278a60a2-d57b-4662-83c5-6d8f1c591606",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/canvas/canvas-144#xywh=0,0,5177,7846",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt729hp8274/res/9c81c973-eb1a-416e-8a3a-f66068ad2b78",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "63v"
+      }
+    }
+  ]
+}

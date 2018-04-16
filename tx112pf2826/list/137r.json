@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/137r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/b35b3f42-9e5b-4f6e-8d45-40e5e829ed7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-283#xywh=0,0,3753,6187",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/a9ac9876-86ab-4dfe-94e6-6eba0e9b6dfe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Pallium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/cde1dfad-05bd-4db1-9579-ae75d45615d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-283#xywh=0,0,3753,6187",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/cfa120d5-0481-4507-a41f-3c1c558c3d59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Crown"
+      }
+    }
+  ]
+}

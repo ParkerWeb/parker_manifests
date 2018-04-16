@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/list/180r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/70fcfb14-fd0e-4295-b012-65f88e40d80f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-365#xywh=0,0,5148,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/08d84add-6897-4e8f-823a-f24366fd342f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Eodem anno post festum Sancti Michaelis obiit Jocelinus episcopus Bathoniensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/250a2682-31ad-4610-add0-4a7a08c6e984",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-365#xywh=0,0,5148,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/82df87a5-31a2-4f58-aa37-634e8aef7b70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: [finis sexterni]"
+      }
+    }
+  ]
+}

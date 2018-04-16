@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/list/51r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/c7471632-cf39-4e4e-a04e-cbcd03dd21ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-115#xywh=0,0,5638,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/c1629374-8a69-4f0b-9982-b55cf92156a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expositio Andree Hystorica in Librum Regum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/bc1da462-4916-47fa-8360-52b45203b321",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-115#xywh=0,0,5638,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/a25e29f6-bcc0-461f-b8f2-34737b1b817e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fuit uir unus etc. Ad commendationem sancti samuel"
+      }
+    }
+  ]
+}

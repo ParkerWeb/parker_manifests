@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/list/20r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/ddcbf6e3-b2c8-422a-a7dc-dfc9c5cae7ac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-43#xywh=0,0,4672,8891",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/78676f21-ce6f-44ba-a5db-729934d20c6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In Eutropium liber primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/ca12420c-c3e2-424d-b668-abafd5b2dbb5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-43#xywh=0,0,4672,8891",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/67596e7d-65dd-4530-b4c1-ca88fc69ae1d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Semiferos partus"
+      }
+    }
+  ]
+}

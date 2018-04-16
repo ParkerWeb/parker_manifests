@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/list/48v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/bb86d04d-9a1e-443c-ba40-56fbd8074a48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-98#xywh=0,0,4895,8480",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/d85544e7-b90a-4bf5-a412-30224ddc2f20",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Gradus consanguinitatis talis est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/540a6547-6485-4af4-92a3-7134f43fb59b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-98#xywh=0,0,4895,8480",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/3f08e56c-8d16-4343-a79c-002dfd66d40d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Stipes et pater vocabatur Robertus de hastang de quo processit Johannes hastang filius suus et heres ac eciam quedam Johanna"
+      }
+    }
+  ]
+}

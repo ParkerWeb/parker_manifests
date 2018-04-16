@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/9f4ffe9a-50d3-48dc-bc15-bae5b4712e7c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-7#xywh=0,0,4038,6150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/4238a7ef-30aa-4a74-892f-17bcbcc0602e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The upper part of f. 1r is cut off: a bit of the title"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/5d7614e0-3654-400e-bfbe-89578662d581",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-7#xywh=0,0,4038,6150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/a45046ca-5b03-4b94-8859-78063e2b7042",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text begins in the letter of Clement to James"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/9bce2c8e-0c3d-492e-967f-073844ebb6f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-7#xywh=0,0,4038,6150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/8f591b8c-b48f-49ab-aa13-3cd8a9ce1147",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Notum tibi facio domine quia petrus qui uere fidei merito"
+      }
+    }
+  ]
+}

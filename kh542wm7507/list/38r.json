@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/list/38r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/3f3411f8-9f60-4039-b0c6-da1b1f0aa937",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-85#xywh=0,0,5662,8622",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/5215649a-2a64-4712-9050-6405544da489",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus Magistri Willelmi de Montibus quondam Cancellarij lincoln"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/18262264-36e2-4cd5-9f28-f37f249a778f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-85#xywh=0,0,5662,8622",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/e638e54c-2260-4a5f-850a-ab493da0f465",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Qui bene presunt presbiteri"
+      }
+    }
+  ]
+}

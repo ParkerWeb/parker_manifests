@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/annotation/3275c03b-5955-4f7b-93a5-07ffdb463da0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-17#xywh=0,0,5148,8642",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/res/ed5312fe-bfe9-473e-98f0-c5777d3ea42b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ðaðe læden spræce læste cuðon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/annotation/a7a00399-fa07-4077-8434-040cfb55df26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-17#xywh=0,0,5148,8642",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/res/27bb1f70-9370-4815-ac93-f364508beac8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: I Ðæt te unlærede etc."
+      }
+    }
+  ]
+}

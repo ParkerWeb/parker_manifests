@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:tei="http://www.tei-c.org/ns/1.0/"
+>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nd020zt5485/Manifest.xml">
+    <dc:format>application/rdf+xml</dc:format>
+    <ore:describes rdf:resource="http://dms-data.stanford.edu/Parker/nd020zt5485/Manifest"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nd020zt5485/ImageAnnotations">
+    <ore:isDescribedBy rdf:resource="http://dms-data.stanford.edu/Parker/nd020zt5485/ImageAnnotations.xml"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/ImageAnnotationList"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nd020zt5485/NormalSequence">
+    <ore:isDescribedBy rdf:resource="http://dms-data.stanford.edu/Parker/nd020zt5485/NormalSequence.xml"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Sequence"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nd020zt5485/ImageAnnotations.xml">
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nd020zt5485/NormalSequence.xml">
+    <dc:format>application/rdf+xml</dc:format>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/ResourceMap"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dms-data.stanford.edu/Parker/nd020zt5485/Manifest">
+    <dc:title>CCCC 131</dc:title>
+    <tei:settlement>Cambridge</tei:settlement>
+    <tei:country>United Kingdom</tei:country>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/nd020zt5485/ImageAnnotations"/>
+    <ore:aggregates rdf:resource="http://dms-data.stanford.edu/Parker/nd020zt5485/NormalSequence"/>
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <rdf:type rdf:resource="http://dms.stanford.edu/ns/Manifest"/>
+    <dc:identifier>CCCC 131</dc:identifier>
+    <tei:repository>Parker Library</tei:repository>
+    <tei:idno>131</tei:idno>
+    <tei:institution>Corpus Christi College</tei:institution>
+  </rdf:Description>
+</rdf:RDF>

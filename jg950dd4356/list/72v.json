@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/list/72v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/annotation/3a36184d-24cb-4b12-9b5d-1c2e14fc0efb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/canvas/canvas-150#xywh=0,0,6358,9174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/res/ab3820a5-c478-4b28-a8fd-9493cf0a7e93",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: (Cronica de terra sancta)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/annotation/a866d45f-e783-4a7c-8569-a8f76c2de624",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/canvas/canvas-150#xywh=0,0,6358,9174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/res/9b316de6-c50c-41de-8ee2-9d6c152782dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quantis pressuris et calamitatibus oppressa sit et contrita orientalis ecclesia"
+      }
+    }
+  ]
+}

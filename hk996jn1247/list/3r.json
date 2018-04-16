@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/annotation/3508d2ab-f8ca-42d4-b4ac-3b6415c4689c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/canvas/canvas-9#xywh=0,0,5578,9234",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/res/501ad911-eae7-490f-b318-1cdb84c904b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De diuersis mundi acceptionibus ex libro qui dicitur ymago mundi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/annotation/05bf788f-e9bd-4948-9d21-b93672f180e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/canvas/canvas-9#xywh=0,0,5578,9234",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hk996jn1247/res/61ea1ef5-1bec-4cbe-97f0-9474f535572f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Mundi factura quinque modis describitur"
+      }
+    }
+  ]
+}

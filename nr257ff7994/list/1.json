@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/00111bf7-5ef6-4da2-ba41-77ab7854f452",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-15#xywh=0,0,3619,5870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/97e80eba-93ed-4ca3-82db-099b7c490ee1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "[Late title]"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/4046c86e-db87-4a12-bd5d-edd74051a45c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-15#xywh=0,0,3619,5870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/9f9d4dac-d7a4-4415-bdc4-f96b98556e82",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: [An summus Pontifex sit iuditio subiectus]"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/30ba8898-b099-4023-ab1d-86948ed0b0d4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-15#xywh=0,0,3619,5870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/0a86aca0-fea0-4982-b72a-e80f2bdb6788",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Decretum est in sacris canonibus"
+      }
+    }
+  ]
+}

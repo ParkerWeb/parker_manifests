@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/77r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/65198b7e-b01d-4cfa-9f15-a7728db69e72",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-159#xywh=0,0,4870,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/19ff46f8-9bcb-4987-80d1-34451bdad658",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "24r"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/29691bf4-c06f-4e47-b6c2-aabb05b9df26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-159#xywh=0,0,4870,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/7c297ffa-05a7-4600-af53-78416c2cbbfb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "see b. On St Bartholomew"
+      }
+    }
+  ]
+}

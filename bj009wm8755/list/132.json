@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/list/132.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/131d32fe-9f8b-45d4-83f4-701ea0060c56",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-134#xywh=0,0,5970,8328",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/8f560a0b-c659-4b91-b29c-11e1e5ed5fcb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "finis registri Bathonensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/e78ff16a-61e1-41f3-977e-7ccfc58a72b0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-134#xywh=0,0,5970,8328",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/8c949e37-70b1-4ee5-9f4f-08d61585558e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A note is added by Parker"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/list/19r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/624ffcc3-31c6-4136-a2ed-79ae37eeb653",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-51#xywh=0,0,5613,8613",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/b060f7a8-e87b-402c-ade2-876f409cd43d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: centum reciaculis circumdabantur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/b9210b5f-3448-41cc-93be-8ee8b75bdb5b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-51#xywh=0,0,5613,8613",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/281c3601-2c36-46ec-863c-de8328bac854",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In hiis que in libro regum de diuturnitate"
+      }
+    }
+  ]
+}

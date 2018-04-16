@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/list/233.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/2113c360-80f9-4b81-b2e3-f756ee067a84",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-245#xywh=0,0,3226,4815",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/0294f000-699f-485f-9646-ffc684a131a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus de egritudinibus singularum partium corporis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/4697a134-f52b-4b02-96fe-244b4465ef79",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-245#xywh=0,0,3226,4815",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/01b253db-80b4-41c2-8332-bff5d36fdd21",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia de egritudinibus singularum partium corporis tractaturi sumus ideo principium nostre orationis a cerebro faciamus"
+      }
+    }
+  ]
+}

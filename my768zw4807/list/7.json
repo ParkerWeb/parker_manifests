@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/list/7.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/annotation/8b7c92eb-835f-4846-80ca-90047c94ed25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/canvas/canvas-9#xywh=0,0,5160,8240",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/res/61cc29b3-5267-4f15-bcd4-4efc100190ca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber de promotionibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/annotation/cfceec5e-a9bf-4c22-abf9-01679c04a62c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/canvas/canvas-9#xywh=0,0,5160,8240",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/res/41eae4c7-5738-4225-bfb8-0230e9412cae",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial of text"
+      }
+    }
+  ]
+}

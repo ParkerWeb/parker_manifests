@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/486773d3-6620-4d62-9483-83d623653d12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-20#xywh=0,0,4022,6480",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/e5f53203-3b9c-46f9-a5c5-edc6f434b987",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "August. Threshes. Virgo holds palm"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/9894fbd7-e0dc-4bdf-94cc-676256b5b94f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-20#xywh=0,0,4022,6480",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/ad8c7c45-0e5d-4222-94bd-4092e8956891",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "August 5. Oswald added in red late"
+      }
+    }
+  ]
+}

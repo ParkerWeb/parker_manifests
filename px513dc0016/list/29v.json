@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/list/29v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/annotation/01a8a601-12c2-4f1c-a19d-c2c1292c63db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/canvas/canvas-64#xywh=0,0,5314,8762",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/res/9e29893c-476f-4bbd-87c6-5b87f3440f4b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Wynchelse etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/annotation/aa99e09b-0611-4f3f-bba1-1dc8d8def361",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/canvas/canvas-64#xywh=0,0,5314,8762",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/res/b789823a-904e-4279-a5fc-27dcc964917d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Islep"
+      }
+    }
+  ]
+}

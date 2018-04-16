@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/list/57r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/da9279f4-cc05-475c-abb5-0950aab84173",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-123#xywh=0,0,5146,8406",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/78260879-d086-4f3f-9d5e-378cd5bdbb5b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Floriloquium philosophorum (Joh. Wallensis)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/72960d79-64c3-4f69-883f-12d703ec1853",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-123#xywh=0,0,5146,8406",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/3d400318-6e07-4ae2-a6d7-a584ae101e8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum enim debeamus apes imitari"
+      }
+    }
+  ]
+}

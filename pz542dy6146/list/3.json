@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/95c6be7e-2c29-432e-af15-3d5aa08df887",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-13#xywh=0,0,3391,5846",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/813ee640-6e75-4d9b-a2d9-41365aa1b554",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In die Sancto Pentecosten"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/df60e148-daac-4352-a3aa-d225b35ccf78",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-13#xywh=0,0,3391,5846",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/3a5c2e73-91f5-4b05-ab2d-0856be4a49ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fram ðam halgan Easterlican dæge"
+      }
+    }
+  ]
+}

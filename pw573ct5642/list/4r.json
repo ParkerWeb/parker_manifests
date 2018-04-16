@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/annotation/bfa19f90-e631-49bd-8fc4-73d3205eb4f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/canvas/canvas-13#xywh=0,0,3943,5838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/res/aa37b9b6-dda7-4ebd-99c6-12deeedb2e0a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Inuictissimi Anglorum franciaeque Regis henrici quinti ad eius filium christianissi(m)um Regem he(n)ricum sextum uita per T. liuium de frulouisiis ferrarie(n)sem edita feliciter incipit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/annotation/4146387c-81cf-44cb-89e8-d869f7887051",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/canvas/canvas-13#xywh=0,0,3943,5838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/res/970995d4-92c0-4af6-8601-fbda48b8b337",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum a primis annis de parente meo"
+      }
+    }
+  ]
+}

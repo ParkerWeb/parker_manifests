@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/list/131r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/1ad5e490-afd1-4328-9607-a2bd94034e41",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-261#xywh=0,0,4880,8230",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/3ad451b7-3200-48c4-919f-e9ef3cb2d1ec",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus cuiusdam doctoris de commendacione aristotilis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/58832edc-0747-401f-9c22-c3a1bc954fa7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-261#xywh=0,0,4880,8230",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/75c125c3-d139-44ec-aaf6-940fcc353f79",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Deus omnipotens custodiat"
+      }
+    }
+  ]
+}

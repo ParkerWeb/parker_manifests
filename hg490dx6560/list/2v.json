@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/2935ec0d-7b3d-452a-9e80-f21a84a67992",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-4#xywh=0,0,5860,8100",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/87de6b5d-44c9-4d2d-928e-8a42e0beae4d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A large and rather rough initial in red"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/927e28d5-e287-4d04-94d2-20c5eeb6bc51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-4#xywh=0,0,5860,8100",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/8afdf156-6ea5-44e1-b1ed-4a652a6ce5cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Pars Canonis Avicennae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/7b2ea1b2-6189-4b1f-902c-5f401aa9f973",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-4#xywh=0,0,5860,8100",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/0aa71090-945a-4520-b22c-930ce58d61fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In primis deo gratias agamus sicud sui ordinis celsitudo et beneficii ipsius multitudo merentur"
+      }
+    }
+  ]
+}

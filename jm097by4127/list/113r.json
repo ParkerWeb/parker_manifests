@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/list/113r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/d08445bc-aad5-4fd9-905c-43531baf2546",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-225#xywh=0,0,5711,8039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/6558da7b-d7dd-4c1d-8a92-a6ef79ccd98f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in urinalibus creat uiis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/3fe6e0f4-6059-46f8-9093-270210583f20",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-225#xywh=0,0,5711,8039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/63655fe2-a398-4d32-8716-869490ed7dfc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt diete particulares secundum Ysaac"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/annotation/e30ba622-0a50-45de-86a0-ee12f458409b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/canvas/canvas-225#xywh=0,0,5711,8039",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jm097by4127/res/edde679e-0df5-44b5-a587-0d5e358ead04",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Receipts one in French (xiii) Icci sunt le xxxiii chapitres pour rancle"
+      }
+    }
+  ]
+}

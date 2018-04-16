@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/list/40v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/5cf69e0b-5c31-4899-be89-7c1fa903e805",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-90#xywh=0,0,3656,5522",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/af7942f9-c7f6-4565-a227-fc331c791f83",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de consecratione lapidum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/7c7ac1b0-928c-49aa-9d62-b7931ed57871",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-90#xywh=0,0,3656,5522",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/5774c75d-4032-47bf-9d2b-a697f80e1fcd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aperuit thesauros dominus mirifice"
+      }
+    }
+  ]
+}

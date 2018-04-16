@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/list/58r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/annotation/6b219ad3-fcaf-4797-8ae1-a73ead7c682e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/canvas/canvas-123#xywh=0,0,3766,5582",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/res/4c510ad6-2eda-4a3e-9585-318b36671d89",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber qui dicitur prouincialis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/annotation/0c9fe40b-1771-42d8-9094-7c14b27537f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/canvas/canvas-123#xywh=0,0,3766,5582",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fq966py8351/res/1967937d-b319-4d15-83cd-1308d487e540",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In ciuitate romana sunt quinque ecclesie patriarchales"
+      }
+    }
+  ]
+}

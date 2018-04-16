@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/599.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/8983af5e-4caf-4ea7-889b-56441e32339e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-611#xywh=0,0,4806,8392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/fc2b1c90-f826-44e0-a3f1-7ec7b88b8c8f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit oratio Sancti Gregorii. Quicumque hanc orationem in die cantauerit sicut ipse Sanctus Gregorius dixit quod nec malus homo nec diabolus numquam nocere poterit nec ad animam nec ad corpus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/d1d472d2-62c1-4917-9185-f89725c9304b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-611#xywh=0,0,4806,8392",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/07aeecc7-b0f1-4689-8647-5c522c737add",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine exaudi orationem meam quia iam cognosco"
+      }
+    }
+  ]
+}

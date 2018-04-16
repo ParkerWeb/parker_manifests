@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/list/230.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/e5a35c87-c80e-48d8-a395-1dede74258e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-238#xywh=0,0,5206,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/d86ec60b-0354-4f41-afe7-da5c77537262",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Eodem die de fide catholica"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/8a4a0d36-f6f4-4d3a-a9f2-cd1f2266478d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-238#xywh=0,0,5206,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/aa9664b2-e68b-4721-9591-7d4cb6d7cb07",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ælc cristen mann sceal aefter rihcte cynnan"
+      }
+    }
+  ]
+}

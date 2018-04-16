@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/list/47.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/81bdfb55-4e18-421f-afce-5a5ea3f09a9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-45#xywh=0,0,6001,8404",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/978268c6-b2e8-4f9a-b690-776769bd28ef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit miraculum de quodam puero diuinitus erudito"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/annotation/e87d3cfa-c740-42ea-8fae-cabc543f866a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/canvas/canvas-45#xywh=0,0,6001,8404",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bj009wm8755/res/9d953073-24ea-4768-bccb-32caf6d18f61",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fuit quidam comes in partibus alamannie diues et prepotens habens filium heremannum nomine"
+      }
+    }
+  ]
+}

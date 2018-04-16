@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/list/98r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/c13beccc-3891-4c1a-959e-70a4680a0fe5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-211#xywh=0,0,5723,9023",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/92164e3c-5d36-49b9-b707-17158aa3f61e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: inmensum et inexplicable"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/3dfd8554-0f79-4a19-aa7d-7cb581d7695d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-211#xywh=0,0,5723,9023",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/0c4bb4c9-eddd-4dd3-80ec-a626f90877cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Pater noster pro anima Notarii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/2014ca28-c35f-4933-a4e5-26e12d82abe2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-211#xywh=0,0,5723,9023",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/9172cbe2-044d-450f-a66a-417304c9aa2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table of chapters to no. 3"
+      }
+    }
+  ]
+}

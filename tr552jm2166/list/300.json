@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/list/300.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/bd767610-6037-4035-8cb9-4428590356d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-302#xywh=0,0,6076,8191",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/b53e9456-0261-472f-b392-207ef3c0b2f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Anglis et apostole presulAugustine pater pie presul apostole noster | Augustine pater meritis nos protege semperLaus tibi pro meritis auxiliare tuis | Sub pietatis ope pie pastor ouile tuere"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/annotation/009d33c1-1959-46e1-9702-7b8d4c67e8c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/canvas/canvas-302#xywh=0,0,6076,8191",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tr552jm2166/res/aa929959-5bfc-4fe1-b8d7-c1c9e9deff4b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "There is also the name Suorder (xvi)"
+      }
+    }
+  ]
+}

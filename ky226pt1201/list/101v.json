@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/101v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/243fde51-d8ad-4425-882b-1cae435e22c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-214#xywh=0,0,3699,5700",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/820b703d-9799-4a9c-a990-b87460c77c86",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Demonstracio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/7b481dbc-a0ca-4208-9afa-7dd57e0f7cd7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-214#xywh=0,0,3699,5700",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/cf7fcb2c-6196-4dec-a6ef-bff20579240c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ciuibus angelicis celo nascente creatis Lucifer egregie lucis de luce creantis ... Istius radix sic sum quasi causa remota Huius pestis ero uicine causa salutis"
+      }
+    }
+  ]
+}

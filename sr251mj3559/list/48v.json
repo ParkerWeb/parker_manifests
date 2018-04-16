@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/list/48v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/annotation/41fc2402-f9f9-4ec1-a277-7cf908e8c66f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/canvas/canvas-102#xywh=0,0,5962,8834",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/res/961ef0b1-2950-4e12-9231-1a895882cbcd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prohemium de quodam libro qui docet modum predicandi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/annotation/462a853a-e1b8-46e8-9eed-830c2a19595e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/canvas/canvas-102#xywh=0,0,5962,8834",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/res/9b31f914-1b00-49bb-ac64-e842f5129630",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam plus exempla quam uerba mouent"
+      }
+    }
+  ]
+}

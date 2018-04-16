@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/list/66r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/270740c2-2a70-46f8-8623-dea16ee2f982",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-133#xywh=0,0,3915,5735",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/2353343a-1dbe-48be-8c48-541866eb73bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: omnibus obtemperantibus sibi causa salutis eterne"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/48cdb7b1-ea04-4593-8106-cd880a7ac866",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-133#xywh=0,0,3915,5735",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/3c1247e8-0248-48e5-ba01-bedeb5590cbf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit quadragesimale"
+      }
+    }
+  ]
+}

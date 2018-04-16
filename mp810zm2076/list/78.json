@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/78.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/e19dc918-ca53-46a3-9822-877b7b5819bb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-82#xywh=0,0,2832,9102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/4b52a5f1-0423-40dd-b92a-0f888fbfd2f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitanei et homines armati ad Bellum de Vernellie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/31ffad13-a77c-4eea-bb6d-f215fb8b90eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-82#xywh=0,0,2832,9102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/f968629d-28bf-4d25-b632-90f7c9d4745a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De damasella de Dygeon"
+      }
+    }
+  ]
+}

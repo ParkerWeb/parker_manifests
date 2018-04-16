@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/80.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/b06e117f-26e1-4a83-8f08-eb99d5666b13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-85#xywh=0,0,2760,9137",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/1e212434-e133-4425-a364-9bfe1469257a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De Ricardo domino Cromwell"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/529c65ed-c1d1-41bc-9dd7-69991406ab96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-85#xywh=0,0,2760,9137",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/0bd0b243-b866-489d-ab98-707140f009f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De multis sanctis"
+      }
+    }
+  ]
+}

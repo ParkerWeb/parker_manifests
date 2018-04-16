@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/list/66r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/600c286e-d9bc-4b5c-b52b-e108271b0f39",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-131#xywh=0,0,4736,8358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/ba5585e2-006a-48ac-937c-be07ddf63ff9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: In ista terra sunt multe prouincie quarum plures adhuc non obediunt moallis et inter"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/annotation/1dd990b7-3895-48fe-b483-d6041d41a9f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/canvas/canvas-131#xywh=0,0,4736,8358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj309qh4224/res/5d65af0f-a053-4a3e-b91c-89eca78b89ef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Marginalia: hic deficit multum. vide apud Sanctum Edmundum residuum"
+      }
+    }
+  ]
+}

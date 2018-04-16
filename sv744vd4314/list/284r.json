@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/list/284r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/d86a5982-f713-4805-9ac3-1721fdc68436",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-573#xywh=0,0,4005,5855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/4e8fed21-45de-4e8c-b005-f69791fb2f03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tabula fidei christiane"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/d6cb8851-0c9e-4e26-8129-38d01206d2f0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-573#xywh=0,0,4005,5855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/86b0af40-e332-4eb7-8e2c-a918c4b7215a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tabula bona et utilis fidei cristiane in qua continentur sub breuibus plura"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/f69b3ee2-1b8c-4c2d-a269-6b93d225f060",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-573#xywh=0,0,4005,5855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/acc0d939-519f-47bf-a729-79754cd49201",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primo vijm virtutes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/list/221r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/8e2c7e17-725a-4a8a-a9cf-5663dce1067e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-453#xywh=0,0,4012,6037",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/2147a9d0-7de8-4f86-83e8-84b0ea384e53",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Lotharius regnum anno xii menses iii dies xii in christo fidelissimus constans pacificus miles inperteritus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/fb0bbfd5-dd88-4d75-9b65-15f3b5abdbcc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-453#xywh=0,0,4012,6037",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/1b6218f6-1e12-4ee3-9139-c3a52c8e0a31",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Petrus apostolus annis xxv"
+      }
+    }
+  ]
+}

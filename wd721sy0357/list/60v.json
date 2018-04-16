@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/list/60v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/annotation/94fc6e08-3ec6-4924-bfd8-52dba916d9b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/canvas/canvas-132#xywh=0,0,4062,6414",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/res/4c2d82ae-f686-4647-81d2-7235c497ef06",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Gratia domini nostri Ihesu Christi cum omnibus nobis amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/annotation/e8db64c0-f85c-4bae-96c8-710a8899db89",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/canvas/canvas-132#xywh=0,0,4062,6414",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd721sy0357/res/dc2a6dc7-870c-4d72-bbb2-e10501e3d11d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: La grace de ihesu nostre seignourSeit od nous a tut iour amen"
+      }
+    }
+  ]
+}

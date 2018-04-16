@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/list/15r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/b88c3a79-a4ce-4f89-ab6a-aad558316a73",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-37#xywh=0,0,3842,5944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/3e0539af-dfd1-433c-b99e-e98d0c26761e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De stella"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/a25c206d-2009-4a5f-9224-eae3da5c8f84",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-37#xywh=0,0,3842,5944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/e5ada0fc-4c1a-425b-81ee-17abb8a35dcb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Item libro eodem in tractatu de Epiphania"
+      }
+    }
+  ]
+}

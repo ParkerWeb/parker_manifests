@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/annotation/d6599e8a-ad2d-4c6f-bcb4-6e524a70f450",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/canvas/canvas-9#xywh=0,0,3853,6069",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/res/869e322c-6435-4131-a48a-e2de4306bfcc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ut super omne melos delectat cantus olorisCum uicina premit mors et noua causa doloris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/annotation/ed80e106-1349-484e-90d5-f1573b3a5993",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/canvas/canvas-9#xywh=0,0,3853,6069",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hb336yt8349/res/94e2b3dd-dceb-4fa5-b09c-fd1321217b2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Hanc imitemur ad hec bona que meruit properareFestinemus et hec sine tempore finis amare"
+      }
+    }
+  ]
+}

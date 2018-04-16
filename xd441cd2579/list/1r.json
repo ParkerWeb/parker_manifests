@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/annotation/5cfc313d-53a4-431c-9b61-d894ae8be854",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/canvas/canvas-7#xywh=0,0,4194,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/res/1a215add-9974-498c-8850-242070016df4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De generibus uel vita monachorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/annotation/b2b4d630-bbde-4428-9bd9-448b7fdd0413",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/canvas/canvas-7#xywh=0,0,4194,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/res/93e23c64-edea-4c17-ac3c-d43e4efa6da0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Monachorum quatuor esse genera manifestum est"
+      }
+    }
+  ]
+}

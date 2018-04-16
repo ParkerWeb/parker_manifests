@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/annotation/b809a893-58b6-4702-ad2d-db326947be52",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/canvas/canvas-12#xywh=0,0,3696,5438",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/res/26fdd919-60c4-41a9-ab7e-111fe90d0a85",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Datum Matriti die 11 Maii 1623"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/annotation/b315823a-85e9-4523-8e43-ac1c02a51712",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/canvas/canvas-12#xywh=0,0,3696,5438",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/res/5fb6d706-f630-4c8a-b9c9-a63bc543a344",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Vestrae sacrae Catholicae maiestatis Humillimus ac minimus seruus F. Chrysostomus à Capranica Episcopus Firminiae"
+      }
+    }
+  ]
+}

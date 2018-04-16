@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/list/177v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/92d20ce6-7a0c-4b1b-9699-4d8aa1d581dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-362#xywh=0,0,3894,5798",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/bc187fea-406d-4d98-b48d-34099873b184",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On 84v (xv) in a neat hand: hoc London suus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/79999d2a-2bf6-416d-acdc-aae81c59c12a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-362#xywh=0,0,3894,5798",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/db1f4214-28fb-473f-946d-36a07d67de7d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "84v"
+      }
+    }
+  ]
+}

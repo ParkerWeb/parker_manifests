@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/annotation/a1bca91b-b165-4baa-9e8d-6b47d76a1362",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/canvas/canvas-15#xywh=0,0,5390,8419",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/res/3c04d9ab-c645-4efe-b2f9-e0493dc02f90",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Britannia primo fidem Christi suscepit anno 179 ut ueriores annales commemorant per lucium tunc temporis regem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/annotation/94a36ae5-8606-48d4-8785-f25bff215807",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/canvas/canvas-15#xywh=0,0,5390,8419",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mx583dd3116/res/5e91dae2-5a63-4f1e-9820-d90c1032db3d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Eleutherus papa sedit in chathedra Romana annis quindecem mensibus sex"
+      }
+    }
+  ]
+}

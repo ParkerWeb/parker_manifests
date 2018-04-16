@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/151r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/529b8f85-0485-41c3-9c7f-3a964fee3478",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-311#xywh=0,0,3763,6193",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/dca6e958-2c6d-49ba-9ab4-28834160910b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Miniature: Consecration of a Church"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/708a9c88-c7dd-4934-b122-7412f97774fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-311#xywh=0,0,3763,6193",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/acbb33e2-62c1-4a25-9074-7b4909653831",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On this page are the arms of Guy de Mona or Mohun"
+      }
+    }
+  ]
+}

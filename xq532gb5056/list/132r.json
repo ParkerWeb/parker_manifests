@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/list/132r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/d97bcf7b-2900-425d-afd3-9efeb38cfcf6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-269#xywh=0,0,5272,7936",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/47ec0f08-49c1-49b6-97f5-9fc25f4d2ae4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermon on S. John Baptist"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/annotation/ccbc691e-98a5-4d77-8371-1079e5f5d830",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/canvas/canvas-269#xywh=0,0,5272,7936",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq532gb5056/res/cc2f3b2f-8621-4824-a8d5-c52d380a6b92",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fuit homo missus ... Quando aliquis in regno suo"
+      }
+    }
+  ]
+}

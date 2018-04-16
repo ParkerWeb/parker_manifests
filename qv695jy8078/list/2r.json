@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/annotation/13b706c0-d1a9-450d-b367-ccc69c4d5359",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/canvas/canvas-9#xywh=0,0,5746,9012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/res/e0003cc8-42c1-44dd-9b93-ddca2300e132",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prefatio bede presbiteri de uita sancti cuðberhti lindisfarnensis episcopi ad eadfridum episcopum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/annotation/b92c15e5-a6f3-4e5a-a0db-3deac2d20de8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/canvas/canvas-9#xywh=0,0,5746,9012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv695jy8078/res/2fa8a344-9b22-4f88-b392-08cdd3279135",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domino sancto ac beatissimo"
+      }
+    }
+  ]
+}

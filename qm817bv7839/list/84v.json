@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/list/84v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/9eeef02b-ad76-474e-8876-5e8de479423f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-186#xywh=0,0,5205,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/6c4f17cd-c4dd-4a48-a03b-0d12530b94ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatum retractionum et cathologum librorum diligentia Giraldi compositorum in calce libelli de Cambrie descriptione digne duximus adiciendum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/annotation/de23ce7c-926b-4d52-9c3d-9a76ac8bbc9f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/canvas/canvas-186#xywh=0,0,5205,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qm817bv7839/res/12a8d924-2ecb-4ee7-a175-e03c5941988e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam itaque cunctorum habere notitiam"
+      }
+    }
+  ]
+}

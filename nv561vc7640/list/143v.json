@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/list/143v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/5c2a937d-9a5f-45c2-845c-fef1bd66d05f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-294#xywh=0,0,5587,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/7a9f0f46-a62e-478a-9939-5c837252279f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quia vidi dominum et hec dixit mihi. cui est honor etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/annotation/7acbb36e-61ce-4898-a7bc-31ff1c6b5eaf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/canvas/canvas-294#xywh=0,0,5587,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv561vc7640/res/c94c851d-4e7e-46b1-ab43-7b87595bf55b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit omelia origenis"
+      }
+    }
+  ]
+}

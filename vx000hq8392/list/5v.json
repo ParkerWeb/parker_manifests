@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/list/5v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/72612b5c-6d85-48cd-880e-19f1b22c06d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-20#xywh=0,0,3504,5430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/79f18ef0-7598-4a90-ae4f-c0c4a89c1fd9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prayer to the Virgin"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/annotation/ead9af72-2086-4db3-ac92-b4a381abafba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/canvas/canvas-20#xywh=0,0,3504,5430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vx000hq8392/res/314e0fdf-904f-4349-8362-e5219e9c4672",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: O maria virgo virginum que genuisti filium"
+      }
+    }
+  ]
+}

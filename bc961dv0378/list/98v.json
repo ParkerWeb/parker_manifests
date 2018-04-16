@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/98v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/c2ed4428-1d10-425b-8f4e-2960933380b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-204#xywh=0,0,3615,5288",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/c5625080-e61f-4a0f-a879-8fa1609e61b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Femina fatalis femina digna malis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/3d5b5918-30ab-4593-a5a3-f2b129c45569",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-204#xywh=0,0,3615,5288",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/d7ab9c34-7b73-4cac-94ff-f054de9a8cef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Uiribus arte minis data troia ruinis (sic)Annis bis quinis fit rogus atque cinis"
+      }
+    }
+  ]
+}

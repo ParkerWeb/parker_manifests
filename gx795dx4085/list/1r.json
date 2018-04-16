@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/annotation/ab9c425e-271e-4837-9613-441c52131c63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/canvas/canvas-11#xywh=0,0,6310,9198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/res/7a434db2-cbbb-44bc-8743-a3d8167dacf4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Macedonia ante a nomine emathionis uel emathii Regis cuius prima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/annotation/a3c9ab45-f3cb-43fc-8521-13bdb5d87b2a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/canvas/canvas-11#xywh=0,0,6310,9198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx795dx4085/res/2a852e38-d90a-4dfd-9c50-69463544ec59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uirtutis experimenta"
+      }
+    }
+  ]
+}

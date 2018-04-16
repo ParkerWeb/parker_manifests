@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/48.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/0167b39b-7489-4133-8b83-833c55415b65",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-52#xywh=0,0,3228,9269",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/0676a524-8990-4ff9-a07d-c017c3e69297",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Obitus Ioannis Bennet rectoris de Pitney"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/9e0298f7-2335-47dd-a13c-00b3b0307b56",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-52#xywh=0,0,3228,9269",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/45154ac2-b7cd-4a73-aa5e-8f3b9b695564",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Itinerarium a Ware ad montem Michaelis in Cornubia"
+      }
+    }
+  ]
+}

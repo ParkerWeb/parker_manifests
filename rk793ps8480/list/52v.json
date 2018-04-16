@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/list/52v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/dff88f25-14ad-4b1f-9aa1-a124a8702ca1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-112#xywh=0,0,3897,6078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/511b240d-918a-4d42-a9d5-fc08e8aa7769",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: IustinusConstantinopoli ... morbo periit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/5b2348bf-f0e2-4404-a06d-1c702ba178be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-112#xywh=0,0,3897,6078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/881cf2c7-f8a1-4616-999a-c9f373f08ced",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Iustinianus nepos Justini ex sorore"
+      }
+    }
+  ]
+}

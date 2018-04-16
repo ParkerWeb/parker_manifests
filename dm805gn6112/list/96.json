@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/list/96.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/1919f472-4b6a-40b5-b29f-8080311448ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-102#xywh=0,0,3622,5126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/a89b197f-ced7-466e-a5c8-971a9da0ab06",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quod sit eclipsis lune in oppositione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/954cfd3b-4e61-4bbb-9e0d-dc83a7b47a2a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-102#xywh=0,0,3622,5126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/7adea7ef-d2f3-43c2-9192-efc401699559",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit theorica lune"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc854fy5899/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc854fy5899/annotation/f3fa2af0-4186-4388-809a-9ed20a04fbc8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc854fy5899/canvas/canvas-7#xywh=0,0,6046,7926",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc854fy5899/res/9bbe0062-9d9f-4513-a255-84142a3486c2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This page is largely illegible from a water-stain"
+      }
+    }
+  ]
+}

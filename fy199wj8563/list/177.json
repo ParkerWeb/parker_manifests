@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/list/177.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/c529b94b-52cd-4dfd-9624-d11028840ec6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-187#xywh=0,0,3672,5600",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/de68d2c0-4fdc-493d-9eff-8f48281cc9d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Excidium urbis troiane"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/annotation/2363b4c5-35dd-4422-93ec-7f1c8e9c2111",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/canvas/canvas-187#xywh=0,0,3672,5600",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fy199wj8563/res/661d6eae-9af0-4bb0-a20f-8d74e40b6471",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Licet cotidie vetera rec[ed]entibus obruant"
+      }
+    }
+  ]
+}

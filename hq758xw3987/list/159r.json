@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/list/159r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/e3db21e6-8211-4b0f-b3c0-5e2f0e6a1a17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-319#xywh=0,0,4118,5757",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/b3366092-9817-4e83-8a01-0ce3cc34ba2a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: petri et pauli. Ipse filius dei nos perducat. Qui cum patre"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/ba002ccf-cf6e-4ba6-bc9c-890e9f8db01d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-319#xywh=0,0,4118,5757",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/adfa7354-1a9f-4b19-ab2c-ebcbe9e384a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit quadragesimale Jacobini de uoragine quantum ad secundam terciam et quintam feriam et ad Sabbatum finitum In die Blasii"
+      }
+    }
+  ]
+}

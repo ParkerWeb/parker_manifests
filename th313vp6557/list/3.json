@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/d98f65ac-4191-4b79-9c7b-70705c749ede",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-15#xywh=0,0,4968,8205",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/0ea3b294-a319-4161-8531-637ea2133597",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Kalendar in black"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/f83d23bf-a177-41eb-ad7f-af4a1e0e3925",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-15#xywh=0,0,4968,8205",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/450ca00a-50d8-473b-a7c0-dced0bc673d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "January 8. Translatio Sancti Iudoci Sacerdotis. Capitals 20. Added"
+      }
+    }
+  ]
+}

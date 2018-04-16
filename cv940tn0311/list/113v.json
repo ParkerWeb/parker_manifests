@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/list/113v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/annotation/7ba240b3-c2ec-4802-a409-9924d2e3c34b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/canvas/canvas-238#xywh=0,0,3969,5725",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/res/f2ab848d-aa45-4695-877b-e00ac3c80b44",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: misericors erit terre populi sui id est ecclesie que constat ex populo suo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/annotation/ac995598-8a9e-4cab-88e9-b7ebae31e8d8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/canvas/canvas-238#xywh=0,0,3969,5725",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cv940tn0311/res/937dacf8-e296-47e1-9553-398e9f367d9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit textus psalterii cum glosa secundum Ricardum Ampule heremitam"
+      }
+    }
+  ]
+}

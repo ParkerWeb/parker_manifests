@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/annotation/1496752f-0665-4c64-9842-d83d2c555a0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/canvas/canvas-7#xywh=0,0,5506,7986",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/res/6ffa6888-1505-4cf8-8e1d-e18aa703e6a2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "To his welbeloved wyf Frauncis Parker Mathew Parker wisheth many happy new yeres with continu all encrease of health"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/annotation/c8ff111c-7435-4cd6-ab58-ec6117a471cc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/canvas/canvas-7#xywh=0,0,5506,7986",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ps888sk3661/res/72afb09c-352f-44be-ab76-d86c0dee9aa6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Being desirous that above all thinges you should have greatest respect to God"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/list/127r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/annotation/13849834-6d08-40c3-8e2f-b1f17d27d66b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/canvas/canvas-259#xywh=0,0,3973,5630",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/res/dc084e16-f716-430b-88e2-fd72372164fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit numerale Magistri Willelmi de Montibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/annotation/a2deda72-fc2e-488f-8546-05d9130cf4fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/canvas/canvas-259#xywh=0,0,3973,5630",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/res/5308cf32-89ef-4c9b-9428-281ab281ccd7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Introducendis in facultatem theologicam quedam compendiose prelibanda sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/annotation/77ae6de8-94ea-4c09-8066-a068eb5f7ee9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/canvas/canvas-259#xywh=0,0,3973,5630",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/res/fc2bd2e8-dff1-4094-8c3d-f658d9f83a25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Unus dominus. contra sunt domini multi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/95r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/3c5a0b7b-8fa7-40f8-bd6d-ac07e9565c93",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-195#xywh=0,0,5815,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/300ae845-33b0-4b74-800f-ed77df517806",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dixit insipiens"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/dd7ff945-915a-48ca-8448-e70a4164b5cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-195#xywh=0,0,5815,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/eda7af0a-5c21-4ddc-be69-bac374348ebd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Decorative init. to gloss"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/6492f72f-59a2-4f05-bbc5-ddef7e3bded1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-195#xywh=0,0,5815,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/4ec36c8d-ed68-40a3-8a38-1b864e275f7f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial to Psalm. Balaam on ass"
+      }
+    }
+  ]
+}

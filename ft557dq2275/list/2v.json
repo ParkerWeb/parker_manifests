@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/774d0db5-2132-441a-9798-3a903a34ffb6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-28#xywh=0,0,6070,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/fdfe1d18-3e5c-4e8e-8a47-4e6a9cad63dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On 1v is sewn a volvel"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/annotation/92eaef21-39d4-417d-9ad9-ef59fcaea7b0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/canvas/canvas-28#xywh=0,0,6070,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ft557dq2275/res/4b92ca4a-080b-43ad-982e-973ed4ef6e54",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1v"
+      }
+    }
+  ]
+}

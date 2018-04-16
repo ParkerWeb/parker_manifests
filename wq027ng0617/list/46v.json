@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/list/46v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/annotation/b302d275-d728-483e-809e-5e46b841b49a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/canvas/canvas-96#xywh=0,0,3968,6071",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/res/8d6b1f9f-f1dd-4c22-900a-94ed5032dedb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "There is a break here"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/annotation/406d7dce-9365-4f61-b701-563845d7255b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/canvas/canvas-96#xywh=0,0,3968,6071",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/res/47ef7e49-eb04-4ed5-a97b-ccfafed82ff7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dicitur ascendentis dicti breuis est"
+      }
+    }
+  ]
+}

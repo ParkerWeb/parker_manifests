@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/9c0deb78-ee47-48fa-8618-58b1bc38eb51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-17#xywh=0,0,3840,5723",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/08940655-286a-4f85-967c-26cbeaecc262",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Diodori siculi historiarum Priscarum a Poggio ref."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/98360685-3ea8-4dd5-958f-dcc272326f50",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-17#xywh=0,0,3840,5723",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/102732d4-5499-4bc2-b507-fd42b4e91c13",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Men ar hyghly bounde of a congruence"
+      }
+    }
+  ]
+}

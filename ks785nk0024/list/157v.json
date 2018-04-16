@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/list/157v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/annotation/5e725d45-42bf-4cad-9c43-897685fd8477",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/canvas/canvas-324#xywh=0,0,5145,8310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/res/38be8d05-a7c4-474c-bc4e-294eb165b6a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ær urum deaðe gode gecƿeme lác 7 licƿyðe onsægdnes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/annotation/7a75eb2e-85c5-4422-a5fe-f82f22e16279",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/canvas/canvas-324#xywh=0,0,5145,8310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/res/bdad0cf7-9d9e-439f-b2d1-66e92fd2ef87",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber quartus dialogorum beati gregorii pape"
+      }
+    }
+  ]
+}

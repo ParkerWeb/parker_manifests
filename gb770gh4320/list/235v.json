@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/list/235v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/annotation/cd265131-b04e-4cc6-bd4f-2001c96330ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/canvas/canvas-478#xywh=0,0,5147,8718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/res/90f4ee2f-0d56-49a2-a65b-cfd6061c8f25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sciat necessarium esse introducendis quod superuacuum est peruentis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/annotation/94febcbc-8832-4021-b662-da384ac16936",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/canvas/canvas-478#xywh=0,0,5147,8718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/res/3cfa1e2a-68ec-4da7-b02e-1fc292559d1b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit explanatio uerborum legum"
+      }
+    }
+  ]
+}

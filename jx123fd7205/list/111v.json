@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/list/111v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/a12c27fe-6a8b-4c52-87cd-07454d7d5eb0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-230#xywh=0,0,3380,4964",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/b8a211a4-e78e-4358-bcbf-84110405bd42",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De prouisoribus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/afd226e7-8351-41ab-8b88-48a192c03c62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-230#xywh=0,0,3380,4964",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/eb1dc262-a319-4ada-944f-053ebc58e05f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nostre Seigneur le Roy a son parlement"
+      }
+    }
+  ]
+}

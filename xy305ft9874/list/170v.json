@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/list/170v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/annotation/64aa4e84-5ee3-451f-889a-adfeeeb53902",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/canvas/canvas-344#xywh=0,0,3862,5526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/res/91775f57-d620-4d7b-8716-ea896b69d023",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit opusculum domini Hedynrici episcopi Culmensis necessarium omnibus deum diligentibus et est prologus beati Anshelmi de commensuracione crucis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/annotation/02512f16-a29a-4429-916e-e651941b4c45",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/canvas/canvas-344#xywh=0,0,3862,5526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xy305ft9874/res/7f02db70-b36f-46d4-9c91-d60d84d1a182",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Te deum laudamus ... unde hec presumpcio domine deus ut audeat te laudare homo putredo"
+      }
+    }
+  ]
+}

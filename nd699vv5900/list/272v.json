@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/list/272v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/5a084e80-7cee-448b-9136-31dfe6776c6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-554#xywh=0,0,5187,8239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/8e4b1b96-053b-4244-980b-f379fa458b69",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: confirmante sequentibus signis. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/0123c6b8-3286-4ae8-a0e4-368274e5a0b8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-554#xywh=0,0,5187,8239",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/6bb4746a-6f1a-4f4d-940f-addddfd77670",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt pistole (postille) ffratris Nicholai de Gorham super Marcum"
+      }
+    }
+  ]
+}

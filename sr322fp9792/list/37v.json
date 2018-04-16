@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/list/37v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/3445b789-c07c-4fa7-bd27-9efb49d21713",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-82#xywh=0,0,3774,5238",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/98eb26c9-ea25-402d-b683-3c86275e55bb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: supra se modo plagali in illa futura poena habebit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/f7fd1c61-49d8-48b5-bb1a-feb240bad801",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-82#xywh=0,0,3774,5238",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/f2e33199-878b-4896-92aa-d2ab0845e4c9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Ferrandi diaconi"
+      }
+    }
+  ]
+}

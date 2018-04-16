@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/annotation/7816d0d8-5bbf-4892-b120-36c28b4a0930",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/canvas/canvas-15#xywh=0,0,4100,5471",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/res/f2e38eb6-3311-4d13-a0d2-15222b65c3d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The title and beginning of text are in red"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/annotation/d5a935b7-297a-4402-86a0-2cdbf7cf5884",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/canvas/canvas-15#xywh=0,0,4100,5471",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb296hb9129/res/6cbe8a89-1c4c-44d1-a7cd-5be8ca24a34b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Thirteen fragments of leaves belong to Liber I. There are many gaps"
+      }
+    }
+  ]
+}

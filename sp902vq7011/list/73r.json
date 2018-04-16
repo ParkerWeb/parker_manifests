@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/list/73r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/43259e35-4d5c-4485-aea0-a1c1f845b0c4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-155#xywh=0,0,3831,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/19169647-08ea-4815-afd0-f08f58419309",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Marci Tullii Ciceronis in nova Rethorica Liber Primus Incipit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/annotation/436f4d55-db93-42d7-8ef2-1353b9420e4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/canvas/canvas-155#xywh=0,0,3831,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sp902vq7011/res/eb5aea4d-8b21-4287-81ee-2903203f6d7e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: At si in negociis familiaribus"
+      }
+    }
+  ]
+}

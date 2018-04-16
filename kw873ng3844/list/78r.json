@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/list/78r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/cefe28f7-5068-4def-bbc5-659460ef5e3c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-169#xywh=0,0,5650,8430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/2f086480-8391-404e-8540-13531932d10e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: cum eo et ascendat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/71e1d9b5-e5c1-432f-b6df-c31d22a06a47",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-169#xywh=0,0,5650,8430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/563884e7-d113-4206-8182-1ae5a5ae86ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table of kings and prophets"
+      }
+    }
+  ]
+}

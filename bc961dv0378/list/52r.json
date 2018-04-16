@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/52r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/c38a745c-21ec-477b-b96c-59aa8d08fbb0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-111#xywh=0,0,3245,5275",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/c4daac85-ee64-4d4a-aa63-b9736f37e2b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ineffabilis sapiencia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/b7747c46-522b-4810-ab90-65ef3c8bee2f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-111#xywh=0,0,3245,5275",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/62696ade-2d8d-4c9d-be7a-d25dea6713b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Illius testimonium"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/c8012a92-285d-4de0-a34d-3a6c530a9ec6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-11#xywh=0,0,3570,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/034219cb-d8a4-41de-94a2-8c5296589726",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber de coloribus et uirtutibus lapidum. Liber primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/a6e6750c-e841-4c8a-bc7d-8615656e7c5c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-11#xywh=0,0,3570,5547",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/7792a155-4bad-4277-9b5d-6ccf6b05be7f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Habete celi silentium et ingratitudinis in mane scelus attendite"
+      }
+    }
+  ]
+}

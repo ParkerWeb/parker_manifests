@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/list/4.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/148adc29-3411-4d2f-91ea-b6123c1a7140",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-12#xywh=0,0,5502,7944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/b664620e-9506-4802-9070-2159a1fc60e0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Moysen gentis Hebraice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/554d3e61-d1d3-42fc-91ee-5ec1c942fa94",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-12#xywh=0,0,5502,7944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/ecd53d51-0cce-4d8b-8051-c897c13b648c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial. Gold ground. On L. tonsured man sits writing. On R. a bishop in mitre"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/list/189r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/bd6e5e6f-65f2-4715-97f3-528c42a9fee4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-383#xywh=0,0,6070,9322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/eb5a366a-608f-4e4e-ae2a-047a32fcfc22",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic incipit prefacio in librum qui uocatur compendium iob uel speculum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/8f04a53b-3ee8-4c30-b106-f4766e549be9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-383#xywh=0,0,6070,9322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/a4f7d778-3c9f-44b1-8965-c69a5ee95a8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Reuerentissimo in Christo patri H(ermanno) presbitero A(dalbertus) humillimus leuitarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/908a7a76-6555-4517-90a4-d1ffa04af63d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-383#xywh=0,0,6070,9322",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/2d3b91ea-8b14-4ed1-9226-bd208406caff",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: feliciter per secula infinita"
+      }
+    }
+  ]
+}

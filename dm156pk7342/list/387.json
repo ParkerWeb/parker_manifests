@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/list/387.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/4cccbb82-3e9e-4d05-a475-4d5ffb9bbb4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-405#xywh=0,0,3955,6166",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/ddaaa267-98af-42c4-a9f3-956bf4d3830e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Thorpe's Poenitentiale Liber I begins p. 387a"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/annotation/0c507529-795b-4ecb-84b7-d7cc88657740",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/canvas/canvas-405#xywh=0,0,3955,6166",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm156pk7342/res/050a6d19-cc19-49f1-87e5-a513e6946b4f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "387a"
+      }
+    }
+  ]
+}

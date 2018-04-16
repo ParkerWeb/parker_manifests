@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/list/113r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/annotation/a213167a-9bf6-4e04-9ad9-b00764bbe958",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/canvas/canvas-229#xywh=0,0,5404,8498",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/res/60a6c481-b70e-444b-b54c-176e84d241ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De superbia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/annotation/3adc2e8c-68d6-4345-b474-53468b8d903d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/canvas/canvas-229#xywh=0,0,5404,8498",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/res/aba68255-b721-4bbb-a35e-594f9992eed5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Radix cuncti mali superbia est"
+      }
+    }
+  ]
+}

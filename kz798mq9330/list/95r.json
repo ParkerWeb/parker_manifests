@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/list/95r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/665fec78-1289-4d00-b014-6d05daf95070",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-197#xywh=0,0,3646,5574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/afc8fc0e-e565-484d-b3b8-40efed2ff305",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Elucidarium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/773427ed-ed80-4bdd-86da-d77343b452bb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-197#xywh=0,0,3646,5574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/7820a133-c30e-467c-8069-7337a5eede03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sepius rogatus a condiscipulis"
+      }
+    }
+  ]
+}

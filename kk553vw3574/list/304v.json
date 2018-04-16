@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/list/304v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/annotation/b96ab6d4-2dd7-4bc7-9aab-65ad6bd2e61e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/canvas/canvas-610#xywh=0,0,5725,8809",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/res/b7afb34c-b67e-43a0-8d6f-2e5ca3d7379b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This Book ends imperfectly in ch. xlii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/annotation/42b26847-0259-4c8e-b1b1-4093dc7fb965",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/canvas/canvas-610#xywh=0,0,5725,8809",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/res/3758a3b0-0377-4c04-b170-7071a2e84c34",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Oportet clericos specialiter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/list/57.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/cc1cfac3-4089-428d-bc90-0c7428d7e3c2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-65#xywh=0,0,5110,8202",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/f4b051b5-51ca-40fa-aec2-7f533fa763d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Sancte Iohanne evangelista"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/annotation/a4a7d0db-6871-49db-be32-f77112125cb4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/canvas/canvas-65#xywh=0,0,5110,8202",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg531kv2466/res/be292aae-5b8e-4c2c-8452-97b467464596",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iohannes se godspellere cristes dyrlinc"
+      }
+    }
+  ]
+}

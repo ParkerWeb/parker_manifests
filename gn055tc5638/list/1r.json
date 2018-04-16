@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/annotation/bd8ff81a-c15b-440c-809c-1d374222c060",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/canvas/canvas-5#xywh=0,0,5609,8820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/res/f6a9a08c-6d23-4449-903a-3baded9035af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dolens in sanctuario"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/annotation/34dc4026-97c6-4617-bc0b-d0bd1d4ba5a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/canvas/canvas-5#xywh=0,0,5609,8820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/res/fa8fdad6-8fec-4eb3-a3ff-0b61e991001e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial cut out. Above are the words Theologia. Pictor. showing what it represented"
+      }
+    }
+  ]
+}

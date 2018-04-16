@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/list/102v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/annotation/7d036617-cddb-42ae-aa53-c97a04e043a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/canvas/canvas-214#xywh=0,0,3859,6258",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/res/ecb536f4-bab4-41ea-a882-92a5833493df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sed ante omne seculum et nunc et per omnia secula seculorum Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/annotation/e895bd0a-cfd3-4675-ad16-bb2f86ecdf59",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/canvas/canvas-214#xywh=0,0,3859,6258",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/res/996afe1c-8a23-42e9-b21f-607b192eba6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit expositio Bede presbiteri super canonicas epistolas"
+      }
+    }
+  ]
+}

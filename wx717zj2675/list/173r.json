@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/173r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/c0fa86bb-c2d7-4541-bca7-e211cfe6a1a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-351#xywh=0,0,4206,6661",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/3b032c68-6d69-4fb2-9e93-374c67416814",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ecclus. Oratio Salomonis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/6be35b04-414a-4bc5-95be-01e1c2c2fbc4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-351#xywh=0,0,4206,6661",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/02640a6b-c24f-4462-ac9b-8c7bc55e99f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ecclus. A crowned white-bearded man"
+      }
+    }
+  ]
+}

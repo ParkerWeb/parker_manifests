@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/list/33v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/6c567877-173b-41a8-924e-a6713eb7238b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-74#xywh=0,0,4674,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/c8bbc2e7-1196-46a0-b1b2-9e50fc693e84",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The last chapter"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/b9600508-14ec-4baf-b7bb-d5bc08754636",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-74#xywh=0,0,4674,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/33ac2a85-84dd-49d7-8446-a0280d7d6f96",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: anagogice illarn celestem patriam"
+      }
+    }
+  ]
+}

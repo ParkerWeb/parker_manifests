@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/560b2d19-57d0-4eda-a9e1-c61ffe2d7e3f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-7#xywh=0,0,5411,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/a090f84d-043f-4ca2-9560-bfc6031d7b6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt epistole Petri Blesensis Bathoniensis archidiaconi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/ad10432d-69a8-4052-8f7d-22db5f5b77b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-7#xywh=0,0,5411,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/a1fd16c7-450b-4239-a55f-3cccceac63fe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola prima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/e99693c7-dee0-4a19-aa49-1f5b952a0946",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-7#xywh=0,0,5411,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/60839c88-9233-4aa9-aa7d-e67d2cc82277",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Henrico dei gratia illustrissimo anglorum regi ... suus petrus ... Rogatus a vobis epistolas quas passim"
+      }
+    }
+  ]
+}

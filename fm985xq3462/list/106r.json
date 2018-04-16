@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/106r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/bf3d9337-89f3-4dba-8a67-35d09bd553ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-221#xywh=0,0,6036,8885",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/2ec33b3c-96d1-46e1-b34f-723915a20181",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ethelric"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/6c7621f8-f975-4fd2-a43b-a2d74cdfd8a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-221#xywh=0,0,6036,8885",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/1520ef46-aab7-4ba3-ae54-36e97e4ef684",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Nine busts of bishops"
+      }
+    }
+  ]
+}

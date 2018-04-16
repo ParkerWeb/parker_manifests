@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/list/395.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/annotation/59f53461-f3b9-43c3-bcbb-0cae53a5360f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/canvas/canvas-401#xywh=0,0,3287,4814",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/res/1fa385f6-d4a3-4df3-be06-259096659ec7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in ipsa superiori potestate obeditur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/annotation/33b33a08-cc79-4992-a7ad-d64b9262bb2b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/canvas/canvas-401#xywh=0,0,3287,4814",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/res/dd161ac9-bea5-4704-8878-9d7233bbb721",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt Epistole domini Lincol(n)iensis secundum"
+      }
+    }
+  ]
+}

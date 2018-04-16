@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/annotation/004fa02c-4d1e-497b-816c-1c57c66dc977",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/canvas/canvas-5#xywh=0,0,5985,9210",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/res/8fdf5863-c5ea-4c6c-b0e4-a7ecdcd35a09",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus uenerabilis Archiepiscopi S(tephani) Cantuariensis super Ecclesiasticum. Capitulum I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/annotation/cdeb8e04-64bc-4a92-ab5f-dbae6a16d8ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/canvas/canvas-5#xywh=0,0,5985,9210",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/res/e024e3d0-20a1-40c9-bc98-2047249e404d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hoc nomen ecclesiastes interpretatur contionator"
+      }
+    }
+  ]
+}

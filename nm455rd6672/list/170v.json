@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/list/170v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/annotation/f43d4636-eaad-4206-adc2-6158182dc4c0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/canvas/canvas-350#xywh=0,0,5707,9033",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/res/431837cb-f32e-496a-bf6e-790be6199957",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: que sunt super Iordanen e regione Iericho"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/annotation/30f2bd8b-bbaa-4046-a0dd-433b8ddbf862",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/canvas/canvas-350#xywh=0,0,5707,9033",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/res/477f2c95-aa54-417b-a3b3-2d2ea58aa2d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit feliciter"
+      }
+    }
+  ]
+}

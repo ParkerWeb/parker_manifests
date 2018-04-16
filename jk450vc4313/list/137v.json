@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/list/137v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/3748d112-5612-45b1-93c6-28fbb43bcb1e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-280#xywh=0,0,3727,5754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/57137b88-180c-4259-b2d4-aac47931d817",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: tali fine moderetur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/bbf98dfb-723a-4f94-9311-c63d2198c82e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-280#xywh=0,0,3727,5754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/3df50fba-b3fc-49eb-8598-ef8c81fe334f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (C)onsideranti michi faustine"
+      }
+    }
+  ]
+}

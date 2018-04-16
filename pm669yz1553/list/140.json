@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/list/140.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/af6de684-533f-4e6c-9c89-8044c848c9dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-150#xywh=0,0,3704,5828",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/d41a69b2-4fc2-4411-ab0c-4b278e522390",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Vaniloquio Negligentium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/2d1115f3-76c6-4940-be5c-acebda422450",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-150#xywh=0,0,3704,5828",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/d41d9d92-3aaa-4227-ba88-2ffda715b72c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sume gedƿol menn cƿædon þæt seo halige Maria"
+      }
+    }
+  ]
+}

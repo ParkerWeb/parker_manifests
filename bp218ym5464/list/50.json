@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/list/50.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/4414a3da-c11a-4868-89dd-4e627b8368d4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-56#xywh=0,0,4025,6198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/f612804d-25b6-446e-9a84-38e710abf171",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/annotation/a1522ed5-f439-45ed-8167-072806c79184",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/canvas/canvas-56#xywh=0,0,4025,6198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp218ym5464/res/364b3173-9560-43d4-a6f4-0cd36c04413b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anima mea exultet in domino"
+      }
+    }
+  ]
+}

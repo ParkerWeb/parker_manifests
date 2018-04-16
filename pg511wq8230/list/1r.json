@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/d81a5909-fe81-4211-b1ca-8ebe01fddb80",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-8#xywh=0,0,4224,5856",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/807318ba-f688-4e6a-ab96-60f63c5192d0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit summa fratris Hinrici de Wirczeburg de ordine minorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/e8267730-0bc7-4887-b56f-5324af4f88ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-8#xywh=0,0,4224,5856",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/4f104de5-7509-4b59-b120-a1f8ec67fba1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De electione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/annotation/2a2fee6b-2b30-47e2-8c31-4a4c9b356014",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/canvas/canvas-8#xywh=0,0,4224,5856",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pg511wq8230/res/e4f5a681-f959-48c1-a896-e7f0f60ea943",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Questio si omnes velint"
+      }
+    }
+  ]
+}

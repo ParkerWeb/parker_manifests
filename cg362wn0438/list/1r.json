@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/cd1578dd-569d-413a-8dc0-16834c9208e3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-17#xywh=0,0,5934,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/79f00841-b4b9-46e3-803f-7f349796c31f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quod breuitati sit studendum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/7b05c48e-5fb3-42b5-a3eb-fcb01684a792",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-17#xywh=0,0,5934,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/0cf2c320-d71b-4611-bf6d-7fa5500b14e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uerbum abbreuiatum faciet dominus etc. Si enim uerbum"
+      }
+    }
+  ]
+}

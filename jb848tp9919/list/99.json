@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/list/99.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/a355c9c1-01f8-4fad-920e-cc8defb9396d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-105#xywh=0,0,3766,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/b64b9aa9-4227-4e67-9fd7-7a3e38135c57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De confessione in ultimo Teobaldus Stampensis ad Robertum Lincolniensem Episcopum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/558582a6-97d3-4438-b166-111f6b1c8ef6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-105#xywh=0,0,3766,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/6e52f62b-f825-43d7-b065-570b2a830c87",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De quibusdam in diuina pagina titubantibus"
+      }
+    }
+  ]
+}

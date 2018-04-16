@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/annotation/748bb2c0-7d2c-46d9-86b6-42ae488f87eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/canvas/canvas-14#xywh=0,0,3638,5426",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/res/a3e6f43f-385f-4caa-9832-458793f45775",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/annotation/ed45857d-e422-407e-b7b2-4219f0476a26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/canvas/canvas-14#xywh=0,0,3638,5426",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/res/9c7c22ea-c5c0-471f-b2cf-23e369eb30fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iohannes. Quia circa rerum hominem propter hominem creatarum"
+      }
+    }
+  ]
+}

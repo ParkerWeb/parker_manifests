@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/list/98r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/6fb1b619-3591-4170-a809-4a3adde055fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-201#xywh=0,0,2061,8440",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/81bee8e6-8266-495e-ae25-6f597574ffcd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(The last synod is cccx episcoporum temp. Alex. III)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/annotation/6c4ef40c-fed7-4d5e-accb-f97bb71eda74",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/canvas/canvas-201#xywh=0,0,2061,8440",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xj416ct0118/res/2acfa49a-f78f-4791-9c33-71aca231c8d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "95r"
+      }
+    }
+  ]
+}

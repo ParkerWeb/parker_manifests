@@ -1,0 +1,19 @@
+{
+"@context": "http://www.shared-canvas.org/ns/context.json",
+"@id": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/list/page-1.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@id": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/anno1",
+"@type": "oa:Annotation",
+"motivation": "oa:commenting",
+"resource": {
+"@id": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/comment1",
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Littera notabilior"
+},
+"on": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=3,500,1000,1000"
+}
+]
+}

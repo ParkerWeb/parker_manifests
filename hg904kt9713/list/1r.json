@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/d0ae6979-6eff-4eeb-ac90-63f561a30b0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-11#xywh=0,0,5098,8382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/152c5679-f367-43f5-b7d6-96265c3346f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus sci GuðLaci"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/4676edb8-bd02-4d30-933e-562e290e9a44",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-11#xywh=0,0,5098,8382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/b4fa98d0-52a6-4ca5-b9fc-ac7b3c04b4ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In domino dominorum(cursive from this point) domino meo mihi prae ceteris regalium primatuum gradibus dilectissimo ælfƿoldo regi ... felix"
+      }
+    }
+  ]
+}

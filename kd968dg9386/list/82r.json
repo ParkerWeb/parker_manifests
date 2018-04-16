@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/list/82r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/8873ff3b-d99a-444e-96c1-73025ea858e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-170#xywh=0,0,5255,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/3c5be2c0-0ac8-42c2-85fa-5fb66f89bb30",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad omnipotentis dei laudem cum sepe recitentur sanctorum miracula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/annotation/b1572982-1499-4844-93ec-9e20d2079e0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/canvas/canvas-170#xywh=0,0,5255,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd968dg9386/res/f362983d-37da-450b-ae1d-2533331d628d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: largiente deo recitare studeamus"
+      }
+    }
+  ]
+}

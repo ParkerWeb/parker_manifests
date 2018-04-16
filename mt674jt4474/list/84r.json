@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/84r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/c999b9a9-fe4f-4bc8-af01-685605b7b3a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-183#xywh=0,0,3654,6422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/7dab1b51-df1e-4165-bae0-23c43737c9c0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De morte imperatoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/7c1c76fc-c7d8-42d2-8db8-075604953fe4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-183#xywh=0,0,3654,6422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/ee14f8e4-5f50-4264-be0b-fabd77b6c9b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Stante obsessione contra Lucam usque ad terminum .xxx. dierum"
+      }
+    }
+  ]
+}

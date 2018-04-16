@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/133.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/7e665e68-be96-466d-ae61-facd1b7b6d65",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-137#xywh=0,0,3590,5574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/61cec871-7277-4f27-8561-82216ff16aac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Missa pro temptatione carnis et gratia Spiritus Sancti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/f09ec01d-2852-48d7-bddb-0d20ebbc7ce4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-137#xywh=0,0,3590,5574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/b05624a2-7a3c-40ce-ad2a-600874b53e01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "glossed for flaesc costnunge þaet is idel lust"
+      }
+    }
+  ]
+}

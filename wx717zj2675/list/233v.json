@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/233v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/8b4f0387-01df-48ed-a546-f27b626b9410",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-472#xywh=0,0,4043,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/19a5456f-5794-48ab-ae11-e9c4458d311f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In triple columns"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/73aa1cbd-ba6b-47ae-b9c3-5896747986f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-472#xywh=0,0,4043,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/57ac39e8-5a18-452e-9601-9f6c221e6711",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula to Acts"
+      }
+    }
+  ]
+}

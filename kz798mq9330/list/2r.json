@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/c3f81403-9e9e-4fb6-a50a-c416f2bc5931",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-11#xywh=0,0,3831,5598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/b507e568-c329-4bd7-9af3-a59821de134c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/13759f09-285d-4799-9901-1e35a338de02",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-11#xywh=0,0,3831,5598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/7d97f5aa-15ce-4895-a56a-f3f05ea41ed7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Capitulum primum de causa bisexti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/annotation/b8b53c19-da73-4034-b41d-d62914f61889",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/canvas/canvas-11#xywh=0,0,3831,5598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz798mq9330/res/6f3fa8ae-3f2a-4a6c-a6af-7a3dc9b21632",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Compotus est sciencia numeracionis et diuisionis temporum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/annotation/ac30724e-5a80-4b5a-b9d5-9248236efbb7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/canvas/canvas-14#xywh=0,0,3812,5742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/res/c3e0e7d6-4d1e-47d2-a018-42111c6dbf1c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt capitula libri .ii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/annotation/adfac711-7114-4256-a0ff-2fa0a20ec6d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/canvas/canvas-14#xywh=0,0,3812,5742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff646yg8822/res/2fcdd597-6607-42ff-bff7-a101c5f9a7b8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit collectio ... officialis"
+      }
+    }
+  ]
+}

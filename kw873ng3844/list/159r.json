@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/list/159r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/6b2c6b0c-ace8-423b-830c-91aec3ea7fcc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-331#xywh=0,0,5626,8442",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/1ef5f013-b529-4c59-9d8f-4fcacbb51631",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Andreas super Osee"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/a756a0b0-3a5a-432e-bf66-d57be3831c10",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-331#xywh=0,0,5626,8442",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/f923d46b-2d2b-4bc5-ba38-46d328885246",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quanta sit Osee prophete difficultas"
+      }
+    }
+  ]
+}

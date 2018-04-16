@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/11v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/2cbcb4f3-2316-4daf-b790-bc00e586f1a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-26#xywh=0,0,4869,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/88eb053a-07a5-493d-8a62-e70cb2d4b065",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text (p. 14 Rolls)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/0746dd79-b100-41c5-9479-1d036a67e8f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-26#xywh=0,0,4869,7950",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/5a9aa495-182c-4d1b-8b83-bc83c3ab049f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial has half-length of Remigius in blue with crozier"
+      }
+    }
+  ]
+}

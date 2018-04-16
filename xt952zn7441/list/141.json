@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/list/141.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/annotation/52721162-7711-4107-a1e9-552790d41aa6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/canvas/canvas-147#xywh=0,0,3524,5742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/res/a6b84a6f-27a0-4260-b4ce-57aa108fb48f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: (Themata pro sermonibus per totum annum)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/annotation/0a8528be-e6db-4556-8ba8-4562d8c6a5f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/canvas/canvas-147#xywh=0,0,3524,5742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xt952zn7441/res/ea2111b3-edcb-4005-b6a1-1f19526cd3e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dominica prima aduentus domini Hora est iam nos"
+      }
+    }
+  ]
+}

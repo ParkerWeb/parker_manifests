@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/86r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/9d7ba8a8-537f-4f16-8a59-d95011ac89cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-179#xywh=0,0,3503,5299",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/ed75d1cf-f622-4aaa-a005-b5dcf616c2bc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Lamentacio quedam pro templariis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/41537872-cf65-4751-93ae-d90babb5f465",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-179#xywh=0,0,3503,5299",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/e4dd0ce5-684e-40eb-a1fa-87476b5a80d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Honorabilibus doctoribus et scolaribus uniuersis Paris. commorantibus salutem. miranda non modicum forciusque stupenda humani generis inimica crudelitas in Gasconie finibus instigante"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/list/308.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/53af7495-4a1d-4933-8d68-a2bf076715a5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-312#xywh=0,0,5434,8250",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/b1cf44a5-8c93-4ff1-b930-fb98bd01b74c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et consummata glorie plenitudo?"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/annotation/5b428c46-774a-4939-b089-a77a67282f02",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/canvas/canvas-312#xywh=0,0,5434,8250",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ns652yk6818/res/24321d2f-7541-4659-b816-a153fc0d1108",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

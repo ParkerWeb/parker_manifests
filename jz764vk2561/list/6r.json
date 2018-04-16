@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/8a6cc633-4b61-4922-9cec-4b8e03df503c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-25#xywh=0,0,5623,8613",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/68885306-195d-4b80-9bda-8dbd8e6eee5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex parte dictum monstratum est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/55713105-0749-4cef-9905-bf6f22a5b079",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-25#xywh=0,0,5623,8613",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/6e553ff5-e220-4b36-bd3d-c332965df75e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Memento creatoris tui"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/list/14.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/584d49cc-0f4a-4f41-b545-afd1647b0b54",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-20#xywh=0,0,3401,6453",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/db938844-685c-4ffd-a49d-3d7af4d1c3b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Canones generalium conciliorum a temporibus constantini ceperunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/caf1670d-918c-4b57-b68f-8b91b552c5ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-20#xywh=0,0,3401,6453",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/5517b02b-ce1e-471d-ab6e-d9876a04dd2d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Que sint rata concilia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/annotation/47e97d8d-e3be-4dc0-bf28-2c3594ca75fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/canvas/canvas-20#xywh=0,0,3401,6453",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc116ss6676/res/41914d66-b6e2-494d-9456-4fcda8a827dc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quatuor autem principalia"
+      }
+    }
+  ]
+}

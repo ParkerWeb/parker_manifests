@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/list/59.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/9f29d286-776a-4906-a019-d6767ac4d89e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-65#xywh=0,0,3668,5677",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/1ed12997-ef19-431b-af5a-e7c6e4c9ec70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uni animancium luctus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/a20991d8-1040-49d9-8c97-aae4f0e05031",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-65#xywh=0,0,3668,5677",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/c290e74e-f9ce-4ef6-8407-61389588aa4f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sequitur terra cui uni rerum (II 63)"
+      }
+    }
+  ]
+}

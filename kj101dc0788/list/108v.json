@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/108v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/f8ebfb0a-37b6-413b-9003-347939078d42",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-220#xywh=0,0,5727,8603",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/3aa0775f-3adb-42a7-9e9a-e0648d768c28",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Anno macometi prophete magni D. lxxviii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/dd12568a-4c62-4128-8926-99f9c8cb69eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-220#xywh=0,0,5727,8603",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/51120de2-81e8-49b3-9777-05b5f201b306",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Added: Anno millenocenteno quominus unoIerusalem franci capiunt uirtute potenti.Anno mo co lxxxvii subacta fuit ierusalem a saladino"
+      }
+    }
+  ]
+}

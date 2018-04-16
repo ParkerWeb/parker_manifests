@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/list/20v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/c11c2689-73c8-4ca6-8e64-e606d67b0254",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-50#xywh=0,0,3662,5540",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/1a209543-45bc-4227-9a34-7e1c68f6ddcb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ac more paragoni confricati metalli colorem retinet"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/29bc59ac-33b0-4c2e-93bd-e9f58a3c3ecd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-50#xywh=0,0,3662,5540",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/9fc7ac2f-1cfb-441a-a146-48dd7c5c143a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De sculturis de omnibus lapidibus"
+      }
+    }
+  ]
+}

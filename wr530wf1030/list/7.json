@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/list/7.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/9f22e1e3-4213-4f6e-8241-60af54633359",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-13#xywh=0,0,3742,5574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/ba647f67-7985-4249-bc8b-98249396b528",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula (in double columns)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/976078ee-28d3-424a-a057-e4f4db67f84c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-13#xywh=0,0,3742,5574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/f2e69637-eaa5-4b37-8b42-ad9d4edde988",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amicus amicum redarguit"
+      }
+    }
+  ]
+}

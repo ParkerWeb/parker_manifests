@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/list/76.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/b6c6d863-bc2e-4a0f-8eae-c165e554442d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-82#xywh=0,0,3542,5190",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/99377487-4518-4b39-a0b0-14e2c5ade3d3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "With prose insertions: ending"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/e9a2a408-dcb4-423d-ae3c-ce7c893d9901",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-82#xywh=0,0,3542,5190",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/30f05e3c-7d11-4724-bf5e-f8fb84d71039",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et habebis 22 que est summa predicte progressionis. hec iam dicta sufficiant ad dei laudem. Amen"
+      }
+    }
+  ]
+}

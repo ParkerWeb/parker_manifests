@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/105v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/94c7c226-2cee-4834-94d4-aec3ab5398da",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-220#xywh=0,0,5942,8879",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/28e7cd32-0add-406e-a0a2-3814a192779a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Adrianus IV in vermilion chasuble"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/211e5a86-8eb2-4461-8160-568f7934e4ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-220#xywh=0,0,5942,8879",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/3675a198-a5dc-40b9-b415-650a4e745561",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Seven busts of popes"
+      }
+    }
+  ]
+}

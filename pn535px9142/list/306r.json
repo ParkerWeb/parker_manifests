@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/list/306r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/annotation/2b8de039-59fd-4b00-ae0d-de8716fdb493",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/canvas/canvas-623#xywh=0,0,3737,5358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/res/94dec3a0-6bf5-4b6c-9c61-760b228e8adc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: inhabitare valeamus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/annotation/05451ef2-74bf-4b68-9367-a57bc2d7cdb2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/canvas/canvas-623#xywh=0,0,3737,5358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/res/21fc33b0-6ad1-4ea8-896a-5995666978be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit gloriosa passio domini nostri Ihesu Christi per manus Bartholomei"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/annotation/2b4042b1-6cfb-45cb-a1c0-423dea132cdc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/canvas/canvas-623#xywh=0,0,3737,5358",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/res/23ae4ba9-c297-4204-a17e-0a65f585f014",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In a later hand"
+      }
+    }
+  ]
+}

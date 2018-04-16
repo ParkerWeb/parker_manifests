@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/67r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/d394bbc3-7651-4321-9a19-3b931e00f223",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-135#xywh=0,0,6202,7794",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/84b89450-ab61-44e1-a877-638a5cc2e4d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: defendat nos ab eterna morte. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/4fa0f027-d5da-4c46-889f-565f774c9ee1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-135#xywh=0,0,6202,7794",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/2644e455-6dfd-415f-a198-80ce44299a42",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "per rolandum brug and Hec Rolandus brugge"
+      }
+    }
+  ]
+}

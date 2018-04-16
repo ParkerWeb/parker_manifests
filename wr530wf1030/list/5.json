@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/list/5.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/1d29545f-3a56-463d-8413-91d946a9850a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-11#xywh=0,0,3718,5566",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/d415b314-0351-4dca-a000-484a1e9eb442",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Absolucio Regis Anglie de iuramento prestito super quibusdam concessionibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/4c35a8a1-a9aa-4515-bca3-62dc406b529a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-11#xywh=0,0,3718,5566",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/19fb44be-d4f6-4781-8def-34cc77fc288f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Clemens ... ven. fratri Coventr. Ep. et Lichfeld"
+      }
+    }
+  ]
+}

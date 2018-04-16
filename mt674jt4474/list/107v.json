@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/107v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/5a365e2d-b649-4ab4-a13f-0f79a19ee9ed",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-234#xywh=0,0,3582,6142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/ddd8a701-480b-4b6d-88b5-e00d69916aed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Extractus de quadam tabula in ecclesia conuentuali Colcestre"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/ed93d342-c26c-4771-95f6-3c87fb33b564",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-234#xywh=0,0,3582,6142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/1c07e0da-db5f-47db-bda1-fe2efd49b623",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Application from Richard Cokman"
+      }
+    }
+  ]
+}

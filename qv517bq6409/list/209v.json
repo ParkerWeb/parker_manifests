@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/list/209v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/4e3a058e-031d-427c-b326-026390e7a248",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-424#xywh=0,0,3672,5875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/97bc8618-fc57-4959-af14-9b064e9cdbf6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note explanatory of table"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/5057ef45-d80c-4d14-9b07-cef39ce05b17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-424#xywh=0,0,3672,5875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/c1700d94-9f52-42a1-9641-77d5490ed0da",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Paragraph:"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/132c0320-9fbf-4f09-a762-a9532dd0b34b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-424#xywh=0,0,3672,5875",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/e67c14d6-f40a-4023-8629-89ac037fe410",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nemo potest peccata dimittere nisi solus deus. mentitur ergo qui dicit de iusto ioseph etc."
+      }
+    }
+  ]
+}

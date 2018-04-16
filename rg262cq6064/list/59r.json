@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/list/59r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/b1d9be84-7b3e-45c2-9e00-f2d3fc865ab0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-123#xywh=0,0,3456,5400",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/656ee8d5-604f-4c26-9563-ef19b77ddcf5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quatuor sunt diuisiones proposicionum"
+      }
+    }
+  ]
+}

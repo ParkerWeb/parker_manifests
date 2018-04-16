@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/list/285.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/c9b7af98-be79-476e-b0e4-a7e6eb6dbca9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-293#xywh=0,0,5866,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/67fc96a1-2f6a-4238-aca4-4b709e2f01ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Form for dedication of an image of St Swithin"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/6ad39106-f023-48f5-9ed2-f6aa3c9b38b0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-293#xywh=0,0,5866,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/f1303487-e2b0-43cc-ab75-f11f1c241815",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Oremus fratres dilectissimi rerum omnium conditorem"
+      }
+    }
+  ]
+}

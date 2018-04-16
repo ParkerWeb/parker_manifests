@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/annotation/fe565ba1-3581-4941-bf3a-0109e0c23806",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/canvas/canvas-7#xywh=0,0,3191,4920",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/res/5cb78db3-8a82-42cd-a25e-16385d7c861f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/annotation/2d69b9ce-2680-44a0-b0be-f4b9b4c16dc9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/canvas/canvas-7#xywh=0,0,3191,4920",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/res/1bd44c7b-81f5-418c-a570-86ba0f8b7a57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Da michi intellectum et scrutabor legem tuam"
+      }
+    }
+  ]
+}

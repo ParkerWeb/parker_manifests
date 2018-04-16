@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/list/224v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/b339b818-0aaa-4830-93ab-10988a0c16a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-464#xywh=0,0,4029,6029",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/3bd07edc-8d1a-4487-8246-ed85f698fd00",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "French poem on the same"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/3097db16-ca7c-4a21-893d-1a8fc49d2ba2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-464#xywh=0,0,4029,6029",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/c580d16d-6f66-4cc0-8866-5e9f8360080f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Apres ke Adam fu getezDe paradys pur ses pechez"
+      }
+    }
+  ]
+}

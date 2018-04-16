@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/list/477.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/39685ce4-9862-4d2a-a8a7-381cff8b106a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-493#xywh=0,0,5602,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/8cdabb3a-f6c5-4b80-b483-e28f8d2dbed0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(In the hand of no. 5)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/annotation/6c1d1a72-3a68-4022-8162-558738270b6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/canvas/canvas-493#xywh=0,0,5602,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qq824qn0842/res/53a5a438-a02d-45b1-80f0-b548e82dbdf1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In ciuitate antiochia rex fuit antiochus nomine a quo et ipsa ciuitas"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/list/160r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/cc51b648-8c16-4ea7-9e64-af4795b12735",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-321#xywh=0,0,4048,6049",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/597ab2c9-c31a-4b7c-a37c-6e54b3955e4c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: videbimus eum sicut est. Tu autem domine"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/036db48f-496c-4f10-93cf-efc7204b970e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-321#xywh=0,0,4048,6049",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/ecd8356d-98d8-4bbd-a702-cf67090bd2d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber beati Jeronimi de membrorum Christi significacione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/fe41f408-d128-4b5f-a5aa-4575df710534",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-321#xywh=0,0,4048,6049",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/c0c3fc26-be55-4e33-8a1e-aa5f736af8d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Scribbles in col. 2"
+      }
+    }
+  ]
+}

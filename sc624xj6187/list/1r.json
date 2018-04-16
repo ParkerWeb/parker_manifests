@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/annotation/bf68fd0c-7372-4291-9078-7957782f6377",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/canvas/canvas-13#xywh=0,0,3639,6000",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/res/e5547e4b-fdac-49d2-aed3-b5ccce79583b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus magistri R. cancellarii de cantebruge qui dicitur numerale"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/annotation/6679f375-b59c-4cd0-94e4-22f4a8945e1d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/canvas/canvas-13#xywh=0,0,3639,6000",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/res/3692a9e2-4ffc-4846-b4ac-88ee9614ae7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Qui bene presunt presbiteri duplici honore digni habeantur"
+      }
+    }
+  ]
+}

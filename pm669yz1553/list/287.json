@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/list/287.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/c0eafdc4-327d-4475-8d6e-1d176e69e0de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-281#xywh=0,0,3961,5808",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/0005413c-2297-4934-a324-4fef76f889c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit capitula. explicit prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/annotation/026c092e-1022-456f-a4bb-b4d7bb944b62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/canvas/canvas-281#xywh=0,0,3961,5808",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm669yz1553/res/38951b48-3a33-4769-a344-b23ae8c505d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In red capitals"
+      }
+    }
+  ]
+}

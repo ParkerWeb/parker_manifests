@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/annotation/06a37360-c8e9-40e7-af6e-1d01f3831fad",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/canvas/canvas-9#xywh=0,0,5426,8565",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/res/1f42bd5f-1873-48f9-bb65-076bb6af8c59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit cronica odonis abbatis (l. Adonis)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/annotation/c0e5dfed-9b39-40bd-8021-e0db8e31fb20",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/canvas/canvas-9#xywh=0,0,5426,8565",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kc237kj0918/res/1a63c5d7-8552-404a-889c-0a0b7556e2be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Breues temporum annotationes per generationes et regna. Primus ex nostris Iulius Affricanus"
+      }
+    }
+  ]
+}

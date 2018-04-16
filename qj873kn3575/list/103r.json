@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/list/103r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/c1bedbec-a574-4e95-847e-310034b8561f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-217#xywh=0,0,3215,5086",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/20704a11-4fa0-4e3f-b36e-7a84a69bd478",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Beati Iohannis Crisostomi sermo de dignitate humane originis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/8f2018eb-f451-43e9-a26f-91d8aabf5e51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-217#xywh=0,0,3215,5086",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/53e78694-868f-4d1e-a2ea-eb8c9474a7d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dignitas humane originis facile agnoscitur"
+      }
+    }
+  ]
+}

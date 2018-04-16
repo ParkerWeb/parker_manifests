@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/list/118v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/bf8f747c-3f3f-4c36-822e-0546f1ac6451",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-244#xywh=0,0,4130,5973",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/b02da9b5-5590-48f6-9719-088ed80011f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Indulgences of John XXII"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/0f3a342a-45dd-4a7e-b614-307fe78a913f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-244#xywh=0,0,4130,5973",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/6ac8916b-7731-49a0-8565-b39cd026c336",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Effectus indulgenciarum. Expiat ac delet"
+      }
+    }
+  ]
+}

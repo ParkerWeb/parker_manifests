@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/list/31v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/8ef1b3b2-7053-4abb-9890-f6fd47abf900",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-70#xywh=0,0,3952,6116",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/c523b426-08d0-48b2-b809-9acfd882c220",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text with a fine initial in pencil outline"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/6b7affa8-789b-4e77-931f-36d2fa246f71",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-70#xywh=0,0,3952,6116",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/8fe8bab7-156f-4c79-a11c-3b562a9a965a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An erasure just above it"
+      }
+    }
+  ]
+}

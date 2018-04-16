@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/annotation/6f5aa2ac-2f44-4b6c-a0a0-daa377e5f6d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/canvas/canvas-17#xywh=0,0,5578,8154",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/res/79300901-86ee-44c5-9680-844a463dbedd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus Historie anglorum contexte ab Henrico Huntudonensi archidiacono. Anno gratie mo co xxxo vo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/annotation/01f41c9d-2391-4543-9410-63f258750688",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/canvas/canvas-17#xywh=0,0,5578,8154",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qf131kj9626/res/fa84d144-5b85-478c-895a-18fbba0f5dcd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum in omni fere litterarum studio"
+      }
+    }
+  ]
+}

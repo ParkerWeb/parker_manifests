@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/list/41v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/annotation/79af2940-996e-496d-8713-446115c1a3a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/canvas/canvas-88#xywh=0,0,5648,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/res/e2385813-07af-4da3-84b4-4b937f029e2b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epilogus primi libri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/annotation/99ebb77f-b89a-4d71-975c-a7beedafbbe4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/canvas/canvas-88#xywh=0,0,5648,8550",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt685jr6866/res/ebc40f34-f140-4364-bb25-ea17b3a874e6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Fructum centenum cumulans tibi fenore plenum"
+      }
+    }
+  ]
+}

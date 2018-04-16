@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/444v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/abfbcc33-1765-413e-aced-f56897c54093",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-910#xywh=0,0,5475,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/0ad4fdc8-1078-458c-b506-e51a52dbffb0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On this page is"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/9154f2b0-8c77-4f2a-bdf8-86b7d32bc1e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-910#xywh=0,0,5475,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/1c6b6300-0539-4098-98f1-ccb959f9d525",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A.d. millesimo quingentesimo sexagesimo.In domino confido (etc.)"
+      }
+    }
+  ]
+}

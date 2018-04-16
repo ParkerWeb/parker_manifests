@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/3d788167-825a-4f27-b662-4d56bc43c093",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-11#xywh=0,0,5686,8622",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/c1fb5218-b4d5-47b1-a503-1d55dd206f9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit ammonitio augustini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/annotation/c84f87d6-c064-4518-8574-3364e396d85d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/canvas/canvas-11#xywh=0,0,5686,8622",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh542wm7507/res/5f0a292d-2612-4a10-bce0-70e3978c907b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Propitio Christo fratres karissimi ita lectionem diuinam"
+      }
+    }
+  ]
+}

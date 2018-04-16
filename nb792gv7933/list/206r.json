@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/list/206r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/annotation/9324b024-7391-4a0d-a941-cd68ddb5443b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/canvas/canvas-457#xywh=0,0,6359,9054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/res/c83e4df9-71bf-4355-9b3f-44c18931794a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sub numero denario parcium terminatur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/annotation/fdd72240-78cb-47be-8c7b-5f1aa46a3bb0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/canvas/canvas-457#xywh=0,0,6359,9054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/res/a54003e9-1d7d-4ae5-9d3f-375a137e0824",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit pupilla oculi editus a magistro Johanne de burgo cancellario uniuersitatis cantabrigiae et sacre pagine professore anno domini mo. ccco. lxxxvo"
+      }
+    }
+  ]
+}

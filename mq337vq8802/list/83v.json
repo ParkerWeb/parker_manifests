@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/list/83v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/9dd04b71-5e24-45f3-a4d7-f08925db1cc7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-166#xywh=0,0,5771,8090",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/d891ce6e-fd2c-4101-9601-5b4060bf0522",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Frequens sodalium meorum peticio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/28be70c0-e412-436f-a750-fdfa611e9677",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-166#xywh=0,0,5771,8090",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/07e1b4a3-139f-4582-98ab-85d80eea5690",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Principum mundi quales ab origine prima"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/list/222v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/annotation/bfaf29ac-723a-42ae-acd0-d292118686de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/canvas/canvas-450#xywh=0,0,6125,8748",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/res/39158fa4-1fa2-4d59-a31d-2562aa899bb7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: una potestas una cooperatio est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/annotation/c1122d25-3f1c-45ca-b529-756f919deaf4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/canvas/canvas-450#xywh=0,0,6125,8748",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qk423pn9162/res/7d540a76-0a06-49f8-a61e-2d9067f8f98d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber xxii Rabani magistri"
+      }
+    }
+  ]
+}

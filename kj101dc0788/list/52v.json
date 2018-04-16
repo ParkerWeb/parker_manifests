@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/52v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/3160ddd6-180a-4f78-8c5f-91aa8ed5f342",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-108#xywh=0,0,5805,8426",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/238efb40-7086-4c97-9792-ca4d68a3959b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: gesta sunt hec prope uillam que uocatur estrepeni"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/d92ad3bf-69e7-412b-a822-3f724695b696",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-108#xywh=0,0,5805,8426",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/59d930c5-df85-471c-ba5b-cd4665330ed8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note on Palls of Archbishops ( Stubbs"
+      }
+    }
+  ]
+}

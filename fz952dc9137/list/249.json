@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/list/249.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/5adcec21-9518-4ede-95d3-60ea88fe8558",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-259#xywh=0,0,4015,5586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/6b1ababd-efaf-40ab-bc73-27f3208dc220",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt gesta Alexandri Magni et eius genere atque vita"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/annotation/71a6bdf2-b0c1-4bff-812a-6b9eeb1bed0f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/canvas/canvas-259#xywh=0,0,4015,5586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz952dc9137/res/3d9b8935-9875-4d4a-8dad-610c3254165d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Egipti sapientes sati genere diuino"
+      }
+    }
+  ]
+}

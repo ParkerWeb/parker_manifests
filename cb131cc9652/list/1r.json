@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/annotation/7b34709e-6333-48c3-a73a-4786d7f07948",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/canvas/canvas-7#xywh=0,0,4496,7033",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/res/5ed38739-106f-4d05-8928-b4f20eac4d01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: M. Tullii Ciceronis Arpinatis de finibus bonorum et malorum liber primus incipit feliciter. Lege fel"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/annotation/3ef92503-327c-4d44-840c-5e97189c0833",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/canvas/canvas-7#xywh=0,0,4496,7033",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/res/55899524-acc0-4b6e-a566-0e3b18811335",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Non eram nescius brute"
+      }
+    }
+  ]
+}

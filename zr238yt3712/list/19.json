@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/list/19.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/28a7a372-61bf-44df-83d3-879ea1ae667a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-25#xywh=0,0,3690,5718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/beb36808-a2b7-4044-9f4e-ce1c7648b050",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequuntur alique brance de tinctura et primo de luna"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/annotation/2134afbe-8fa6-4749-a09b-bdf2bb178e13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/canvas/canvas-25#xywh=0,0,3690,5718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr238yt3712/res/e8a3ea4d-0f36-4909-8d91-95e3a0438732",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fili si tu volueris facere vel scire artem"
+      }
+    }
+  ]
+}

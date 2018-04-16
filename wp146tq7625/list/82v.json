@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/list/82v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/annotation/57c5a011-50a4-45e8-8e41-5b259c315ce3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-170#xywh=0,0,5500,7405",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/res/b494b66f-e435-49a0-8f9b-b3f044bd0427",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Cum sancto spiritu gloria magna patriFinit hoc opusculum deo gratias. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/annotation/af62e32e-2f8f-424e-97a1-7d2c77ef84e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-170#xywh=0,0,5500,7405",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/res/328087b6-e2c8-4801-b225-ff2cf65ff6d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hec sunt uaticiniae sibillae (?de Christo)"
+      }
+    }
+  ]
+}

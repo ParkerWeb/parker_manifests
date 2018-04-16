@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/list/144v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/c96e38b9-2bde-4ae1-b72c-680b0cd0e9eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-294#xywh=0,0,3691,5754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/8c015107-894b-4841-baa5-72fd19eb5c03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dedit atque permisit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/annotation/16954f79-c951-4175-9ada-f68b541a3b0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/canvas/canvas-294#xywh=0,0,3691,5754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jk450vc4313/res/524e04ea-6f69-4e5f-9116-1c3d2fbdad67",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Apulei affri madaurensis philosophi. platonici de deo socratis liber incipit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/annotation/ec906039-7640-4a7a-a5cb-d4916546a646",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/canvas/canvas-14#xywh=0,0,3643,5469",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/res/7d550f8c-e17f-440c-a2fa-7c1855cf0d88",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sorore falso"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/annotation/53d44489-0ff6-4b42-9473-baf34c0db034",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/canvas/canvas-14#xywh=0,0,3643,5469",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/res/ea6ebcdd-e416-4d5d-9b0b-e96700aa25fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus in andriam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/annotation/688ffb7d-de65-4abf-a96e-92704c5e6fe7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/canvas/canvas-14#xywh=0,0,3643,5469",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/res/af822c22-d6b1-43ce-a691-bab8ca5bf9cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Poeta cum primum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/list/20v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/annotation/0967f2ae-010b-4117-9fe6-be26e4107e3c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/canvas/canvas-52#xywh=0,0,3667,5505",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/res/01e285a4-cc09-4614-b1d1-cc28dbaf5fc8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sequentia perlegens animaduertere quiuerit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/annotation/7c5c8392-9a32-4a40-8675-aed12014a492",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/canvas/canvas-52#xywh=0,0,3667,5505",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ck580gj8781/res/650fbcdb-e406-41da-a8ec-c008d7985812",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Eunuchus"
+      }
+    }
+  ]
+}

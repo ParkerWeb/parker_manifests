@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/list/114v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/15f4d484-7244-4b12-a621-eab4fa73f736",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-244#xywh=0,0,5986,8418",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/cb3ede67-5999-46c4-b600-13488e59352c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anglia quo fulget quo gaudet presule claro"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/annotation/5caaf5ad-f096-4456-acb9-f85e123e4c2b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/canvas/canvas-244#xywh=0,0,5986,8418",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg362wn0438/res/21898065-00fb-42e5-804c-06edf43d0228",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Lundonie quo parisius scrutante sophiam"
+      }
+    }
+  ]
+}

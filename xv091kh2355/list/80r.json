@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/list/80r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/9383a56f-2025-4559-9df2-9a92bba9d826",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-163#xywh=0,0,3662,5958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/bad89e87-d0d5-4e73-85ba-e0aab3b83e9c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: hos per normannica compita dispergeret uiolancia dire captiuitatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/71b0d7aa-0f8c-4909-b6a2-8fc067a6ef90",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-163#xywh=0,0,3662,5958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/fea23a48-332d-49ab-87f4-63d5e8cf0696",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fuit enim apud damascum metropolim sirie quedam matrona (S. Mary of Sardenay)"
+      }
+    }
+  ]
+}

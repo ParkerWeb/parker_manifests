@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/list/154r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/af06ed49-35f1-42fd-8baa-8e8ad1f4622a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-321#xywh=0,0,3806,5702",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/63ac77b3-87c7-494f-ab36-76bccc48ad4a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/f546b564-16a1-49a7-ac16-96369d380a25",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-321#xywh=0,0,3806,5702",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/7f78b2f4-7b69-4e85-80b2-a4fae0674441",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sicut dicit apostolus ad romanos xii. multi unum corpus sumus"
+      }
+    }
+  ]
+}

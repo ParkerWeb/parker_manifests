@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/list/70r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/5db39b13-d4c8-4797-a50f-6da8c437731c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-147#xywh=0,0,5951,9454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/6813d28c-c04e-445c-b947-fd553da1f8e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(double leaf). Frontispiece to Numbers"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/annotation/9e774017-e8c9-411c-beb9-4d4f6c4c9033",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/canvas/canvas-147#xywh=0,0,5951,9454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm203xw8381/res/746f3529-b688-49d1-82a8-64bcecd24c77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Names have been scribbled in cent. xv on the ground"
+      }
+    }
+  ]
+}

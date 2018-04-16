@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/list/38v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/7cf7f5b5-7e9d-4d95-a8f2-41282690d360",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-82#xywh=0,0,3404,5318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/cced30fe-0006-4b7d-9a2a-4e5c0ccf6b80",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: inferius ad animal"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/ac3f431c-765e-41dd-a0a5-6fa926905e33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-82#xywh=0,0,3404,5318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/60064126-f249-4f29-88b2-528a28fe6151",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit communis tractatus quod R. E."
+      }
+    }
+  ]
+}

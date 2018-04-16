@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/list/ir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/annotation/91d1c23f-060a-4423-ab93-4bd2057297a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/canvas/canvas-7#xywh=0,0,6127,9138",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/res/0ce35f75-afd0-452f-88c2-72cf0d06cc4f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/annotation/8e796c5a-c5fe-40e9-8f49-c63b3f76bf4f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/canvas/canvas-7#xywh=0,0,6127,9138",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb792gv7933/res/d0879414-b9b6-4fcc-acf2-b20a416f2716",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abbas"
+      }
+    }
+  ]
+}

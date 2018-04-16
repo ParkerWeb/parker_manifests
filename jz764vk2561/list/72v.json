@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/list/72v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/6918b1e5-1369-4eb1-99f2-afb3bc422ead",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-158#xywh=0,0,5728,8585",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/c3348294-9e47-475e-9047-5b6feb392135",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: studio tibi temperare satagas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/annotation/e961343b-6f7c-411a-b121-e5fafd0a241a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/canvas/canvas-158#xywh=0,0,5728,8585",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jz764vk2561/res/69fd35c8-0329-4224-9f62-60de18c6fbfe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De situ terrarum Bede presbiteri explicit libellus"
+      }
+    }
+  ]
+}

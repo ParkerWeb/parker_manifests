@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/list/24r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/261ba86b-098b-43ef-b6ab-caeccb1b8c47",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-57#xywh=0,0,3456,5192",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/9966d57a-ec2e-47f0-b924-16951e80cb7f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hildebertus super missam. A smaller hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/39288501-4637-4113-92d9-79a4eca722ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-57#xywh=0,0,3456,5192",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/6715a1f0-c071-4ed7-b45e-06cfed912dd1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Scribere proposui quid mistica sacra priorum"
+      }
+    }
+  ]
+}

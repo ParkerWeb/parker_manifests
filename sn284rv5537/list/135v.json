@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/list/135v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/038fb1d7-bf10-4697-8599-6535e8296f82",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-282#xywh=0,0,3230,4982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/ff863e00-570d-4dbf-a5af-2dc5e34c3b8b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: R. de essexe"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/6d3e2616-1349-4928-a804-edd9fc02d25e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-282#xywh=0,0,3230,4982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/febab319-90d4-44df-9cd2-0bc82dfa09a5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Second copy of Henry I's charter in Christ Church hand"
+      }
+    }
+  ]
+}

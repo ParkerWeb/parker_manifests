@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/list/164a.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/047b5994-714b-4413-9291-028708221e42",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-181#xywh=0,0,3679,5871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/760f7f08-4854-4cbe-9bea-5599bc5edb8d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nunc inseramus consecrationem sacerdotis et uideamus si adeo excellens est ut consecratio regis. Talis quippe est pontificis consecratio. Domine sancte pater"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/annotation/a2bda1a0-fc62-404b-afce-ead49e1b00d8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/canvas/canvas-181#xywh=0,0,3679,5871",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nr257ff7994/res/9690ddb7-7247-4a55-9e69-7db8249b8cea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "163*"
+      }
+    }
+  ]
+}

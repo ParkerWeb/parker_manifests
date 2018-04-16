@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/960cfb59-985d-4b9b-9f7d-6fbe5abf17a6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-16#xywh=0,0,3824,5714",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/f30f50fc-4e5a-4467-87f3-f374ff288088",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: lete diodorus hymself haue the langage"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/b0a62f68-c560-49ae-84c7-0acdc668b080",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-16#xywh=0,0,3824,5714",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/1a6c111b-fb61-4b2a-abcf-48cf7e6572fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Thus endeth the prohemye of Poggius"
+      }
+    }
+  ]
+}

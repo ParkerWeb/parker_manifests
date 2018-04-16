@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/list/161.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/8f8ff9f9-1e77-4919-8cfc-74b68c868728",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-173#xywh=0,0,3326,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/b7cdb10b-d87d-4d80-ada6-e504fdd70cf6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De fide catholica"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/e8b50585-f5c2-424e-bb30-ca6a86e2b3ca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-173#xywh=0,0,3326,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/a9c410a1-b2c3-4626-ad1b-f00749e002fb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Leofan men doð sƿa eoƿ micel þearf is"
+      }
+    }
+  ]
+}

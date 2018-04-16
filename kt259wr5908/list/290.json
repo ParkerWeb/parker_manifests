@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/list/290.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/79efa51c-c68c-42e6-ac10-a71269d7e000",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-298#xywh=0,0,6226,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/bca2392a-2ab7-4368-8809-b3500388d18a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: retinens quod dilectat. qui es benedictus in secula seculorum Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/annotation/c7773b45-df61-4077-a18e-8d3ca57c3ab3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/canvas/canvas-298#xywh=0,0,6226,8982",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kt259wr5908/res/cb78d458-6d5f-4277-a20c-62ba4f01c7a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber ardmachani doctoris"
+      }
+    }
+  ]
+}

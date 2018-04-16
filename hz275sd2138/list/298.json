@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/list/298.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/b5f6a76b-03b2-4ef8-b2e2-d2f74f8a118a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-309#xywh=0,0,5910,8924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/bbd8c9d2-2063-4173-af49-662c6bee2363",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On pp. 298-299 is a neatly written poem on the name of Jesus (with which name each line ends)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/622d9feb-5343-4c50-a9de-c7936ef9ccd5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-309#xywh=0,0,5910,8924",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/29c50eea-d4b9-40f1-8d2e-4795e7217e3c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnibus omne (?) locis tutamen nomen Iesus...Spiritus ast fructus bene adorat nomen Iesu."
+      }
+    }
+  ]
+}

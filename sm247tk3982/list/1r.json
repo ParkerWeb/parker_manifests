@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/annotation/d76bfbd0-f15d-4db5-8cdd-f182e5874be0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-5#xywh=0,0,5233,8353",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/res/9d0ccc16-fb94-4168-98e3-507525344abe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Prologus Rufini In libro numeri ad Ursatium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/annotation/92462906-1dff-4871-9eda-41b275bf4514",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-5#xywh=0,0,5233,8353",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/res/fa8e0c55-d9b5-4de5-a8b0-0005e01105aa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ut uerbis tibi pater beati martiris loquar"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/annotation/268119b2-d15b-4dd4-ad1b-001896b3a603",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-5#xywh=0,0,5233,8353",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/res/45b69e55-e193-41f8-9789-dcff9640e989",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in profectum legentium promat"
+      }
+    }
+  ]
+}

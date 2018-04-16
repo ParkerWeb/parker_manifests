@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/list/95r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/0bcc2fe3-200e-4037-b89b-7637cea2d83c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-195#xywh=0,0,3479,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/4573fca5-6507-420f-a34d-2942551bc2c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ascendens usque uapores"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/7991e399-ccaa-4972-9ef6-7dc001921c21",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-195#xywh=0,0,3479,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/2c3e80a6-478c-4bf9-840a-c919c0107aca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dyonisius ariopagite episcopus athenarum ad tymotheum episcopum ephesi de ecclesiastica ierarchia finitus est liber"
+      }
+    }
+  ]
+}

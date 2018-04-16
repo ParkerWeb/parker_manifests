@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/list/97r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/a8b307ec-5d10-4f34-ab53-16df371018d7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-201#xywh=0,0,3515,5287",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/537a2c77-c012-47a0-a025-e5e87c7b87b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Raptor mei pillei morte moriatur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/annotation/3da7bd72-b586-4ad4-8f63-d420b4116835",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/canvas/canvas-201#xywh=0,0,3515,5287",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bc961dv0378/res/d7a3514e-f038-496d-99a6-088f5e76ac20",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Anathema fuerit fiat fiat amen"
+      }
+    }
+  ]
+}

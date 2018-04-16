@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/list/135v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/728d50e3-ac42-400e-b346-6d4a4405f049",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-272#xywh=0,0,3800,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/0b6f41e2-1841-4925-a243-cdadb6452e2b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: premissis uel alicui premissorum contrarie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/9aec7805-f873-4962-b29b-0933ac204d73",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-272#xywh=0,0,3800,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/a7942b7b-a0a7-4d87-90c0-bd2fdbab7d8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit casus abstracti a iure per ffratrem et magistrum Hermannum de prouincia saxonie per capitulum generale apud Saturium examinati et approbati"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/list/146.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/274edea1-7e75-40ea-a5bc-e8470d0824f1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-152#xywh=0,0,4205,6199",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/6af78f45-b0b0-4a86-af34-177c0bec57dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/09e1e21c-cdec-4813-80be-ddb130416338",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-152#xywh=0,0,4205,6199",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/e2828e7a-5212-4792-99ad-5de7cb9e31cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In hoc primationum ciclo 4 linee descendentes"
+      }
+    }
+  ]
+}

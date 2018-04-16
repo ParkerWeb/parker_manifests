@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/list/11.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/annotation/22db6c76-d772-4458-b8e3-ea251d80e1a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/canvas/canvas-17#xywh=0,0,3675,5697",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/res/b8934f70-8318-4f97-92f5-33a282e7c8e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On p. 11 initial in red and green with bird's head: on pp. 42"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/annotation/d792aa21-8bec-4abb-b002-d1b8a628f727",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/canvas/canvas-17#xywh=0,0,3675,5697",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk550db6454/res/c5e12e49-2758-4712-8a5a-c13f3438b5c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "6r"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/list/131v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/annotation/63d7e86d-c9fe-409c-b03c-126b56dec4b8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/canvas/canvas-268#xywh=0,0,3799,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/res/c0dcc838-28f1-4937-9ac9-f137234203c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Adduci merear Christo regnante per ethram"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/annotation/08b61ba3-1d34-4904-9021-96b027476500",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/canvas/canvas-268#xywh=0,0,3799,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pw573ct5642/res/78f039c2-eb49-4c05-8176-50a6d97f9f4d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit ΛΙΒΗΡ Aldhelmi Archiepiscopi de viii vitiis principalibus"
+      }
+    }
+  ]
+}

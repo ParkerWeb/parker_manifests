@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/162r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/c7c8f544-55d4-4c1c-a79f-44fa257c7747",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-331#xywh=0,0,5734,8993",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/8c62bc2b-fece-45f4-ad4b-8e7a10fda8a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Single lines written as prose"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/a578d1b1-6970-43e2-a781-a31977c8ee21",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-331#xywh=0,0,5734,8993",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/20252a8f-103b-4432-a0f5-a7a856cee9d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Que merces hominis tot desudare caminisCuius habet finis tempora membra cinisSi uitam uolumus que transit et est quasi fumusNon homines sed humus sed magis umbra sumus"
+      }
+    }
+  ]
+}

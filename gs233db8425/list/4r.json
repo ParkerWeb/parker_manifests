@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/ad98364b-2c9a-4375-a52e-4a2431af9af0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-19#xywh=0,0,4022,6538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/0c6f165c-ca83-44ab-a91f-97038aaed323",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "July. In broad hat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/a30d149c-5dc7-4f0e-9d8b-f21c6fa9cd72",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-19#xywh=0,0,4022,6538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/ff08a67d-50a8-424a-973f-840c8184edd6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "July 7. Translatio S. Thome M. in red erased and rewritten in cent. xvi"
+      }
+    }
+  ]
+}

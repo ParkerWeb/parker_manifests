@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/annotation/43caf665-da3f-4e70-a8ed-15478614ed9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/canvas/canvas-9#xywh=0,0,5310,8598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/res/cae44f21-a4b0-470d-8d27-2301050d0538",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Reuerendo in Christo patri suo domino Octobono ... Guillelmo Duranti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/annotation/3bcf59e8-0bb6-4a3d-9d9e-f64334ef2c68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/canvas/canvas-9#xywh=0,0,5310,8598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/res/918e5d71-91ca-4b0e-855b-6577441f607a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De throno dei procedunt fulgura et uoces"
+      }
+    }
+  ]
+}

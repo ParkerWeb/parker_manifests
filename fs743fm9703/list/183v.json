@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/list/183v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/d8734e16-8fe8-40c2-a340-9214de40ff96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-422#xywh=0,0,6154,8718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/ad28f797-6932-4e93-b36a-86fe43811993",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: dirigat in eo gressus nostros"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/d33560d6-fde7-4436-b9b3-30eab9081ac0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-422#xywh=0,0,6154,8718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/8db4195e-579e-4923-b80d-4904b37043be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Policraticus Johannis de Saresberie. Liber VIII"
+      }
+    }
+  ]
+}

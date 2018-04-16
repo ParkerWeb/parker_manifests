@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/list/9v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/910e5f11-dba3-4c24-a456-08a5bcda0ef2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-26#xywh=0,0,5523,8403",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/654347e8-c1c7-496c-9a6f-9ba6344b379c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Cantia: Nomina Archiepiscoporum dororenensis (!) ecclesie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/d175fa85-f4cc-46b9-88a9-f24f12f90a29",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-26#xywh=0,0,5523,8403",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/fa346675-86ef-4e72-adab-7a8e90bcf11a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Thorpe I 231"
+      }
+    }
+  ]
+}

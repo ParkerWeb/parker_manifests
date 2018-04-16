@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/annotation/bd680bc2-3e0b-4b9e-9e11-5024e23a8a93",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/canvas/canvas-5#xywh=0,0,6224,9366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/res/7a9a4dd3-0305-4a6c-8355-e33cfda31911",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/annotation/0d5e49d8-5ae8-4caf-a807-120ae4a29102",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/canvas/canvas-5#xywh=0,0,6224,9366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz051sq9084/res/2d433896-c377-4110-a962-fc0ce2f3e1d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Rex Pacificus pia miseratione"
+      }
+    }
+  ]
+}

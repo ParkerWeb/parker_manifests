@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/list/135v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/a23d5888-6cb4-43b5-a9f0-91df7e837bd7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-282#xywh=0,0,3556,5910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/93e07725-0465-42ee-9339-0a1da21aa284",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The old hand ends imperfectly in capitulum lvi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/dd7dddb2-de15-478e-9328-f03e1bd59ffe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-282#xywh=0,0,3556,5910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/78bfd205-1ed4-47ec-bc60-d57f7e1ae9af",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Quod tamen utrum in reprobis habeatur est fortasse ambiguum quia iuxta"
+      }
+    }
+  ]
+}

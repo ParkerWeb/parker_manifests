@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/list/71v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/annotation/661b9c23-a5a9-49fb-8343-13cd82bbdcec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/canvas/canvas-148#xywh=0,0,6322,9162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/res/9f8a1c6f-788d-4e97-aaf6-3f15f73fc6c8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Elegit uti terram relinqueret et trans mare"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/annotation/4c85aaa2-4fc2-42d7-9c13-94ccca46aeeb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/canvas/canvas-148#xywh=0,0,6322,9162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jg950dd4356/res/7e4d5955-b6f5-4d8f-86a2-bf73ba548ce7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber de uita et actibus im(per)atorum anglie et francie"
+      }
+    }
+  ]
+}

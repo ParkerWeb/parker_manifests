@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/list/28.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/643a3832-5b52-40cd-bde4-a4c4252b0432",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-34#xywh=0,0,3869,5888",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/319f2ac8-d026-4b52-b155-0d156cf1ae3f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/annotation/f028f2cd-9f05-4598-a267-6e83bf7091e0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/canvas/canvas-34#xywh=0,0,3869,5888",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jb848tp9919/res/148c4d9a-dc57-4192-8b0d-9ac6473ad13e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Priori libello globum"
+      }
+    }
+  ]
+}

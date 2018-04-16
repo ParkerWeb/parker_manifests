@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/annotation/43bfcd1f-71fd-4ec8-b2bd-fe9798c92313",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/canvas/canvas-16#xywh=0,0,6394,9271",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/res/f5786c81-2ae6-4d57-972b-79600848b19d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/annotation/ba44c8a2-feb7-45a1-a6ba-0209742a56db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/canvas/canvas-16#xywh=0,0,6394,9271",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bv488md1266/res/ea1046df-6c25-4a84-90a8-73ad25499989",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ab anno primo graciani"
+      }
+    }
+  ]
+}

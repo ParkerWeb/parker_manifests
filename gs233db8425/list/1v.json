@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/8736c4f5-8eb2-4b0d-8663-0e21592ee61c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-16#xywh=0,0,4038,6463",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/13c5f69b-c1fc-4ea5-a6c5-10f1f7eadf0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "February. Sits with face to L. by fire and hooks a piece of meat out of a pot. Piscis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/4c17db16-c6b9-42f6-b2f2-bf098d20da58",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-16#xywh=0,0,4038,6463",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/781d507e-7bd8-4370-94c2-6208f6db8233",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "February 3. Werburge V. added early 28. Oswaldi archiep."
+      }
+    }
+  ]
+}

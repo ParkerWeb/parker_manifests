@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/list/198r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/annotation/732be93d-9862-4eb8-9b1f-dbce274f32fc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/canvas/canvas-397#xywh=0,0,6046,8106",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/res/33637bb7-7b94-4c68-85ef-52107210a667",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit auctoris prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/annotation/6b215762-04ea-4dd6-8c3e-87257e59f316",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/canvas/canvas-397#xywh=0,0,6046,8106",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rv061qs6439/res/6f03d99f-80a3-4cf7-b68c-b462b8da56db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam quidem fraterne dilectionis"
+      }
+    }
+  ]
+}

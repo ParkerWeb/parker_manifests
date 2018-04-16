@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/7f5bff85-8399-4f44-ac39-f2b75b04ba35",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-13#xywh=0,0,3747,6195",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/929bbe11-a338-4e04-a33c-50a0c7e0175f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "still in a hand of cent. xv"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/3d25401d-7b03-4ee7-b1f2-affef4d32e48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-13#xywh=0,0,3747,6195",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/91081a3c-3387-4ac3-9f62-c2be45dab839",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ordo ad facienda sponsalia (with musical cues)"
+      }
+    }
+  ]
+}
