@@ -15,6 +15,33 @@
       "label": "Current page order",
       "canvases": [
         {
+          "@id": "https://purl.stanford.edu/kn481rp5206/iiif/canvas/kn481rp5206_79",
+          "@type": "sc:Canvas",
+          "label": "Full Scroll - Stitched",
+          "height": 155422,
+          "width": 7861,
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/kn481rp5206/iiif/annotation/kn481rp5206_79",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/kn481rp5206%2F098a_000_stitched/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 155422,
+                "width": 7861,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/kn481rp5206%2F098a_000_stitched",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/kn481rp5206/iiif/canvas/kn481rp5206_79"
+            }
+          ]
+        },
+        {
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kn481rp5206/canvas/canvas-1",
           "@type": "sc:Canvas",
           "label": "p. 1",
