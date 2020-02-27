@@ -6924,6 +6924,33 @@
           ]
         },
         {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-251b",
+          "@type": "sc:Canvas",
+          "label": "f. 121v",
+          "height": 8658,
+          "width": 6022,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/imageanno/anno-251b",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/qj220gv8417/139_121_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 8658,
+                "width": 6022,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/qj220gv8417%252F139_121_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-251b"
+            }
+          ]
+        },
+        {
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-252",
           "@type": "sc:Canvas",
           "label": "f. 122r",
