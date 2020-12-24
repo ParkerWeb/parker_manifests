@@ -14,33 +14,33 @@
       "@type": "sc:Sequence",
       "label": "Current page order",
       "canvases": [
-          {
-            "@id": "https://purl.stanford.edu/mg842cs7737/iiif/canvas/mg842cs7737_1",
-            "@type": "sc:Canvas",
-            "label": "Full Scroll - Stitched",
-            "height": 27086,
-            "width": 6199,
-            "images": [
-              {
-                "@id": "https://purl.stanford.edu/mg842cs7737/iiif/annotation/mg842cs7737_1",
-                "@type": "oa:Annotation",
-                "motivation": "sc:painting",
-                "resource": {
-                  "@id": "https://stacks.stanford.edu/image/iiif/mg842cs7737%2F545_000_stitched_rotated/full/full/0/default.jpg",
-                  "@type": "dctypes:Image",
-                  "format": "image/jpeg",
-                  "height": 27086,
-                  "width": 6199,
-                  "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://stacks.stanford.edu/image/iiif/mg842cs7737%2F545_000_stitched_rotated",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
-                  }
-                },
-                "on": "https://purl.stanford.edu/mg842cs7737/iiif/canvas/mg842cs7737_1"
-              }
-            ]
-          },
+        {
+          "@id": "https://purl.stanford.edu/mg842cs7737/iiif/canvas/mg842cs7737_1",
+          "@type": "sc:Canvas",
+          "label": "Full Scroll - Stitched",
+          "height": 27086,
+          "width": 6199,
+          "images": [
+            {
+              "@id": "https://purl.stanford.edu/mg842cs7737/iiif/annotation/mg842cs7737_1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/mg842cs7737%2F545_000_stitched_rotated/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 27086,
+                "width": 6199,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/mg842cs7737%2F545_000_stitched_rotated",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://purl.stanford.edu/mg842cs7737/iiif/canvas/mg842cs7737_1"
+            }
+          ]
+        },
         {
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mg842cs7737/canvas/canvas-0",
           "@type": "sc:Canvas",
@@ -252,5 +252,6 @@
       "profile": "http://iiif.io/api/image/2/level1.json"
     }
   },
-  "license": "https://creativecommons.org/licenses/by-nc/4.0/"
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "description": "CCCC MS 545 is an Old Testament Chronology written in coloured capitals. The roll was transferred from the College Archives to the Parker Library in December 1959."
 }
