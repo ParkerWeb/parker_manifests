@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/annotation/dd8f9f06-4993-11eb-b378-0242ac130002",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://purl.stanford.edu/zs860hs4144/iiif/canvas/zs860hs4144_2#xywh=0,0,4076,6225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/res/dd8fa1ea-4993-11eb-b378-0242ac130002",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Diameter terre est 6500 miliaria"
+      }
+    }
+  ]
+}
