@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/list/123r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/annotation/cd3c8c2b-e835-4b1a-b2b7-08196f2951d6",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/canvas/canvas-255#xywh=0,0,3940,5729",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/res/5b212843-427c-4ee9-a530-ee48ac6716ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: confidenter tamen dico quia plus deo placuerunt virtutes quam displicuerunt excessus. quod nunc per miracula ad tumbam eius manifestatur coruscantia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/annotation/5f8f0c86-bdd5-403b-92e5-0a707a5d6332",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/canvas/canvas-255#xywh=0,0,3940,5729",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/res/1451df51-99d7-4a86-af4a-2a78cac92745",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primo proponit clericus iuramentum dictum quodammodo sub hac forma. Clericus. Miror optime miles paucis diebus"
+      }
+    }
+  ]
+}

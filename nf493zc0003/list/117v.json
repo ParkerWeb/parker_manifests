@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/list/117v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/annotation/c0d32403-b10c-4454-a48c-9b80eeb1b172",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/canvas/canvas-244#xywh=0,0,4116,5763",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/res/10ecfa67-3f6e-49ec-9b3d-3b4809d4df43",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The last is on Commemoratio animarum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/annotation/2b7f8393-29ea-4570-ad2c-687680bde79f",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/canvas/canvas-244#xywh=0,0,4116,5763",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/res/a8929ef3-a41f-4038-8230-273311c73c20",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dominus noster Ihesus Christus eternus eterni dei patris filius de secretissimo sinu patris"
+      }
+    }
+  ]
+}

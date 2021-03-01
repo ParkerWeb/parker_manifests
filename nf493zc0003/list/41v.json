@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/list/41v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/annotation/66480d22-e7bb-467f-9001-e08e21472c25",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/canvas/canvas-92#xywh=0,0,3956,5797",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/res/c8841cd4-7e50-4736-9fe7-326d7f5d08a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: non imputauit dominus peccatum etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/annotation/cdd76719-9533-4742-8e05-20ca8a049564",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/canvas/canvas-92#xywh=0,0,3956,5797",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nf493zc0003/res/dc4d82bd-273f-4257-9194-f823cb891298",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit libelus venerabilis Ricardi etc."
+      }
+    }
+  ]
+}

@@ -4,12 +4,24 @@
   "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/list/ir.json",
   "resources": [
     {
-      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/09793b14-be91-4379-996e-a5fb93eacf93",
-      "@type": "oa:Annotation",
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/0acb4a00-ddfd-486c-b6f1-cbfa32e9b0a5",
+      "@type": "oa:annotation",
       "motivation": "oa:commenting",
       "on": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/canvas/canvas-9#xywh=0,0,3805,5683",
       "resource": {
-        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/a420e9da-a119-481e-b80a-6f3377b52907",
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/a0d63f32-c7af-4263-ac7a-605463cd3e25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ex historia J. Marii Belgi de schismatibus p. 416"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/e66d12e4-3c2a-42da-8aa5-b831038e6545",
+      "@type": "oa:annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/canvas/canvas-9#xywh=0,0,3805,5683",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/0fc7883f-0eee-4dee-b607-7347ce6cc44a",
         "@type": "cnt:ContentAsText",
         "format": "text/plain",
         "chars": "Incipit: Cum Cleol rex Britanniae"
