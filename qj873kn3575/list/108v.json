@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/list/108v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/881c5e02-45ed-4722-b885-ea5a2a2ca9e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-228#xywh=0,0,3303,5078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/24574020-61d1-4acb-ad62-a4d58ab09f80",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: penes auctorem meum Iohannem fit. Hec prefatus incipio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/annotation/1f571b95-8ae9-427c-a25e-ff21d2ae92bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/canvas/canvas-228#xywh=0,0,3303,5078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj873kn3575/res/db7a780e-49b3-4933-a48e-4e2cdc99dc09",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit prologus"
+      }
+    }
+  ]
+}

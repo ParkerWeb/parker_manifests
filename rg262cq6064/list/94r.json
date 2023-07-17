@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/list/94r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/bd1fe75f-0327-4da5-93a9-5c32825160fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-193#xywh=0,0,3510,5388",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/3e4b3d52-dd5a-450e-8860-a46dd53d5104",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ad asperitatem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/annotation/47271a62-7be4-4003-a00e-2be2720e5588",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/canvas/canvas-193#xywh=0,0,3510,5388",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rg262cq6064/res/ad4b60c1-2d22-4e5a-8aad-978cb12f2f7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt nature quod E(lyot)"
+      }
+    }
+  ]
+}

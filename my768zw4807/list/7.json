@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/list/7.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/annotation/cd7a4904-958d-432e-9ad6-e09427d312e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/canvas/canvas-9#xywh=0,0,5160,8240",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/res/e365f97d-ea36-412f-817a-d60d7a06768e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber de promotionibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/annotation/09160784-09e1-4ffc-9bb3-5b057d6c7af3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/canvas/canvas-9#xywh=0,0,5160,8240",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my768zw4807/res/d6fd5b3d-0fbd-4d52-a0cc-6e208cf4651b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial of text, gold on blue, salmon pink within. Half-length of Geoffrey in mitre, green chasuble with pall, over blue, holding long cross and blessing. Edged with green"
+      }
+    }
+  ]
+}

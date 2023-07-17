@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/list/4.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/annotation/4ecd8750-7876-4383-90ec-f0f958e7570d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/canvas/canvas-10#xywh=0,0,3638,5102",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dm805gn6112/res/e5626a3f-12d7-4469-8a16-d65e7a110c75",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Only one diagram"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/list/iiv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/01a84420-6869-4299-bfa8-34cc9ba9f232",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-12#xywh=0,0,3620,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/4cc4f367-7bd7-48dd-b9d2-928a4076c941",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "occupied by a title in red and black capitals of cent. xii. Initial in red and green"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/annotation/10a3523e-8ae9-4d6e-a2bd-fb4861156363",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/canvas/canvas-12#xywh=0,0,3620,5850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr832wy7248/res/2d152583-537a-426c-a8c8-eeb1d47a53c8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Pronosticorum futuri seculi /. Sanctissimo ac / pre ceteris familiarissimo michi domino / ydalio Barcilonensis / sedis episcopo Iulianus Toletane sedis Episcopus"
+      }
+    }
+  ]
+}

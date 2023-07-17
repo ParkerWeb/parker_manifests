@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/list/17r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/547fe127-c5dc-453f-8030-e93cdd43ed19",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-41#xywh=0,0,2655,6718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/cceddd00-6e7d-4e3b-88d6-240f042cca94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Auctor ad materie seriem redit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/de7e43b1-b577-40bb-9e05-8c8a94ef8323",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-41#xywh=0,0,2655,6718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/c22e0e80-22b4-4271-90a4-1238c9ad2ccd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hiis interiectis uti decet amodo rectisAd seriem recti recto decet ordine flecti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/130c2865-00a2-4363-84c9-bf32bf484e77",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-41#xywh=0,0,2655,6718",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/ebc7d71f-2768-4c9d-8ea3-43c71f9d11a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "with a sign referring to a passage on f. 75v"
+      }
+    }
+  ]
+}

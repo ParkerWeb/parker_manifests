@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/247r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/9146a841-9d98-4d03-b854-1c779771e9f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-511#xywh=0,0,5814,9071",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/a2911e44-dc3a-49b0-af1b-4dc03cdb1e19",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Isaiah - Malachi (330r)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/defa9697-9b51-4afb-b833-c99776933500",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-511#xywh=0,0,5814,9071",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/2b5fc85e-9db1-44d1-919e-68d95664113a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Isaiahnude bound head down between two posts and sawn by two men"
+      }
+    }
+  ]
+}

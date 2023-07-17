@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/list/9r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/aa59378a-b564-4bad-8c33-38de1ee48e68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-25#xywh=0,0,3208,5270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/acc35252-b5d1-4509-a898-c7dfa03fbe92",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt consuetudines ecclesie Norwyc. per annum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/annotation/ed5fd18e-283b-43ca-8ea8-9d4e3f4e0d33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/canvas/canvas-25#xywh=0,0,3208,5270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hj164fb1760/res/1a58282d-34e5-44ed-9be3-533854f53341",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sabbato aduentus domini"
+      }
+    }
+  ]
+}

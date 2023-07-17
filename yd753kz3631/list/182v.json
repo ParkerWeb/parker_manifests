@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/list/182v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/d1f34869-0f6a-499c-864c-588ff01f8e2c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-370#xywh=0,0,5930,9125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/379f810c-ab39-425b-b79c-9830be4a040c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: uersiculi huius meditacione seruauerint"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/annotation/3ecfc135-3013-4c83-982e-1f0a940564b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/canvas/canvas-370#xywh=0,0,5930,9125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yd753kz3631/res/cd4a3d1b-be19-4526-8288-f33f6aa3fd29",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "[xvi: Expliciunt decem collationes Cassiani sed sunt impresse 24 collationes.]"
+      }
+    }
+  ]
+}

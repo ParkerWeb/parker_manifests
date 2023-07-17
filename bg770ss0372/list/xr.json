@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/list/xr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/d47c155b-d055-4f8d-ab7d-bbf7b547c469",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-21#xywh=0,0,3665,6196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/cdf18998-581d-4145-89ae-7235c01f1c74",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Larger hand, 22 lines to a page"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/7437f75f-4e8b-4e83-9f07-c329b50a7d33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-21#xywh=0,0,3665,6196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/7a798c70-7bac-43fd-8ca2-3771dfd6e0b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Papa gregorius uniuersis et singulis peregrinantibus quocunque tempore anni venientibus ad ecclesiam Sancti petri apostoli etc."
+      }
+    }
+  ]
+}

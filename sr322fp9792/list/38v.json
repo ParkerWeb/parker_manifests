@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/list/38v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/ba1cb217-c485-46c8-85fb-03f3b94e3c94",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-84#xywh=0,0,3782,5174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/a1d3cf3a-0233-4c88-976d-7fd6ebbacdac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in red and green uncials"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/0d8fec72-1489-49e6-92b2-d4d46cda6cc1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-84#xywh=0,0,3782,5174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/f2a2e1c9-e05c-46cb-9bf1-819db79e1795",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In nomine sanctae Trinitatis incipit sermo Ambrosii Autberti presbiteri de cupiditate uiris saecularibus utilis ualde habens scripturarum testimonia octoginta et (?) eo amplius. lege quicunque (a)d aedificationem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/4019a9b4-7501-4f35-858a-9363ca051eba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-84#xywh=0,0,3782,5174",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/0f18563a-8d3f-4681-9492-7ab19de6e8b7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctorum ecclesiam fratres karissimi esse dei agrum quis dubitet"
+      }
+    }
+  ]
+}

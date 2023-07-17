@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/list/138r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/annotation/18b1875e-f504-49d0-b3d0-2d79569e8f62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-284#xywh=0,0,5828,8400",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/res/23670cdc-a863-4bcd-952d-7f187c5d8782",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit descriptio Aethelredi abbatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/annotation/63d0868e-74c0-439d-ac3b-62b371548241",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/canvas/canvas-284#xywh=0,0,5828,8400",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qj220gv8417/res/e92e1726-d96e-4ddd-bb7b-a45b7b58673a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit descriptio predicti prioris haugustaldensis ecclesie"
+      }
+    }
+  ]
+}

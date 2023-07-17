@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/list/182.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/83197340-d195-49af-bba9-31aff0adef62",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-190#xywh=0,0,5584,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/4df13032-2542-4fb0-9cb4-47f138fbdbfb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ordo qualiter ordinetur Romanus pontifex"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/a4ae5dbc-cbe0-49be-8d91-695a34ff473e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-190#xywh=0,0,5584,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/2916bd75-4bf0-4e90-87be-43cec9f1a6f5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ordo quando pallium datur archiepiscopo"
+      }
+    }
+  ]
+}

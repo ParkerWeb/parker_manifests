@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/list/34r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/annotation/2bea653e-d01a-409d-a6f3-036624a42577",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/canvas/canvas-85#xywh=0,0,5460,7880",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/res/13087ae2-4972-4847-be1a-23b2fecb36ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Exposicio misse bona"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/annotation/c6fde6b4-ee5f-4433-8b32-6efc671b864d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/canvas/canvas-85#xywh=0,0,5460,7880",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ch848mw3016/res/1125d48a-8539-4711-9dac-595ed576889f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Christus assistens pontifex ... de d. I. C. summo et vero pontifice"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/list/377.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/annotation/b1496508-b72b-4407-b8df-6b20b76dcf59",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/canvas/canvas-381#xywh=0,0,5626,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/res/e0aef740-98ad-4f16-a74b-7b673f9edbea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rochester"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/annotation/be16d0b2-149b-49f5-81e9-6720dd70ecd4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/canvas/canvas-381#xywh=0,0,5626,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tm291ck1446/res/cc0197e4-6fa8-494a-9415-f30b39b9ee2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Chester"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/31448f00-b4c5-4f78-9067-2521e7237ad3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-9#xywh=0,0,3734,5222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/8ed88932-50d7-4fae-9324-427e2cfdea63",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Martini Episcopi ad Mironem Regem de quattuor virtutibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/annotation/996e6e46-b251-4b25-8a48-c4bd51f52b6f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/canvas/canvas-9#xywh=0,0,3734,5222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr322fp9792/res/106cdac2-4f20-4eab-93da-f6c57c23a197",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gloriosissimo ac tranquillissimo et insigni catholicae fidei praedito pietate mironi regi"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/list/161r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/021ef64b-1813-4352-9077-752bddb8ddd1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-327#xywh=0,0,6064,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/3fb97f62-c1c4-4719-850b-0697b8e180f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: de se loquitur ipsa sententia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/c98da4be-704f-4aec-88f5-a5ba26a27911",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-327#xywh=0,0,6064,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/6871efd4-04ed-4b1c-913e-7bbc97d4746d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus eiusdem ad eundem quem Constantinopoli eidem ipso tradidit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/bc3d8008-4d1a-4b44-a652-fd1b40db1b1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-327#xywh=0,0,6064,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/0f9ebd27-bd33-42f1-9f5e-f6bc0b5eb795",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Non sum nescius piissime imperator"
+      }
+    }
+  ]
+}

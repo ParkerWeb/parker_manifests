@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/annotation/2615060b-7dd3-4efb-a83e-7bba16506d0d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/canvas/canvas-3#xywh=0,0,5712,7847",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/res/8bea4bc3-c99c-4a5e-8261-8289d770a047",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit prologus sancti Ieronimi presbiteri in iheremiam prophetam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/annotation/d2e4e349-1f2b-4b9e-b910-ab31d46b6ee6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/canvas/canvas-3#xywh=0,0,5712,7847",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/res/879654e9-cd60-4313-95c7-33af6b60d692",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ieremias propheta cui hic prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/annotation/07c09a80-3313-460b-b83a-c03f8074feb8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/canvas/canvas-3#xywh=0,0,5712,7847",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ff315vp3525/res/7fad5d58-8c90-4f8e-9790-8fb095623c15",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text of Jeremiah with curious gaudy initial in red"
+      }
+    }
+  ]
+}

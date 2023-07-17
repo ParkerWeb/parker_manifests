@@ -1,0 +1,55 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/annotation/ea09ea9e-cde3-4f96-b46b-4da470030a53",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/canvas/canvas-7#xywh=0,0,3707,5296",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/res/d4014503-672d-4c22-9b6b-d419a6a89da1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in capitals"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/annotation/6da56a2d-c358-4e5d-932b-ddb252463ca8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/canvas/canvas-7#xywh=0,0,3707,5296",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/res/e6b7d02e-fa54-4683-a485-3c92bf309852",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Excerptiones Hogeri Abbatis ex auctoribus musicae artis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/annotation/0aa904f9-8fa6-4394-8006-8e3aebdfc9c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/canvas/canvas-7#xywh=0,0,3707,5296",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/res/4fb1668d-ba6e-4a7f-ba80-901cbffc0bbd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Below this a spacethen a table of numbers"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/annotation/d7a894d4-f491-48b2-9db6-d76bb14af823",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/canvas/canvas-7#xywh=0,0,3707,5296",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fc475fd2528/res/2f06a1c3-22a8-401d-9880-dfd42dc6206f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Architas vero cuncta ratione constituens non modo sensum auriis inprimis consonantiis obseruare neglexit"
+      }
+    }
+  ]
+}

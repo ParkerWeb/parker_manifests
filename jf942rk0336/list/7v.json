@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/list/7v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/annotation/37faf4af-967f-4760-9b7c-d8e46840320c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/canvas/canvas-22#xywh=0,0,5051,7686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/res/b44ecd4e-4212-4bb2-91b7-f74c14afe04a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber II 2"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/annotation/178c088c-7a19-4305-bcf5-50d8a2dbdd06",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/canvas/canvas-22#xywh=0,0,5051,7686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/res/3faef910-eb4b-4274-94a8-da318f90c561",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Creta dedit"
+      }
+    }
+  ]
+}

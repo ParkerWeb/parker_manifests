@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/2d405b05-5cab-4b5c-ae99-da4bc43632f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-9#xywh=0,0,5555,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/113fb655-0cc2-48b4-b40b-9a0a38ea104e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Adam centum xxx annorum genuit Seth. Et postea uixit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/annotation/cb17def4-07fc-4045-a53c-b2a6a771144c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/canvas/canvas-9#xywh=0,0,5555,8431",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz774ws7198/res/7cf15ed7-bbef-4bf4-95b7-86c7e88b6bab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genealogy of the descendants of Noah's sons: and, in central column, of Schef (i. garba) to Woden: with two xiiith cent. notes on Schef and Woden"
+      }
+    }
+  ]
+}

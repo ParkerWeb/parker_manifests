@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/list/131.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/annotation/b70c3073-8e00-4b61-924c-732c536537ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/canvas/canvas-139#xywh=0,0,5447,9150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/res/7aafaf83-20d9-4d3c-98bf-6fec229d9a6e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The text is resumed in c. xxi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/annotation/b7f1b3cd-3a71-4974-9feb-c7cc1d9f3a48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/canvas/canvas-139#xywh=0,0,5447,9150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/res/0295983c-aed2-4b6d-96f5-c22efc563d9c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: cateruis more pugnantium necnon et equitibus"
+      }
+    }
+  ]
+}

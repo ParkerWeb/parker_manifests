@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/list/94r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/annotation/634b84fd-1d8a-4599-9ddf-38e54c8eb94a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/canvas/canvas-193#xywh=0,0,5878,8430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/res/3e183863-dd48-4f3e-86d7-269d70dadf27",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Profectus religiosi distinguntur processibus licet non ab omnibus attingantur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/annotation/4adbdd64-0aee-4f22-99f5-2ba8f964ee4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/canvas/canvas-193#xywh=0,0,5878,8430",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/res/cd68c3fa-2096-4a31-b27e-6a97856b42f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Corporalis exercitatio in duobus consistit"
+      }
+    }
+  ]
+}

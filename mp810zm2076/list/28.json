@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/28.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/4fb73666-ade5-4990-8091-6174384e3b55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-29#xywh=0,0,3408,9168",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/2d37b1d5-3f5a-4552-8a75-216665c294e0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Descriptio ecclesiae villae de Bodman"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/d4b41bd8-4a3b-4bbe-8954-89af3699801b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-29#xywh=0,0,3408,9168",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/f31a8a53-b7ed-401a-a0ff-108ca97962b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Nobiles et generosi in kalendario fratrum S. Francisci de Bodman"
+      }
+    }
+  ]
+}

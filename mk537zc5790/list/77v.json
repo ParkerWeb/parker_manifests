@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/list/77v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/annotation/bab37c10-75e6-40b7-b43b-757b1cd02937",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/canvas/canvas-168#xywh=0,0,3708,5757",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/res/9ca838c2-f92c-4630-a8fa-fa6ad0c87c06",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: indigna est dei amore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/annotation/d5fa5471-24cc-4b36-8cb3-9dfbc63bc28e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/canvas/canvas-168#xywh=0,0,3708,5757",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk537zc5790/res/4c2f5fd9-2497-4644-8589-0d06f53872c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finis"
+      }
+    }
+  ]
+}

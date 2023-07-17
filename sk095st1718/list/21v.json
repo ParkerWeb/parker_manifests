@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/21v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/f4d5016c-c1b7-41cc-af0c-4aebeb4792da",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-50#xywh=0,0,3710,5887",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/7f5d029f-8b78-4950-ab6a-6577a9212950",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber III)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/fedf4b9a-edc6-4d3a-a117-5d8bcee331aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-50#xywh=0,0,3710,5887",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/db88bd72-4b49-4d50-9520-3a9ccfe02292",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tertius orditur liber, at pater adde iuuamen Tangat ut optatum diuino munere finem"
+      }
+    }
+  ]
+}

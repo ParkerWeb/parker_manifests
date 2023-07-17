@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/list/33v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/annotation/ecaf31d4-5442-4e95-9d03-3d9280e12739",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/canvas/canvas-76#xywh=0,0,5096,8448",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/res/d64bc109-c0f0-42be-8335-3f2125329ce1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber primus dialogorum beati gregorii pape"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/annotation/75e0fcf2-33e1-4f9a-9304-60048a71bb52",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/canvas/canvas-76#xywh=0,0,5096,8448",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks785nk0024/res/ed5dd647-8bff-4065-8cef-e3d2587a5948",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber secundus dialogi beati gregorii pape"
+      }
+    }
+  ]
+}

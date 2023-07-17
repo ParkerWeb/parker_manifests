@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/list/360.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/annotation/33fbff82-cfc6-4cfd-9011-bd5be33d70e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/canvas/canvas-370#xywh=0,0,4030,5966",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/res/0af9cb15-7b82-4edd-9bd8-c175f2dc5bce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Cantilena"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/annotation/7567ed2c-1ba7-4dde-91ea-ac50a06e4183",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/canvas/canvas-370#xywh=0,0,4030,5966",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/res/90cb54dd-af10-495f-a4c2-18ac63e9d7e9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amor nos facit etc."
+      }
+    }
+  ]
+}

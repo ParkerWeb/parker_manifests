@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/list/144r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/annotation/5f292138-7833-4821-bbf3-95b53701c209",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/canvas/canvas-295#xywh=0,0,5408,8135",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/res/934036ec-35ab-4a06-b40c-2fbfd8870569",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nomina regum qui plenarie regnauerunt ex quo terra vocabatur Anglia et populi Angli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/annotation/ddaaebfe-a8fa-4c08-925e-2cf1569a7d8e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/canvas/canvas-295#xywh=0,0,5408,8135",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr261hp0466/res/7c14026f-f3ce-422a-9503-4fea9e44551e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ricardus tercius regnauit hunc septimus henricus jugulauitTriphario titulo frangitur ipse suo"
+      }
+    }
+  ]
+}

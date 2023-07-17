@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/ba9e9616-f27d-458c-bdab-a8a0ec5e04ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-11#xywh=0,0,3603,5960",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/2edc4244-0c89-4501-8739-deff625ff30a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt ysagoge Iohannicii ad Tegni Galieni"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/annotation/6af27c1e-b0d3-402b-8acd-1210c9ce5332",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/canvas/canvas-11#xywh=0,0,3603,5960",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pm029jd8386/res/21d6f02b-2d68-4715-ba22-ead92001a821",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Medicina diuiditur in duas partes"
+      }
+    }
+  ]
+}

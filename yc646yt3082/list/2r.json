@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/annotation/979a976e-d6e7-4341-bc2f-0ff7a38e0b48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/canvas/canvas-11#xywh=0,0,3803,5380",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/res/51c3fb08-9b8e-4b24-957c-a8c5b4a1427c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ke a nul home ne list a dire"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/annotation/2843cc3e-1939-4b92-9317-8c8d8fafbc59",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/canvas/canvas-11#xywh=0,0,3803,5380",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/res/6bd16421-03cf-4353-a3ed-bb15dfe20630",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: E seint Johan en cest manere vist"
+      }
+    }
+  ]
+}

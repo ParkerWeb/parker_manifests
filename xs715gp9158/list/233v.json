@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/list/233v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/annotation/7d913d96-0d9c-40fa-b827-5a57b1355719",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/canvas/canvas-482#xywh=0,0,5482,8286",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/res/03fa967e-19ab-4f31-8df7-82fe8f44d896",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: qui miex amoit morir que feyre aucune chose par doublerie ne par simulacion"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/annotation/2138910f-5466-4471-8a12-93823577c0f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/canvas/canvas-482#xywh=0,0,5482,8286",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/res/0a8429a3-f288-4edc-92a5-d7b600bff284",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Au commencement de ce liure il fu dit etc."
+      }
+    }
+  ]
+}

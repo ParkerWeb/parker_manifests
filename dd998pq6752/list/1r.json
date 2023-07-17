@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/bf7bb728-6e38-47ca-87ab-997270211350",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-13#xywh=0,0,3873,5706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/255e1379-fd8d-40a1-af6e-1ae8c03f9922",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Interpretatio skeltoni poetae Laureati"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/annotation/4aef345c-a739-4089-a056-e666ad93d13e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/canvas/canvas-13#xywh=0,0,3873,5706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dd998pq6752/res/31d5c893-0165-4f27-9260-64e76d90a5e6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Most reverent holy fader ther ne hath be wryter of maters in tyme of seasons passid"
+      }
+    }
+  ]
+}

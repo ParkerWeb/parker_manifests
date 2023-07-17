@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/iir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/b02b1101-30e1-4739-8b3d-6e3c84c99f68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-9#xywh=0,0,5872,9113",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/7025d9ae-47a1-4c9d-8aa7-5efe2a08c03c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "e. Drawing of the elephant, see below"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/040fa754-a8d5-4faf-af30-b599ec0f579a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-9#xywh=0,0,5872,9113",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/aa5b93db-566e-48c3-a214-b6d8060c40a4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The elephant and his keeper, sent by Louis IX to Henry III in 1255. Other drawings are in Nero D. I f. 161v, and Julius D. VII f. 114r. This one is reproduced in Hardy Catalogue III, pl. xvi"
+      }
+    }
+  ]
+}

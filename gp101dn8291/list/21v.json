@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/list/21v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/b2acd618-eff6-4674-b985-cb589ee92220",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-52#xywh=0,0,3686,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/a0a968e5-955b-4428-9751-593dda56f8f5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de natione et ubi inueniuntur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/annotation/9cf42292-e308-4907-8577-3957a0b0c863",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/canvas/canvas-52#xywh=0,0,3686,5534",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gp101dn8291/res/8337c187-f312-442c-a6c2-e5925095f90e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post autem facilius preuia discretione"
+      }
+    }
+  ]
+}

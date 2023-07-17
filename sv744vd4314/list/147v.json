@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/list/147v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/662e5bbd-77b5-47e2-a964-e075bd00323a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-300#xywh=0,0,4017,5873",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/6071371b-b79d-4e89-abfc-c3e655688c94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: finis ad quem omnia ordinantur. Cui est honor, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/annotation/34606e0f-3b44-49dc-ab5a-bf12463391e6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/canvas/canvas-300#xywh=0,0,4017,5873",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sv744vd4314/res/5e6e7839-6cb4-4f2d-97c3-4bb175b22b2f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "List of questions"
+      }
+    }
+  ]
+}

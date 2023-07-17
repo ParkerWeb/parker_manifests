@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/31.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/17fa380c-a955-4e2b-acc2-27e71f092b10",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-34#xywh=0,0,3421,9209",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/4292138d-d78d-48c7-8493-f360c416d2ae",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De ponte Bristol, et capella ibidem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/695e6382-0adc-4938-a74b-d9acb374fafc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-34#xywh=0,0,3421,9209",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/bdb37174-36b9-4595-9f99-f619727eb1fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De diversis castris et aquis"
+      }
+    }
+  ]
+}

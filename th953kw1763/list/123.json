@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/list/123.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/annotation/9bbf3cd7-811b-4aa7-896b-cb93ef5fb594",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/canvas/canvas-127#xywh=0,0,6290,8662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/res/67f79ab0-ce6b-4b65-84f7-e57a495fa376",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Lib. III Psychomachia"
+      }
+    }
+  ]
+}

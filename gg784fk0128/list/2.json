@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/list/2.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/annotation/e99bee33-eec3-40b6-8692-4470142b20ea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/canvas/canvas-10#xywh=0,0,5614,9162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/res/f10bffcb-7379-48d2-b898-a2cb94432f99",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quoddam miraculum in tempore Rollonis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/annotation/5ebc2e90-45a6-4b70-a380-267003cb7479",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/canvas/canvas-10#xywh=0,0,5614,9162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gg784fk0128/res/11a176d1-6660-47df-bb15-5b194db0faf2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quidam uero aliud dicitur eidem comiti accidisse"
+      }
+    }
+  ]
+}

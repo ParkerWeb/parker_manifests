@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/list/192r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/d82e7609-6329-43de-b1b5-439dd8176aa8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-397#xywh=0,0,3854,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/7a485d80-cd99-42e1-b16c-c8f2f4cb0d3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: si sola seruatur utilitatum fides"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/596ab277-6061-4366-b002-d0a9c71615d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-397#xywh=0,0,3854,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/db526796-3622-47ce-96e3-96abe5e73b66",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus Bernardi de precepto et dispensatione"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/72d26642-bafd-4927-ab10-6ff0ac12f687",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-397#xywh=0,0,3854,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/f5c05b66-96f5-4af3-a2d7-9aa21fc428ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fidei uestre non meo fidens ingenio"
+      }
+    }
+  ]
+}

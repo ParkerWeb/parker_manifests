@@ -1,0 +1,298 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/557_exp.json",
+  "@type": "sc:Manifest",
+  "label": "Cambridge, Corpus Christi College, MS 557: Old English Fragments of the Legend of the Cross",
+  "attribution": "Images courtesy of The Parker Library, Corpus Christi College, Cambridge. Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
+  "logo": {
+    "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "seeAlso": {
+    "@id": "https://purl.stanford.edu/bq942kd2868.mods",
+    "format": "application/mods+xml"
+  },
+  "viewingHint": "paged",
+  "metadata": [
+    {
+      "label": "Available Online",
+      "value": "<a href='https://purl.stanford.edu/bq942kd2868'>https://purl.stanford.edu/bq942kd2868</a>"
+    },
+    {
+      "label": "Title",
+      "value": "Cambridge, Corpus Christi College, MS 557: Old English Fragments of the Legend of the Cross"
+    },
+    {
+      "label": "Date",
+      "value": "1000-1099"
+    },
+    {
+      "label": "Description",
+      "value": "CCCC MS 557 consists of two fragments of eleventh-century Old English material removed from the bindings of two Parkerian printed books. Two further fragments from the same manuscript were removed from printed books in the collection of the Kenneth Spencer Research Library at the University of Kansas. The text is an Old English sermon on the True Cross. It has later annotations by the Tremulous Hand of Worcester, and was probably also written there"
+    },
+    {
+      "label": "Description",
+      "value": "Old English fragments of the Legend of the Cross"
+    },
+    {
+      "label": "Language",
+      "value": "ang"
+    },
+    {
+      "label": "Format",
+      "value": "ff. 2"
+    },
+    {
+      "label": "Description",
+      "value": "Two Old English fragments of a single leaf on the legendary history of the Cross before Christ, from Worcester. Removed in 1952 from printed books donated to the College by Matthew Parker, SP.4, Tercia pars Chronici Carionis (Basle 1543) etc., and SP.260, Fides Iesu et Iesuitarum (Strasbourg, 1573)."
+    },
+    {
+      "label": "Description",
+      "value": "Mounted in melanex seemingly sealed. Bound in a folder. Details and references in N. R. Ker, Catalogue of Manuscripts containing Anglo-Saxon (1957), p. 122. Ker states that they are 'presumably part of a homily for the Invention of the Cross' like that in MS Bodley 343."
+    },
+    {
+      "label": "Description",
+      "value": "This MS description is not part of the M. R. James catalogue; it is based in part on the description given in Vaughan and Fines, 'Handlist', p. 117."
+    },
+    {
+      "label": "Relation",
+      "value": "UK, Cambridge, Corpus Christi College, Parker LibraryMS 557"
+    },
+    {
+      "label": "Relation",
+      "value": "Old English fragments of the Legend of the Cross"
+    },
+    {
+      "label": "Relation",
+      "value": "Parker Manuscripts"
+    },
+    {
+      "label": "PublishDate",
+      "value": "2020-04-03T02:45:45Z"
+    }
+  ],
+  "thumbnail": {
+    "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_R_TC/full/!400,400/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_R_TC",
+      "profile": "http://iiif.io/api/image/2/level2.json"
+    }
+  },
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "structures": [
+    {
+      "@type": "sc:Range",
+      "label": "Table of Contents",
+      "viewingHint": "top",
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/range/r0",
+      "ranges": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/range/r1.1"
+      ]
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/range/r1.1",
+      "@type": "sc:Range",
+      "label": "Old English fragments of the Legend of the Cross",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_3",
+        "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_7"
+      ]
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://purl.stanford.edu/bq942kd2868#sequence-1",
+      "@type": "sc:Sequence",
+      "label": "Current order",
+      "viewingDirection": "left-to-right",
+      "canvases": [
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_8",
+          "@type": "sc:Canvas",
+          "label": "fragment 1, recto",
+		  "height": 1726,
+		  "width": 3260,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/annotation/bq942kd2868_8",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868/557_001_R_TC/48,2569,3260,1726/full/0/default.jpg",
+                "@type": "dctypes:Image",
+				"format": "image/jpeg",
+				"height": 1726,
+				"width": 3260
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_8"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_9",
+          "@type": "sc:Canvas",
+          "label": "fragment 2 recto",
+          "height": 1045,
+          "width": 3210,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bq942kd2868/557_001_V_TC.jp2",
+              "label": "Original source file (2.94 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/annotation/bq942kd2868_9",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_V_TC/147,402,3210,1045/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1045,
+                "width": 3210
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_9"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_10",
+          "@type": "sc:Canvas",
+          "label": "fragment 1 verso",
+          "height": 1654,
+          "width": 3117,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bq942kd2868/557_001_R_TC.jp2",
+              "label": "Original source file (2.94 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/annotation/bq942kd2868_10",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_V_TC/315,2648,3117,1654/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1654,
+                "width": 3117
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_10"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_11",
+          "@type": "sc:Canvas",
+          "label": "fragment 2 verso",
+          "height": 1133,
+          "width": 3388,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bq942kd2868/557_001_R_TC.jp2",
+              "label": "Original source file (2.94 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/annotation/bq942kd2868_11",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_R_TC/124,326,3388,1133/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 1133,
+                "width": 3388
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_11"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_3",
+          "@type": "sc:Canvas",
+          "label": "Current f. 1r",
+          "height": 4476,
+          "width": 3642,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bq942kd2868/557_001_R_TC.jp2",
+              "label": "Original source file (2.94 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/annotation/bq942kd2868_3",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_R_TC/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4476,
+                "width": 3642,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_R_TC",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_3"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_7",
+          "@type": "sc:Canvas",
+          "label": "Current f. 1v",
+          "height": 4656,
+          "width": 3558,
+          "rendering": [
+            {
+              "@id": "https://stacks.stanford.edu/file/bq942kd2868/557_001_V_TC.jp2",
+              "label": "Original source file (2.99 MB)",
+              "format": "image/jp2"
+            }
+          ],
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/annotation/bq942kd2868_7",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_V_TC/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 4656,
+                "width": 3558,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://stacks.stanford.edu/image/iiif/bq942kd2868%2F557_001_V_TC",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "description": "CCCC MS 557 consists of two fragments of eleventh-century Old English material removed from the bindings of two Parkerian printed books. Two further fragments from the same manuscript were removed from printed books in the collection of the Kenneth Spencer Research Library at the University of Kansas. The text is an Old English sermon on the True Cross. It has later annotations by the Tremulous Hand of Worcester, and was probably also written there."
+}

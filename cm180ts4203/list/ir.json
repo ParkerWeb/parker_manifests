@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/list/ir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/annotation/1926e99c-37f4-4f47-ba60-2575070ed4f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/canvas/canvas-7#xywh=0,0,6117,9385",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/res/09a9689b-2658-4623-a580-5ed4c20fd790",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A table of Chapters in a different hand from the rest"
+      }
+    }
+  ]
+}

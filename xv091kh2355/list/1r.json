@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/6c5d34e2-fdb2-4af7-9742-508463ef3c96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-7#xywh=0,0,3889,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/1517eeab-99d6-412f-afd7-7b9a1353836f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Anno gracie 75"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/0c32dd9b-8fbd-41cb-ba00-e3ba50cf3d6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-7#xywh=0,0,3889,5874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/9aa26ed9-4fd3-42af-ba17-99bf6d875e14",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Rex pictorum rodricus de sithia ueniens in aquilonalem britannie partem"
+      }
+    }
+  ]
+}

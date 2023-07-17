@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/list/115v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/e58211db-1757-452c-82ab-e829a2844758",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-242#xywh=0,0,3682,5625",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/05da35bb-a53e-4421-9df9-97e03bacd360",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex humore grosso et indurato"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/aba28996-31a5-4401-af68-a28dcbad355d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-242#xywh=0,0,3682,5625",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/9f2b834e-b8df-4d55-9789-484557091843",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit sententia antidotarii magistri Nicholaij secundum auicennam et macrum"
+      }
+    }
+  ]
+}

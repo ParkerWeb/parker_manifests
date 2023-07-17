@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/list/63v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/0ed8c66f-9f56-43d5-8ff1-0bc4e761b95b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-142#xywh=0,0,3781,5304",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/a896a079-f3d5-4c96-8649-0ae3df09b9b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The riot in 4 Richard II (see Gonv. and Caius 249)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/f0ee3459-2cd6-449e-823b-c461fb1cf9df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-142#xywh=0,0,3781,5304",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/b5634cd4-5977-4631-9322-6bc9c589b624",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Memorandum quod die sabbati"
+      }
+    }
+  ]
+}

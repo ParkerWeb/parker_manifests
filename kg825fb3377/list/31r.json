@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/6fd26aaa-318c-4142-86d3-bbc7770f57a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-63#xywh=0,0,5242,8441",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/df2f3d06-91b6-4cbb-99d9-fcd3a0774ace",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Continues in former hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/e50ea41f-a1af-4205-888d-3b413820a278",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-63#xywh=0,0,5242,8441",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/494a7d28-4ce6-44bf-a86e-bb85553a1e00",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno igitur domini mo co nonagesimo nono successit eidem Ricardo Iohannes frater suus"
+      }
+    }
+  ]
+}

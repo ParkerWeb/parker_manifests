@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/32.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/50b64309-e4bd-4059-ba20-6fd63c597c85",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-35#xywh=0,0,3360,9185",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/e7b39e15-93f6-47fa-86fe-0c5d23e57657",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Homines lanceati Griffith Don apud captionem domini Gawcourt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/e140fa02-b158-47ce-bcc2-41d9ea956237",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-35#xywh=0,0,3360,9185",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/a90c3226-8694-4a59-91b4-f2dcd4bff3e7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De obitibus et sepulturis quorundam sanctorum et regum"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/list/221.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/850dfdb2-6cdb-4ff7-8599-bf1d6531bcf5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-231#xywh=0,0,3486,5750",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/ed29b039-cb2b-4aa2-af66-5be5d176be50",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: (Erunt signa)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/annotation/6e11b83d-e2fd-4742-8cc8-91713665152a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/canvas/canvas-231#xywh=0,0,3486,5750",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz542dy6146/res/3a03e96e-2e94-48f5-bcb9-44af92241bf5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Crist cƿæð on his halgan godspelle þæt fela fortacna"
+      }
+    }
+  ]
+}

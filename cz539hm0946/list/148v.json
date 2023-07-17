@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/list/148v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/annotation/086f3f3d-2ec9-49d8-b0b6-88f17bcff095",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/canvas/canvas-324#xywh=0,0,3663,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/res/af8497ce-746c-4cc7-95dd-fddc9e4741eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: aliter matrone et sic de aliis. Rogemus ergo, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/annotation/e4e2415f-2ecd-4c31-9b86-3f3c340a5626",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/canvas/canvas-324#xywh=0,0,3663,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cz539hm0946/res/42dd4fe6-78ef-4a20-a9cc-0ffd3de78804",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit opus fratris Gilberti ordinis minorum fratrum et continet solempnes et literales materias ad diuersos status. A. d. mo ccco xciiio sequenti sabbato post festum sancti Martini, etc. est finis istius operis"
+      }
+    }
+  ]
+}

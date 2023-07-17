@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/list/vir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/annotation/19086c9d-3cce-4562-abe5-36d4693a3b01",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/canvas/canvas-13#xywh=0,0,3481,5689",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/res/651a51a9-11d4-46a2-b226-3325c273a545",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia primo summo pontifici i. Christo in triumphali ecclesia tres Ierarchie Angelorum obsequntur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/annotation/572f4459-b90c-418f-a9fa-97e222e1b8ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/canvas/canvas-13#xywh=0,0,3481,5689",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz622sg0521/res/0c23d5ab-1959-41e6-88c1-875150b08958",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Sancte AgatheSancte Lucie in capite suburre S. Kirici Et sic sunt li cardinales"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/list/168v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/annotation/e90ae50c-c6d7-4097-a50a-d508b87fa471",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/canvas/canvas-346#xywh=0,0,3740,5373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/res/5f4c771a-8903-49b8-9f3a-77f1a4fdcead",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quod delectat qui semper es benedictus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/annotation/7481df34-f47b-4c06-a8c1-d6e4439f3398",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/canvas/canvas-346#xywh=0,0,3740,5373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/res/aa0a93ab-e3d6-4c54-8201-e1a43deed5f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber de pauperie saluatoris domini Armachani hibernie primatis doctoris s...mis, etc."
+      }
+    }
+  ]
+}

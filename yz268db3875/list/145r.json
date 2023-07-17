@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/list/145r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/0dcad7c6-222e-44d2-95ff-9fbe215361d8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-309#xywh=0,0,3350,4942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/5fabdabd-9d97-44c9-9464-c79501df47ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: μέχρι γήραος οὐδῳ̑"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/88298fd2-84ff-4511-9254-d94ce701b274",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-309#xywh=0,0,3350,4942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/11d739f6-7fba-450b-9caf-b8d469123cb1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: τέλος σ̀υν θεῳ̑ τω̑ν Φωκ. ἐπω̑ν"
+      }
+    }
+  ]
+}

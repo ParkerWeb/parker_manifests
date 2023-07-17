@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/list/13v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/4251b680-b277-4038-a743-aacb168cc73a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-34#xywh=0,0,3770,5969",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/a926fa63-3421-45e7-b138-44f862e3404e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De matre qui crimen incestus filio suo imposuit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/e2b30249-94cc-4925-8083-54cdcc96699e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-34#xywh=0,0,3770,5969",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/3563574e-9e27-4ae0-902d-0bcf7f3cd122",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Item libro eodem in uita Sancti Andree"
+      }
+    }
+  ]
+}

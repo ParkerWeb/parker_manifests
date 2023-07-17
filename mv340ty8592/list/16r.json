@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/list/16r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/annotation/d8f2dd16-67e4-4bba-8482-c302a6527d6f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/canvas/canvas-41#xywh=0,0,3678,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/res/edba00e1-7e54-4885-aef6-ca1dee4c30c4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ælfred to Ine from § 3."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/annotation/2ae9046d-e756-4bba-a674-e9fe121956bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/canvas/canvas-41#xywh=0,0,3678,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mv340ty8592/res/9bfa91b0-ce36-490b-8ef9-9d813485d52e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Oþres bisceopes"
+      }
+    }
+  ]
+}

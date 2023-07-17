@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/list/182.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/9c9dc5f9-00f9-46f5-a3f9-b2c2ce4302dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-194#xywh=0,0,3303,5510",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/3207d496-4fee-4cbc-84dd-059ffced56d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De die iudicii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/annotation/b3b3dc84-4e73-4b57-b8bc-b680dea982d6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/canvas/canvas-194#xywh=0,0,3303,5510",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb541hg4710/res/64ef89cd-a2a2-4d97-ab96-b6a413af8e46",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Leofan men ure drihten ælmihtig god"
+      }
+    }
+  ]
+}

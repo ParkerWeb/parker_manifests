@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/list/121r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/84c2fd6c-9f49-46bb-8c87-1d4872078013",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-245#xywh=0,0,5339,8178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/c5d6d6b6-4062-49b9-ab7f-3bca0c22f02a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/bee17ee8-88bd-4463-9177-1683b91ca118",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-245#xywh=0,0,5339,8178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/e11c928f-59c5-47e2-9675-455f42d94fe9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dominus filios israel de dura seruitute egipti"
+      }
+    }
+  ]
+}

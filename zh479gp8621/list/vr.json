@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/list/vr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/annotation/1c2413a1-96b3-4604-b1d5-f74a807d3300",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/canvas/canvas-9#xywh=0,0,4503,8886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zh479gp8621/res/e8fb6870-745c-4100-98f9-2915f4649766",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "There are scribbled notes on the flyleaf (f. vr-vv)"
+      }
+    }
+  ]
+}

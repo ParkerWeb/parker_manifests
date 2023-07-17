@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/list/147v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/annotation/c70b9a8b-f899-499f-846a-9667661d444e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/canvas/canvas-318#xywh=0,0,4259,6295",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/res/257101db-0650-4286-9a47-f8151105502f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: exelipon i psalmi dauid tu basileos. Expl. psalmi dauid regis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/annotation/bfa865da-bbac-4899-96cc-8d7b6c8c9d3e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/canvas/canvas-318#xywh=0,0,4259,6295",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sw561ph9670/res/362c8065-303d-40fc-9a6f-568e9c7e2ab9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt cantica"
+      }
+    }
+  ]
+}

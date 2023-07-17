@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/list/193v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/4ab85eca-fde4-4674-b352-e9f1adf72125",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-396#xywh=0,0,3067,4910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/5e54beb2-618d-4d2b-bcfe-122e599033a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Larger hand"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/ce573ee5-f109-4560-b383-dae992019532",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-396#xywh=0,0,3067,4910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/6416aac4-8748-4ccf-9c79-7cb17f0e2e7e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (O) redemptor summe carmen"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/annotation/51933d82-da1f-4304-8bf9-e7751bad7eef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/canvas/canvas-9#xywh=0,0,5015,7674",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/res/3cb1a1b9-23e2-4d52-b305-ce0716b634ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber I. Preface"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/annotation/cef3ff7b-b080-43a2-a591-7499c312b360",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/canvas/canvas-9#xywh=0,0,5015,7674",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jf942rk0336/res/051e866e-ef27-4847-bc8a-09a9096bfefc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Spero me consecutum"
+      }
+    }
+  ]
+}

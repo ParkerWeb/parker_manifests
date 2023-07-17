@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/annotation/b2c2a08f-1609-4a87-b2e4-3cf3d778bb5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/canvas/canvas-17#xywh=0,0,5374,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/res/f81cce48-fed9-4195-b004-52b21c876d7d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ci commence le prologue seur le liure qui est apelez le mireour des dames"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/annotation/75cdab91-618e-43bb-b2ef-8350a47b99f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/canvas/canvas-17#xywh=0,0,5374,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs715gp9158/res/5aeb5f85-84ad-4b39-a10a-318380fea12a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Selonc ce que dit vns mestres qui est nomez vegecius"
+      }
+    }
+  ]
+}

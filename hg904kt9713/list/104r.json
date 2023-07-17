@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/list/104r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/cb1e64de-b7ab-467b-ab89-e29e7cde8945",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-217#xywh=0,0,5218,8394",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/7a9d7097-79e1-4131-96b0-ffa4cd0029bc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "No title"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/annotation/5b747141-de20-49f9-937d-7c45141ef9db",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/canvas/canvas-217#xywh=0,0,5218,8394",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg904kt9713/res/afad9854-6b8d-4398-a16d-575729244cc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Scribam eis multiplices leges meas. osee. d. omnipotens creator omnium ac omnium sapiens gubernator"
+      }
+    }
+  ]
+}

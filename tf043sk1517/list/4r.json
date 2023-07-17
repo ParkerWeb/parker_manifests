@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/annotation/8700ebcc-48d1-4b99-b94d-7833eda76739",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/canvas/canvas-11#xywh=0,0,5579,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/res/fe1d41e6-ca91-43f2-b7f4-b59dfde98010",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermon I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/annotation/55a7fb1b-57e6-42f2-b45e-490326e24a16",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/canvas/canvas-11#xywh=0,0,5579,8226",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf043sk1517/res/de83f20f-d759-4850-b2df-6ca19e7b39e5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In illo tempore. Cum appropinquasset ... sic iacet tenor leccionis sancti ewangelii ut audistis"
+      }
+    }
+  ]
+}

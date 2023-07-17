@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/98r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/14ce2d84-2ac5-4ac2-88be-e162af92363a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-201#xywh=0,0,4846,7735",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/7ba3ddc3-6074-4221-94e1-eccfae147bb7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "beginning imperfectly in c. ii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/a7416fdf-bc3a-449c-882b-85d16e9c552a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-201#xywh=0,0,4846,7735",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/8f5d4405-5dad-471f-9ade-ad3db2be7507",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: forma. perfusus diuina dilectione et gratia deo et hominibus amabilis erat aetatula"
+      }
+    }
+  ]
+}

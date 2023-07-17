@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/list/70r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/annotation/971325c7-5930-4786-8ef1-424ce409b53f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/canvas/canvas-139#xywh=0,0,6335,8905",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/res/33941ab5-6b58-4a37-94c2-0fe58a694098",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitulum IX"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/annotation/753232f4-cd7e-49cb-b595-5d36278084b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/canvas/canvas-139#xywh=0,0,6335,8905",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/res/cb691908-376f-4a7d-89a3-5e9e9a91def3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit de generibus et casibus"
+      }
+    }
+  ]
+}

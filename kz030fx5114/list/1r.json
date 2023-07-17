@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/annotation/9345419a-faca-4cef-abd0-ad4f0b604d2a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/canvas/canvas-7#xywh=0,0,3191,4920",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/res/3a72a57a-3eec-4101-bd4f-ccc6a24e358f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/annotation/6c8e6294-91d3-4e6f-8e87-ae477cc94636",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/canvas/canvas-7#xywh=0,0,3191,4920",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz030fx5114/res/20c2c45f-e88c-46ea-97d0-fabb9966d1dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Da michi intellectum et scrutabor legem tuam, etc. Dionisius de diuinis nominibus cao 3o dicit quod ante omne, etc."
+      }
+    }
+  ]
+}

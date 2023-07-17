@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/iv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/44e82491-6cd8-45c7-8a89-595bb1150336",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-8#xywh=0,0,5699,9068",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/663bbe7a-a8e9-4c2a-9708-39a05391260d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "b. Diagram of the winds with verses as in MS 26, but larger. Cf. Nero D. I 184r, 184v, and Julius D. VII f. 51v"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/34c62bea-44c1-4fcd-bd94-840ce20a2e68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-8#xywh=0,0,5699,9068",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/8a32c705-1f45-4379-a138-3a23f80c0020",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Diagram of winds etc."
+      }
+    }
+  ]
+}

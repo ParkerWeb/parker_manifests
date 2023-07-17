@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/list/236v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/annotation/a7378c98-a8f7-4d63-99f2-aabb0d0d7eea",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/canvas/canvas-480#xywh=0,0,5219,8766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/res/4813f221-437f-4862-a283-b2a135cae533",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Verses"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/annotation/d208c04c-8cea-4d88-8773-12bee9ca91c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/canvas/canvas-480#xywh=0,0,5219,8766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/res/8205c7eb-749c-4933-86fb-c88baa78c199",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dum video florem dum sencio floris odoremPreteriti moris ueterisque recordor amoris"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/list/278r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/62f485ed-2809-41e1-a23f-732f89c6607d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-81#xywh=0,0,6105,9832",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/5c6d1573-282f-4147-9d17-c06ffa6ab56f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hebrew alphabet. The forms of the letters are not given, but the names are given twice with different Latin equivalents"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/annotation/827c67c3-87d7-4657-b063-ecd8ce1c79dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/canvas/canvas-81#xywh=0,0,6105,9832",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dt053nh0820/res/a4fb3d65-6158-4ad5-ba5d-7fc8f4e8efde",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1. Aleph doctrina - Tau signa"
+      }
+    }
+  ]
+}

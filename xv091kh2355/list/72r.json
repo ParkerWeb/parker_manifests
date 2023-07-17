@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/list/72r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/5c21f025-4a20-47e0-a1ed-0a8f342d6db3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-147#xywh=0,0,4159,5922",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/b64a061e-8ecd-4cb8-8f3c-e496f9830967",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: aduentus domini. edwardus secundus apud glouerniam sepelitur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/annotation/9a4d067b-1fd8-43c0-9c3d-7dd23b6027b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/canvas/canvas-147#xywh=0,0,4159,5922",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv091kh2355/res/13be51c8-8f73-4e2e-9f23-b5ed06104424",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Thomas dagword circa nativitatem Johanni baptiste carolum de bloys in bello cepit"
+      }
+    }
+  ]
+}

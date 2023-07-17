@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/193r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/ce613e82-da0c-4d29-9f2e-d9ffe949296a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-393#xywh=0,0,5626,8801",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/14a16e2e-8351-483e-926d-8bcdab872b5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Inquirendum super subscriptis capitulis ad compotum audiendum per singula maneria"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/b577e1e9-b160-45fc-bb96-9fae422150d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-393#xywh=0,0,5626,8801",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/1868035b-2094-45a9-a16f-c88a351dee09",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De redditibus assisisDe firmis molendini ..."
+      }
+    }
+  ]
+}

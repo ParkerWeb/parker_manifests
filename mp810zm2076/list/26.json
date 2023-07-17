@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/26.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/1ea4e995-72d7-45f4-b065-5b65d57f14d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-27#xywh=0,0,3300,9156",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/eb8969d1-1d3b-492f-aa09-f1ebcac0d702",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De situ villae de Lawnceston"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/baf61f5b-72ce-4545-b70f-420ae2f22fa1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-27#xywh=0,0,3300,9156",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/78a88b2b-621a-4b93-a5a5-f64f9d3b5aca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De fluminibus de Bodman Tintmouth Plimouth, etc."
+      }
+    }
+  ]
+}

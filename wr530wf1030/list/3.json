@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/e1672399-ed27-4239-81b0-8b9c48e2d3ab",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-9#xywh=0,0,3677,5526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/abfe0cec-2512-46b3-9c3e-e0c42f808382",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Forma custodie vacante prioratu"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/annotation/26852426-c5c6-4c56-956b-37889da5290b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/canvas/canvas-9#xywh=0,0,3677,5526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wr530wf1030/res/242e135e-843f-4dd5-9714-ce7f7863bcc8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quanto viros ecclesiasticos"
+      }
+    }
+  ]
+}

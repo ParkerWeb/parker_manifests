@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/list/188v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/f29115c2-f6cf-4883-9246-ffc8edcb4b51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-382#xywh=0,0,5925,9578",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/1a20e01b-fb78-4e61-8720-a2f5d3f0e953",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ex deuocione militemus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/annotation/fb5ef65b-b9fe-43da-a2a4-17572ec48798",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/canvas/canvas-382#xywh=0,0,5925,9578",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wz026zp2442/res/5ba1a763-2fd2-4824-a526-dc36a7963ae2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Reclinatorium anime"
+      }
+    }
+  ]
+}

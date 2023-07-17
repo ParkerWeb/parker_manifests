@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/52ef32f7-d6d5-4c0c-aad0-3beb9b384933",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-11#xywh=0,0,3898,6070",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/8a4c68fe-2f11-4d04-973e-13d2167a0d7b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primus in italia ut quibusdam placet"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/annotation/3c11d25c-da41-4624-bd84-4eed9bb1255c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/canvas/canvas-11#xywh=0,0,3898,6070",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rk793ps8480/res/28e903f1-afc6-4b42-bb8d-92501241f01f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(purple and green capitals)"
+      }
+    }
+  ]
+}

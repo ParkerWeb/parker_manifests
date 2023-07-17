@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/list/12v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/08d7bc21-cb72-4332-aad6-caae8961bd5c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-30#xywh=0,0,5891,8498",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/99ee64d5-249c-44ab-bb86-e864d6c913b5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Thomas Abott Sodway"
+      }
+    }
+  ]
+}

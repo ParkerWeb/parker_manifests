@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/list/8r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/annotation/0875ff2b-b28b-4e7b-899d-c3ad25d3d9b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/canvas/canvas-21#xywh=0,0,3771,5956",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/res/624c0308-a79d-4305-88da-70414439a04b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Willelmus Stone"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/annotation/49ead1ec-8c43-46bb-8e32-38d65bcb7a2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/canvas/canvas-21#xywh=0,0,3771,5956",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/res/d5a77f2d-1a86-4247-9e99-ce082aa3becb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno domini mo ccccmo xvo Willelmus Stone Granetarius obiit"
+      }
+    }
+  ]
+}

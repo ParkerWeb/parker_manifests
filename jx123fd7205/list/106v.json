@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/list/106v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/9eef335d-95d7-40ac-8672-a6a5c6535beb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-220#xywh=0,0,3476,4928",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/5cafbe6e-8fd5-4f7d-9fff-243a269ef447",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Statutum editum apud Westmonasterium anno xlvijo ... solonc la quantite de lempeirement"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/9f809ad6-1b5d-40d7-8e46-673f3f1726c5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-220#xywh=0,0,3476,4928",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/c20984b4-a4ff-433c-a35b-e2bf8bedb697",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expliciunt Nova Statuta"
+      }
+    }
+  ]
+}

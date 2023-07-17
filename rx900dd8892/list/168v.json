@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/list/168v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/f5fd03e1-9a48-4b42-a718-60e79f4c953c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-344#xywh=0,0,3362,5012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/7b391f8a-9614-4cd8-812c-14bdfaa7f728",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: usque restitutus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/ccf61c68-b6c0-4cbc-bc3c-9c823b5dc65f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-344#xywh=0,0,3362,5012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/7d9c8645-7b93-40df-8d3d-65c5979d020e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explanacio super cantica canticorum secundum Thomam abbatem de Versellensis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/8c47a61f-b02d-4090-82e7-1727b492ee2a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-344#xywh=0,0,3362,5012",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/a56ccd5b-0be3-439f-8fe0-9d8b1adb1636",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Osculetur etc. Ita intellige quia sponsa semper"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/49.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/5371781a-92b9-47b6-9d6d-abe29080a182",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-53#xywh=0,0,3295,9263",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/9a720979-6c7e-4a1e-8204-1e6b97c23190",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De ponte de Chepstow"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/e8894657-bef1-4a1e-be1a-3d2dd67361f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-53#xywh=0,0,3295,9263",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/b6a95d5d-1304-4ebf-b014-dd3a704401d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De ecclesia cathedrali Wellensi et Willelmo secundo episcopo"
+      }
+    }
+  ]
+}

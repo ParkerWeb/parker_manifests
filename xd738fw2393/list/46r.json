@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/46r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/7efad9c6-1c8e-44a3-ad40-8f31c9ef5737",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-97#xywh=0,0,5715,7851",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/945f5e68-f720-4999-a861-8ef17b853b0c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: VI Id. Feb."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/427f0430-2f45-4da2-9527-f03c1483adce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-97#xywh=0,0,5715,7851",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/ba0457c5-734d-45a9-bd35-8759e5f33cb5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Obitus fratris nostri (obliterated) (... monachi ac sacerdotis ... congregationis)"
+      }
+    }
+  ]
+}

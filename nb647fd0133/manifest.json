@@ -1,0 +1,128 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Cambridge, Corpus Christi College, MS 640: Antiphoner Leaf",
+  "attribution": "Images courtesy of The Parker Library, Corpus Christi College, Cambridge. Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
+  "seeAlso": {
+    "@id": "https://purl.stanford.edu/nb647fd0133.mods",
+    "profile": "application/mods+xml"
+  },
+  "sequences": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/normal",
+      "@type": "sc:Sequence",
+      "label": "Current page order",
+      "canvases": [
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-1",
+          "@type": "sc:Canvas",
+          "label": "f. 1r",
+          "height": 6656,
+          "width": 4451,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/imageanno/anno-1",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/nb647fd0133/640_001_R_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6656,
+                "width": 4451,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/nb647fd0133%252F640_001_R_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-1"
+            }
+          ],
+          "otherContent": [
+            {
+              "@type": "sc:AnnotationList",
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/list/1r.json"
+            }
+          ]
+        },
+        {
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-2",
+          "@type": "sc:Canvas",
+          "label": "f. 1v",
+          "height": 6647,
+          "width": 4383,
+          "images": [
+            {
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/imageanno/anno-2",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://stacks.stanford.edu/image/iiif/nb647fd0133/640_001_V_TC_46/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 6647,
+                "width": 4383,
+                "service": {
+                  "@id": "https://stacks.stanford.edu/image/iiif/nb647fd0133%252F640_001_V_TC_46",
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                }
+              },
+              "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-2"
+            }
+          ],
+          "otherContent": [
+            {
+              "@type": "sc:AnnotationList",
+              "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/list/1v.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "viewingHint": "paged",
+  "logo": {
+    "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette/full/400,/0/default.jpg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/wy534zh7137%2FSULAIR_rosette",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "thumbnail": {
+    "@id": "https://stacks.stanford.edu/image/iiif/nb647fd0133/640_001_R_TC_46/full/!400,400/0/default.jpg",
+    "@type": "dctypes:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://stacks.stanford.edu/image/iiif/nb647fd0133%252F640_001_R_TC_46",
+      "profile": "http://iiif.io/api/image/2/level1.json"
+    }
+  },
+  "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "structures": [
+    {
+      "@type": "sc:Range",
+      "label": "Table of Contents",
+      "viewingHint": "top",
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/range/r0",
+      "ranges": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/range/r1"
+      ]
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/range/r1",
+      "@type": "sc:Range",
+      "label": "Antiphoner leaf",
+      "within": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/range/r0",
+      "canvases": [
+        "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-1",
+        "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-2"
+      ]
+    }
+  ],
+  "description": "CCCC MS 640, a single leaf from a Spanish sixteenth-century Antiphoner, was given to the Parker Library by Andrew Johnson in 2008. The text is from First Vespers and Matins of the Seventh Sunday after Pentecost. There are large calligraphic initials tinted in pale yellow for the responsory and versicle."
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/list/252.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/annotation/3dcb26d4-b6ad-48be-b7ba-77de8e32cf04",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/canvas/canvas-258#xywh=0,0,3878,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/res/5c321f06-4bea-4f41-a195-028eb8cb56fd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: in omnibus suis elementis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/annotation/794c6622-5f6a-4782-ad08-9dae37026d11",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/canvas/canvas-258#xywh=0,0,3878,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv805ch0969/res/8b794bd8-cff6-4c7f-98f7-4497744c8588",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Et sic finitur prima pars testamenti magni Raymundi litteratissimi viri qui pro confessionis et predicationis nominis Ihesu Christi glorioso per Saracenos meruit coronari martirio et sepulchrum eius est in insula maioricarum"
+      }
+    }
+  ]
+}

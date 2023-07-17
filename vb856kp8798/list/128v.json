@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/list/128v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/8a23f3ab-f9ea-41c5-9840-1edbf30dfba9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-22#xywh=0,0,6202,9540",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/d9a04e1a-9a0e-442e-9763-6d4c1c403d81",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Josue Bennun habet versus I DCCC L"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/44703b3d-1d71-4f79-b5bb-deacd7d92496",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-22#xywh=0,0,6202,9540",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/cce8891a-db22-4e68-aaf2-74bda5faaffb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula of Judges (xviii)"
+      }
+    }
+  ]
+}

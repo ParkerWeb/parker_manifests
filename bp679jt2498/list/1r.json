@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/annotation/551f88e4-233f-4409-8800-4cb1235fcf34",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/canvas/canvas-15#xywh=0,0,3632,5662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/res/67988f11-bf01-4bb3-ade2-08c939a83c25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Omelia prima"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/annotation/f4499167-06cf-4c3f-a0d8-ebd4653d5041",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/canvas/canvas-15#xywh=0,0,3632,5662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/res/a461936c-6be0-4516-b991-3738cffd20ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum appropinquasset Ihesus etc. Mt. 21, Mr. xi, Luc. xix et Jo. xii, in sententia. Hoc euuangelium potest sic introduci. Karissimi tempus presens dicitur aduentus"
+      }
+    }
+  ]
+}

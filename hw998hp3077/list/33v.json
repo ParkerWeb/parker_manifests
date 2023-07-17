@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/list/33v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/18b86838-f368-44f5-baaa-07324513a3be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-74#xywh=0,0,4674,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/498e4684-0332-49ce-9c81-9762c717e56a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The last chapter, quibus modis sacra pagina exponi debeat, ends"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/annotation/0ef744cb-94a8-49f8-9411-5ea1f4f8bc00",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/canvas/canvas-74#xywh=0,0,4674,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hw998hp3077/res/cf8ab016-a321-4452-887e-2396851c5fc8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: anagogice illarn celestem patriam"
+      }
+    }
+  ]
+}

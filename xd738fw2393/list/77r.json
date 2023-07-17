@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/77r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/a6eb7dba-7fd8-4cf0-bcb6-bdb3c3d9ad70",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-159#xywh=0,0,5818,7802",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/19d49885-1941-4649-9e80-bb91d07bace8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Non. Sep."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/2d02e9b1-1aa3-43d3-b241-ba7c1c0a06fc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-159#xywh=0,0,5818,7802",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/a84526a6-14f9-4261-9549-5da4e5b97f76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "in monasterio dictum (!) sithdiu depositio Sanctissimi Bertini confessoris et abbatis"
+      }
+    }
+  ]
+}

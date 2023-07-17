@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/annotation/b835485b-6a31-49da-88a6-a8c9fb63e8c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/canvas/canvas-3#xywh=0,0,5530,8013",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/res/dce550bd-d82a-4239-b18f-682e7ae20715",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: In vigilia unius apostoli"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/annotation/ecd0406d-7385-477d-a2dc-080a6f8dad28",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/canvas/canvas-3#xywh=0,0,5530,8013",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/res/72b6f51e-9b18-43b3-abef-6d13405b050b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ego sum vitis vera Jo. 15"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/annotation/92f94ee2-d132-4247-a89e-b27d4448b7dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/canvas/canvas-3#xywh=0,0,5530,8013",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn468vx6806/res/cb60eced-e3a2-425f-858e-5cf834467c95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Os comyn þing is better & before oþer þingis"
+      }
+    }
+  ]
+}

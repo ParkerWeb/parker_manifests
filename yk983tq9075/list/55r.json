@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/list/55r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/1c86b363-d095-42bb-84cc-2ee10f4ffd39",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-115#xywh=0,0,5482,8573",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/2c5c7e8d-5d03-440d-94da-f14f85887eb0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Glossa super Hymnos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/00973348-314f-4a6c-9bec-2b86b3cfceae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-115#xywh=0,0,5482,8573",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/d00c2c3a-9eb2-4364-b545-a61bdcc40de8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In lumine tuo uidebimus lumen .N. hanc proposicionem scribit propheta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/0c03ee5b-d66a-4010-a203-be007493eefd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-11#xywh=0,0,3398,5235",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/0636efa8-4922-4b52-9db6-019353fb80cc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Kalendar in red and black (xiv early?). Each month occupies a leaf and has elaborate tables of the Cycles. January and February are at the end"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/b57a60e2-a1bf-4789-846c-9901fd88b19b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-11#xywh=0,0,3398,5235",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/797dfa2b-ca6f-4155-9df6-3da4b0f1569e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "MarchAdrian, Perpetua, Geretrudis, Cuthbert, addedCuthbert is actually in the original hand 24 Passio S. Willelmi, red"
+      }
+    }
+  ]
+}

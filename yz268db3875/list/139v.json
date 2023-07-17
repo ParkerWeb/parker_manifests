@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/list/139v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/d04264ac-d965-4838-9b63-3ce0dd2d9af7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-298#xywh=0,0,3452,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/a6669df3-6905-4c60-b93d-3bdcb9b8aa74",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Στίξοι εἰς τ̀ον Φωκυλίδην"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/920bc38e-6234-493f-9801-6ccc35419ef8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-298#xywh=0,0,3452,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/2c92abcc-1c8c-47f1-8961-1b553d88219f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ὁ Φωκυλίδης εὐπρεπη̑ ζήσας βίον κ. τ. λ."
+      }
+    }
+  ]
+}

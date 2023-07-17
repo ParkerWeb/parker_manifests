@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/list/278r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/annotation/b5d1bfa5-f29b-4807-9b53-08173033b24c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/canvas/canvas-561#xywh=0,0,5327,7590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/res/51a4e7ad-2210-40b8-92a1-e6f2e8771d19",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Interpretationes nominum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/annotation/e056d779-68e6-40ac-ae95-0730f105edce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/canvas/canvas-561#xywh=0,0,5327,7590",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hr471qc4349/res/00a1b7b7-b58a-4317-87f5-e5542fd02ace",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aaron mons fortis"
+      }
+    }
+  ]
+}

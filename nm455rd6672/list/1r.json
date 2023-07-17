@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/annotation/364a79a2-4784-4552-b725-9b3eccb5ce02",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/canvas/canvas-9#xywh=0,0,5753,8913",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/res/852a7a79-23e0-4f26-abab-360365263e74",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Odo super iiiior libros moysi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/annotation/bfccca4a-1064-4f58-84b2-94dcccb3382c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/canvas/canvas-9#xywh=0,0,5753,8913",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nm455rd6672/res/fad37c14-31cf-4e8c-99ea-bdde5b8efa4a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Operis subditi materia lex est"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/list/159.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/6f551efc-9e86-430d-a239-79cd715b8719",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-165#xywh=0,0,4197,6233",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/be33f3a7-9322-4d25-9318-4e403097b71f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tabula Magistri Petri de dacia dicti philomena"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/d62dac61-75c2-47ff-bd50-3faa817829ef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-165#xywh=0,0,4197,6233",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/32a7c7da-8ea9-4f4b-8824-d60f108b1558",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ad locum etiam lune habendum uideas quota est dies etc."
+      }
+    }
+  ]
+}

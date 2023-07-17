@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/annotation/434cb80d-36ad-4d2d-9462-e069c743b31b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/canvas/canvas-19#xywh=0,0,4211,6236",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/res/627cb793-ff3f-4efa-bc2e-1034f91c9997",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologues"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/annotation/e263e091-b8e5-48f9-b400-9293abc7ca1e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/canvas/canvas-19#xywh=0,0,4211,6236",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/res/e93b6354-8144-4057-9e9a-61fdaf55a35e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "a. Jerome to Paulinus"
+      }
+    }
+  ]
+}

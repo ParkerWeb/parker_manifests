@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/annotation/1f6eca33-8d73-4ab3-ac7c-20387190a811",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/canvas/canvas-5#xywh=0,0,3530,5538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/res/d9e4ca2f-4be2-4b3a-899a-42b1fae5745c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Methaphisica"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/annotation/d21883fe-6798-453f-878e-b72c50155103",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/canvas/canvas-5#xywh=0,0,3530,5538",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rw486rg6730/res/33aab472-9c3b-47c4-b1e9-7518915c851c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnes homines natura scire desiderant"
+      }
+    }
+  ]
+}

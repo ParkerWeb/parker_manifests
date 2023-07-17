@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/list/205v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/0920c1ce-ddd0-4f93-af71-d14d0544b232",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-426#xywh=0,0,4009,5244",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/0dff7cc9-eee5-4ec4-833f-d874c5f419dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Euangelium secundum Luca.Incipit secundum IohanneInc. prologuseiusdem. Deogratias"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/annotation/663e04e0-de86-4e41-82eb-cab8e27d748b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/canvas/canvas-426#xywh=0,0,4009,5244",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mk707wk3350/res/3ed74013-35c7-4f3a-8125-b7387bb972a6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Here a leaf with the frontispiece to John is missing. There are slight stains on f. 206r"
+      }
+    }
+  ]
+}

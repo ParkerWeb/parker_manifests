@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/24.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/57f8be51-f324-4603-9435-f11d7d14517d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-25#xywh=0,0,3420,9168",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/bde6c4d4-e0b4-47e5-a473-ca01de715308",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Informatio Thomas Peperell de obitibus et sepulturis quorundam sanctorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/bda6dd03-9131-461f-9cd7-131bd18ef864",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-25#xywh=0,0,3420,9168",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/a2c4c5f1-fc26-427d-96da-ade7ffcf35f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De Castris de Lidiford et Okehampton et de flumine de Lidiford"
+      }
+    }
+  ]
+}

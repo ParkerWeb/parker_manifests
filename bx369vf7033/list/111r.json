@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/111r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/6c97fa02-d202-4ba1-a018-f6d6f040d749",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-229#xywh=0,0,5830,8706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/bf2fe569-70ab-4025-a4ba-2a67fa345374",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Notes apparently taken from a gloss or commentary on the books of Kings (Chron.?)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/82db6c44-264b-4786-8a54-3f7318c00e9d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-229#xywh=0,0,5830,8706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/963898ba-353c-40ed-ba99-fb6bff20925a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ozia lepra percusso in fronte quia intrauit sancta sanctorum. ... Tempore mananeel (Menahem) uenit phul rex assyriorum cum exercitu"
+      }
+    }
+  ]
+}

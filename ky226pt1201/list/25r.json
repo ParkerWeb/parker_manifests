@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/25r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/1ce06a68-6636-4bff-adb4-96150c3523ad",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-61#xywh=0,0,3920,5500",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/8cd38365-c73e-4664-8688-9b342e7a6a68",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "End of Thiestes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/57be7f29-dc0a-41ec-8428-64c2ff05b463",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-61#xywh=0,0,3920,5500",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/cea9a080-c258-423e-af3c-efd0f8f9ff70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Thebais"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/list/198r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/2fc303c6-b51c-4dc1-a39d-c34730b877f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-421#xywh=0,0,5727,8388",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/b5cc7834-0d0c-48a5-bd02-d79c6dca13a3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber X"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/558aa592-973b-436f-9fa3-0aa0693c05f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-421#xywh=0,0,5727,8388",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/9d5fac6a-504e-4276-be77-ee95ce6556d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Here a change of hand takes place. There is a fine border"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/annotation/c3cf6993-1183-4abf-8331-fc2b60d0f39a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/canvas/canvas-421#xywh=0,0,5727,8388",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hm064tb2963/res/18af29f1-6de0-4c96-8607-b66bfa825c21",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De nerone et eius moribus"
+      }
+    }
+  ]
+}

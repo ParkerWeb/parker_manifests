@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/list/50r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/annotation/0ede4094-42ac-4379-ae85-77614c2aa6ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/canvas/canvas-101#xywh=0,0,4451,8838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/res/dd640fd4-0ec5-4f8a-914e-b616218f5364",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber VIII. 1-418 gone. Begins 419"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/annotation/eb62b064-3c66-4eed-ae85-9c3a8521e418",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/canvas/canvas-101#xywh=0,0,4451,8838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/res/59497fbe-6e47-4005-850d-9ff6fecdb96e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Nec locus"
+      }
+    }
+  ]
+}

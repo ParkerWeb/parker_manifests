@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/123v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/4d766571-881d-4810-a76f-9b24ce3e0a5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-256#xywh=0,0,3784,6350",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/8ef2b784-3e14-48cb-94a6-bc0118eeb686",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Miniature: A Synod"
+      }
+    }
+  ]
+}

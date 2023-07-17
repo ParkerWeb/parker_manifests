@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/list/iiir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/annotation/bfd89a81-7768-445a-9011-7c68e3d6ae7c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/canvas/canvas-345#xywh=0,0,5854,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/res/d7889389-897b-4436-98b6-37c290119664",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus beati Anselmi de uirtute corporis christi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/annotation/4336a524-802b-4d98-9022-14f765398f0a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/canvas/canvas-345#xywh=0,0,5854,8946",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/res/0030cccc-f19f-43b4-b933-7c6d8583bb8d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia de sacramento altaris persepe sermo incidit"
+      }
+    }
+  ]
+}

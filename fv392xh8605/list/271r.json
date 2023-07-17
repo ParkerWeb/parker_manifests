@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/list/271r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/annotation/09f47c42-3dbc-4121-97bf-8230eed126c0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/canvas/canvas-555#xywh=0,0,3435,5742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/res/811a5dae-c7be-4ff5-bc0b-7921ec4d49d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sic dictum uel factum unus (?) est obex positus in uia morum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/annotation/8e158b64-2543-4cd5-bb10-dab92780ce55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/canvas/canvas-555#xywh=0,0,3435,5742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/res/c16b5d91-9cc7-4074-9513-5baf7eb65902",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

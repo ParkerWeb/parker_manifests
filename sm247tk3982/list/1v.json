@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/annotation/8eb4ddef-e7ce-4aef-a959-97b8345c8705",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-6#xywh=0,0,5254,8484",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/res/92739cd4-b12f-4d6b-b51d-a1f41b1391c4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit de Principio numerorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/annotation/db78caa0-2d22-4232-b98e-cdbce0dd1d68",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/canvas/canvas-6#xywh=0,0,5254,8484",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm247tk3982/res/daab97c5-7cb5-4e3f-9bc2-68e53253b700",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Diuinis numeris non omnes digni"
+      }
+    }
+  ]
+}

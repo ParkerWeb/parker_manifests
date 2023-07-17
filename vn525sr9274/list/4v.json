@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/76ca836f-3b0b-4944-a70f-767e876e1a55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-16#xywh=0,0,4952,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/266ea15c-0081-494d-8c0e-7645f93a8ab2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Oracio ad impetrand. xxxvi gradus caritatis ven. dne dorothee reuelatos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/bfbc627f-8b81-4390-b4b0-3f30afb784a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-16#xywh=0,0,4952,7770",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/e54dd11e-cc78-41c3-8422-96c5f9ba9a1c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine deus qui precipis"
+      }
+    }
+  ]
+}

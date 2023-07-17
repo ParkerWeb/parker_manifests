@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/list/109v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/12dcfa1c-a415-4cd1-8b97-6f1374482c88",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-218#xywh=0,0,5864,8140",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/9dafe8ad-879d-4906-91a5-eef5cb62ca82",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ruth"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/annotation/19471f01-9acc-479b-a7a1-35627f87e5b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/canvas/canvas-218#xywh=0,0,5864,8140",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mq337vq8802/res/45f995bf-8f25-4984-a63c-e17d23dd3c90",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "I Regum"
+      }
+    }
+  ]
+}

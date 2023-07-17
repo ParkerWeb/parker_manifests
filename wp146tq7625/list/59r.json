@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/list/59r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/annotation/3cbb176e-32f0-4826-ada6-52ad3fca80ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-123#xywh=0,0,5594,7416",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/res/43f045c5-e346-446c-bf35-52e2563294b7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Large initial P with serpent heads and panels of interlaced work: dotted with red and ? purple"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/annotation/49f165f1-3d0d-4329-9309-8b9d2d4b6a6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/canvas/canvas-123#xywh=0,0,5594,7416",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp146tq7625/res/6d997473-d966-490b-bd79-f1cee8892081",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Paschales quicumque dapes"
+      }
+    }
+  ]
+}

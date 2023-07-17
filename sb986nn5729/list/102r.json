@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/list/102r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/de7e4ff5-183c-4021-b0a3-a6406ba340d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-211#xywh=0,0,3525,6042",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/80297668-4b57-44e6-bd8e-131b8e892922",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus magistri Roberti Lincolniensis epischopi de sacramentis ecclesie et articulis fidei"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/annotation/b2732e84-dfe0-4335-b0a6-1dbb7b5e1215",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/canvas/canvas-211#xywh=0,0,3525,6042",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sb986nn5729/res/7c59ab96-ad93-481b-bfb0-e44d767f7567",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Templum dei sanctum est"
+      }
+    }
+  ]
+}

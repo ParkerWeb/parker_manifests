@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/list/112r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/a84ad407-0e51-4772-a4be-b052cc66cd26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-227#xywh=0,0,4517,8891",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/0437102b-52cf-46a5-8603-a973ac80a45f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epistola ad Olimbrium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/a93a8921-cbfe-44de-a193-c12497fabf7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-227#xywh=0,0,4517,8891",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/a767b039-af62-431b-b668-966c18004880",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ad Probi(n)um"
+      }
+    }
+  ]
+}

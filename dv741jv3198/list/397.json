@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/list/397.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/annotation/26f7cc40-67af-4afc-b46c-1c0cdf518637",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/canvas/canvas-397#xywh=0,0,6128,8150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/res/e6f2f35f-4784-4e3b-86a8-a5f08b1851c5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quum in ecclesia preter administrationem uerbi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/annotation/b524766a-f337-4556-ac23-cbf62a9f73a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/canvas/canvas-397#xywh=0,0,6128,8150",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/res/9221956a-6291-41f0-901a-35a875a4d275",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si tam essemus in nostra causa oculati"
+      }
+    }
+  ]
+}

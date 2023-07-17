@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/5204effa-9b30-4503-9c70-01ae9676e0d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-9#xywh=0,0,3359,4991",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/908c50c0-efea-417f-bded-851900a50b10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prephacio Magistri Hugonis de Sancto Victore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/annotation/523f08a3-5615-4784-a93e-629741b709d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/canvas/canvas-9#xywh=0,0,3359,4991",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx900dd8892/res/f2858650-5dc7-4105-8115-49154c0872de",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Iudei signa querunt"
+      }
+    }
+  ]
+}

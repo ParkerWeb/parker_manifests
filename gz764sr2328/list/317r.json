@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/list/317r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/annotation/6bcb210a-78fa-4090-ae84-70f5d4445595",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/canvas/canvas-653#xywh=0,0,5507,8346",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/res/f2200b82-83b8-4dd3-9713-78cf9a487725",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At the beginning of 1254 is: Ex libro Arund. Com."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/annotation/13370b2c-e0f4-4d48-bfee-badeab583a13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/canvas/canvas-653#xywh=0,0,5507,8346",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gz764sr2328/res/1b37a673-8aea-431b-8883-0725e89fd89b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The portion from 1254 to 1273 has been used for the press, as appears by Parker's references to his edition in the margins. Throughout the transcript these have now been covered with paper"
+      }
+    }
+  ]
+}

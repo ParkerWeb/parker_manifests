@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/list/80r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/annotation/196b4c13-0cf0-4744-a39d-c719e2da5310",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/canvas/canvas-173#xywh=0,0,3673,6094",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/res/1b7d7ee3-0752-41ff-9747-645bb75725a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit tractatus magistri hugonis de sancto uictore de disciplina"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/annotation/a1870513-b1ce-40c0-994c-07dd1c6622b7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/canvas/canvas-173#xywh=0,0,3673,6094",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sc624xj6187/res/c657b967-2c64-4843-9e64-3bfad1621d3c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia fratres largiente domino de uana conuersatione"
+      }
+    }
+  ]
+}

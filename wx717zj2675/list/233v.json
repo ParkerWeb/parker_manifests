@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/233v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/77d0273f-2255-42d1-8895-e41cb49bad57",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-472#xywh=0,0,4043,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/5985433b-b6b3-45cf-b1cc-b62b0469ea0c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In triple columns"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/2bafdb2e-859e-4600-a561-e76e49ffd08d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-472#xywh=0,0,4043,6706",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/e8fc02c4-03b8-4e76-b5dd-5937a6948926",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula to Acts, Cath. Epp., Apoc., Pauline Epp."
+      }
+    }
+  ]
+}

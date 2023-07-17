@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/annotation/a0c69cc3-bf44-42bc-b014-6e474ad08fa5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/canvas/canvas-8#xywh=0,0,5149,7303",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/res/bc36410e-5765-4879-ae54-58b68bd5dbc4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipiunt excerptiones de arte grammatica anglice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/annotation/b55698f6-3bed-46b0-a0f0-45cad7fdb94b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/canvas/canvas-8#xywh=0,0,5149,7303",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/res/7e63df46-937a-4d96-8315-a03489b8a068",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Secundum Donatum omnis uox"
+      }
+    }
+  ]
+}

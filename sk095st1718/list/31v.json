@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/31v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/59676d7f-3854-4b78-8cfd-d14195b0a6c2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-70#xywh=0,0,3702,5903",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/8eeeaef1-798d-44f3-9a85-c978197c6f3b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber VI)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/25d0530c-4ed2-4dac-b4b0-0f85db58e1aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-70#xywh=0,0,3702,5903",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/669430d4-44fa-4d12-862f-bdeb8741169a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sextus nunc oritur fastus. Tu conditor adde Presidium semper scribenti numine largo"
+      }
+    }
+  ]
+}

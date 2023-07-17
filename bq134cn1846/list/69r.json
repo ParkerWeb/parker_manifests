@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/69r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/bef70dee-3cf5-4e46-ae34-402e80606e2b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-139#xywh=0,0,6184,7944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/5e9bd12e-0d11-4cf9-9b44-07fd5f93fec7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At top, in red (xvi): Dan Rolande Brugge"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/54ff31f8-6fe2-4751-a484-759c41ea8b50",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-139#xywh=0,0,6184,7944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/32ad0218-e0e6-4a38-9570-7ec3a075f5e3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Angelus domini ascendit de galgala Judic. 2. Cum ista sacra sollempnitas dominice ascensionis"
+      }
+    }
+  ]
+}

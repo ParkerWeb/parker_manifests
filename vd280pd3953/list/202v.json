@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/list/202v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/annotation/b726d032-752d-4cfc-ac2b-1c91cffac6b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/canvas/canvas-418#xywh=0,0,5774,8593",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/res/f2052d91-32a0-4f47-8f8a-3e89b6f1f7a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et alia dei munera. sit cum omnibus uobis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/annotation/498a5f31-773c-429a-b307-a65174e36857",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/canvas/canvas-418#xywh=0,0,5774,8593",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vd280pd3953/res/8ecc7acb-3ba7-4440-ba3b-740d36a52636",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit deo gracias"
+      }
+    }
+  ]
+}

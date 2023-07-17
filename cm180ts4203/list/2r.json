@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/annotation/80d6dbd8-566a-46e0-83e0-cb71a547e05b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/canvas/canvas-13#xywh=0,0,6107,9355",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/res/04349e1b-ebb8-40ed-9639-c3b7be5d8751",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber IX"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/annotation/e18bd663-c18b-4369-a673-b97de34e8ded",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/canvas/canvas-13#xywh=0,0,6107,9355",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm180ts4203/res/f2d9a71b-dbe1-45cc-93ef-16ae0d4f90ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Gaio igitur cum esset rome"
+      }
+    }
+  ]
+}

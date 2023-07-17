@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/annotation/6e6285aa-24c9-4a8f-ba8f-d4d0ddb20a66",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/canvas/canvas-5#xywh=0,0,5998,8622",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/res/57504be8-f56b-4cde-adf5-faecdf608fd8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Augustinus de unico baptismo libro iiiito"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/annotation/2e9896a3-127b-4ef6-bab2-f0d82526e61f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/canvas/canvas-5#xywh=0,0,5998,8622",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wk321dt4676/res/1aeb68c4-d5fa-4797-be81-db5b84723312",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si pro eo qui respondere potest in baptismo"
+      }
+    }
+  ]
+}

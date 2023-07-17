@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/annotation/347e0635-9033-468f-a9a9-812149cedf12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/canvas/canvas-21#xywh=0,0,3281,5119",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/res/8edd0962-dea4-4293-97bd-673ec7666365",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: hominum fide dignorum sine lite. Kenreich est legis disputacio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/annotation/a61a3aff-57b3-4428-8aef-42c1416f6c33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/canvas/canvas-21#xywh=0,0,3281,5119",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/res/118eb4df-8e8e-44d5-b933-c39b3c5527ce",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de officialibus curie"
+      }
+    }
+  ]
+}

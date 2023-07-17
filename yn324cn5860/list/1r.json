@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/837f2754-01c0-4c0f-9185-4db07620a5a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/canvas/canvas-17#xywh=0,0,3832,5640",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/f78b7c17-62af-4976-a375-90ffab2a286c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prohemium libri breuiter compilati, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/67d6c3f0-f652-457f-b28d-5f9ca81f0e02",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/canvas/canvas-17#xywh=0,0,3832,5640",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/77d1dad0-0f67-401f-8d63-dbab379c9411",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam utile est et honestum"
+      }
+    }
+  ]
+}

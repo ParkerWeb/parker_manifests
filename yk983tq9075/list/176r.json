@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/list/176r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/47d54ebb-8bff-4831-ae76-2074535146d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-359#xywh=0,0,5836,8598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/a949628b-7123-4e8e-81af-c3ddd6e5cc75",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In the 2nd cover: a hymn to St Katherine with a few musical notes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/00d5ad61-6234-413e-9b15-fb06e6283072",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-359#xywh=0,0,5836,8598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/daccf234-d8e2-432f-ab87-6b4ed1bbb900",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aue katherina martir et regina"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/d4f0ce42-771a-4ec8-ad40-82618875754c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-359#xywh=0,0,5836,8598",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/645f1484-ba91-4bd9-8b6f-189e6c78286a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ut intremus tecum choris angelorum. Amen"
+      }
+    }
+  ]
+}

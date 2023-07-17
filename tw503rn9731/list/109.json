@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/list/109.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/ba6189fd-4626-4227-ba17-ad2788d9de2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-125#xywh=0,0,3967,5396",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/b5b3e800-5f6e-421e-a11d-1cae4b43befa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Names of the children of Edward III. Distich on Kings of England"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/588611e5-ba3a-42cd-a69f-f154449581a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-125#xywh=0,0,3967,5396",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/9523310e-9cc4-42c1-b30f-8cd1ab2f27ba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Edward I to the Abbot and Convent of Westminster, reciting the Scotch agreement (Norham 1291, Rymer, Foedera II 529)"
+      }
+    }
+  ]
+}

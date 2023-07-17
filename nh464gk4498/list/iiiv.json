@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/list/iiiv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/190e379e-46a5-4010-9842-a3c0d3db95fc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-330#xywh=0,0,4031,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/b6df2900-c7a6-45b3-80e8-e45e0fc52513",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the last page an extract from a statute book of the University f. 58"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/annotation/c57254f1-81cb-428c-8a81-11e73d2f557c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/canvas/canvas-330#xywh=0,0,4031,6006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh464gk4498/res/12a61344-d85e-49f6-b2a4-3ba600f45a2a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Nota quod 12 turonenses valent xld etc."
+      }
+    }
+  ]
+}

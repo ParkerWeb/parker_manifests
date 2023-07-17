@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/93c858a5-15de-4077-b720-dbed1a25ffc6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-15#xywh=0,0,3678,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/77c0dc18-81d7-4939-a87c-89c72ca2a763",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus sequentis opusculi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/747bad02-ea18-41af-8802-a13f2236c8c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-15#xywh=0,0,3678,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/585d4229-e311-450d-9305-f14e4ec22d23",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Serenissime ac reuerentissime domine sue francorum Dei gratia regine margarete"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/annotation/22941236-4dbe-4e5f-9133-4e406b0e3196",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/canvas/canvas-15#xywh=0,0,3678,5686",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rp440hw6248/res/2fa564ec-ca62-4d2a-a0a0-914e29c55bb0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: per capitula subiecta distinctum"
+      }
+    }
+  ]
+}

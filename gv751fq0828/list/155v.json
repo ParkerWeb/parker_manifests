@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/list/155v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/486d6200-d591-4004-9e8b-0200b2702c8a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-316#xywh=0,0,6190,7926",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/6852c04a-3e1e-49c6-8317-09450ba7879b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Canticum Ezechiae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/annotation/eaf3807c-7a00-4c52-835a-6df153d1ddb6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/canvas/canvas-316#xywh=0,0,6190,7926",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gv751fq0828/res/3db6ae7e-1f33-4c3c-bcd5-d1eb468d4d3b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: OSCRIPTOREZACHARIE Probably a mistake for scriptura regis ezechie and not containing the name of the scribe"
+      }
+    }
+  ]
+}

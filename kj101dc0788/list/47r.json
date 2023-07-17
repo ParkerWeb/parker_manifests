@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/47r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/5c13e3ae-171a-42f2-8992-ebd06cde854e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-97#xywh=0,0,5850,8481",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/01fbd355-e383-47c7-8964-06d7aafe2444",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Winchester to Godefridus and Petrus. Later hands continue to Thomas Langton"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/7ad49e27-918e-4815-9678-6801825f11b9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-97#xywh=0,0,5850,8481",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/5706109d-31e0-4b87-82a5-13a832e226c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Salisbury to Herebertus. Ricardus and Robertus added"
+      }
+    }
+  ]
+}

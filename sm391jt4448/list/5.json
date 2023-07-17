@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/list/5.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/97b890b1-af97-40f7-bc35-38f1de39fab9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-11#xywh=0,0,4104,6266",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/b8fa4a6c-c01e-47a4-9cf7-df5a075348eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text, with good blue initial and red pen-work"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/annotation/37a32019-f09c-4c5e-bce8-0dce316a0012",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/canvas/canvas-11#xywh=0,0,4104,6266",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sm391jt4448/res/a9962769-dc91-4125-8f22-7d2761efcea0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia omnes homines naturaliter scire desiderant et inquirere res occultas"
+      }
+    }
+  ]
+}

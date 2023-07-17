@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/list/13.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/db609b97-4f11-4364-b870-249d3051c492",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-25#xywh=0,0,3233,4815",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/d3531caf-3671-457f-90b9-7fec567fd147",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber graduum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/1e6c0a4b-54e2-47ed-90e8-131924007ea6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-25#xywh=0,0,3233,4815",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/366768d5-749e-49e7-8678-d195448d1bac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/annotation/7d153712-cded-470f-b93f-133dca2228fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/canvas/canvas-25#xywh=0,0,3233,4815",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qt651bq6363/res/3722aa95-4ef6-4674-8211-4c0c56d70042",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam disputationem simplicis medicine"
+      }
+    }
+  ]
+}

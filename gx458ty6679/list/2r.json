@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/annotation/d54cbfcf-f7bc-4d48-8b58-19547c9e8520",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/canvas/canvas-9#xywh=0,0,5734,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/res/c3c490f6-bd6b-4ab8-bbb4-a7fd2ad69ef9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: accipio causam tuam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/annotation/b7367bbf-c062-4b86-868b-a0a21a9e2783",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/canvas/canvas-9#xywh=0,0,5734,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/res/dd596168-498f-4dc6-97e3-ef136ef81742",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    }
+  ]
+}

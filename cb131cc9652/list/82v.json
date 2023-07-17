@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/list/82v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/annotation/d5988cf8-2b8f-4fba-aa8f-9ab649bf6741",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/canvas/canvas-170#xywh=0,0,4432,6921",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/res/6722fa44-3def-4fe2-8ab2-3ff13baf4a2f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit epitaphia ciceronis edita a xii sapientibus basilio ... maximino et vitali"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/annotation/c7f7cbd2-851a-48c4-af2f-31092594ac89",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/canvas/canvas-170#xywh=0,0,4432,6921",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/res/fc6aab37-4157-4b77-a6db-5f9912f50dba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Basilius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/annotation/ccef429a-b1bb-4fab-977f-ae040e285457",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/canvas/canvas-170#xywh=0,0,4432,6921",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cb131cc9652/res/5ce98c4c-6fde-462b-95ef-e8985257faf3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hic iacet arpinas manibus tumulatus amici"
+      }
+    }
+  ]
+}

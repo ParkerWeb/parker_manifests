@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/list/190v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/fc2a064d-1c00-4b9d-aed7-4bc990125da2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-390#xywh=0,0,3074,4953",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/cbea9d87-55e8-4dd1-8f40-d3a5a0a644d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Organa to two Alleluias (later hand). Frere "
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/annotation/f3afe195-427f-4635-ae04-6d4e37a805bc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/canvas/canvas-390#xywh=0,0,3074,4953",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp193mg4537/res/03532d9d-7cde-42bf-af63-777b2e661ba5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Kyrie"
+      }
+    }
+  ]
+}

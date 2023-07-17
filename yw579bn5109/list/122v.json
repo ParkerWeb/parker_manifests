@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/list/122v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/8f42e9c3-5327-4b8e-aafe-19eb87ee32c7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-254#xywh=0,0,4070,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/649fd526-80ee-42ea-8dbc-857cc4605bd5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text with fine initial in red and green"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/annotation/f8fd5d5b-e69e-41b1-bc2b-27690c83fabc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/canvas/canvas-254#xywh=0,0,4070,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw579bn5109/res/ccf37b4f-2aa0-49d0-b282-c1985d8cd827",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Canones 41, qui dicuntur apostolorum"
+      }
+    }
+  ]
+}

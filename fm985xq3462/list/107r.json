@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/107r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/cc558f6f-22e9-4310-a1d4-d6e5ebfbfdc1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-223#xywh=0,0,6084,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/ee31c48a-7ccb-4537-bfe5-e9e7291ce8b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A knight in armour kneels holding a church and a sealed charter, at an altar. Black ground with white pattern bordered by red with white pattern"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/675f5f1c-cf7c-4aad-873d-5293aa93b86d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-223#xywh=0,0,6084,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/e105a676-9f8a-4cbe-aeda-46f586a40a56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Eight heads of knights mostly in helmets"
+      }
+    }
+  ]
+}

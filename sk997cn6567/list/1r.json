@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/annotation/a750270c-c853-4689-83f2-9266f06559eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/canvas/canvas-3#xywh=0,0,4463,8827",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/res/c38a030d-e52a-480b-a546-1cca89ffedba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber I"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/annotation/5d379a60-e476-4bb6-a90b-d2644e4b4fd9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/canvas/canvas-3#xywh=0,0,4463,8827",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk997cn6567/res/cbff1fc5-471d-47f0-8ff9-c8dcf3c8e954",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fraternas acies"
+      }
+    }
+  ]
+}

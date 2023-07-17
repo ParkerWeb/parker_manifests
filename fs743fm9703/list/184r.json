@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/list/184r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/6526d4a3-2ce0-49b3-8d92-1b36b6427959",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-423#xywh=0,0,6154,8658",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/d7a55246-1b4b-4988-923c-7d066cee7918",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus Iohannis in Metalogicon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/annotation/c1cd5372-0b20-4077-b7e4-c173bf333e46",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/canvas/canvas-423#xywh=0,0,6154,8658",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs743fm9703/res/78af6744-6ddd-42fc-a7ab-76c437ae326c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In humanis rebus nichil fere"
+      }
+    }
+  ]
+}

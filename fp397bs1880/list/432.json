@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/list/432.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/annotation/5fcadfca-e042-455f-8974-dad83f49a2f3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/canvas/canvas-442#xywh=0,0,6658,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/res/4e5ff747-e283-439f-b72a-ffc9ac4f4b91",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On p. 432 are notes by Parker including a list of eminent men named Matthew, and some rhyming adages, e.g.: A proverbe in Norfolke"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/annotation/e6263f83-fe1e-4812-9780-c6261a3692f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/canvas/canvas-442#xywh=0,0,6658,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp397bs1880/res/7576649e-97e8-4503-bfcc-aaed6ffb9684",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At St Dunstones daie laie the seede leape awaneIs ther non yet a raine take the seede leape againe"
+      }
+    }
+  ]
+}

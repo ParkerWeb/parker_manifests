@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/annotation/b030449f-92e7-4925-800c-5284efd9b933",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/canvas/canvas-9#xywh=0,0,3362,4958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/res/1e66d400-aa82-479e-88f6-f4cddde70c00",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A very beautiful initial and partial border of characteristic English work: facsimile of this page in Luard's edition (Rolls Series)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/annotation/cd28a1d8-855f-404c-870b-6522d6a65718",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/canvas/canvas-9#xywh=0,0,3362,4958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy545qd5808/res/43349a1e-b732-421f-9535-b110d41a82ad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Dilecto sibi in Christo Magro Ade Rufo R. Grosseteste"
+      }
+    }
+  ]
+}

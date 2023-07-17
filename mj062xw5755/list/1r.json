@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/annotation/03c73eed-821b-46f3-aef7-5f42432bde69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/canvas/canvas-11#xywh=0,0,3612,5118",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/res/5be5d4f8-7eb3-4786-859a-e2a2567ddb9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ci comence la pensee Iohan de Houedene clerc la roine dengleterre mere le roi Edward de la neissance e de la mort e du relieuement e de lascencion ihesu crist e de lassumpcion nostre dame. Et a non ceste pensee. Rossignos, etc"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/annotation/bfadb4c7-15a8-493e-96bf-a51f78048695",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/canvas/canvas-11#xywh=0,0,3612,5118",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj062xw5755/res/01a01881-d15b-46b7-8c6f-ae6486b142d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ceste oeure comence. Ci comence li rossignol.Alme lesse lit de peresseE ta langor e ta tristesseApreng damour la parfondesseE a penser damour tadresse"
+      }
+    }
+  ]
+}

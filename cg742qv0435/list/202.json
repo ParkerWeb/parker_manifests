@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/list/202.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/ca6d7047-3256-4815-a097-21d3bccc6767",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-204#xywh=0,0,5648,8662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/9f7110e3-9c01-4913-82fb-1136c6817d01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: a nota mendacii nos exhibeat alienos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/18ee842a-f476-428b-a155-176c07c42e19",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-204#xywh=0,0,5648,8662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/dd07e9f3-cef7-412a-8e9d-670655a7a64a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit vita beati Odilonis abbatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/f3b844f3-a65a-4b58-8542-6c096346da13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-204#xywh=0,0,5648,8662",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/351acfff-e212-4fbb-91d4-641a6927dc01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Beatus igitur Odilo arue(r)nie oriundus"
+      }
+    }
+  ]
+}

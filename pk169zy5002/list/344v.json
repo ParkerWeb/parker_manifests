@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/list/344v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/annotation/7996d0a1-b11e-4904-b6e6-fa1da67fa661",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/canvas/canvas-704#xywh=0,0,5766,9155",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/res/33e799ce-3f3d-4c51-b043-6aa5a398b6a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: abesse contingat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/annotation/a40f09a0-d212-42db-abcc-8217726f14d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/canvas/canvas-704#xywh=0,0,5766,9155",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pk169zy5002/res/0308bb0d-f0a6-47c5-8806-8856c2071182",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De regulis iuris"
+      }
+    }
+  ]
+}

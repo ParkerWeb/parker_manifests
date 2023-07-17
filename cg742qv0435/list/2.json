@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/list/2.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/fcb749bb-d9dd-42ae-bad0-ba3da113df5b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-4#xywh=0,0,5616,8390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/57986b88-99c6-480a-9044-dde5d0962b76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ista aggredi temptabo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/e4d35a8c-fb15-427f-972f-ac4eed7e8639",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-4#xywh=0,0,5616,8390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/efb7bb64-6ff1-4b63-8361-b7758b3d0613",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Epistola"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/5c9ba8ed-9a29-4ac8-8b80-284ded4e10b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-4#xywh=0,0,5616,8390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/876656d0-ed5b-44db-a2f2-da3e6156186b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit vita Sancti Dunstani archiepiscopi et confessoris"
+      }
+    }
+  ]
+}

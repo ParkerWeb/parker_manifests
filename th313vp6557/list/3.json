@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/20ac2083-63c2-4bdb-a310-b3e4423c6736",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-15#xywh=0,0,4968,8205",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/cc782725-9ce4-414f-b704-4224ab173d6a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Kalendar in black, red, green and blue"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/59166090-bf0a-422e-95bc-9cb08b1549be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-15#xywh=0,0,4968,8205",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/72377ab1-acd8-4b1c-ac0e-c1f1471c605b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "January 8. Translatio Sancti Iudoci Sacerdotis. Capitals 20. Added, Obitus pie memorie domni Wlstani episcopi"
+      }
+    }
+  ]
+}

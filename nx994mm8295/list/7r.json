@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/list/7r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/annotation/28a5df59-9751-4780-8842-2143b189c8d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/canvas/canvas-19#xywh=0,0,3587,5823",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/res/8fb9dfe2-59c9-46c1-bdce-a5b265ccbf3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Primus Politicorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/annotation/aca4e6db-dc25-46a8-ae88-9e0f62b302bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/canvas/canvas-19#xywh=0,0,3587,5823",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nx994mm8295/res/e0895590-92a0-4433-8811-2cdc71ecf2e7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam vidimus omnem ciuitatem esse societatem quandam"
+      }
+    }
+  ]
+}

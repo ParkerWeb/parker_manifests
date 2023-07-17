@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/5v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/2e6808ab-3ae1-4e62-b6a2-f93f336b0896",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-14#xywh=0,0,5098,7961",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/c1c1a713-281c-4218-8255-90775a4090b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "8"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/8ac07b42-173f-49fc-9a52-f694a0659965",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-14#xywh=0,0,5098,7961",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/ef17ac0b-5abc-415f-a49c-0e85b098c2a9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "8"
+      }
+    }
+  ]
+}

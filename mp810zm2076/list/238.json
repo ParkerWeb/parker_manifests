@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/238.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/4a848457-6c34-49fe-aaf6-e5b21b2ac0ed",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-246#xywh=0,0,3324,9270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/112bc7a5-09b1-4df9-ac5b-ff356c139445",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Quod Francigenae, Calisiam sibi a custode fore traditam expectantes, a rege ipso Edwardo III. acriter repulsi sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/1991e292-9bea-4bba-885f-a8582eca7fe6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-246#xywh=0,0,3324,9270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/8889fdc3-8b33-4583-9ac9-c9612b5fb0eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De rotunda tabula Edwardi III"
+      }
+    }
+  ]
+}

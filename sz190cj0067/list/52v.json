@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/list/52v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/098d4cd3-48ac-4a3a-a27d-847b5a7a5cfe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-110#xywh=0,0,5902,8742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/c1808b8c-2ac3-4390-945b-e8fd35830a0a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ego scio dicit dominus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/annotation/47ba05b9-02c6-4db4-a529-9fce0b351842",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/canvas/canvas-110#xywh=0,0,5902,8742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sz190cj0067/res/81a44da8-9003-4d3b-84fe-d703b839a636",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Ysaie"
+      }
+    }
+  ]
+}

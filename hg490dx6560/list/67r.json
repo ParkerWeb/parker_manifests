@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/list/67r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/2e777676-43dc-49f6-9d23-5dcdc103ffcd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-133#xywh=0,0,5794,8142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/aca2d456-f1fd-4b99-8d04-4e925cff0af1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Liber canonis quartus incipit de egritudinibus particularibus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/038726b4-002c-4f60-baf1-82790e635685",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-133#xywh=0,0,5794,8142",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/0deb6a60-08e0-4b4a-a22b-a42508ddb7d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    }
+  ]
+}

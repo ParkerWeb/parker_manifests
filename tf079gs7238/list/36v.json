@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/list/36v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/80e20021-daa3-4ce9-99e5-e23ed3ed79ad",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-84#xywh=0,0,3776,5803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/bfabb7ca-b8e1-4b34-942d-df1951b3ccbe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the Cinque Ports"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/annotation/3255a87e-9425-4bcc-a85e-fa3f3f0f1420",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/canvas/canvas-84#xywh=0,0,3776,5803",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tf079gs7238/res/45a0c631-47f5-4669-ae61-50c7c4de3d17",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Number of churches etc. in England"
+      }
+    }
+  ]
+}

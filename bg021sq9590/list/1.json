@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/b00eed5a-e0af-41a7-9f05-e65f350ad135",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=0,0,5890,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/bfe78415-2099-4ce9-a6f3-6910e7c32ad6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Amantissimo domino et patri B(artholomeo) dei gratia exoniensi frater B(aldewinus) fordensis monasterii"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/14b2b544-80b2-4f08-b9d4-b3f23cadf9f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=0,0,5890,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/9bd94d22-3fb0-4f75-9d93-42b32000ba7e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial on p. 1: the archbishop in mitre, light pink chasuble with pall, green dalmatic, and alb, seated facing R. writing. Gold ground"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/96a70728-218a-4004-8568-6dd5d445121b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-9#xywh=0,0,5890,9078",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/951fceec-772a-4e4a-924e-28bf9720f4e3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the R. upper corner an erased mark b (for bl or bs)"
+      }
+    }
+  ]
+}

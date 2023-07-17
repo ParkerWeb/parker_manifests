@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/103r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/744f2764-5a9f-456b-85a3-b2167a47ae55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-215#xywh=0,0,6020,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/52d9e80b-dcb8-492c-bc6f-0184082db0b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "a large miniature of Offa in scarlet over blue, crowned, seated, holding sword and model of Church with central tower and leaded spire. Purple ground with pattern"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/5cba7e53-b403-42cc-8d34-46852c0fc632",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-215#xywh=0,0,6020,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/0ebca075-1c2d-476d-9287-15732e60f1f5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Four other small miniatures, busts of bearded kings: purple ground"
+      }
+    }
+  ]
+}

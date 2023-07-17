@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/annotation/ddb43e31-4b48-46f7-833c-2669b9fd1cb6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/canvas/canvas-9#xywh=0,0,5758,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/res/77417df3-145c-4e5c-898d-33e07912ad8b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Iohannes (so) Occliffe de regimine principum et constat m. W. Wilflete"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/annotation/7d67c9b8-be46-44c4-8a06-163ac803f621",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/canvas/canvas-9#xywh=0,0,5758,8466",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh939rq0328/res/1ef25610-fab5-470f-84eb-753398217ef5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Musyng opon þe restles besinesse"
+      }
+    }
+  ]
+}

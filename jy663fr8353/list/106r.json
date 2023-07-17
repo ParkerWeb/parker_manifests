@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/list/106r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/b54dc2b7-927e-4956-b537-e1bbcebe19a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-225#xywh=0,0,5170,7842",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/00f6b2de-5dea-4913-8145-20d2a049fd3c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On a comet of 1315"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/684e42f4-2771-4aa9-a045-2ed085cdf99d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-225#xywh=0,0,5170,7842",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/b6f30a1f-2bd0-4a4b-a068-014c57344ead",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnibus studentibus in stellarum sciencia qui scripcit hanc cedulam corrigendam"
+      }
+    }
+  ]
+}

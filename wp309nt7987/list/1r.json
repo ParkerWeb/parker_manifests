@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/1dc4cd68-139b-42d5-9770-350009ab2e31",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-7#xywh=0,0,6022,8922",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/68c3d291-fefe-4952-adce-79b082eee784",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sermo beati Iheronimi presbiteri in vigilia pasche"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/annotation/e83bda16-a990-4e78-8d89-c10c717cd8f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/canvas/canvas-7#xywh=0,0,6022,8922",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wp309nt7987/res/cb4c3b62-b1ba-4d3c-a15e-a343da7ae48c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quomodo iuxta matheum"
+      }
+    }
+  ]
+}

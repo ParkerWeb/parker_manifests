@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/annotation/59ef4fa1-864a-473b-8a5a-f947b9e007c1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/canvas/canvas-5#xywh=0,0,5182,7338",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/res/c200d1f8-afa9-43d6-af5b-63bbd80a85cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit praefatio huius libri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/annotation/e3f64511-77ba-4bd4-a6f4-6742ec05238c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/canvas/canvas-5#xywh=0,0,5182,7338",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq166fm4860/res/a6e855c6-27d6-459c-8a23-c24793b5da17",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ego Ælfricus ut minus sapiens"
+      }
+    }
+  ]
+}

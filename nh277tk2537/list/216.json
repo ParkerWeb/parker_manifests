@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/list/216.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/604f5c3b-4670-44ff-b503-6d5745add45b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-224#xywh=0,0,3574,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/74e9ec38-262f-4c0a-997c-936493163031",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Laws of Eadgar"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/annotation/ce449899-9448-40d9-a220-03c93dc7b5b0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/canvas/canvas-224#xywh=0,0,3574,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh277tk2537/res/40f5e525-f5b1-43e2-981a-ce39c6b65a0e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liebermann p. 207. Latin version of Eadgar's laws IV Prol."
+      }
+    }
+  ]
+}

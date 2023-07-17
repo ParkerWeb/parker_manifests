@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/list/11v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/c1874f5d-97b2-46ed-afe2-9ec34bca49f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-24#xywh=0,0,4190,6422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/3366d6c0-0664-47d7-b8bb-625c9d67d379",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: memores uxoris Loth"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/5c9d5f98-6a07-4fc4-88c3-529b0a839c33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-24#xywh=0,0,4190,6422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/bcb5a8f2-cbbf-421f-a4e0-2422a6f5518f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam series que in arte gramatica corrigende sunt"
+      }
+    }
+  ]
+}

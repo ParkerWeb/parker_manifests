@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/list/109r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/3fcbfeaa-d88a-4fb7-ab60-559acbc68b48",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-231#xywh=0,0,4149,5852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/69687db6-8b75-4c3e-aa86-070560d5c443",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: vitam eternam possideas. quam tibi concedat qui, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/f3e6cc38-63e3-46a6-9d89-ee4ee51598fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-231#xywh=0,0,4149,5852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/587ac5f8-4a50-4bd0-ba4c-dd160a41f2e2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit speculum peccatoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/annotation/1bf016d3-3d41-4379-afc2-8be4a44e24a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/canvas/canvas-231#xywh=0,0,4149,5852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zn618sb4538/res/f226377d-b50f-4c2c-be74-0b7b41d7fc24",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Bernardus in 2a omelia super missus"
+      }
+    }
+  ]
+}

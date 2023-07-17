@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/list/15r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/annotation/7ac990d1-0521-4e1d-9616-8e8006d6cf5a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/canvas/canvas-41#xywh=0,0,4198,6043",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/res/d8d1aa9b-3b09-44df-9124-c64c063dd487",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic est liber de Actibus Alexandri filii philippi regis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/annotation/3e8aee29-b9c7-4df5-a2b5-2ed8ffd23327",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/canvas/canvas-41#xywh=0,0,4198,6043",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dr484rx6179/res/244fc77f-c00a-4cb4-b3a1-cdf160db04d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sapientissimi egyptii scientes"
+      }
+    }
+  ]
+}

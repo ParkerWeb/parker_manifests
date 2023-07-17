@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/list/91r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/annotation/d06ca7d2-0601-4ed6-af70-86c710c61acf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/canvas/canvas-187#xywh=0,0,3606,5310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/res/71fa3e66-d717-4b64-ac86-7843779308e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Inuolucio spere"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/annotation/b8f14c7a-b7e9-45e7-a2f7-a5afb0baa665",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/canvas/canvas-187#xywh=0,0,3606,5310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/res/c8af1491-f92e-489a-985f-f6e8dbead6f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Duo sunt extremi vertices mundi"
+      }
+    }
+  ]
+}

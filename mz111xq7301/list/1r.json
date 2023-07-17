@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/annotation/0950ab48-b615-4a7a-95cd-d8316f23e3cf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/canvas/canvas-9#xywh=0,0,6128,8136",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/res/8382ed47-b4a7-474c-aca0-4fa17540a8ee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Interpretatio nominum ebraicorum et grecorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/annotation/0add8493-8547-4e4f-bffc-19863898445e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/canvas/canvas-9#xywh=0,0,6128,8136",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/res/eea3bff5-962a-4a65-8b5c-9601756f3122",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Adonai"
+      }
+    }
+  ]
+}

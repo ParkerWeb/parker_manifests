@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/annotation/a6363772-266b-4748-9aa9-9c0458dda196",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/canvas/canvas-9#xywh=0,0,3776,5382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/res/e5c1aa0c-0eb6-4512-ba9d-96d7eb205443",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in red, black and gold capitals"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/annotation/e075c1e2-ed42-4ac8-954d-5d63beb95c03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/canvas/canvas-9#xywh=0,0,3776,5382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz540zc7240/res/09c40ed1-2b93-434c-bfc1-1d2dd710752e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De / Cabala sacra · Et de / Ineffabili Dei nomine / TETPAΓPAMMATON / (the sacred name in a medallion) / contra hostes et perse / -cutores catholicae fidei /. Ad Philippum. IV. Hi- / spaniarum et Indiarum / regem potentissimum et catholicum monarcham"
+      }
+    }
+  ]
+}

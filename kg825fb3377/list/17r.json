@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/list/17r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/fabdc07f-ed4d-490b-b371-24e6658305ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-35#xywh=0,0,4788,8352",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/0e59eac5-ff73-40d6-9e47-b0f3e8c70c5f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber III"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/annotation/1920ab7a-ca8b-4f8b-bfde-45b2a367da27",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/canvas/canvas-35#xywh=0,0,4788,8352",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg825fb3377/res/085af382-c64a-4c81-bfac-67673000845b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Ricicardo duce Normannie qui appellatus est filius willi Long spy"
+      }
+    }
+  ]
+}

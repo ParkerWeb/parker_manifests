@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/list/203v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/annotation/1b39d2b2-4bae-42f4-a418-6e9d3bdbfad0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/canvas/canvas-422#xywh=0,0,3691,5678",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/res/8ed94ddd-7ea4-40f7-b242-f9cdbd18b7ab",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: In resurrectione iustorum. Ad quam retribucionem uos perducat qui sine fine etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/annotation/9c53f4e3-833a-43a3-86e3-a08ffd0a5a13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/canvas/canvas-422#xywh=0,0,3691,5678",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bp679jt2498/res/78b61649-d75e-4bdb-826d-bd3eb9f9d472",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit hic liber deo gracias"
+      }
+    }
+  ]
+}

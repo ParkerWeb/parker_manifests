@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/206.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/dff1e550-62f8-400b-9c26-e701826ef233",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-213#xywh=0,0,3211,9084",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/117e381a-4911-485e-b06f-16519b77c988",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Willelmus Rufus occisus in foresta Ykene"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/81f1888c-fb01-4c70-8fc0-5cd85dce62b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-213#xywh=0,0,3211,9084",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/f9aa3dd6-cc1a-4e1a-95fa-f905dfa9deb7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De castro Torre, Cyrencestre, de doctore Neckham, et de Bresingfield-park"
+      }
+    }
+  ]
+}

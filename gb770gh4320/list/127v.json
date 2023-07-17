@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/list/127v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/annotation/a7644461-9fe9-4b84-bbe2-f68a4899b760",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/canvas/canvas-260#xywh=0,0,5208,8814",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/res/8434a685-8717-4777-8b3b-50278314d430",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prohemium super tabulam decretalium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/annotation/a5c82b60-219e-442f-89e0-b79acd4a8960",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/canvas/canvas-260#xywh=0,0,5208,8814",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gb770gh4320/res/cf3f8cfd-a2da-4a7f-b4ea-99ea37d92cf8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Prompte uolentibus per hoc opusculum in decretalibus"
+      }
+    }
+  ]
+}

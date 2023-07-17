@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/list/5r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/annotation/d26a8470-c87b-478d-8ea3-1f3fc9a79a9a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/canvas/canvas-21#xywh=0,0,5998,8754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/res/8473937c-3515-4678-9a74-1e3e82b08569",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Nunc ia(m) incepturus scribere particulares uiros inopiam (incipiam) ab inicio dolorum ac misseriarum gencium Primo (?) ab inicio peccati prothoparentum, seruato tamen ordine alphabeti, dicam igitur deo duce"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/annotation/fcc8c0e8-9d95-40fd-bb72-3ee15aa2a48c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/canvas/canvas-21#xywh=0,0,5998,8754",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/res/4cd44138-281f-4055-a244-7ebf9c1a28dd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abacuc propheta ut scribit Jeronimus in prefatione Abacuc"
+      }
+    }
+  ]
+}

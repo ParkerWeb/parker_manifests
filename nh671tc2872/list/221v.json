@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/list/221v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/3ebecf4c-1f31-4f8e-84f5-37342294595c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-454#xywh=0,0,4003,6046",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/497096ee-cfad-48c7-abd6-7de385d63432",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post peccatum ade expulso eo de paradyso"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/45a075f2-1c65-4255-945b-06fa5a5367ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-454#xywh=0,0,4003,6046",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/1faae271-d28e-4320-bb17-df36610485d1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial gold ground. Christ beardless stands on L., on R. sits Adam with hand to head (sleeping): Eve emerges from his side"
+      }
+    }
+  ]
+}

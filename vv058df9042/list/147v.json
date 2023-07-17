@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/list/147v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/annotation/8091ffc6-7f3f-43e7-8200-69eee4113a6d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/canvas/canvas-298#xywh=0,0,5856,9270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/res/75525385-026a-4ca2-b4b3-3cd85dc6edfa",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In another hand the poem attributed to Johannes de Garlandia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/annotation/5d2c3e47-a598-49bc-85b8-8d1d9561a230",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/canvas/canvas-298#xywh=0,0,5856,9270",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv058df9042/res/b4663944-a816-4994-b88c-90df899279f7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Peniteas cito peccator cum sit miserator"
+      }
+    }
+  ]
+}

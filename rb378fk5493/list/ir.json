@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/ir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/9b28c99f-15fb-4841-9741-c6bf9091003e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-7#xywh=0,0,5745,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/380e6633-4405-4580-9f22-d2695d3e3a0f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "a. Nomina Regum antiquorum et modernorum from Ina to Henry III: continued to Elizabeth: with the durations of the reigns"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/13e61d05-73bb-447c-9b45-3517fa64b38a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-7#xywh=0,0,5745,9114",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/8aaaafea-02cd-4021-8f90-210b56169ead",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "List of kings"
+      }
+    }
+  ]
+}

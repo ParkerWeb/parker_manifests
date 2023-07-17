@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/df10d2e6-e573-465c-a321-06ca0e54e13c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-20#xywh=0,0,3775,5298",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/92ad087e-4ee1-44ca-886e-da2598e8ab22",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Notes of such letters being sent in 1529 and 1533"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/annotation/132dd041-7110-4882-ab85-9fd377f4e337",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/canvas/canvas-20#xywh=0,0,3775,5298",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt809mq0409/res/597772a5-d75a-4e66-ad74-55850d6c63b3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note of nomination of proctors, 1530"
+      }
+    }
+  ]
+}

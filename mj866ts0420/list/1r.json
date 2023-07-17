@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj866ts0420/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj866ts0420/annotation/6c077c3e-9cc9-4e63-bffd-006ba7c71154",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mj866ts0420/canvas/canvas-3#xywh=0,0,4232,5848",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mj866ts0420/res/ed52614c-8df9-49a3-ba1e-7372577af358",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "List of words, 5 columns to a page"
+      }
+    }
+  ]
+}

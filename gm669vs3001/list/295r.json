@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/list/295r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/annotation/0c9c0ccb-d956-4a77-8ef2-7be20700fd03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/canvas/canvas-593#xywh=0,0,6226,9318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/res/a2a1be17-9420-46cf-bfef-ded980245944",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Signatur ergo per cumulum sabuli congregatio peccatorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/annotation/d9ebe3dd-9bae-43a6-9ab3-4a2bf41374bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/canvas/canvas-593#xywh=0,0,6226,9318",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gm669vs3001/res/bce98a21-a47d-415d-bdf1-c32242c6b313",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sit de valle dei Roberti mons requiei merces me cuius explicuit calamus"
+      }
+    }
+  ]
+}

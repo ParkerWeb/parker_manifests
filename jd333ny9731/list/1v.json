@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/7c4afc84-02d6-4bb9-b530-606d6346f831",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-20#xywh=0,0,4029,5612",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/5cf2880c-df3a-4626-9981-4b5e9e0f2a57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Note of the author that his sources are the Thomus of Herbert de Bosham, and the Life by John Grandison"
+      }
+    }
+  ]
+}

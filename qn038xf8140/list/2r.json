@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/annotation/a536f23b-65ca-44c3-b238-c21e94f19783",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/canvas/canvas-25#xywh=0,0,4071,5990",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/res/62cd2013-8a0a-4cee-9af0-f9247d90f6b0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Questiones medicinales"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/annotation/ad408b82-8eb5-49fa-a275-2ef0b6eb8c1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/canvas/canvas-25#xywh=0,0,4071,5990",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qn038xf8140/res/a41bf450-04c6-40e4-bc33-36a082aec01c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Utrum elementa sint in nostro corpore"
+      }
+    }
+  ]
+}

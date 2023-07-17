@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/list/214.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/annotation/95800676-7395-4c98-8d55-d96e768f4f19",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/canvas/canvas-222#xywh=0,0,5890,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/res/a11d6923-1d73-43c8-8e22-f1c20e47419a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De regibus Anglie ante conquestum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/annotation/3e95c80f-f9e0-4314-b3ea-2b043e408046",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/canvas/canvas-222#xywh=0,0,5890,8850",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/res/e3527130-af61-4889-bba1-3b3bcf1a334f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De regibus Anglie post conquestum"
+      }
+    }
+  ]
+}

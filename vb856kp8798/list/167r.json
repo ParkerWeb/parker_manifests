@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/list/167r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/c5376314-9302-4a0a-b091-b675201f4b7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-99#xywh=0,0,5878,9368",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/fe7d6210-c448-44e7-8f37-198243961c42",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit Samuhel liber regum primus, habens versus duo milia trecentos"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/annotation/061591a9-013e-4715-b45f-fcdec25b5e33",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/canvas/canvas-99#xywh=0,0,5878,9368",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vb856kp8798/res/7f08ade5-ca84-473c-8350-bdb9614e5087",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula libri II (xviii)"
+      }
+    }
+  ]
+}

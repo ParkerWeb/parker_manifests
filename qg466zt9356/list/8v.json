@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/list/8v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/ccbb84a5-3f92-4fee-81ae-a9e209a35c5d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-24#xywh=0,0,4334,5967",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/fc964cb0-2c02-4507-a82e-9ebffde0ecf7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "delinquere imperfectam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/26ef6054-0ac9-4ba3-8ddf-ee0f29cac75a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-24#xywh=0,0,4334,5967",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/ad56692e-3160-4778-9ab0-e7a460ce8f31",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Et sic est finis prologi"
+      }
+    }
+  ]
+}

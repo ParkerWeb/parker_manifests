@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/list/135v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/annotation/c8c4d773-c931-4935-b6da-0caf548f16d4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/canvas/canvas-282#xywh=0,0,5470,8458",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/res/a7f140b9-201c-4bd1-b8f6-322cfbb5b07a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Office of the dead"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/annotation/09e26207-f6f2-4511-95ed-28ade8c80587",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/canvas/canvas-282#xywh=0,0,5470,8458",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf460xj6913/res/31cefacd-cbc0-408c-9347-b5ea0978bc2e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Handsome initial and partial border"
+      }
+    }
+  ]
+}

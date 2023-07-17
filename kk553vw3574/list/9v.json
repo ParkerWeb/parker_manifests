@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/list/9v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/annotation/1bf284b2-5da0-407e-8a75-6965d58af5e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/canvas/canvas-20#xywh=0,0,5785,8821",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/res/1edf7dae-9b84-410e-8f5d-a66713d1c739",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Cap. I begins"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/annotation/7e7947eb-5367-4440-aab7-a309dfc9e73c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/canvas/canvas-20#xywh=0,0,5785,8821",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kk553vw3574/res/a2157c88-49d3-43d1-90f1-546b89a0b511",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In omni disputacione quam fecit noster iohannes memorie ter dampnate"
+      }
+    }
+  ]
+}

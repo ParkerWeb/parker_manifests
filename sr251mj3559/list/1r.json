@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/annotation/0bfecba0-2ea9-44de-8af7-151b0f099f43",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/canvas/canvas-7#xywh=0,0,6105,8852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/res/f47b2db6-9cda-43c6-9717-f3afde3f3ee0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Headed Prothodosimus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/annotation/d67ba335-e725-4d5b-bff9-8caee3ca0b64",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/canvas/canvas-7#xywh=0,0,6105,8852",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr251mj3559/res/1023943d-a22b-4611-991a-617820c6f773",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Rex pacificus cunctorum causa effectiua et finalis"
+      }
+    }
+  ]
+}

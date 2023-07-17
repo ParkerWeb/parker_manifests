@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/list/196v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/7469d27a-d779-4db1-b323-6a5c4925c8d4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-398#xywh=0,0,3658,5962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/03a21824-c96d-4051-9a42-8b36deefb80a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Dominica ultima ante aduent"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/annotation/6cc977bd-e25e-489e-a902-a96bce8d63fd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/canvas/canvas-398#xywh=0,0,3658,5962",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv517bq6409/res/c96d2e00-6280-46ca-b507-d66738757cf7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Est puer unus hic"
+      }
+    }
+  ]
+}

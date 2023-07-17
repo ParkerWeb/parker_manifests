@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/list/115r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/annotation/b5092332-ab24-4f84-bacf-8f4b65c9a3d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/canvas/canvas-233#xywh=0,0,5580,8548",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/res/36bdf57e-a886-4b55-91ad-57be97b5749d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De humilitate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/annotation/f2290a5d-bdcf-4e15-b768-7a1b2d779d66",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/canvas/canvas-233#xywh=0,0,5580,8548",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/res/70b1f5c6-a5c1-4816-b970-4b94613fce89",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quia per superbiam cecidimus"
+      }
+    }
+  ]
+}

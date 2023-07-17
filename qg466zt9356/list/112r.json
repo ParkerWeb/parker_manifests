@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/list/112r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/f1686b54-b2a6-45d8-bd0d-e4e343d4d6e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-231#xywh=0,0,4112,5952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/51bed6ee-adb4-4e62-a3bc-8b38dc8a5b32",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: quod letificet deum et homines ut scribitur judicum. quod vinum nobis ... prestare dignetur, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/annotation/09b0961c-9ac8-4a58-8b78-4a2f43205f3e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/canvas/canvas-231#xywh=0,0,4112,5952",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qg466zt9356/res/1c75a653-e55a-45e7-939d-81ac1490f549",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table follows"
+      }
+    }
+  ]
+}

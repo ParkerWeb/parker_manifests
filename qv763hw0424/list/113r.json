@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/list/113r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/annotation/2f688059-7b59-4186-bbc3-d413d14f9176",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/canvas/canvas-239#xywh=0,0,6034,9210",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/res/cb9acca9-ab1f-4217-86b1-57dbcb7ed788",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: totis precordiis concupisco"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/annotation/b7a61317-41fe-47eb-882a-167068949f99",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/canvas/canvas-239#xywh=0,0,6034,9210",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/res/8537fbdf-65f4-4104-9e76-cfda0042d1c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cantate domino canticum nouum"
+      }
+    }
+  ]
+}

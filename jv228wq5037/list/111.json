@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/list/111.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/01c7055c-8c8c-428c-993c-c5b2f7f92448",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-121#xywh=0,0,3892,5561",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/9d291c46-da40-482a-a8ad-e73e58ae95e0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "lower margin"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/annotation/6dab9bbd-4c59-4ebf-b1f1-88e8522624da",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/canvas/canvas-121#xywh=0,0,3892,5561",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jv228wq5037/res/cf5edafe-5660-4b31-8aae-42230f8032fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Henricus de ecclesia de sal.Rex largitur opes, fert presul opera, lapicideDant operam. tribus hiis est opus ut stet opus"
+      }
+    }
+  ]
+}

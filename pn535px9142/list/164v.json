@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/list/164v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/annotation/0290e827-dcb8-4bed-b8cb-3a078a568137",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/canvas/canvas-334#xywh=0,0,3830,5373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/res/66546a8d-a2dd-4688-be1d-8707d8f3cc50",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Homelia Johannis episcopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/annotation/27e6891e-d19f-4d3c-bf85-558934ccd505",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/canvas/canvas-334#xywh=0,0,3830,5373",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pn535px9142/res/795b128e-6e38-406c-9fba-036b50ea296c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Puto ipsa res exigit"
+      }
+    }
+  ]
+}

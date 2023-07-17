@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/list/248v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/d5611bcc-f79e-4d91-a51f-fa0b48995542",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-504#xywh=0,0,3425,5376",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/9f8a5a4e-0b37-4c91-be38-b781d7e97f69",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Dated apud Croyndon 3 Marcii anno Regni nostri quinto"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/1f57454c-b8b8-4715-8204-07766b95bba4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-504#xywh=0,0,3425,5376",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/36cff7a8-d63b-48db-a8e5-33f1c37371bd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: A vous Sire Justice dirlaunde"
+      }
+    }
+  ]
+}

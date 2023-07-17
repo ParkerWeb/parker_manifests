@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/21.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/c3c8b795-a19d-4229-9a10-cbc1a2ff8ba6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-22#xywh=0,0,3354,9137",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/eaa34ad6-e23f-49dc-a67c-fa1d26c8bf76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Publicatio bullae papalis datae ecclesiae Montis S. Michaelis in Cornubia A.D. 1070"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/0dae24f5-cfa2-4cb1-b202-3c944b8e217a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-22#xywh=0,0,3354,9137",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/47f93ba4-439e-4bf4-ac53-322f4bcd70f1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Memorabilia de praedicta ecclesia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/0f58839d-78ea-4942-9ca3-41a28de39ddf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-22#xywh=0,0,3354,9137",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/95f5f253-202d-4d80-96ce-2cdedbad9c3e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Descriptio ejusdem"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/list/60v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/87fb972c-8a44-4232-b2bf-db0ad970879d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-128#xywh=0,0,4110,6310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/988ee8c1-2b0a-4a71-ba38-9a6e486ce57b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vi(n)centi dabo manna absconditum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/8fce1d7e-603a-4553-bb77-bf94b42e9d78",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-128#xywh=0,0,4110,6310",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/7d5ef8a4-f11e-44e6-af69-b1ac16d17f32",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Pencil note. Numerus fo. script. 18"
+      }
+    }
+  ]
+}

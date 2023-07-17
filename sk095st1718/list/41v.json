@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/list/41v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/cf29416b-5e3d-49b0-aa87-b4cc90e395e8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-90#xywh=0,0,3870,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/a9842c8e-683b-4610-9931-35addba44d07",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Liber XII)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/annotation/9200854e-a741-4b17-bcdb-7bd9a514f2bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/canvas/canvas-90#xywh=0,0,3870,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sk095st1718/res/45f73724-c040-4d9f-8178-5ae670b9e8d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Arbiter ob merita cunctis qui iure rependis Ultima tangendo duodenum conde uolumen"
+      }
+    }
+  ]
+}

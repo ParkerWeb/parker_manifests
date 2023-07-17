@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/193.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/bfdb18d3-5ed1-4a79-83e3-1f8d66a513e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-200#xywh=0,0,3151,9035",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/bccabc1f-bac1-479e-8287-8e668e8b6141",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Catalogus operum Iohannis Grosthead episcopi Lincoln."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/4b9e1b69-c520-486d-84ad-c1840de52d9c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-200#xywh=0,0,3151,9035",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/d75866c2-7526-4bcf-b923-ff2134961e27",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De primis regibus Saxonicis in Anglia"
+      }
+    }
+  ]
+}

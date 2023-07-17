@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/list/130v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/annotation/397be513-aa46-4c75-8654-0687eabddd7a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/canvas/canvas-270#xywh=0,0,5056,8615",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/res/26f8877f-3659-4eb4-b190-78ff604fac70",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sic aperietur. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/annotation/e049e277-af8a-446b-8954-f0a06e8b7849",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/canvas/canvas-270#xywh=0,0,5056,8615",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy778wn8940/res/d5f734d8-0ae4-4c6c-879e-44e0f94d2255",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Aurelii Augustini Confessionum Liber Tercius decimus explicit"
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/list/84r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/066187e3-ebab-4b00-8a97-f5e666b27a0f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-177#xywh=0,0,3150,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/1d8fe342-07aa-4a09-bcdd-b4b94ee1e76a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Greek alphabet twice, once with meanings"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/5231dba1-5b8e-49de-a358-7d5411c86d7b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-177#xywh=0,0,3150,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/58ef0524-0e38-46ec-baae-c1f1061a937f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: A (Alfa) agricola B (Beta) uetus, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/annotation/5c7e3d33-8073-451f-869b-21e8c12bc3cc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/canvas/canvas-177#xywh=0,0,3150,4927",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sn284rv5537/res/c163a22e-9438-44e3-9a56-42edf2d17130",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "then with numerical equivalents"
+      }
+    }
+  ]
+}

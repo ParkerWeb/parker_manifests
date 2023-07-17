@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/list/59r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/annotation/44eb960b-25b7-4471-bccc-f8dbf1caa562",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/canvas/canvas-135#xywh=0,0,3460,5125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/res/361cf4fe-f307-4cad-a2e6-6a2003082bc9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Lepra superueniens furor ordo sanguis et absens"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/annotation/edd77656-6382-41e3-bab2-4bbf3f018c5d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/canvas/canvas-135#xywh=0,0,3460,5125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nt577mx7842/res/f95170fc-fbb1-4f3f-98ad-a8ca30fb575f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pro furto minus quam denar. fur debet soluere domino iiili, etc."
+      }
+    }
+  ]
+}

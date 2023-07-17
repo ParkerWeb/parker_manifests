@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/list/108r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/bc2c6949-7904-4b45-882b-cfed3bc432f1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-222#xywh=0,0,3797,5696",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/e9776cf0-07be-46b2-b1fa-696f0a04961e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(21) fr. Andr. Martinus Juliano Hasardo Cambronne, 8 Id. Oct."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/annotation/674034a3-5dac-4158-a246-278afd09b997",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/canvas/canvas-222#xywh=0,0,3797,5696",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kg580wg9910/res/c3a963f9-0eed-43b5-a052-494eb9f59a1f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(22) Idem ad eundem Cambronne, 11 June 1511"
+      }
+    }
+  ]
+}

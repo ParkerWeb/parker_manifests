@@ -1,0 +1,19 @@
+{
+"@context": "http://www.shared-canvas.org/ns/context.json",
+"@id": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/list/page-2.json",
+"@type": "sc:AnnotationList",
+"resources": [
+{
+"@id": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/annotation/anno2",
+"@type": "oa:Annotation",
+"motivation": "oa:commenting",
+"resource": {
+"@id": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/res/comment2",
+"@type": "cnt:ContentAsText",
+"format": "text/plain",
+"chars": "Type: Littera notabilior (added by Global Currents Project, 2016)"
+},
+"on": "http://dms-data.stanford.edu/data/manifests/Parker/bg021sq9590/canvas/canvas-10#xywh=3545,5368,638,660"
+}
+]
+}

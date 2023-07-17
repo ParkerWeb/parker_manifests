@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/list/34r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/8b2317ff-0e7a-48ad-a5f3-c8af01f58e9a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-75#xywh=0,0,5905,8844",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/dc248a53-8109-4818-9630-0903a5d2b0d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The account of St Edmund occupies ff. 32r-43v. It has a large coloured initial and begins"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/0eb625c8-bf93-496e-a241-0c053d5bfedb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-75#xywh=0,0,5905,8844",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/9a7d314e-a0f6-465f-9b3f-7f500b11d52e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctus EdmundusAlkamundi Regis Saxonie et Siware Regine filius anno ab incarnatione domini (bis) dcccxlio"
+      }
+    }
+  ]
+}

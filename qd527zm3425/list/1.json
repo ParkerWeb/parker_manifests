@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/annotation/69f12331-4df0-4b5b-8b15-575c761474d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/canvas/canvas-9#xywh=0,0,5272,8798",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/res/b106cb7c-3808-4bcf-b2cb-35c28c7a71c0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Begins with Capitula"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/annotation/1fc4178a-7f7b-454c-afe4-0c1ff476fcc9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/canvas/canvas-9#xywh=0,0,5272,8798",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/res/444800a9-8441-4fc5-b2bc-a15a92d49b95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: ÐIS / IS / SEO / GESETTNES ÐlSSE / BRYTENE OÐ HIBERNIA / etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/annotation/dfac8b77-eeab-4c78-94b1-422878824007",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/canvas/canvas-9#xywh=0,0,5272,8798",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd527zm3425/res/e1bcdd5b-8de4-434b-8388-a873fd45ad34",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "There is a large initial: no more occur till p. 62"
+      }
+    }
+  ]
+}

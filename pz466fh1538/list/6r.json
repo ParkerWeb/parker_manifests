@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/annotation/77089432-80ec-428c-9c85-28811ae50e7d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/canvas/canvas-23#xywh=0,0,5695,8007",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/res/0a03523d-19d3-475e-8afe-ae6213a1fce8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: vueil premier parler"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/annotation/cb4286b6-9377-4618-a63e-c6df7cd6fa5d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/canvas/canvas-23#xywh=0,0,5695,8007",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pz466fh1538/res/f3e6a81f-51e5-4452-9a5e-734bb108221c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Des meditations des choses lesquelles precedent lincarnacion de nostre seigneur Ihesu Crist"
+      }
+    }
+  ]
+}

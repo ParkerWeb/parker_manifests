@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/list/115r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/fbcb86ab-acf6-464f-8783-25aaa1f9e916",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-235#xywh=0,0,4089,6207",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/ff79e229-e4bc-442b-b278-8fc410eb4d56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Postea iio pape in roma facti sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/9bf3c9b7-33ce-4256-98b8-21bb149ea957",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-235#xywh=0,0,4089,6207",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/2d2c151b-c5b0-43eb-a7de-1728cad769ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nomina archiepiscoporum dorobernensis ciuitatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/c0f1cf4f-fb7b-438b-8b96-2c122306f5ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-235#xywh=0,0,4089,6207",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/7e7ec788-34ac-4ad3-9111-a86b4a6088e5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Nomina archiepiscoporum eboracensium"
+      }
+    }
+  ]
+}

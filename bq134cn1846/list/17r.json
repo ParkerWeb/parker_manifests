@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/17r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/7e12da33-bc9c-41a2-904e-b3aa5054a3f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-35#xywh=0,0,6214,7878",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/4e5957b5-4b43-4cb1-a9c9-9a2a7a66d9d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1284. benedictus est Gilbertus de Campedene in Abbatem de Hagemon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/5eaa07e5-fd85-4fff-a377-41173116142a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-35#xywh=0,0,6214,7878",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/95cccc8e-7e2a-4c17-8cfe-81baa20a74ad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1285. Added: Johannes tunc prior de Wenlak factus est prior de Lewes cui successit pater henr. de bono villario tunc prior de Bermundeseye et intrauit domum suam de Wenl. honorifice vigil. S. Nicholai"
+      }
+    }
+  ]
+}

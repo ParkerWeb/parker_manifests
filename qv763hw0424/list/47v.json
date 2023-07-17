@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/list/47v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/annotation/84b67068-3f84-4b5d-978f-3e51bcf34104",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/canvas/canvas-108#xywh=0,0,5829,9234",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/res/0bc94beb-b95b-42c6-8974-5fb4d3307b46",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Multi sunt quos ipsa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/annotation/ccccf4a0-a418-44a7-a810-583e3f630223",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/canvas/canvas-108#xywh=0,0,5829,9234",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv763hw0424/res/ec126b15-0133-41c2-9ffa-0f75dca085fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: torpere ocio"
+      }
+    }
+  ]
+}

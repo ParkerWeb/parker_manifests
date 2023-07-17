@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/list/141v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/827d55f8-a58d-4a21-abd3-cf763fa2b017",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-292#xywh=0,0,2567,6742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/94f7de43-3b60-4e13-8ea7-f99a51d2a9d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Manducare potes formicam si capud aufers"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/annotation/6ec01710-56d7-4d2b-b128-ddc3077817e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/canvas/canvas-292#xywh=0,0,2567,6742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy445fd9276/res/291f69ad-5406-4275-9242-b75e32da8806",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: In cruce sum pro te qui peccas desine pro meDesine do veniam do vitam corrige culpam"
+      }
+    }
+  ]
+}

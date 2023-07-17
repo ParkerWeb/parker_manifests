@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/55v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/9949ba0b-a088-4e31-85b4-6f82c7c89ba6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-114#xywh=0,0,5804,8436",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/31e5ee5e-2982-46f6-a14f-2c709aa111c1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Ecclesia Sancti petri Gloecestrie ab alredo Wigorniensi episcopo fundata est"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/bcfadfa2-3c78-4804-a2cf-0d7f0af28088",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-114#xywh=0,0,5804,8436",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/a58dc531-d7ba-43e0-9a51-2d594778c2bf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Imperatores Romani ( Stubbs, p. 213)"
+      }
+    }
+  ]
+}

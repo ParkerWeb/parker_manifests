@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/dee84188-8068-470b-be30-8a6b4a20fa6d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-9#xywh=0,0,5834,8612",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/d6102054-c82b-446f-bd11-fa2b2b9cec29",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prologus Onus mundi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/annotation/4941f91c-9380-4814-a5e3-0ee750d6f354",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/canvas/canvas-9#xywh=0,0,5834,8612",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yk983tq9075/res/25817082-412b-41ca-9aa4-e1de9c93ee33",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sapiencia que domini que aperuit os muti et asine rudibili animali humana verba formare tribuit"
+      }
+    }
+  ]
+}

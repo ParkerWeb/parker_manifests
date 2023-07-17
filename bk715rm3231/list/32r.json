@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/list/32r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/9376f043-5154-4c38-addc-afaa9ef633b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-67#xywh=0,0,5386,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/2e711ceb-0bb0-4c14-bcca-3441233ee459",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ea (written La) que per anni circulum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/annotation/dad678c9-5c20-4a0f-a060-d5dfd18a32f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/canvas/canvas-67#xywh=0,0,5386,8214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bk715rm3231/res/8551173e-7ecc-45f3-903f-6b26967c1602",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: unde causas institucionis acceperint iam dicendum est"
+      }
+    }
+  ]
+}

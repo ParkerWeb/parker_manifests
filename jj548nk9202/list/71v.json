@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/list/71v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/f8039b79-23e6-43c5-9c45-64b987c6f633",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-146#xywh=0,0,5986,8658",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/417b2eba-22e1-4023-9e78-b8c5273651b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: de rasura tabule dictum est supra"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/annotation/604e2e3b-0e13-4eaf-bce2-fecafb135609",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/canvas/canvas-146#xywh=0,0,5986,8658",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj548nk9202/res/7223530e-588b-4664-808b-62865b67a48d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    }
+  ]
+}

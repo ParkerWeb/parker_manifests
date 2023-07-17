@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/106v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/4eb004f6-6d8d-431a-a33e-472ff684e9f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-232#xywh=0,0,3763,6246",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/7df8c07d-3f67-4250-82c1-a1bb632ae58e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Paragraph per viam eleccionis capituli cum expediat via mixta scrutinii et compromissi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/6cfa7ae5-c128-4114-99fc-e767fe4a2965",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-232#xywh=0,0,3763,6246",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/e1311cff-b9fd-429f-ba5b-5b70bb16ebba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "List of monks and their votes (which are for William Thorne, Thomas Ikham, Michael Pecham: the last was eventually elected Abbot)"
+      }
+    }
+  ]
+}

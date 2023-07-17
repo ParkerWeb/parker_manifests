@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/annotation/3bb03e0e-1b35-404a-ba3f-3bb5d9838058",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/canvas/canvas-13#xywh=0,0,3776,5428",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/res/48160368-7e5b-46c8-ae68-4bdc593116a3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Par seint Johan sunt signefie li bon prelat"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/annotation/585c1be2-aade-49c2-9b0d-249ec2b4e8d7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/canvas/canvas-13#xywh=0,0,3776,5428",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yc646yt3082/res/a182c5b5-a6ef-4b4f-841d-916d4ad31c9b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "3. Vision of Christ among candlesticks"
+      }
+    }
+  ]
+}

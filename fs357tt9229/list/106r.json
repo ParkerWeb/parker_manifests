@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/list/106r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/annotation/25999101-15db-445a-acad-40e7a1e56438",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/canvas/canvas-207#xywh=0,0,5914,9186",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/res/bb8510be-6271-4f9c-8a2b-fd0aa07ffaa0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de Missa"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/annotation/fc4b5c8b-bd2e-4ca1-9ca9-0ea8725c1d22",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/canvas/canvas-207#xywh=0,0,5914,9186",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/res/b09572d5-66fd-431b-89fc-6f4980be1cfc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "de Tempore"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/annotation/db23d98f-6a8e-4b35-bcb6-f10283b8f82b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/canvas/canvas-207#xywh=0,0,5914,9186",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fs357tt9229/res/4e1bb1f9-ffa3-4144-8ee4-2505eb33ae95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "f. 106r has border on three sides"
+      }
+    }
+  ]
+}

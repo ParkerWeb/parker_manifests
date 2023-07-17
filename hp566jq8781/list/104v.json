@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/list/104v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/622738e5-2778-42c7-b3dd-2aad35163395",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-214#xywh=0,0,4882,7602",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/250125ea-404e-4410-86d6-ef8fcf5dd34d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Sanctus namque spiritus ipsa nobis prebuit bene mentis naribus odoranda"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/annotation/1b7b4967-b55c-40d8-841c-58eb8070296f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/canvas/canvas-214#xywh=0,0,4882,7602",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hp566jq8781/res/c278bfe9-7d67-4779-8a5f-36f4030cfcd2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ad ultimum laus est uincta. Psalat chorus alia. Amen dicant omnia"
+      }
+    }
+  ]
+}

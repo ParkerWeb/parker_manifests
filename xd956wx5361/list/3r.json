@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/annotation/5d26f014-93cc-4dc1-84b7-c0fdf632822c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-51#xywh=0,0,5951,8915",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/res/9251c80f-8921-41ae-a1d0-1f2d9b0883a1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Disciplina a discendo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/annotation/01efbafa-1aed-44cd-820d-c878a3b2b30e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/canvas/canvas-51#xywh=0,0,5951,8915",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd956wx5361/res/5141194b-c133-414c-8b6a-e0a6e001fc1e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Handsome initial in blue, green and red. Each book has a similar one"
+      }
+    }
+  ]
+}

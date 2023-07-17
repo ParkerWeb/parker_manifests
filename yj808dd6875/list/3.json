@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/annotation/9de81723-a396-417b-8a57-ba6cccb76fd8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/canvas/canvas-11#xywh=0,0,3175,5110",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/res/2bbce52e-641f-4b23-98f8-b3a0de4525cc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Maria, Ihesus, Iohannes"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/annotation/e274831b-ee08-4695-baed-d2dd0f7deb26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/canvas/canvas-11#xywh=0,0,3175,5110",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yj808dd6875/res/0712253e-93b5-4360-9682-27636b1b4850",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: God made mankynd aftir hys owne Image"
+      }
+    }
+  ]
+}

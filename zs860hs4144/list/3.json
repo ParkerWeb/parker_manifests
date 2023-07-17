@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/list/3.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/annotation/c5312594-a7d3-4461-bbb4-8d7edce23f16",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://purl.stanford.edu/zs860hs4144/iiif/canvas/zs860hs4144_2#xywh=0,0,4076,6225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/res/c448e579-db18-4baf-8c75-2e937ef471e4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Diameter terre est 6500 miliaria"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/annotation/821e1e04-cb1c-4bee-bef3-b6eae9ee8260",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://purl.stanford.edu/zs860hs4144/iiif/canvas/zs860hs4144_2#xywh=0,0,4076,6225",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/res/37cfb0ea-1cad-4743-a5f1-8d6655674e03",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Followed by notes of measures of length, distances of planets, verses on the same: all in Parkerian hand, pp.3-5"
+      }
+    }
+  ]
+}

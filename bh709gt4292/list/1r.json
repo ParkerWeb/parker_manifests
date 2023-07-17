@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/annotation/92501168-bfcd-4c1d-b95e-33d6d53557e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/canvas/canvas-5#xywh=0,0,5541,8551",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/res/b0243c80-4309-4e02-9e31-58dbce84f626",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Liber primus beati Ambrosii de virginitate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/annotation/22c6342e-2dcb-4a41-ba94-e59180401783",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/canvas/canvas-5#xywh=0,0,5541,8551",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bh709gt4292/res/07d0cc1a-7ce6-462a-917a-582cf884a39f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si iuxta Celestis"
+      }
+    }
+  ]
+}

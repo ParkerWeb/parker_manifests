@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/e1fee94e-8db8-4001-af02-8a1b55b6a376",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-4#xywh=0,0,5860,8100",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/4cc51e5c-d0fd-4246-9068-d0b86d14e302",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A large and rather rough initial in red, green, yellow and white, the height of the page"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/43d60ef5-ec16-4f27-9e7c-ddd7a96a5148",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-4#xywh=0,0,5860,8100",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/1f2b2b3d-0d93-42f2-89a0-c4d478c5383d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Pars Canonis Avicennae"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/annotation/053f5afe-f7d0-4df0-b98c-b991eb100f63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/canvas/canvas-4#xywh=0,0,5860,8100",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg490dx6560/res/95466b70-20f6-4778-b7c1-d4759e011342",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In primis deo gratias agamus sicud sui ordinis celsitudo et beneficii ipsius multitudo merentur"
+      }
+    }
+  ]
+}

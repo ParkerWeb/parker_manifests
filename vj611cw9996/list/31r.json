@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/list/31r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/d2319921-9dfa-4d6c-bc27-d8997c30e594",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-69#xywh=0,0,3842,6055",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/2b5994b7-171e-446a-9e0b-aafc65ec241f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Gregory and twelve pilgrims: a thirteenth appears"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/annotation/c8d76d42-1092-4b82-ac5e-3165c0bd2626",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/canvas/canvas-69#xywh=0,0,3842,6055",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vj611cw9996/res/92c07015-3ffa-41f6-b79b-b126f685a966",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hermit and cat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/list/149.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/d7d7c8dc-4aa8-45c0-bfff-a0af0a215d0a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-157#xywh=0,0,5590,8874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/a8a1f8c6-a9ef-4ecd-aded-8fc0a8570c77",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Extracts from Decreta and Councils"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/5accad83-1cfa-4d04-b238-6841ac9b7ebe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-157#xywh=0,0,5590,8874",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/aa94eafb-49fd-4a7b-ba9d-edd30b0cb085",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quod clerus et populus firmare debet de electo episcopo"
+      }
+    }
+  ]
+}

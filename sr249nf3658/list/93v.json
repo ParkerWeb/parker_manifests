@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/list/93v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/annotation/d572468b-29ed-4011-b253-8b1aa46936d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/canvas/canvas-192#xywh=0,0,5759,8442",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/res/df3221f9-a76e-4e04-b53f-f1337cc424cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: datum est nobis corpus domini nostri Ihesu Christi qui cum patre et spiritu sancto uivit et regnat in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/annotation/7ee2ffa7-5c8c-4b61-999d-305c1d06a152",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/canvas/canvas-192#xywh=0,0,5759,8442",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sr249nf3658/res/c7518673-f2fd-4a1d-af47-cc4cd2779620",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit tractatulus reuerendi magistri Mathei doctoris egregii ipsa In vigilia penthecosten finitus per manus Wenczeslay Sporiczeri de Chomuthaw"
+      }
+    }
+  ]
+}

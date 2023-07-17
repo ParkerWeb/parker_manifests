@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/list/249.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/ed392f0f-5607-42c2-9cee-13b2fa47100f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-260#xywh=0,0,5943,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/736386df-cb37-44ab-84c0-3322691766b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Original Latin verses (Elegiacs), 12 lines to a page with many corrections, p. 249, beginning"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/10c74c6a-0ca2-4b14-9653-8a29c96e0bcf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-260#xywh=0,0,5943,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/30b603d1-0f41-4051-99dc-4356712979cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sese nosce (nosse) quidem dominum hoc est noscere et idemNoverit ambos qui noverit alterutrum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/annotation/d5abce95-f6e1-4ce7-b043-9cd4c543529e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/canvas/canvas-260#xywh=0,0,5943,8958",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hz275sd2138/res/a79ef428-f3fb-44e7-b008-7e9beb33cf5a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Utrumque novit"
+      }
+    }
+  ]
+}

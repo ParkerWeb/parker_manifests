@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/list/94v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/annotation/b0911c3c-9007-413f-8c50-e1ccbb2e8bce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/canvas/canvas-198#xywh=0,0,3582,5462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/res/1ccb3302-09d2-4dcc-adc5-a0950eaed7d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Auctoritates"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/annotation/6cdf9cfb-01c8-42e3-b496-8397f2335624",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/canvas/canvas-198#xywh=0,0,3582,5462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx716zc6403/res/364b6882-c974-44b1-b44b-a235a1950750",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Beatus est qui diuinas scripturas legens uerba uertit in opera"
+      }
+    }
+  ]
+}

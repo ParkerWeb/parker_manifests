@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/57v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/92a5e971-efd7-4c1f-85da-1da5d8a71e6c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-132#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/6d408fcf-afc0-4b87-a1c7-713f1f4ca735",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The cope of Gerard de Grauntsouns (Grandson) Bishop of Verdun consecrated 1276 by Kilwarby is preserved"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/4bfd2dd1-1ccc-4506-8980-b9d4013b62fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-132#xywh=0,0,3897,5660",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/5595d8a3-8c23-4e74-9956-fb564d95dfc5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Extract from Geruasius de triplici combustione ecclesiae Cristi Cantuariensi"
+      }
+    }
+  ]
+}

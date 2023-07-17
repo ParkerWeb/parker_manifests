@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/list/91r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/annotation/cc8a85eb-7498-4bf7-93e1-cbbf0f0147eb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/canvas/canvas-191#xywh=0,0,3866,6060",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/res/1f00e45d-59dd-46e7-9dac-61c40382ab5c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Beatus uir"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/annotation/b4974df0-29a7-48fb-ae76-0127b41d5a8c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/canvas/canvas-191#xywh=0,0,3866,6060",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw236nr9575/res/a271fc28-cab5-4fe6-bc62-59b9ee2cf74e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Bonuref li ber ki nen ala el cunseil des feluns: e en la ueie des pecheurs ne stut e en la chaere de pestilencie ne sist"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/list/53r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/e748adc9-2a5b-4855-8433-ffc0e04e8001",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-113#xywh=0,0,4110,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/21f8d177-28be-4301-9607-f4edb656693d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Historia Actuum secundum Magistrum p(etrum) mand(ucatorem) a Willelmo pictauense conscripta"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/4a61e5d5-f902-45c7-9189-b34d343b73dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-113#xywh=0,0,4110,5806",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/0e9a1f91-3bfd-45aa-95fa-8de5f23294ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno nono decimo imperii Tyberii Cesaris adhuc procuratore iudee pilato"
+      }
+    }
+  ]
+}

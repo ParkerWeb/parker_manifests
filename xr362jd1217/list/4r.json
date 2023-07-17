@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/7f0db17c-eb89-437c-81a6-a1894e2b18f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-11#xywh=0,0,6056,8725",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/abcad813-e5d2-4090-bbfd-876c8e505b9b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit manipulus curatorum compositus a magistro Guidone de Monte Rocherio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/ac6b2d06-8365-45b2-a233-8da3155c0235",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-11#xywh=0,0,6056,8725",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/d2e025d9-f17e-4d9f-80b4-c2ba0dfea52b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Reuerendo in Christo ... d. Raymundo"
+      }
+    }
+  ]
+}

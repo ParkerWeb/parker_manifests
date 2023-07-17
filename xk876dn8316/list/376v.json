@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/list/376v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/annotation/5db6d257-9dc2-45ad-b642-54e16ab64d19",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/canvas/canvas-758#xywh=0,0,5315,8503",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/res/57389d8c-15d0-4528-ae87-57a0f3c151d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Apoc. (pr. of Gilbert)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/annotation/6bb644ef-91bc-4e47-abbb-3935b0dff8d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/canvas/canvas-758#xywh=0,0,5315,8503",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/res/2822efce-f0a9-40ff-99b3-015cc4596305",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Omnes qui pie uolunt uiuere."
+      }
+    }
+  ]
+}

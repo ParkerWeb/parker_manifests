@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/list/233v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/718bbcbb-fbac-4ee2-bd16-3ce768f4b182",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-490#xywh=0,0,4047,5672",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/4b30bae4-4937-4df3-91a9-366187b6fc91",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ex quodam vetusto libro quondam ecclesiae Cantuariensis iam in manibus magistri Bower (Thomas Bowyer?)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/annotation/db733fbe-bcea-4bf6-95b0-da49daa1d632",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/canvas/canvas-490#xywh=0,0,4047,5672",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd333ny9731/res/0cd26f99-ac4e-457d-8043-53f5185b1184",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber vocatur passionale Sancti Ignatii"
+      }
+    }
+  ]
+}

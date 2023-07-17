@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/list/138r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/a1c267bf-1e12-471f-b49e-ce798460e3df",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-295#xywh=0,0,3391,4886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/e3b4e17a-ceca-4ab6-b7bb-58f234ddecb7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Vulgo doctioribus persuasum est haec aurea Carmina non esse Pythagorae sed Philolai. Io Picus in prooemio Heptapli sui"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/annotation/82d986c9-ccc8-4fb0-9fdf-067fe774d99f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/canvas/canvas-295#xywh=0,0,3391,4886",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz268db3875/res/82bfb0ad-3889-4c49-aa6d-6b0e40785989",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ἀθανάτους μ̀εν πρω̑τα"
+      }
+    }
+  ]
+}

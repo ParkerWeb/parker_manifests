@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/list/42r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/annotation/0e4e7e05-02b6-4ca3-8d54-0a0d6e9fba17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/canvas/canvas-89#xywh=0,0,3750,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/res/36539115-11fe-4e6b-9e79-821d14ec0647",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The second hand begins after l. 490"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/annotation/dbfe6b09-579b-4b53-a3fb-dd240ef92364",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/canvas/canvas-89#xywh=0,0,3750,5942",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zx044gq7026/res/435ec5a0-e515-4cbc-9249-09d68c199701",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ὀργ̀η γ̀αρ ά̔μα"
+      }
+    }
+  ]
+}

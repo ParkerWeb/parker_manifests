@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/list/202.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/0592721c-4ce8-41e5-8cc1-e72889cc3ddc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-210#xywh=0,0,5721,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/73deeb38-1b9b-42af-bdf6-c7bd41a0ae25",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Litany has"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/annotation/ff2e9a0a-e1cd-42cf-b2ad-3df6d8664b2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/canvas/canvas-210#xywh=0,0,5721,8934",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw493fs0065/res/95bcb27a-46df-4146-bfd4-47158ec27146",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Martyrs: Pancrati Vite Maurici Gereon Victor DyonisiConfessors: Galle Seuerine Euergisile Cuniberte HeriberteVirgins: Brigida Walburgis Gerdrudis"
+      }
+    }
+  ]
+}

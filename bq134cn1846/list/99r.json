@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/99r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/9cfad957-81f7-4e1a-9e0e-9246206d6384",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-199#xywh=0,0,5806,7902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/ab2611c3-86a9-4e95-bb0b-36c83210b2b1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1. Vado ad eum qui me misit, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/989a142b-512e-45b9-b6ff-94ec4a8358c4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-199#xywh=0,0,5806,7902",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/d0f3ed16-ba0b-4fe3-914e-5f13d32137cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "2. De omnibus sanctis. Legimus in historiis sanctorum patrum fratres mei quad sanctus bonefacius qui quartus fuit a beato gregorio"
+      }
+    }
+  ]
+}

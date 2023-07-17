@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/list/10r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/711f708e-f122-4e0a-a0c9-53c82532b0f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-27#xywh=0,0,3731,5619",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/fb8231b6-f665-42b3-ad10-88860562cdb4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prefatio genesis anglice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/dcaa32f7-efa1-459a-8d6b-1cdba9dd2002",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-27#xywh=0,0,3731,5619",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/e9fd42df-3a5c-4e0b-bf18-90db7b32f596",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Alfric munuc gret aðelƿeard ealdorman"
+      }
+    }
+  ]
+}

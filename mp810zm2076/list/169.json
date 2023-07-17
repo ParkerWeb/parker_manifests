@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/169.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/a6bac9ac-f29e-4b7a-adbf-e5d9a59649d4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-174#xywh=0,0,3319,9017",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/cbb876f5-b33b-4783-b5f2-35929df1adcc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Nobiles ex parte regis apud le Jorney de Waltham contra ducem Ebor."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/8d12913d-c186-4aeb-8190-70d15327e74b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-174#xywh=0,0,3319,9017",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/6c14fea8-fd39-4613-8ac6-ac102cd65fcc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Descriptio ecclesiae S. Nicolai de Jermuth"
+      }
+    }
+  ]
+}

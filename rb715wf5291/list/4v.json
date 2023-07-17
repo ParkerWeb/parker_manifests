@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/list/4v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/annotation/d6538f91-7503-4528-a4c0-ae683979f2ae",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/canvas/canvas-18#xywh=0,0,5746,9401",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/res/c77b2303-6be2-44df-abca-075f46212c19",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "10. Salmon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/annotation/00772ad3-6f39-48ea-95ec-71b96319c9be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/canvas/canvas-18#xywh=0,0,5746,9401",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/res/fb04fc8e-535c-45d1-8f98-d57e41aed6f9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "11. Saul rex (after this a gap)"
+      }
+    }
+  ]
+}

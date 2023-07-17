@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/list/54v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/3230e143-5289-491e-a08f-14df9f042692",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-116#xywh=0,0,4166,6286",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/37f025eb-1770-488f-8f26-c26bf2881d23",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermons"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/25f5bf3c-b988-4130-8581-35beac58bc5f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-116#xywh=0,0,4166,6286",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/6636324e-606e-4015-8d4e-afa26fb2f6b6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sufficit tamen de una uirgine loqui uerum"
+      }
+    }
+  ]
+}

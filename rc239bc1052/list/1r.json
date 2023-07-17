@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/e4e6e376-1dbe-4a4e-a985-afd9022bfb78",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-7#xywh=0,0,6178,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/93197cb2-f668-415b-a0ab-417ead4fa57d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber Sancti hylarii episcopi de trinitate primus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/d31cf05a-ba58-4723-af1c-b70395d59fcf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-7#xywh=0,0,6178,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/ec5c2666-3c31-42de-adf6-23fce06d10ac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Circumspicienti mihi proprium uite humane"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/annotation/2a1b15fa-cd99-4a11-9240-ef49039a4857",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/canvas/canvas-7#xywh=0,0,6178,8910",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rc239bc1052/res/5b605212-3f17-494b-98e7-ea22756f1efb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in gold: blue ground, and coloured conventional foliage"
+      }
+    }
+  ]
+}

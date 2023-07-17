@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/list/138v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/annotation/96826fdc-b761-4d5a-9635-170c3a84ef31",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/canvas/canvas-292#xywh=0,0,2986,4465",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/res/76bdcff9-f50f-4ac6-bd26-0de38dd21757",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: nisi tantummodo communis reuelacio populi per ciuitatem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/annotation/c615f458-88d4-4dc4-86d6-8fda34adccb0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/canvas/canvas-292#xywh=0,0,2986,4465",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yp687vx8452/res/88f57676-0032-4e1e-80ba-7cf351216a6c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit modus et ordo de Itinere Justiciar. domini Regis ad turr. London"
+      }
+    }
+  ]
+}

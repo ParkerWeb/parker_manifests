@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/list/5v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/535120af-a3e1-40ef-9aa1-ad2989e92482",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-18#xywh=0,0,5962,8866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/9f2c3265-131e-4ad8-b3cd-a994d596f6b4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit de libro iiiito"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/09d4389b-e8d7-4b92-8c77-aeb9ffee0817",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-18#xywh=0,0,5962,8866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/61141a35-9b6c-46b5-8330-594813d7745a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit de libro vto (sic)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/annotation/5787ace7-d65e-4de6-b189-4fc2d67188d5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/canvas/canvas-18#xywh=0,0,5962,8866",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bt969hb3606/res/73ce7d1f-86ba-4fd3-ae62-bad422bc41db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Martinus papa post Iohannem"
+      }
+    }
+  ]
+}

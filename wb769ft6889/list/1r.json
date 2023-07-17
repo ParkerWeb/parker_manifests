@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/11b35872-300b-4f8c-91a4-10a1ae59a269",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-7#xywh=0,0,3882,5420",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/604f7bd1-fe57-4b38-b509-540a997da4d3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The title of the work, which was at top of col. 1, f. 1r in red, has almost totally disappeared"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/02656cd6-b603-44ba-bc43-583ec44c91f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-7#xywh=0,0,3882,5420",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/c80de2a5-7c89-405b-a20e-426671173f36",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Tu quem psallentem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/annotation/a467343b-431a-44b8-a010-a1e9a436fd35",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/canvas/canvas-7#xywh=0,0,3882,5420",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wb769ft6889/res/5073715a-2e62-4e93-8011-de20b02b6622",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The initial, in black, is of good bold design; others occur at the beginnings of subsequent books"
+      }
+    }
+  ]
+}

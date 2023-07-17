@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/list/33v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/a79fd361-f598-4920-9169-e2dac1bbe45c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-78#xywh=0,0,3944,5587",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/84556633-82e9-4f8b-9ac5-ea4c29e5368f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "End of Octavia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/annotation/cf1d662a-12d2-4f08-89ee-3c9a2202bf51",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/canvas/canvas-78#xywh=0,0,3944,5587",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ky226pt1201/res/04d673bc-b93e-4264-b2fc-97b1ca07fc1f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Hercules Oetheus"
+      }
+    }
+  ]
+}

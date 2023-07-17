@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/list/16r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/annotation/28a239c5-a816-4804-92ac-5a8eea71aa54",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/canvas/canvas-45#xywh=0,0,2897,4491",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/res/b3460c5a-e8c8-4997-a281-e25f94756890",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: que preparauit deus diligentibus se"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/annotation/d2ef9c5e-c937-453b-99cd-8a8f08ae40c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/canvas/canvas-45#xywh=0,0,2897,4491",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tq577rd4321/res/16fbf132-8fad-40c3-b287-85707413aa57",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Attende tibi fili ut possis dissernere ab utilibus noxia. Nam duplex est uita nostra"
+      }
+    }
+  ]
+}

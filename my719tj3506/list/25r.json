@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/list/25r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/annotation/c1ac8266-fbe4-40c1-b83d-a4bd0b66f6c7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/canvas/canvas-55#xywh=0,0,6032,8918",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/res/a05cd890-694a-430e-a9a9-7ee22158650f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit exposicio moralis magistri Stephani de Langetune super duodecim prophetas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/annotation/4270a419-d3dc-4ac5-9357-21bc76d65bc2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/canvas/canvas-55#xywh=0,0,6032,8918",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/my719tj3506/res/f1ccf046-2492-4639-9b21-d7364fecbe4e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ossa duodecim prophetarum pululant de loco suo"
+      }
+    }
+  ]
+}

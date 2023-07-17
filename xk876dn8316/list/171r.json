@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/list/171r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/annotation/c355cac7-6857-4722-9a61-ad03a92ba7f5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/canvas/canvas-347#xywh=0,0,5146,8574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/res/354ffc14-3325-4cbf-98a7-1776b1472d56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalter (Gall.)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/annotation/197a8ec4-99b9-41ce-b5e9-de1c117cdbd4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/canvas/canvas-347#xywh=0,0,5146,8574",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/res/1a7ee618-179a-484a-8b1f-a346c096207a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ps. 1. David playing the harp"
+      }
+    }
+  ]
+}

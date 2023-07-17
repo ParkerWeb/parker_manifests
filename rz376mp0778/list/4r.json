@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/annotation/1ac6494e-25e3-4665-9a0d-975bd1fdefd7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/canvas/canvas-13#xywh=0,0,2916,4440",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/res/89fb4249-31a4-4d29-afdd-3be8eafb51d5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Prefatio Zacharie Crisopolitani in unum ex quatuor"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/annotation/eba15a1c-6b70-4037-b621-cd8dc5c54d34",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/canvas/canvas-13#xywh=0,0,2916,4440",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rz376mp0778/res/674ae4b1-6d46-429d-899f-80c9a3ea90a8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Vnum ex euangelistarum dictis euangelium claro studio composuit ammonius alexandrinus"
+      }
+    }
+  ]
+}

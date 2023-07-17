@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/list/110r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/annotation/f403fcc5-f12c-4aa8-b873-81660ce02586",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/canvas/canvas-259#xywh=0,0,6363,8777",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/res/8a82ea3e-54cd-4079-8f28-c909ffce2431",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Anno domini mo co vii Eadgarus scotorum rex ... obiit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/annotation/486ae26c-3193-4aaa-8de4-bb3a3a825835",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/canvas/canvas-259#xywh=0,0,6363,8777",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cm287zk2842/res/394ed3aa-cc9d-4c3b-ad91-e8b72722751e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Copia littere manumissionis populi anglorum facta per matildem"
+      }
+    }
+  ]
+}

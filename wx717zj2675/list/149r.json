@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/149r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/915dabd1-e2cd-44ea-ad94-fd2e7c1c706e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-303#xywh=0,0,4292,6712",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/2a58322d-cefc-47d8-a98f-0e56897fb751",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Job"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/6fe78ada-7308-445f-b0d5-667aaea87d4d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-303#xywh=0,0,4292,6712",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/de479e30-6785-48cc-9d9c-94ad1dc85a52",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Job. Job's wife on L. Job on R. Scrolls inscribed in red: Benedic deo et morere. Quasi una de stultis mulieribus locuta es. Red ground"
+      }
+    }
+  ]
+}

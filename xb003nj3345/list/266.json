@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/list/266.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/bf0071d1-b54a-4c6e-b63a-bd1e47e74fcd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-274#xywh=0,0,5615,7991",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/89434e2a-a03d-42b0-9530-fe9acf3116d8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On this page a very faint old pencil note beginning"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/annotation/5f405bf1-06ec-46f5-b662-4fdd50af7098",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/canvas/canvas-274#xywh=0,0,5615,7991",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xb003nj3345/res/0acd6108-3568-49e3-bb52-c22ef892f1be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Symmachus papa constituit"
+      }
+    }
+  ]
+}

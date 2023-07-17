@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/annotation/40ebf477-0c11-4953-8602-21c42821bb8e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/canvas/canvas-11#xywh=0,0,3615,5407",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/res/dd1f16ed-98fa-4120-bfeb-6a579f29ac55",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "This page has a good and effective but rough border of English work"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/annotation/bc1bb544-dbc8-4ae4-b194-378f484a0725",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/canvas/canvas-11#xywh=0,0,3615,5407",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dy076cc3937/res/3444aea4-585c-490c-beb0-cb0a3cf94602",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Sanctissimo in christo"
+      }
+    }
+  ]
+}

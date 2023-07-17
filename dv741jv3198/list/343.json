@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/list/343.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/annotation/de6337d9-a689-4f1b-a952-ae61606c1436",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/canvas/canvas-343#xywh=0,0,5804,7911",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/res/6b0e2e50-a1dc-4ac8-8f7b-1cc9897493cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De Trinitate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/annotation/514dfab5-9c15-4a43-8085-2a09065838a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/canvas/canvas-343#xywh=0,0,5804,7911",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/res/af6c0a1d-33e0-4c87-a34e-666bbc98a84d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In ecclesiis suis docent decretum Nicene synodi"
+      }
+    }
+  ]
+}

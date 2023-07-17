@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/list/332.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/annotation/5aa3bbf0-ac05-48ac-bf8b-5491f62d1fd5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/canvas/canvas-336#xywh=0,0,6026,8578",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/res/69a222e8-54ed-4dc4-ab20-e7d5f2c3ca3f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Uersus Iohannis Scotti ad Karolum Regem (101)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/annotation/125eae34-fb69-4ebb-974e-d1a81eafde9b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/canvas/canvas-336#xywh=0,0,6026,8578",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/res/1b1c8da5-817f-4225-93e4-58adfce91567",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aule sidereae paralelos undique circos"
+      }
+    }
+  ]
+}

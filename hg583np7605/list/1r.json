@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/annotation/4c129669-ee6b-4609-ab0d-ec0dffdf7a7f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/canvas/canvas-7#xywh=0,0,3994,5546",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/res/3f67bea1-f7af-4850-ac3e-86872de292db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Est longinqua deus non causa propinqua malorumCausa quidem culpe dici nequid inmediate"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/annotation/80fdcb7a-44d8-4468-9141-6b2da98a8806",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/canvas/canvas-7#xywh=0,0,3994,5546",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hg583np7605/res/ef3788bd-3312-4fa6-ba4f-155e891d4be9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Set sine qua non est dici poterit medianteIustus in aduersis non spernitur immo probatur"
+      }
+    }
+  ]
+}

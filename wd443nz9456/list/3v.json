@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/list/3v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/annotation/ce16a3df-b82d-43c5-9e69-4f66192ac570",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-16#xywh=0,0,5199,8611",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/res/3256e11d-e381-4f84-845c-ddad44a78b59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: oððe hƿa oðre biþrite"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/annotation/2e63c025-92b2-466c-8a8a-abdc47174977",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-16#xywh=0,0,5199,8611",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/res/6c312c2f-e49c-4abf-b265-15192762d087",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ðis ærend geþrit agustinus"
+      }
+    }
+  ]
+}

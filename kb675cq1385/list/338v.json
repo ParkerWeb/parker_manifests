@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/list/338v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/annotation/6fb59ca3-a0e5-479a-a992-5e8c48770e1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/canvas/canvas-688#xywh=0,0,5428,8696",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/res/ef0089de-91be-4049-a28d-c98245125ecd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: sed solum brauium sempiternum ad quod nos perducat qui sine fine uiuit et regnat. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/annotation/dac0a4bf-5919-42ee-b71f-17cafb8f3d96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/canvas/canvas-688#xywh=0,0,5428,8696",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kb675cq1385/res/edab850b-0aef-440f-899e-1a45c84f582f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit speculum iudiciale magistri Guillelmi Duranti"
+      }
+    }
+  ]
+}

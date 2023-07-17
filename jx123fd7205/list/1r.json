@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/af2ff025-cd69-4a9f-817a-9d7a6e0103bd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-9#xywh=0,0,3416,4820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/6815b52a-8b91-4234-a911-db7fafd646df",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Anno primo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/annotation/007d3597-faf5-4a47-9369-472cb0cb1e2f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/canvas/canvas-9#xywh=0,0,3416,4820",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jx123fd7205/res/0b989cfd-6140-4aca-856f-651aad36edea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Come hugh le despenser le peir et hugh le fitz"
+      }
+    }
+  ]
+}

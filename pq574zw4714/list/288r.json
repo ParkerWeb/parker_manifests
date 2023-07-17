@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/list/288r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/annotation/0580a413-98bb-4a8e-b171-549a2f3630c7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/canvas/canvas-593#xywh=0,0,4139,6440",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/res/8b3222f6-2afc-4080-8b9f-37d3bbd769ca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "followed by List of Cantica and"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/annotation/100a0cfe-3f37-4038-8c76-124cc5e71e43",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/canvas/canvas-593#xywh=0,0,4139,6440",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pq574zw4714/res/c9b64619-6fa0-41cc-812a-9a2a2b9d0b6a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum prophetas spiritus sancti reuelacione constat esse locutos"
+      }
+    }
+  ]
+}

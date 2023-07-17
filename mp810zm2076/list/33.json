@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/33.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/4a7f24c8-53cd-4f00-a64c-dd0318fdd540",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-36#xywh=0,0,3391,9215",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/55749b8e-2b2a-4f14-8684-a8a10db13093",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Carta Cuthredi regis West-saxonum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/8aed7b0f-aceb-4c04-be2b-df9db4f0c5a1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-36#xywh=0,0,3391,9215",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/c059fdbe-03bc-42d4-b1a7-4bdc3081e889",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De ecclesiis pontis Bristol. Glastynbery et Radcliff"
+      }
+    }
+  ]
+}

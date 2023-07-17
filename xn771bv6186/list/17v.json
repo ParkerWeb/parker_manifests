@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/list/17v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/4cb7f42a-3ac7-483e-a4d6-670fac768cbb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-42#xywh=0,0,3837,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/d01bbb07-9a79-4233-b478-7a88eb0ae471",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De festo purificacionis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/annotation/424a15e6-46b3-4b70-bad2-50811e4ea84e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/canvas/canvas-42#xywh=0,0,3837,6022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xn771bv6186/res/803f1911-569e-4f43-8f27-d227b07eecbb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Eodem libro in tractatu purificacionis"
+      }
+    }
+  ]
+}

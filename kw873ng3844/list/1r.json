@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/d2356445-1946-4379-a258-2878a6680152",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-15#xywh=0,0,5662,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/b7ae9d74-df8b-4e1d-8ce1-b559921c0984",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expositio Andree abbatis hystorica super Eptaticum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/annotation/94e5f744-22ab-4f58-8276-d87115af430c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/canvas/canvas-15#xywh=0,0,5662,8586",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kw873ng3844/res/93473337-2a75-4dd6-8d09-5130e8993540",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Difficile quod durum quod graue quod asperum est obseruatur"
+      }
+    }
+  ]
+}

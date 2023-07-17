@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/list/86v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/annotation/a311633b-4964-4904-9790-8cdeaee7e24d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/canvas/canvas-180#xywh=0,0,4775,7183",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/res/ca358d10-9c67-49d4-a778-1d2b2f12fbbb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: postea a genere hamasocii liste (άμαξοκυλιστὰι) nominati sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/annotation/4979a9e9-d039-47bb-adeb-63f894e15522",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/canvas/canvas-180#xywh=0,0,4775,7183",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tp246fw8333/res/629fccae-5e0d-49e6-b327-2eb262763b2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finis"
+      }
+    }
+  ]
+}

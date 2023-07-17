@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/list/147r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/a894edc9-a566-44f5-8895-b7999186fe1e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-303#xywh=0,0,5109,8106",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/44997ac0-078b-41c0-8b23-2a75a51a9c52",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Filii Syon exultate et letamini"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/e5a07f88-3076-4d1d-9d2e-2514297308f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-303#xywh=0,0,5109,8106",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/5aba4e77-b679-4c94-9884-cb29f22a477c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Partial border and initial as before: very good"
+      }
+    }
+  ]
+}

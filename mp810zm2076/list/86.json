@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/86.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/b7ffe3b8-6955-44bc-9471-aa4f4f651a76",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-91#xywh=0,0,3294,9022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/fe9e055e-f4b3-4cde-a666-66e132d584ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De ecclesia S. Pauli London"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/307bac54-3a29-4772-86bf-5548e8128128",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-91#xywh=0,0,3294,9022",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/132b932c-40ff-414e-a2a8-0b091179f67a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De ecclesia S. Mariae Magd. Oxon."
+      }
+    }
+  ]
+}

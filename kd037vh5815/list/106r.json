@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/list/106r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/annotation/dfd1c65e-66ec-4c0f-b38a-e513cd396d9b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/canvas/canvas-219#xywh=0,0,5950,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/res/daf005aa-45af-431f-ad59-65d6f02775eb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: as it is conteyned in þe Invencioun of þe crosse how Maxence was ponysshid for þis felony and for oþere"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/annotation/8af42e87-f47b-42dd-babd-757c7f3675cb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/canvas/canvas-219#xywh=0,0,5950,9030",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kd037vh5815/res/a201d5c6-3fa8-4984-b5e4-07e4aaa1265f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Seynt Margarete was of þe cite of Antioche doughter of Theodosyen a paynym patriarche"
+      }
+    }
+  ]
+}

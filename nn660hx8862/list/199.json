@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/list/199.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/annotation/4b2e4a83-de5b-410b-8351-23c07a0da5e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/canvas/canvas-207#xywh=0,0,5734,9345",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/res/2979fab8-0579-4b1b-80f2-392c10268c59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: fac nos te queso participes. Vale"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/annotation/ca2221ac-2821-4d77-a18e-7bfa49c221f7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/canvas/canvas-207#xywh=0,0,5734,9345",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nn660hx8862/res/998f6ca2-a7a5-412f-8b0a-f59bb14a70d6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Parumper de reliquis diebus uti petis in calce Epistole"
+      }
+    }
+  ]
+}

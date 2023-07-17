@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/list/177r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/0a83db84-6d79-44ce-a217-85d54baf45ac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-361#xywh=0,0,3774,5774",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/93d67f5e-dd66-4091-a156-4c7925756d18",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: copiosum fructum in gaudio metant"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/annotation/5bcdae61-b40d-495f-9a24-26e056696b69",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/canvas/canvas-361#xywh=0,0,3774,5774",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xp413cf5125/res/e250edd7-dc8c-40f7-af4f-e4202098dd85",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(Explicit liber qui dicitur gemma ecclesie)"
+      }
+    }
+  ]
+}

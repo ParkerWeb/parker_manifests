@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/list/3r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/annotation/fe886dc5-7bdb-499c-ab59-c45ddd286f55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-7#xywh=0,0,5808,8343",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/res/4de03ce4-c339-4a0e-b901-c32e92947268",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic incipit liber Gilde sapientis de gestis Britonum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/annotation/797047c9-f86b-44d8-b996-7557789be13f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/canvas/canvas-7#xywh=0,0,5808,8343",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sq763wg3834/res/285ea84e-351a-43d4-ab19-6b6b9701419f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: A principio mundi usque ad diluuium anni II. cc. xl. iio"
+      }
+    }
+  ]
+}

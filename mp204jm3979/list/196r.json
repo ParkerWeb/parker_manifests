@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/list/196r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/annotation/bbbb0f5f-ac78-411a-99ba-12923c6f24f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/canvas/canvas-403#xywh=0,0,3905,6326",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/res/79a738cf-60ae-4c14-b549-5b28aa0fbea8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ueneratissimis urbium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/annotation/a44e8046-2c3a-4d02-9589-895c6bef3446",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/canvas/canvas-403#xywh=0,0,3905,6326",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp204jm3979/res/5810f559-e7a5-4083-9960-fbc11e2d7a12",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Partial border. Initial with bust of bishop in white on gold"
+      }
+    }
+  ]
+}

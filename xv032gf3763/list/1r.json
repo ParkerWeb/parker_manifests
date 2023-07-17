@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/a8169098-7058-4602-9ef1-7df5b15ec69d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-11#xywh=0,0,3783,6098",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/3b9101e0-c860-4e01-a979-3d946d087efe",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus libri de sacramentis ab initio usque ad finem in unam seriem dispositis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/0640159c-65e0-4978-987d-8f35bef1d42a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-11#xywh=0,0,3783,6098",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/52d7ac11-1890-4d47-943f-01b60286a111",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Librum de sacramentis christiane fidei studio quorundam"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/annotation/f8c3cf97-1441-4e50-8610-9c0b94430f0e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/canvas/canvas-11#xywh=0,0,3783,6098",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xv032gf3763/res/e7881d96-de47-440c-9547-c3d609518eba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/list/100r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/annotation/df8ad7eb-7770-41e9-a9be-70686bf2126b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/canvas/canvas-211#xywh=0,0,3799,6366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/res/bdc3febb-5d2f-4676-ac43-27a33ed093f4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber VII. Capitula (incomplete)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/annotation/20843e0e-2060-41ff-8a95-2ea1ef9549e9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/canvas/canvas-211#xywh=0,0,3799,6366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xq050qp5257/res/9e0e9651-6427-404c-9c48-76a08027bb7b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text. Green initial"
+      }
+    }
+  ]
+}

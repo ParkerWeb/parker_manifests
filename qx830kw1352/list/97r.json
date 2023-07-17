@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/list/97r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/annotation/5a28cb16-5916-438b-9d86-14e354e427f1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/canvas/canvas-199#xywh=0,0,3831,5944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/res/fd172dcf-a21b-450a-b30c-8486fe07f9ba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Intronizacio domini Willelmi Warham Cantuariensis archiepiscopi anno r. r. henrici 7i xxo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/annotation/c3402eeb-7dd6-4491-b0ed-2e2776bf948a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/canvas/canvas-199#xywh=0,0,3831,5944",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qx830kw1352/res/87f5f087-ddda-4f3c-8b16-641e4787d08a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam temporis longitudine"
+      }
+    }
+  ]
+}

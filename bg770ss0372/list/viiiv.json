@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/list/viiiv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/e30a37c0-c967-4b06-aa3c-7cc43d79590e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-20#xywh=0,0,3588,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/237d8ad6-218c-4a04-8db6-e2ed24b97c87",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: etiam si lex ad pretenta referatur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/8157cc1f-e14e-4088-8a33-93d62a8c4c5f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-20#xywh=0,0,3588,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/f4539fa2-af3d-4846-b1b9-efd8f8c679f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/annotation/390a27a0-e205-48bf-ba38-72b6d65ab486",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/canvas/canvas-20#xywh=0,0,3588,6222",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bg770ss0372/res/71e6135e-2f9e-49aa-821f-263faf5e6f95",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Date, iii Kal. Mai. Indict. x. Incarnacionis dominice anno mo. c. iiiito Pontificatus autem domini Pascalis secundi pape tercio (not in Jaffé?)"
+      }
+    }
+  ]
+}

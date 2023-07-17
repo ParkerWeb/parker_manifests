@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/list/340.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/annotation/52740773-42ed-4923-a3b0-7ecdc0d11db9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/canvas/canvas-344#xywh=0,0,6031,8570",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/res/3529985f-206b-49f3-a210-6d12b5aff037",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Prudentius de opusculis suis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/annotation/e3001e96-e276-4743-9e9c-b6dc0994356e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/canvas/canvas-344#xywh=0,0,6031,8570",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th953kw1763/res/dc6d6b6c-5d02-4f0e-8ab4-85d9121aa257",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pius fidelis innocens pudicus.Dona conscientiae"
+      }
+    }
+  ]
+}

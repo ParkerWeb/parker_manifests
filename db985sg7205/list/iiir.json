@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/list/iiir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/annotation/7e0e1fd0-31f8-4434-bf7b-3e2c026519ba",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/canvas/canvas-148#xywh=0,0,3747,5347",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/db985sg7205/res/1ce3c97f-5834-4250-99ea-42ba7b017936",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The table occupies 5 pages"
+      }
+    }
+  ]
+}

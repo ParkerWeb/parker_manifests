@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/list/271.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/annotation/7ca55140-341f-4dda-a151-2971611e4e08",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/canvas/canvas-271#xywh=0,0,5710,8454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/res/c3067f20-cd09-41e0-a7a6-4c74900484f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Cogitationes mee sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/annotation/8d847774-b902-4b62-b55c-c98112730ed8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/canvas/canvas-271#xywh=0,0,5710,8454",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rx649bb0669/res/78d5601c-8f48-4811-99f0-0815ce8f1881",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primo ut nullo modo concedamus"
+      }
+    }
+  ]
+}

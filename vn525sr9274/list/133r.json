@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/133r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/019e84f6-6c83-4aa1-ac14-2a14798d8481",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-273#xywh=0,0,4464,7731",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/823f0eaa-0a97-4441-9a39-164b9c974b2b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The poem Vado Mori"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/e8cb9923-c479-4532-92fc-a286d8cdad2c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-273#xywh=0,0,4464,7731",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/2aaa4253-1007-42fa-b66a-3f9fcf941c4d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Diues ait si nobilitas mea magna quid inde, etc....Vado mori mors certa quidem nil certius illaQuanta subincerta sit mora vado mori...Ex hiis ergo potest quiuis concludere sensumPronus ad mortem post omitia facta recursus"
+      }
+    }
+  ]
+}

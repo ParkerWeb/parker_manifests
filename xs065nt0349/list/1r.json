@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/annotation/5fccedf2-305d-411a-9005-940d729f30b2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/canvas/canvas-7#xywh=0,0,3771,5817",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/res/ed618205-9296-406d-a98b-40b0f5be2981",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Ortographya Albini Magistri Me legat antiquas cupiat qui scire loquelas Me spernens loquitur mox sine lege patrum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/annotation/5a2b8014-2b5c-414b-a634-200bf4adac49",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/canvas/canvas-7#xywh=0,0,3771,5817",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xs065nt0349/res/5040a77c-397b-4d6b-93d0-fd5968128bb1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Aeternus aetas per ae dyptongon"
+      }
+    }
+  ]
+}

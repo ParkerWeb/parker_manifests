@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/list/109r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/20336068-8b07-4459-a753-8b881fc798be",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-229#xywh=0,0,5016,7470",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/ae7552ab-f9c5-4ac1-9efd-7853c33ac16c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A badly drawn (late) six-winged Cherub"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/annotation/345501cd-c0e8-4909-8738-b6aba83b9b17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/canvas/canvas-229#xywh=0,0,5016,7470",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf842rx6366/res/2b5acb8a-9d9e-4a8b-bc36-4b0d2c7579e8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sanctus Augustinus. Incipit libellus qui dicitur Cherub de confessione"
+      }
+    }
+  ]
+}

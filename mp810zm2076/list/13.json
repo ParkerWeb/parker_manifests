@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/13.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/ce20f8ac-9a61-4531-98cd-83e03003ecd1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-14#xywh=0,0,3283,9095",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/fcd8bf15-3f39-47e1-808b-c54a2ab3c9e6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De aquis quae currunt per Kirton et Lamport"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/0cde2172-f64a-4625-8433-0eebafd567f2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-14#xywh=0,0,3283,9095",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/c1421025-f491-4911-abdf-c3333a304942",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Excerpta ex kalendario martirologii monasterii de Newnam prope Axminster"
+      }
+    }
+  ]
+}

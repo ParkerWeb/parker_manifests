@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/list/42v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/4203699f-e462-4eb0-b57b-29563bb962da",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-92#xywh=0,0,4198,6422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/c279ae94-2d26-4600-abd9-bc46f8972c82",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "blank: pencil note: numerus fo. script. 41 (xv)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/annotation/8d296a4b-dc5c-48dd-87df-0301f4df5a15",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/canvas/canvas-92#xywh=0,0,4198,6422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fz541vq7367/res/9350126d-8973-484d-ada5-dad51c03ded2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A sketch of a ship drawn with dry point"
+      }
+    }
+  ]
+}

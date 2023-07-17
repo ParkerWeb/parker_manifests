@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/annotation/abff5d5a-c0a7-462a-b1cb-8a708738128a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/canvas/canvas-27#xywh=0,0,5998,9054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/res/c81a36da-bc72-40bc-8d39-6064571b0088",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Willelmus domini paciencia sancte Tyrensis ecclesie minister indignus uenerabilibus in Christo fratribus ad quos presens peruenerit eternam in domino salutem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/annotation/77e56db7-017e-4606-a486-5263131a5ae5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/canvas/canvas-27#xywh=0,0,5998,9054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp425fz2558/res/f323c7e6-a626-4e14-b178-8426ab449014",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Periculosum esse et grandi plenum alea"
+      }
+    }
+  ]
+}

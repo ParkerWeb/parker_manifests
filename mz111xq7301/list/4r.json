@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/annotation/7239f124-acc0-4c90-8c91-4e726cdd09b6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/canvas/canvas-15#xywh=0,0,6218,8161",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/res/b4b68944-cb5f-49f0-b497-13468eb9fe49",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit glosa secundum ordinem elimentorum Alphabeti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/annotation/cb2b4680-abab-4722-b992-8c57852ab8fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/canvas/canvas-15#xywh=0,0,6218,8161",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mz111xq7301/res/411aaa87-d8df-462b-aae4-8e1afcd5c102",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Abminiculum"
+      }
+    }
+  ]
+}

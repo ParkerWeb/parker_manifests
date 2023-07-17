@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/list/595.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/annotation/5dc7474e-a841-4ce5-bcdd-8a31e1d2e711",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/canvas/canvas-609#xywh=0,0,6003,8822",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/res/458ae4a6-6bec-4bbf-ad93-a3c1f571dec0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "forma orandi deum aduersus turcam. M : Lut : (Lutheri)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/annotation/31356fe8-c15c-42b8-ac57-0c630729d603",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/canvas/canvas-609#xywh=0,0,6003,8822",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gf935mc7152/res/490eb375-c137-4a4a-8807-34aa2e2730f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "la : g : tha : inter : 1542 (i.e. Jacobo Gisleno Thalassio interprete)"
+      }
+    }
+  ]
+}

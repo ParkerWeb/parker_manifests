@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/f551b0c9-2a72-4120-b451-53738d04b97a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-16#xywh=0,0,3789,5654",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/7ceaa78c-7bb9-41f0-b376-b6aa129d6ec5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit (ansa) prima cathene auree uel probleumata et primo de anima et potenciis eius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/annotation/0495928d-b661-4b4c-86c5-3c14322d2a0b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/canvas/canvas-16#xywh=0,0,3789,5654",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn209hf3082/res/d36db755-35c0-4ecb-b33a-3a33593b6ed8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cur anima hominis per creacionem est producta"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/list/136r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/4f758425-cc3b-48fc-a5d6-7151319e682f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-273#xywh=0,0,3781,5788",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/5eb9eceb-7cfa-4458-8eb5-4c9e7071ecca",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quoniam sub penam excommunicacionis late cuius absolucio sedi apostolice reseruatur interdictum est religiosis ne excommunicatos a canone preter quam in casibus a iure ... expressis ... absoluere presumant"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/7b9b3ef4-d81b-4575-acbc-e550ab9153e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-273#xywh=0,0,3781,5788",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/3397ecb5-e44d-4ccb-9748-1747f44cc687",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: notanda est compilatio infra scripta que in 14 particulas est distincta"
+      }
+    }
+  ]
+}

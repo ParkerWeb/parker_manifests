@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/202r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/e1cfd4bd-f059-4dbc-b295-916a3a463eb6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-411#xywh=0,0,5830,9018",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/9aabcfd8-1373-4f8f-a729-5a34dd0de106",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On this page a paragraph"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/9c121d96-5ed5-41d2-b726-02c8af43886d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-411#xywh=0,0,5830,9018",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/f7e473fe-4ad4-457c-8745-47b7cfe35885",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno gr. mo c̊c̊c̊ vii circa fest. S. Aug. anglorum apostoli Iohannes de islepe tunc senexcallus thorneye ... tenuit hundredum de normonhiscros"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/29a5c75b-00fa-419c-abef-4c186b029c4e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-5#xywh=0,0,3990,6214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/709f1643-d89c-4365-8147-e5addb7c9140",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Double columns of 60 lines"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/096e146f-80ac-4e61-a8e6-16a992306e97",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-5#xywh=0,0,3990,6214",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/e5ba8a7d-c3cb-49d7-8059-6fe87ce90c69",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Uidemus nunc per speculum et in enigmate"
+      }
+    }
+  ]
+}

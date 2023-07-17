@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/list/48.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/30cde8fa-6282-4c2c-8e23-ad33e088d255",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-52#xywh=0,0,3551,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/a2be59f2-0c2d-4543-8205-3df4e05a9300",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Fram middan ƿintra byð to sancta marian mæssan v ucan 7 iiii niht"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/annotation/3ec61961-17ad-47b4-a607-55bb369e2d23",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/canvas/canvas-52#xywh=0,0,3551,5614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fr610kh2998/res/1363185c-8849-4af9-9921-e931bf15f35a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "It goes through the year enumerating the great feasts, including Gregory, Cuthbert, Benedict and Augustine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/list/392r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/d02f4c0f-d2ba-4ee3-995d-d7e3e2c50d12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-805#xywh=0,0,5815,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/25afd2c5-a627-4548-866b-c356c077ad31",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Acts, Catholic Epistles, Pauline Epistles (Laodiceans follows Heb.)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/annotation/201bf159-c5e8-451a-b9e4-9d13622e299a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/canvas/canvas-805#xywh=0,0,5815,8933",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qy662bj1544/res/9bde6eb3-2d0d-420a-870b-09f65afbe714",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Acts. Four Apostles seated : Peter, Paul and two others"
+      }
+    }
+  ]
+}

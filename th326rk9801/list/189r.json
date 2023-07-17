@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/list/189r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/annotation/bf22d6dc-94d5-4bac-8352-b070e01626f8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/canvas/canvas-383#xywh=0,0,4403,6252",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/res/3c6ec6fd-6a79-47eb-8748-28e2516a110d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: et in ueronensibus retenta"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/annotation/252aac33-003c-4917-b324-1d9ca31efea1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/canvas/canvas-383#xywh=0,0,4403,6252",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/res/8c438f92-6cbd-4edc-96d8-752aee2e1074",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit quartae decadi(s) liber secundus foelicissime"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/annotation/a922764d-df06-40c4-8a33-5c31d61085a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/canvas/canvas-383#xywh=0,0,4403,6252",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th326rk9801/res/121c31ce-60af-4507-ad62-48e12db82f5e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Annus hic primus et quadra[gra]gesimus supra millesimum et quadringentesimum"
+      }
+    }
+  ]
+}

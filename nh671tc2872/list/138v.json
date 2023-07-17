@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/list/138v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/fff6dc71-5be1-4dee-b147-cd158b676b80",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-288#xywh=0,0,4012,6063",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/94bb70fb-12ed-4131-a31c-9fd2c0c1f252",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: machina dissoluetur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/annotation/ca74659d-dc78-44d9-986b-5b480ff46c98",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/canvas/canvas-288#xywh=0,0,4012,6063",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh671tc2872/res/fa5f4f08-ba4d-4adf-935c-8cadcf193335",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Hic explicit tractatus spere scriptus anno domini mo. cco. lxxx. tercio"
+      }
+    }
+  ]
+}

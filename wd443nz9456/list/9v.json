@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/list/9v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/annotation/c54554fe-f204-4829-b385-ba3c2b639bdc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-28#xywh=0,0,5312,8698",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/res/69f7f7da-3722-4ff3-a253-22bd85353bf2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: ðe hie nane geleornedon"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/annotation/9958421a-f07e-4d08-8195-82098f5dede5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/canvas/canvas-28#xywh=0,0,5312,8698",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wd443nz9456/res/f5de5906-b2f1-420c-bf46-ba962bdcfcee",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: FOR ðon ðe nan cræft nis"
+      }
+    }
+  ]
+}

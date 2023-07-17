@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/list/19r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/090c770e-3825-403e-b6d3-53c79c6c6a52",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-47#xywh=0,0,3510,5196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/c4716dce-9915-4268-867a-1a26430185f0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "After Compline:"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/43b29459-b42b-46fe-951a-bcb87285bb89",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-47#xywh=0,0,3510,5196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/720f13ce-af7e-40eb-aac0-25df0b4539ac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Oratio in parasceue ante crucem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/annotation/7916a669-d25b-4e69-b438-c1fdf7b7265e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/canvas/canvas-47#xywh=0,0,3510,5196",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sg012cr8689/res/cb8a7d55-280f-46f4-a177-214b5f52ea6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Domine Ihesu Christe fili dei uiui qui precepto patris nostre carnis infirma suscipiens"
+      }
+    }
+  ]
+}

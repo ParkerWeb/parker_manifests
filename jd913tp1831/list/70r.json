@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/list/70r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/3cd44b89-6cd6-4a0e-b8e8-ea555ef38990",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-143#xywh=0,0,3162,4876",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/51260984-b1b0-4a0a-94f2-c1507b880e26",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Isti tres psalmi sequentes cum suis antiphonis dicuntur die martis et die veneris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/annotation/632cbf31-2d0c-4cf5-bc73-e458ce3a25ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/canvas/canvas-143#xywh=0,0,3162,4876",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jd913tp1831/res/39163819-b3ba-462b-b18f-dce1960d5687",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Antiphon: Specie tua et pulchritudine tua. Psalm: Eructavit cor meum"
+      }
+    }
+  ]
+}

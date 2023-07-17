@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/list/273r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/annotation/9d495ef4-b4c7-431c-a93a-5ce192039363",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/canvas/canvas-551#xywh=0,0,5650,8922",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/res/8e34bad9-6c81-4c35-a079-65c8f33ee93a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epistola XII ad Hamericum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/annotation/5c8320b1-9ed0-4d6c-8b59-b9dac32f80e1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/canvas/canvas-551#xywh=0,0,5650,8922",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/res/31a05671-30ef-4269-bb75-ee587693de00",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epistola XIII Episcopi Francie Innocencio"
+      }
+    }
+  ]
+}

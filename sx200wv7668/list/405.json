@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/list/405.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/9892c0c9-91ea-4ceb-b2c6-df110bb7752f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-405#xywh=0,0,5686,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/3712fa26-84ac-45d1-be07-b09bb14d63f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Benedictio super regem tempore sinodi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/25d163f6-570c-4d23-98dc-d5adade11fd1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-405#xywh=0,0,5686,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/089795e5-1269-480d-bf76-7de0676d3a8f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Benedictio super regem cotidiana"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/annotation/e436a215-0b20-4d40-87ed-83c1777b3044",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/canvas/canvas-405#xywh=0,0,5686,8082",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/sx200wv7668/res/7e4787d1-de86-489c-b96f-522d058b3fcb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Benedictio ab archiepiscopo in dissolutione sinodi"
+      }
+    }
+  ]
+}

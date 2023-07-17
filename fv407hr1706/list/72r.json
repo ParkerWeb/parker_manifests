@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/list/72r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/0a2d203e-2cb2-4baf-b79d-717a505005a4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-149#xywh=0,0,4342,6038",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/72a8923f-48a6-4b0d-883a-956548991337",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in capitals occupying a page"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/a508564c-09f0-42cc-b286-4f9eb64aaec1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-149#xywh=0,0,4342,6038",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/36036449-69ab-458e-a46b-c6538e256521",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Anitii Manilii Severini V. C. et IVL exconsulis Boetii ordinarii / patricii. Incipit liber / quomodo trinitas / unus deus ac non iii dii / ad Quintum AVRI Memmium Simachum ETILIV C ex cons. ordinat. AD DATR(!) socerum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/annotation/c38bac0f-c29a-44f5-9d0d-378379927937",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/canvas/canvas-149#xywh=0,0,4342,6038",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv407hr1706/res/ce54ff30-ee5e-4f9b-9dfd-e090719b88fc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Trinitas appellata quod fiat totum unum"
+      }
+    }
+  ]
+}

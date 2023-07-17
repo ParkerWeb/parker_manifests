@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/list/96r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/annotation/8a4bbe86-b587-41cb-b4b5-08957fef49f9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/canvas-201#xywh=0,0,3710,5478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/res/b7369bab-6058-4e49-ad0a-005cab216cd5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/annotation/b66df892-998f-41ad-a747-3d178a77e25b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/canvas-201#xywh=0,0,3710,5478",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/res/036884c3-b6fb-4d2d-a674-eab818a6dfba",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in gold, conventional foliage and beasts on red ground: outer ground purple, as in liber II, edged with green; a very beautiful effect"
+      }
+    }
+  ]
+}

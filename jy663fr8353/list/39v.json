@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/list/39v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/3f952db4-439d-4bb5-bf4e-2222e99596b8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-92#xywh=0,0,5074,8119",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/bf6b3c63-1c4a-4021-8ce9-192c65703396",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: se esse christi vicarium glorietur. acta est huius visionis reuelacio anno ab incarnacione domini mo cco xx vio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/annotation/f8b01887-f165-4a0b-b960-8054295e04ac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/canvas/canvas-92#xywh=0,0,5074,8119",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jy663fr8353/res/b01bbdea-98f5-4cb4-b34f-8132bf254bda",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Notes in another hand on the eucharist"
+      }
+    }
+  ]
+}

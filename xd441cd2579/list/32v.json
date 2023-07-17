@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/list/32v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/annotation/70b9ea7d-b4e3-4c01-a8e3-48c92f0270e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/canvas/canvas-70#xywh=0,0,3718,5917",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/res/5dd82f38-2396-4614-8de4-cf95632f2df0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Si quis monachus peregrinus de longinquis regionibus superuenerit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/annotation/12c470f4-2dde-44b3-b007-7c5f3f75cf3b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/canvas/canvas-70#xywh=0,0,3718,5917",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd441cd2579/res/3932e476-34b4-4134-ac3d-e7d32433e8ed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: non debet sociari corpore monasterio uerum etiam"
+      }
+    }
+  ]
+}

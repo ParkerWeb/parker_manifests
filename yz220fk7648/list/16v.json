@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/list/16v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/56881599-3019-406d-96c0-478a47747199",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-38#xywh=0,0,3681,6345",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/65d5d7bf-5d18-4244-9b26-b29e73d0ac7a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: tonicam pauli cum meritis eius quam regum purpuras cum poenis suis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/60e2e400-15e0-4d98-a7d0-87af86739615",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-38#xywh=0,0,3681,6345",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/f303c7a3-21d3-4dd4-9b75-94f59232d945",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Finit liber"
+      }
+    }
+  ]
+}

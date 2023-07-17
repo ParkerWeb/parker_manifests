@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/173r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/7a2ba5b4-6fdd-48a5-bd59-21084ca0b852",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-351#xywh=0,0,4206,6661",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/6bc4c54a-7e3c-4b13-9e46-ae0de3c95355",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ecclus. Oratio Salomonis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/ce789ff2-8697-4b4f-99d8-87476ce8ce81",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-351#xywh=0,0,4206,6661",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/23c78eb3-74b3-407f-bfe8-cca71e6f7439",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ecclus. A crowned white-bearded man, half-length, facing R. A cleft in the initial (as above)"
+      }
+    }
+  ]
+}

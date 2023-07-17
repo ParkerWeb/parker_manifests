@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/annotation/36a2c079-94cd-4c67-bcb5-b6898b40ae03",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/canvas/canvas-10#xywh=0,0,3079,4726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/res/23965bae-d37a-4bcb-ad23-85dea159d840",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: eiusdem martiris gloriosi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/annotation/cf1555af-3679-4b0d-86b3-6e0291a0750b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/canvas/canvas-10#xywh=0,0,3079,4726",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vf901ky7081/res/3bdc17bf-fd5c-4fd6-8fb8-f41e2ff1f40e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitula"
+      }
+    }
+  ]
+}

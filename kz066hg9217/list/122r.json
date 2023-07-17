@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/list/122r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/bfcaac94-b9da-42a2-89e3-03d27e106b3c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-249#xywh=0,0,5793,8870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/e963cab9-3409-448d-b3c0-b04ee7256ff2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Salvum me fac"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/annotation/1e6514d9-a77c-4293-a978-e78c4d056c98",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/canvas/canvas-249#xywh=0,0,5793,8870",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kz066hg9217/res/22cbf480-0c7e-491f-a385-b88932cd912b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Psalm. Above, three men, one with long blank scroll, thrust Jonah out of boat. Below, Jonah with scroll sits (not astride) on the back of a purple fish. Two trees seen behind"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/7r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/daac7abf-4d5b-481e-83ff-7d1a90635568",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-27#xywh=0,0,4064,6563",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/f1980739-6c1a-4175-82e1-232ce90eb3d9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Twelve leaves with pictures"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/4a6edee7-4dc8-41fa-86c3-642ea5aab96b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-27#xywh=0,0,4064,6563",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/7e4a316b-284e-44f3-9075-388658a2d01c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1. Jeremias. Pointed cap. Patrem uocabitis me dicit dominus. Petrus. Credo etc. - terre"
+      }
+    }
+  ]
+}

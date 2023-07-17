@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/list/139r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/63a310e7-6d40-4b7e-b887-96f0db83acca",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-289#xywh=0,0,5374,8526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/0848a524-4071-488c-8f27-f1fd30917a90",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: aut eiusdem anni epactam siue terminum pascalem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/annotation/06826bdd-1c9d-4e70-b8f9-f2509a3fe9e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/canvas/canvas-289#xywh=0,0,5374,8526",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pj101rk1280/res/49ef631b-938a-43fa-b2bf-0abf233f3100",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Table of the 19-year cycle with Concurrents, Epacts, Easters, weeks from Christmas to Easter, from Pentecost to Midsummer, from Pentecost to Advent"
+      }
+    }
+  ]
+}

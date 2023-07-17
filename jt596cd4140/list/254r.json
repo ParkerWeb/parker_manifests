@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/list/254r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/annotation/55cb4668-a01c-4784-ad1d-4e5a9a6f2d7d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/canvas/canvas-517#xywh=0,0,6033,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/res/89510f6e-116d-4357-94df-0603e3b80b1e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermons in several hands"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/annotation/a3f50331-9259-4cff-a77b-c510e778cc37",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/canvas/canvas-517#xywh=0,0,6033,8892",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jt596cd4140/res/41dd8db6-06e5-457f-ab35-f77a03bc4a2c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum venit plenitudo temporis, etc. In propositis verbis apostoli quatuor precipue considerare debemus"
+      }
+    }
+  ]
+}

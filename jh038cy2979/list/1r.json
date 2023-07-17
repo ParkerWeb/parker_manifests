@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/773dfc5c-5fbd-412f-82c8-5815629a7f6b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-3#xywh=0,0,6083,8545",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/02915381-51ca-4c26-b68b-aa53f81b5e59",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit prologus domni luonis Carnotensis episcopi ante collectiones ecclesiasticarum regularum de conuenientia et dispensatione earundem"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/annotation/63755889-2777-4763-88f4-5a23fc2c6ec9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/canvas/canvas-3#xywh=0,0,6083,8545",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jh038cy2979/res/0ebc9379-9e27-4aa1-89b6-b275d8456222",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Exceptiones ecclesiasticarum regularum partim ex epistolis romanorum pontificum"
+      }
+    }
+  ]
+}

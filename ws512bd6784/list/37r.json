@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/list/37r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/0b801080-b6be-4733-9a2d-490c44091d13",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-79#xywh=0,0,5122,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/cb9a9453-8586-4fac-82b0-fd31c8379f24",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Similarly, (Dimock, p. 67)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/c6505361-4cdb-4c26-bcf2-277e84ae19b4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-79#xywh=0,0,5122,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/74f5220d-76a9-4a61-ab8c-0e565ad518cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: de Baldewino Cisterciensi et Hugone Cartusiensi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/annotation/be1f4d55-7052-4b1a-b732-616ac0b1b8d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/canvas/canvas-79#xywh=0,0,5122,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ws512bd6784/res/d2973303-43ae-4fb7-a67b-5f86ff7bd33c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "An initial with two half-length figures"
+      }
+    }
+  ]
+}

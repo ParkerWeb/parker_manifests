@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/list/168v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/annotation/abc97d91-4b49-4152-814f-99647a528873",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/canvas/canvas-340#xywh=0,0,5602,8730",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/res/906de9f7-7dcd-40df-a516-3378947b9b3a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: os tuum abundauit nequitia etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/annotation/7a406480-0268-40e9-8108-565927c73526",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/canvas/canvas-340#xywh=0,0,5602,8730",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd020zt5485/res/0838a1f0-a7c1-44dd-8579-aa08bb23472d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: peccatorum iniquia uoluntate"
+      }
+    }
+  ]
+}

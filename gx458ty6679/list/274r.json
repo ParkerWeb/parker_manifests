@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/list/274r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/annotation/1e5ffa8b-ca9f-4617-9d6c-ce38ecca70c3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/canvas/canvas-553#xywh=0,0,5758,8838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/res/eebc7349-f7b0-45b5-a0f5-ffbeb0f48b08",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Iste sunt articuli nouiter diuulgati quos inter hereses dampnatos in se uel in suis similibus dampnandos esse credimus etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/annotation/100b0410-dc79-4382-95bd-7033a8076998",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/canvas/canvas-553#xywh=0,0,5758,8838",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gx458ty6679/res/2c87320a-254b-4120-87cd-de83209a2519",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In nomine domini"
+      }
+    }
+  ]
+}

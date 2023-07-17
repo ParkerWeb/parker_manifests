@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/vr.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/c167f6ba-a9c0-4c3b-b800-da370da5e8de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-13#xywh=0,0,6044,9125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/bfa0c8c1-6265-4f01-a0f9-26d8d852250d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "d. Genealogia orbiculata from Alfred to the children of Henry III, mutilated: briefer than that in MS 26"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/c00a38b4-5f9a-4a2b-943c-d48f9c12595a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-13#xywh=0,0,6044,9125",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/cd41839f-a7a3-49d5-8c11-f635a181ae10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Genealogy. Medallion of Alfred seated, and man kneeling to him"
+      }
+    }
+  ]
+}

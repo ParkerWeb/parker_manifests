@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/list/560a.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/annotation/a2c9e054-fc06-440b-98e9-16a71c839c3a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://purl.stanford.edu/zs860hs4144/iiif/canvas/zs860hs4144_160#xywh=0,0,4116,6330",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/res/7780e5f9-b024-4c24-b3c1-a9b84c3af16a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: A boke to mete tymber by"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/annotation/bde76276-4af1-4812-bb5e-187999ac6bb3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://purl.stanford.edu/zs860hs4144/iiif/canvas/zs860hs4144_160#xywh=0,0,4116,6330",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zs860hs4144/res/b7b98882-c61b-4d6d-a5dd-067668bc20dc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "First come ten leaves of smaller size consisting entirely of figures in columns"
+      }
+    }
+  ]
+}

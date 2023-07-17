@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/list/14r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/annotation/3a7d933a-0c27-46dc-936c-6be93c4774e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/canvas/canvas-39#xywh=0,0,5626,9162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/res/5971d92a-6e50-4b37-bfd5-410e63fecf01",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Expositiones"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/annotation/f7119cd1-7657-4a16-ac53-ef3b8e79616f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/canvas/canvas-39#xywh=0,0,5626,9162",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vp970qy1037/res/3b9864c5-3b8f-4964-935b-5be30f2c271b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Notum facimus lectori quod expositionis lucem sumpsimus a ieronimo etc."
+      }
+    }
+  ]
+}

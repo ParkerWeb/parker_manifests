@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/list/66r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/2b3d1e96-2079-4550-962b-11c005155240",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-137#xywh=0,0,3762,6272",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/cf8b941a-4dc6-410b-a69e-84f46910c381",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Uiditque uidentes quos prius uidere negauit. Grates deo persoluens dignas quas nullus reddere nescit"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/annotation/c475dece-0a96-4f5d-84de-3dc3b6163445",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/canvas/canvas-137#xywh=0,0,3762,6272",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yz220fk7648/res/946d4eb2-e5e4-4a29-99d1-6cd34f02b580",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Sancti Guthlaci anachoritae"
+      }
+    }
+  ]
+}

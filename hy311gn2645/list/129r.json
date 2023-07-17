@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/list/129r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/1fbd50c5-cebb-4e50-9f92-581b293f6703",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-265#xywh=0,0,4882,7379",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/a5bedf62-3006-49c3-8594-5a3311a4cf48",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Smaller hand: headed Secretum meum mihi S. m. m."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/annotation/634ed1ef-8f78-4ff7-a7d8-592f191889e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/canvas/canvas-265#xywh=0,0,4882,7379",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hy311gn2645/res/dccc7a56-55b9-48db-8c92-558d65ee82be",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum quiescit uel in primi patris sompno uel in conditi Ioseph loculo uel in florido sponse lectulo"
+      }
+    }
+  ]
+}

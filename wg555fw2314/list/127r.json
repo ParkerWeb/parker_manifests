@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/list/127r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/annotation/572e504c-3f14-47da-9468-50e5aa6be4dc",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/canvas/canvas-261#xywh=0,0,3668,5637",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/res/1454f3ff-5fa7-4ce6-8e4c-8d9fe05827d3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Expertus ... Continuare"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/annotation/1e327883-4f25-43a3-9332-cd42cf13c484",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/canvas/canvas-261#xywh=0,0,3668,5637",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wg555fw2314/res/af489f3c-1f64-494f-bc80-3adbad79433c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Pauo auis pabonamque genus uehiculi unde in passione Sebastiani. leuauit eum in pabone suo"
+      }
+    }
+  ]
+}

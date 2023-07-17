@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/3v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/0a020c61-c40a-4c03-8c6a-eef933dc9145",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-20#xywh=0,0,4013,6472",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/1b8f2010-09c9-400f-bf71-e41b5d4f201e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "June. In broad hat, mowing. Leo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/ba8f8477-69f2-45fb-8209-e4c06dc40338",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-20#xywh=0,0,4013,6472",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/a05091d3-d6e4-4454-baf5-b6929ce21eed",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "June 3. Obitus Rogeri de Essesse in red 23. Etheldrede"
+      }
+    }
+  ]
+}

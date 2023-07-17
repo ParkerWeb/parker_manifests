@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/annotation/fc6c2f98-87f1-4844-afe7-334ac3fa30f1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/canvas/canvas-21#xywh=0,0,3270,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/res/9ee7be4f-3eb8-4d45-b4b1-62ec0bf9f029",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in red capitals"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/annotation/b68351bc-ab18-4ce9-a122-fe6c6e631848",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/canvas/canvas-21#xywh=0,0,3270,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/res/1364b26c-3cd8-46a9-97e3-4c30bf0d7e10",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Prefatio historie novorum in Anglia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/annotation/a9a3d0ae-2d4e-49ac-b359-355a02a58dd1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/canvas/canvas-21#xywh=0,0,3270,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nz518wt4652/res/ecffc8c4-d1bc-4da7-ad43-726035685d07",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Cum presentis etatis uiros"
+      }
+    }
+  ]
+}

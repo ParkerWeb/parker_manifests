@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/list/1.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/5f3d1b19-1332-48ba-80dc-ec348b558886",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-3#xywh=0,0,5712,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/1cceb442-b0c1-4571-9cde-81be512263e5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Title in red capitals. Initial of text, in outline washed with red and green, has dragons"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/f98138b8-69bc-4f64-8cdb-5782d31f7f41",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-3#xywh=0,0,5712,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/9dac2494-ab7b-4e84-9520-600911611989",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Epistola de vita Sancti Dunstani archiepiscopi"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/annotation/24827034-1924-42cf-9d7c-59a022bb02c8",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/canvas/canvas-3#xywh=0,0,5712,8422",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/cg742qv0435/res/345cc32e-7cb9-40b8-8665-0f6ec5b5805d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Universis catholice matris ecclesie filiis ... osbearnus"
+      }
+    }
+  ]
+}

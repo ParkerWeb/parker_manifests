@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/list/106v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/annotation/43947887-02de-4706-b4ab-862551b4d8d2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/canvas/canvas-226#xywh=0,0,3624,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/res/ec91c806-db87-431d-993f-821dc38c55f3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: donec intrauerim in gaudium dei mei qui est trinus et unus deus benedictus in secula seculorum. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/annotation/ef6f9819-7741-4380-91de-c953b072b07c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/canvas/canvas-226#xywh=0,0,3624,5670",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fv392xh8605/res/545c4a39-7280-4efe-b551-2fa4cc05f52c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit breuiloquium pauperis in sacra scriptura"
+      }
+    }
+  ]
+}

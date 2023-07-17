@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/list/303.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/annotation/0c80f2b5-1543-4a0b-8689-48ed70eb16b0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/canvas/canvas-303#xywh=0,0,5744,7880",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/res/9bf54b2f-f9a6-4f33-a3cb-0cbc7b1f4054",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De utraque specie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/annotation/d1044b74-d821-4cfa-b5c5-c12bce17b1e5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/canvas/canvas-303#xywh=0,0,5744,7880",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dv741jv3198/res/ef61c999-1941-4e57-b17b-f8a600eae738",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Laicis datur utraque species sacramenti"
+      }
+    }
+  ]
+}

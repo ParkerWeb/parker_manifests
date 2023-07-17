@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/list/77r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/annotation/e90810a8-12d4-4612-9831-204b337ed5ec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/canvas/canvas-153#xywh=0,0,6239,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/res/6f17a1a8-801c-4da5-8a21-3dcaeb1e8d5f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Capitulum XV"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/annotation/2e170d9b-6515-4a76-ad25-f434e9ccbbcb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/canvas/canvas-153#xywh=0,0,6239,8862",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qv912yv7154/res/23c935a2-2750-433b-b0ba-13aacec4012b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit de genere vasorum uel poculorum"
+      }
+    }
+  ]
+}

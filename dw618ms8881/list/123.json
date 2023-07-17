@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/list/123.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/annotation/8948a4de-c080-4c64-a908-37514c8b9be5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/canvas/canvas-125#xywh=0,0,5885,8614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/res/42fff9d8-4126-4598-853b-7161ee96ad8e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "a."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/annotation/29873ef9-a779-4aca-824b-f3f6569456a0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/canvas/canvas-125#xywh=0,0,5885,8614",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/dw618ms8881/res/8c0803ad-82d4-4a50-9727-64d928ef6d85",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Ex academiarum non paucarum sententia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/list/25v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/annotation/0578955e-f030-4862-8720-30d533093d3d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/canvas/canvas-60#xywh=0,0,5662,9413",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/res/e11dafbc-bdc2-49b3-a934-9faf20402c94",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber (proemium) magistri petri Canonici Beati Dionisii Remensis in librum qui intitulatur aurora etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/annotation/96bdb828-8675-4c75-8e71-a63e97432430",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/canvas/canvas-60#xywh=0,0,5662,9413",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb715wf5291/res/c71572b5-b3bf-45b5-bcd8-fa05940ca387",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Primo facta die duo celum terra leguntur"
+      }
+    }
+  ]
+}

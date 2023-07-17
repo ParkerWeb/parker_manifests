@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/180v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/32c3f714-39e8-469b-9832-fe4d6bfcfaaa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-374#xywh=0,0,4297,6855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/aa476d79-5238-4208-a94b-7dc15f190a56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Chronicle of England in French to Edward I's death"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/ec7390d5-837a-4db1-adc0-21289517b64e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-374#xywh=0,0,4297,6855",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/a2247c52-f124-4a15-9205-50cf08bbb3f8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Deuant la natiuite nostre seignur mil et cc. anz uint brutus le fiz siluius en engletere"
+      }
+    }
+  ]
+}

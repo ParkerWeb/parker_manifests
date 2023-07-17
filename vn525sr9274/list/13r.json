@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/13r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/240e3ecc-2fb5-411a-a043-7d236fcf12ac",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-33#xywh=0,0,4828,7810",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/9390c5ec-3fce-4acc-969d-ef5f3f1de3f0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Illius assit gratia qui stricta cinctus fascia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/bc9d90e7-1868-416f-993b-43d140959f5f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-33#xywh=0,0,4828,7810",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/2ed959b1-2c80-42fa-bf8f-3fcb5c21e847",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "ut patet infra in literis capitalibus per ordinem intuentibus"
+      }
+    }
+  ]
+}

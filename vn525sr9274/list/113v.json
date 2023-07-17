@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/list/113v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/56c00b8a-aa64-4b7a-88d1-78722e4513cd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-234#xywh=0,0,4472,7780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/fe3392f4-a0e6-40b5-829f-66ace098f2cb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prayers to Saints"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/annotation/86e2d557-22b8-49e5-8588-3631bb3b2056",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/canvas/canvas-234#xywh=0,0,4472,7780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vn525sr9274/res/40758afc-b869-4618-935b-9e2c98d303ea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "S. Michael and guardian angel"
+      }
+    }
+  ]
+}

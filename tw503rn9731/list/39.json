@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/list/39.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/10e66c3a-c7e4-41b1-8314-9bd1144da8d9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-53#xywh=0,0,3907,5399",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/68d9110b-08a0-417f-a2be-4b67136c8ca1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Processus pro Joanna galla dicta le Puzell"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/b503f76d-7736-433d-85b6-f632014f768f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-53#xywh=0,0,3907,5399",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/889115e3-2908-43ff-8440-06c589b427b9",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: De puella quadam Joanna nuncupata que temporibus nostris preter solitum feminis"
+      }
+    }
+  ]
+}

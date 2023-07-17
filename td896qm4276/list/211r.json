@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/list/211r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/0b91f52b-5487-4801-bf01-4e12e27e68fe",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-423#xywh=0,0,4118,6040",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/8eb9376e-e0ea-4d8c-b42c-42bd5920b914",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: uerus pacificus sit in secula benedictus. Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/61f62fb1-feea-45ad-a2ac-52f919d7a849",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-423#xywh=0,0,4118,6040",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/233b9452-210d-458e-b10d-1e62134cbd81",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Meditations on"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/02ba1439-51ea-4704-9b98-f78e9fbe493a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-423#xywh=0,0,4118,6040",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/17c0dbcf-8656-415b-840a-cd86d1a3ae4e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Natus est nobis hodie saluator"
+      }
+    }
+  ]
+}

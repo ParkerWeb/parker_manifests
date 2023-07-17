@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/list/250v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/b6f17e6c-ca21-48fb-a268-7df6d31f9eb5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-508#xywh=0,0,3305,5348",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/350fb69e-9f56-4fbc-8643-03fd1fface38",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: ffrater Walterus de Emirus prior fratrum hospitalis Jerusalem in hibernia"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/annotation/acf4d6cd-bd60-4070-949b-df55f22373a2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/canvas/canvas-508#xywh=0,0,3305,5348",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vv924dt3892/res/14dd4b93-00fb-4845-847d-25f53c7c2439",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(grant to Johannis de Calwodeleye); witnesses' names given"
+      }
+    }
+  ]
+}

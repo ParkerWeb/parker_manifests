@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/184v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/b06458c4-747c-4a69-8e47-da0fe4e53e30",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-382#xywh=0,0,4288,6880",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/cef4f813-f375-4279-98d5-d3d2b6ab98db",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Ending with the coronation of Henry IV"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/38aa533b-84b2-4469-94e1-88b1b0ec7f12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-382#xywh=0,0,4288,6880",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/d42727c1-15a3-499d-9141-4e7049c1bfb8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: lan de grace mil. ccc. nouaunttime et neofyme"
+      }
+    }
+  ]
+}

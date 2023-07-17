@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/list/108r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/e40be71e-33b2-4c73-a52e-2bb8f2f9baeb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-235#xywh=0,0,3438,6126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/1486fba9-31d5-452f-bd16-1037b8190dd4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epitaph of Archbishop Chicheley, Pauper eram natus etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/annotation/43bc5131-11eb-4dad-9901-31fe0048c591",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/canvas/canvas-235#xywh=0,0,3438,6126",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mt674jt4474/res/2c5a4b6a-3a61-4938-b7f2-ced193c9667f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epitaph of Peter Comestor (xvi)"
+      }
+    }
+  ]
+}

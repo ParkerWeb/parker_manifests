@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/6r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/0c16fa6f-3bf1-4754-bd5e-a05de621d84a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-25#xywh=0,0,3972,6514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/888ae250-49f2-4462-a328-62c168ef66c5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "November. Beats oak, for a pig. Sagittarius. Centaur, hind-feet lion-like, shoots backward"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/d60ddcb3-d463-48c1-97ba-f15e9907bdef",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-25#xywh=0,0,3972,6514",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/0dcc4c30-41f9-43bc-a309-3b893e946f84",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "November16. and 20. Both Edmunds in red"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/list/252.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/fe88e057-6819-4d16-8fff-57a044f8eb63",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-264#xywh=0,0,4796,8363",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/5859d141-1719-4f95-a3be-32eceb1f4c4b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "After Pentecost is added (xii) a hymn, de Sanctis Petro et Paulo"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/annotation/8b237253-def0-4ac2-95a0-e5d2592f5614",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/canvas/canvas-264#xywh=0,0,4796,8363",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/th313vp6557/res/75cdf96b-081f-4d8e-9a42-9f10f95a42cc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Felix per omnes festum mundi cardines"
+      }
+    }
+  ]
+}

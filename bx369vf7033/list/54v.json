@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/list/54v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/0019c38d-7094-4f2d-ab08-e96dc2b1d89d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-116#xywh=0,0,5902,8742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/b290a33a-46eb-4561-a1e7-d12f1b205404",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Vindicta Saluatoris"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/annotation/a9a1253d-2147-47f0-9dae-859de85ecea9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/canvas/canvas-116#xywh=0,0,5902,8742",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bx369vf7033/res/b0ef7dd7-9f84-4fb4-a1a8-c0cdeba154c7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In diebus tiberii cesaris tetraharcha sub poncio pilato traditus fuit Ihesus a iudeis"
+      }
+    }
+  ]
+}

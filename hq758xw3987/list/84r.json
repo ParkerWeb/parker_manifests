@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/list/84r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/163cae51-5e57-49de-a161-158e96c9613c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-169#xywh=0,0,3897,5747",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/a8fb97e1-0d05-4ddd-bb36-a428fffcf0cf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: meum qualecunque opusculum deuotissime destinaui amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/annotation/d36d3b14-e0c8-496c-bdfd-746adc76a4fb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/canvas/canvas-169#xywh=0,0,3897,5747",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/hq758xw3987/res/7d8c60a7-5b83-449a-8751-9a8bf8a28679",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Short extract from Joh. Crisost. in omelia accesserunt"
+      }
+    }
+  ]
+}

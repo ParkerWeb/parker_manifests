@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/list/131r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/808b11ae-fe00-4671-b592-bbd21e9b1afa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-263#xywh=0,0,4116,6140",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/1c1d0397-b4da-4a61-8d71-154497a3d7d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit cursus sapiencie que est Ihesus Christus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/annotation/fb88b89e-fd58-4b31-a450-5f80df3a827e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/canvas/canvas-263#xywh=0,0,4116,6140",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/td896qm4276/res/e345e901-df4e-46fe-be5e-d7a61ac255d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "At Mass. In presencia sanctissimi corporis"
+      }
+    }
+  ]
+}

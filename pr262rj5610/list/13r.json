@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/list/13r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/annotation/4ccc3df7-d413-472d-b592-ca55fbc40872",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/canvas/canvas-31#xywh=0,0,3565,5367",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/res/4049e458-ecc9-4fda-b11c-e1af00d09d6f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequitur tractatus valde dignus - signorum prout in prologo et aliis auctoribus sequentibus patet"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/annotation/494b6f3d-47cf-44dc-a402-8c39a053b230",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/canvas/canvas-31#xywh=0,0,3565,5367",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pr262rj5610/res/0d49e80d-f510-433c-9a06-36ec9730cfaf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Quamquam solus deus in sua potestate"
+      }
+    }
+  ]
+}

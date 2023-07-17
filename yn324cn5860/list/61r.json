@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/list/61r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/838dd695-9ab0-42c4-ade9-acbc386c5d96",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/canvas/canvas-137#xywh=0,0,3985,5707",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/944fe0eb-f846-4843-a0e3-e8c36e804212",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Herueus I Episcopus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/annotation/9b3401f9-f7f7-4999-9528-40712a6116a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/canvas/canvas-137#xywh=0,0,3985,5707",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yn324cn5860/res/6e05758c-9348-4605-ba7e-b268f48bbef8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Post mortem Richardi abbatis mittitur a rege henrico"
+      }
+    }
+  ]
+}

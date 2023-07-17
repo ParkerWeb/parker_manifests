@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/list/viir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/annotation/c014f4c9-44ba-4b2f-bf7a-1435939bca1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/canvas/canvas-311#xywh=0,0,5497,8154",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/res/4586450c-8778-4b94-9e10-d776f29a9ef0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "After the text, a full page with three splendid coloured drawings. Busts of crowned Virgin, and Child with cross-nimbus: border of clouds below"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/annotation/45735019-02f6-40bf-847b-cc3add19021f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/canvas/canvas-311#xywh=0,0,5497,8154",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf352tc5448/res/da96702b-0d40-47a2-ae32-549b6c42cfd0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Below this on L. Head of the dying Christ. On R. Head of Christ full-face with jewelled collar of tunic"
+      }
+    }
+  ]
+}

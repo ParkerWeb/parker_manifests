@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/list/205v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/ae4d3c7e-b82c-4f0e-a057-5616dcb999a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-416#xywh=0,0,4220,6701",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/fcd382b0-9dbf-45c7-b66b-c3784455b946",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Text of the Four Gospels in parallel columns"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/annotation/05188b7e-4ff7-47a1-8789-e497f3efb828",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/canvas/canvas-416#xywh=0,0,4220,6701",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wx717zj2675/res/0a7ad779-c5d8-4d14-ae03-3250bc509487",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The initials to the Gospels (all on one page) contain the Evangelistic emblems and make a noble appearance"
+      }
+    }
+  ]
+}

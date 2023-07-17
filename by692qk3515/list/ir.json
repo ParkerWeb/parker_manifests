@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/list/ir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/annotation/734acd20-abb5-4ef7-a9db-2cdf6e8c3ac9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/canvas/canvas-3#xywh=0,0,5996,8415",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/res/4734fc52-d037-4116-aff1-b622d11c2150",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the flyleaf in a large hand (xiii)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/annotation/4111d4ad-1076-4c9f-9355-3a017863e73b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/canvas/canvas-3#xywh=0,0,5996,8415",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/by692qk3515/res/694333a6-ffca-4605-b79d-a399a6233cd2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sermones Gybewini (added"
+      }
+    }
+  ]
+}

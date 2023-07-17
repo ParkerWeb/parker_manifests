@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/list/191r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/annotation/b5108631-2c10-40b7-9900-97a7ef404b4b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/canvas/canvas-395#xywh=0,0,4155,6471",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gs233db8425/res/9b6ba01c-82ef-4c91-97e8-9946feb121f6",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Elephant with castle"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/list/50v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/973af944-ed78-4965-927e-a2a51607751b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-104#xywh=0,0,5850,8425",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/0923759b-faea-4657-9d27-83eca7aa32d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of Hereford to Egidius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/annotation/0ce83be5-5e14-4624-b560-ce3f2d7b7913",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/canvas/canvas-104#xywh=0,0,5850,8425",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kj101dc0788/res/384131a5-36ac-4b03-a28f-19e85b85e841",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Bishops of York apparently to Galfridus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/list/319.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/59db3f08-d44f-4f72-b8a3-52634ed735d0",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-327#xywh=0,0,5242,9090",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/b58a2f00-aa4e-416f-93d6-072931a33112",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The text is completed on p. 319 in a hand like that of items 3-5 (but not the same, I think)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/annotation/60952ed1-5754-45c3-a26e-9b0c0f175b5e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/canvas/canvas-327#xywh=0,0,5242,9090",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wy783rb3141/res/d5419c92-d4d8-409f-9023-9840303ab67c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "In this same hand, ending on p. 322"
+      }
+    }
+  ]
+}

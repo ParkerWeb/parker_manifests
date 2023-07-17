@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/list/225v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/d3234392-b9fa-46f0-af8d-eef343225647",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-458#xywh=0,0,4164,6330",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/f12fba7f-25f0-4471-8398-d0146f625b34",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Original hand breaks off at 4 Reg. xvii 24"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/annotation/714bd67f-4fd1-4d41-a4e0-abaa03decf9a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/canvas/canvas-458#xywh=0,0,4164,6330",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qd947xd9843/res/aab0ea7b-cbe8-4bfe-80c1-54dd9de1f2c8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "et de thutha et de aiath et"
+      }
+    }
+  ]
+}

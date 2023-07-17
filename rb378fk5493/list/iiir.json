@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/list/iiir.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/bff4b769-dbf3-44bf-9e87-75f989f8f6c6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-11#xywh=0,0,5938,9138",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/2822438f-97b0-4117-a82d-01ee3e7b66a0",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "c. Fragments of Itinerary"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/annotation/5adc50b3-eae5-46c2-ba26-44387698e594",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/canvas/canvas-11#xywh=0,0,5938,9138",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rb378fk5493/res/66cfb0af-fe11-47cc-83a9-45ff8db39193",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Fragment of Itinerary with pictures of cities"
+      }
+    }
+  ]
+}

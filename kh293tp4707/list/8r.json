@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/list/8r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/annotation/d6f2f11e-5f56-4cb9-8680-5f8f74286810",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/canvas/canvas-17#xywh=0,0,5491,8054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/res/6e56e8e3-7602-454c-beae-1373aed0654e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "On the last is the name of Ric. Smyth notarius publicus"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/annotation/0cd6f896-2251-4ead-a506-8ba6246edb2a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/canvas/canvas-17#xywh=0,0,5491,8054",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/kh293tp4707/res/6ff13130-f8b4-4c0f-a658-4584822578d3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Also: J. Dod (?) de Chagforde queritur de J. Sylley ..."
+      }
+    }
+  ]
+}

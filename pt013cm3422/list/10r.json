@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/list/10r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/annotation/f473771f-3ab9-458f-95d0-9ed8443f321e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/canvas/canvas-33#xywh=0,0,3390,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/res/0e0457a2-cc01-4c69-9f2b-59899644acf7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit primum capitulum prime partis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/annotation/9771dfd0-3bfe-4b46-bc85-602ebe59e04c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/canvas/canvas-33#xywh=0,0,3390,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/pt013cm3422/res/95c2f213-b82a-4046-a00e-2798a67fed14",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Benedictionibus diuine dulcedinis preuentus"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/list/1v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/annotation/153c2a89-6678-4960-bbf8-36fbe79800ce",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-2#xywh=0,0,4383,6647",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/res/4e05d8af-2abf-45da-b4a6-ade476117928",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ad Matutinum Resp. XII"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/annotation/a65e4e29-b8fc-4249-b79e-3f3b517feb52",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/canvas/canvas-2#xywh=0,0,4383,6647",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nb647fd0133/res/ce793c5f-f7de-49b9-bf49-cd4f17639353",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "3-line calligraphic ornamental initial tinted in pale yellow for the responsory: Audi fili mi disciplinam Patris"
+      }
+    }
+  ]
+}

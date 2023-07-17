@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/annotation/4644688d-37f4-431c-8808-6f419d0249b5",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/canvas/canvas-11#xywh=0,0,3992,6283",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/res/6425be83-94fb-4949-90f2-22bb9dc72fc1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explanatio uenerabilis Bede presbiteri super [septem added] canonicas epistolas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/annotation/685127a0-7436-4801-978f-6fc8825534d3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/canvas/canvas-11#xywh=0,0,3992,6283",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zm232zn2115/res/361382d4-2e70-4c8e-b92b-90382c7b6918",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: IacobusPetrusJohannesIudas septem epistolas"
+      }
+    }
+  ]
+}

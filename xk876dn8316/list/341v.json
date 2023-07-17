@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/list/341v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/annotation/803f576d-0417-4a57-ad68-f4c6251a2350",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/canvas/canvas-688#xywh=0,0,5242,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/res/004df230-6eaf-4b56-9f1f-db3a03925116",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Paul. Epp. (proll.: Romani sunt partes ytalie)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/annotation/ab331d58-9976-4057-bd8d-1fa80b67bf88",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/canvas/canvas-688#xywh=0,0,5242,8502",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xk876dn8316/res/b7960f8d-8533-40c0-9eb1-bf3212b26862",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "The Pauline Epistles show some very strange combinations of colour"
+      }
+    }
+  ]
+}

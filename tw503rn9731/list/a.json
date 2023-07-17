@@ -1,0 +1,19 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/list/a.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/annotation/a29aa47a-1034-46eb-b896-cebaabbcfd50",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/canvas/canvas-11#xywh=0,0,3758,5006",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tw503rn9731/res/c722eb2b-d692-4232-9a3b-c8583e989fde",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: The Epistle of King Alfred to Werfrithus (erased), bishop of (Worcester)"
+      }
+    }
+  ]
+}

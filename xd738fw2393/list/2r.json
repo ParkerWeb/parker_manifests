@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/56336a83-fab1-44e4-b1b7-f57272cabad7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-9#xywh=0,0,5895,7780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/701cb565-2580-46b1-886f-ebe77951696a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Obsculta o fili precepta magistri"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/9a7012f2-789e-45a7-af7c-2e2bd403fce4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-9#xywh=0,0,5895,7780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/5f8ba34a-3a16-4b46-a6eb-03e87646ee4a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(green initial, red capitals)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/f78aaad8-b057-4e5a-bc1d-d11f9c6b704f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-9#xywh=0,0,5895,7780",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/4293c349-468b-4402-b1e2-279e858ed04a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A line of writing at the top is mostly cut off"
+      }
+    }
+  ]
+}

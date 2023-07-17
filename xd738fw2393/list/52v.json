@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/list/52v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/b855e72c-06ba-43af-838e-8fd4c69ed73b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-110#xywh=0,0,5780,7779",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/cce7abc0-d4fa-4ccf-b3b3-ee5e4602eb6b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: IIII Kal. Apr."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/annotation/02ba88f5-4acc-46ef-9356-ae65078d4059",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/canvas/canvas-110#xywh=0,0,5780,7779",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd738fw2393/res/e4e160e9-f921-45ef-8732-bf24d3335789",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "aeþestanus obiit / ... venerabilis abba / (Que)m deus in celi / (cul)mine constituat"
+      }
+    }
+  ]
+}

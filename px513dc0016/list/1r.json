@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/annotation/a1f90776-95e7-495d-9e0f-a0e7091dbc12",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/canvas/canvas-7#xywh=0,0,6010,9390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/res/ce0f47e7-7187-46d6-b1f7-a5e257b4723a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: (C)arissimo filio suo ac socio speciali poncio de villa muro etc. G. de monte hauduno"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/annotation/56e37f8f-5f04-425b-b950-4bd98617c2a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/canvas/canvas-7#xywh=0,0,6010,9390",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/px513dc0016/res/934c53b3-778e-4b3e-b376-238a5d121349",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Signatum est super nos lumen uultus tui"
+      }
+    }
+  ]
+}

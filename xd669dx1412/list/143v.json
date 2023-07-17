@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/list/143v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/annotation/1ffc8ae6-e41c-47a0-b742-b534744c3478",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/canvas/canvas-296#xywh=0,0,5956,9366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/res/1e6c940d-34e4-48fb-b7f4-19aebc907edc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: humilitas atque subieccio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/annotation/b27bc12f-b7df-435d-8c52-ef7188fad3a9",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/canvas/canvas-296#xywh=0,0,5956,9366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xd669dx1412/res/1252b4cf-8b8f-4bae-bb61-425eea827e72",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Hoc est quod penitenciam probat"
+      }
+    }
+  ]
+}

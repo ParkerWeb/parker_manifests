@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/list/57r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/annotation/18a92c6b-30c7-4245-bdac-065a88cf3dde",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/canvas-123#xywh=0,0,3798,5462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/res/5e7e6451-42d5-4fa9-85ed-42ca73505433",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Text"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/annotation/568f8738-391e-4da6-88e9-4dfd4df5e914",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/canvas/canvas-123#xywh=0,0,3798,5462",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jj576yk1988/res/6e25084d-7637-42a0-90b8-51415529093e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Fine initial of the same type as that to Liber I, but without animal forms"
+      }
+    }
+  ]
+}

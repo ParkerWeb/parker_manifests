@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/list/217.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/annotation/2a302ddf-4e7b-466d-8342-b6dcdfbc4baf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/canvas/canvas-225#xywh=0,0,5782,8694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/res/1063ed84-7ed0-4818-bedf-da286b62e997",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Construcciones quorundam monasteriorum anglie"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/annotation/2919b024-f415-4223-a9e8-5f61fd89d24c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/canvas/canvas-225#xywh=0,0,5782,8694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nv587yn0448/res/a63348d2-04d1-4619-9acc-5f44efcbaad8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: De mirabilibus signis et prodigiis"
+      }
+    }
+  ]
+}

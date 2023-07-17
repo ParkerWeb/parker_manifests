@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/annotation/be4e24d0-96b4-4556-bf39-1cb287004fb1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/canvas/canvas-25#xywh=0,0,4383,6792",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/res/e25c00b0-7bce-46b9-bdf0-5a52a9fa7315",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "a. Frater Ambrosius"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/annotation/49584c2c-3584-47e2-9052-bf58ea087b21",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/canvas/canvas-25#xywh=0,0,4383,6792",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/rf713dy4795/res/31b279ce-e744-4825-8964-a11bab44f70c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Prologue. Man writing"
+      }
+    }
+  ]
+}

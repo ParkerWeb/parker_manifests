@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/list/81r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/annotation/ed2cb903-4c04-4bda-a841-e1bf0de4a20c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/canvas/canvas-169#xywh=0,0,3210,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/res/1d78e924-8dd7-4d7e-8de6-f6d6605a59d4",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Wið muð and herte sey ƿe Amen"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/annotation/532629af-0a41-4b01-94ba-262ba8fe28b2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/canvas/canvas-169#xywh=0,0,3210,5694",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fj940yb0930/res/a8a36073-ee5d-4298-b0e8-5aec3031b59e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber Exodus"
+      }
+    }
+  ]
+}

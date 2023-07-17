@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/list/98v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/8aacf829-c19c-42e0-b5e4-9cb76641b94a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-200#xywh=0,0,4580,8786",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/f7f1a728-62bb-4bd6-a447-850c29d935d2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Epistola ad gennadium ex proconsule"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/annotation/7d6d5193-121b-4d13-8651-483e5e825ccf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/canvas/canvas-200#xywh=0,0,4580,8786",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zp389vb9685/res/1ebbc2dd-bf25-4125-92cf-92d8236caabc",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De senatore (!) ueronensi"
+      }
+    }
+  ]
+}

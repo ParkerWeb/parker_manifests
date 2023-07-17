@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/list/112r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/9b7911db-73c5-4d6b-acfc-33c85f28eb6e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-227#xywh=0,0,5993,9237",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/7ec4173e-23ef-46df-b0af-2b98e8fa1290",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit liber soptim id est iudicum V II DCCL"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/annotation/31714280-ffa2-41fa-aefb-47213af3303f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/canvas/canvas-227#xywh=0,0,5993,9237",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zv088kx4487/res/9fbc9b95-1294-4bab-b0a6-2adafe41b5ac",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Decorative initial to Ruth, with dragon and grotesque head: bust of Ruth in medallion"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/list/84r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/annotation/43f8ed0f-4f40-4dda-8426-ef36f447fe49",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/canvas/canvas-175#xywh=0,0,3499,5523",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/res/d5cf1bd6-3497-4335-a993-4a8cc9d01e08",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Tractatus fratris Rogeri Bacon in quinta parte mathamatice de situ orbis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/annotation/44c045de-2fb6-4f28-befa-9d6ccf686353",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/canvas/canvas-175#xywh=0,0,3499,5523",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/qc358nk7737/res/cafc08f7-0e28-409a-9a49-71a26ae03e8a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Postquam declaratum est quomodo mathamatica potenter requiritur ad philosophiam et theologiam ac dei ecclesiam"
+      }
+    }
+  ]
+}

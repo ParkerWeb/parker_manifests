@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/list/10v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/cb4c7744-1d63-4c2a-8e35-c74c42d0c87e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-22#xywh=0,0,4150,6446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/049a7fc9-da3a-45de-82dc-a732ca6b6c56",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: capilli omnes numerati sunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/90d13ab4-e0c1-4f12-83f1-2136abc505e7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-22#xywh=0,0,4150,6446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/9ee6b97a-25b2-4a8c-9d10-ce936cf17ebb",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit liber cassiodorii etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/2965456d-6455-4634-ab36-e51a7f9cf7dd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-22#xywh=0,0,4150,6446",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/9c8a3580-113c-4da2-965d-189f4c6806b3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Solet aliquotiens in scripturis ordo uerborum"
+      }
+    }
+  ]
+}

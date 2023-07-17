@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/list/21r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/bb849d0d-d94a-4fe7-9454-2414c3482613",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-43#xywh=0,0,3840,6198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/a0bee9d9-f443-41fb-b78e-5ab5bfe14e9a",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Double columns of 52 lines"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/annotation/258614e2-5ff1-47fa-b0bd-786c701db830",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/canvas/canvas-43#xywh=0,0,3840,6198",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zy840sm5863/res/54541451-5529-4d51-96c9-dbb31d56174d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Egredimini filie syon et uidete ... Ad uos scolares maxime theologos sermo iste dirigitur"
+      }
+    }
+  ]
+}

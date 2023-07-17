@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/1e908d1f-c427-48b4-8c80-03d254b1a39e",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-11#xywh=0,0,6020,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/ef222c62-84be-4512-b0ce-be6cea31f582",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Anno gracie millesimo trecentesimo septuagesimo septimo qui est annus regni Regis Ricardi a conquestu secundi primus Ricardus de Burdegala filius Edwardi etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/annotation/d28c5792-006c-458c-beac-bf12d1f432a7",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/canvas/canvas-11#xywh=0,0,6020,8825",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fm985xq3462/res/01b81110-04fb-450f-a10d-abdc1a1dac36",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "A square miniature on red ground of Richard II throned, beardless, holding sword and sceptre. He is in blue mantle over red with white collar"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/19r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/3e1ea6f4-d631-4c76-897a-661dad8408ff",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-43#xywh=0,0,3728,6212",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/de287ac4-fa47-437d-b6c0-8637fe390c51",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Benedictio vestium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/7f481163-b14a-4a7c-b1ab-48bff2d119ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-43#xywh=0,0,3728,6212",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/3b88e2df-33f1-44c2-b388-56036226628b",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Small initial of the brown habit and white scapular on blue ground with white flourishing"
+      }
+    }
+  ]
+}

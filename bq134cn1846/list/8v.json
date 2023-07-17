@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/list/8v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/24640722-2b80-4ebd-b6aa-70f8b4ffeddb",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-18#xywh=0,0,6094,7914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/fb561d1f-f5a6-4a28-8327-5ea92c9e2155",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1088. Ob. dominus Girardus primus prior de car'"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/annotation/4f3793a7-a55c-4998-8362-0c9233109f52",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/canvas/canvas-18#xywh=0,0,6094,7914",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq134cn1846/res/294a983e-01e0-400b-bfcf-25ab21b3048d",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "1089. Monachi Bermund' venerunt in angl."
+      }
+    }
+  ]
+}

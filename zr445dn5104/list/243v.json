@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/list/243v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/annotation/343d503a-e3b5-4db2-817c-fc1148a16e07",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/canvas/canvas-492#xywh=0,0,6007,9362",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/res/b541d1cc-918d-4e7a-a3c9-a0f0269bcebd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Omelia 51. Dominica 23 post festum Trinitatis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/annotation/cefd8f89-54a5-4e93-9b41-cb3bdd3dad26",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/canvas/canvas-492#xywh=0,0,6007,9362",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/zr445dn5104/res/e4c0bc35-d623-4c8d-95eb-537b36ade390",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Loquente ihesu ad turbas ecce princeps"
+      }
+    }
+  ]
+}

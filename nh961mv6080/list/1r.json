@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/annotation/6c761a25-05b4-4c15-bcb7-49e49f4022a3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/canvas/canvas-37#xywh=0,0,5408,8486",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/res/743bbf71-5401-4498-b56d-3b75f660aba3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Reuerendi patris fratris Ieronimi etc. (as Nasmith) ... vinculis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/annotation/c8a7228c-c680-4736-8877-a12536a24113",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/canvas/canvas-37#xywh=0,0,5408,8486",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nh961mv6080/res/259c1a8d-51a2-4d4e-85d0-cf37c930861f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Infelix ego omnium auxilio destitutus"
+      }
+    }
+  ]
+}

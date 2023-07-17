@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/895477a3-a811-40e9-bcd0-e8567bda8c4a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-7#xywh=0,0,6044,8757",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/928638e3-63be-4af5-881f-1a9154f8e157",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Manipulus Curatorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/annotation/075810d0-a1d1-4815-9768-83fcc18f7b1f",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/canvas/canvas-7#xywh=0,0,6044,8757",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/xr362jd1217/res/4571741f-dde1-44b9-9a72-e3dd0f2cf815",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: In isto libello sunt tres particule"
+      }
+    }
+  ]
+}

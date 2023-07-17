@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/f1b0c4c4-a2cc-4dd9-9c7a-c67c36b20ab2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-13#xywh=0,0,5914,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/20591850-eeb1-4615-8b1a-a1054301cd8c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit Prefatio historie Ecclesiastice. Epistola Rufini ad Chromatium"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/4384490a-766a-4d88-846d-2808e79f2aec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-13#xywh=0,0,5914,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/7176fc81-9e29-4007-b284-5948fc8d907f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Peritorum dicunt esse"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/e164d9b0-1fe0-4263-a28e-be486ad97d28",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-13#xywh=0,0,5914,8274",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/79d0bc47-13cf-42eb-ada1-e2e97296e34c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Initial in red, green, yellow"
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/list/2v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/5c6b232f-c786-4fe7-91df-6da3bb5cbb2d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-10#xywh=0,0,3837,6178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/d516ad02-fbef-41ea-b23b-bbed75a394ef",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "in a large hand of cent. xv (early)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/annotation/69eac017-bbaf-4008-8fa2-9f9bb25144d1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/canvas/canvas-10#xywh=0,0,3837,6178",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tx112pf2826/res/054e7c68-e0b3-43c1-bd96-c37ed2ae8627",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Sequitur benedictio baculi pastoralisanulimitre"
+      }
+    }
+  ]
+}

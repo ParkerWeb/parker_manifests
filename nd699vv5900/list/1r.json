@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/075029bd-b84c-45f1-93b6-2a76ae1ee606",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-11#xywh=0,0,5607,8541",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/eb6685d9-a63f-4c75-bbeb-b2524ec44ac8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Postilla super Matheum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/feb11303-03b7-42fd-a85c-1e110a07d9bf",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-11#xywh=0,0,5607,8541",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/a456e091-8eb8-4d11-a421-cd5f82248a76",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Matheus presens prologus in tres partes diuiditur"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/annotation/a762f334-b910-49ff-a7cb-f0c1583cea9b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/canvas/canvas-11#xywh=0,0,5607,8541",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/nd699vv5900/res/c151fa16-7aa8-4286-a567-d29e8d7cb1cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Good partial border and initial in gold and colour of characteristic English work"
+      }
+    }
+  ]
+}

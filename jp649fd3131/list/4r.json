@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/list/4r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/annotation/a2c3df06-cb72-4b34-984b-ddad4e91d6b1",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/canvas/canvas-19#xywh=0,0,5950,8766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/res/3bdde797-b612-4d7a-ab02-088ba3e73a82",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De etatibus hominis"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/annotation/a6cf5a2e-9406-43a5-8378-a01650f0740d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/canvas/canvas-19#xywh=0,0,5950,8766",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/jp649fd3131/res/ed23812d-8070-4ad8-97fd-f500c8c2e252",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Decursis hominum partibus contra etates ponende sunt"
+      }
+    }
+  ]
+}

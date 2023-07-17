@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/list/175v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/ff7e1544-463b-469b-84d2-0f04c07932e2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-362#xywh=0,0,5686,8382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/1900de7f-3f21-4c3c-b930-118d48daf95f",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: percepturus premia meritorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/annotation/47182caf-4d22-4497-9874-6596d939f61d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/canvas/canvas-362#xywh=0,0,5686,8382",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/df920pp7276/res/41d3686e-43a3-427a-b5a7-fbe00ae022c3",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Ecclesiastice Historie undecimus liber explicit"
+      }
+    }
+  ]
+}

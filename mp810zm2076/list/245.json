@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/list/245.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/b50b527a-8b23-4904-be2f-8576a5c89efd",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-253#xywh=0,0,3367,9233",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/9fe25a1e-3673-4c65-8980-bf38d335c2bf",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De familia de Fastolf"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/annotation/9b731b68-84b9-41c0-a440-a4014953d8de",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/canvas/canvas-253#xywh=0,0,3367,9233",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/mp810zm2076/res/cab7b182-3f5c-490b-858b-2be737651ad1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "De S. Thoma de Becket"
+      }
+    }
+  ]
+}

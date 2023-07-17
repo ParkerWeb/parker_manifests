@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/list/179v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/annotation/d9dec341-0eac-4cab-9df7-4d8742d18529",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/canvas/canvas-368#xywh=0,0,4044,6257",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/res/cf99d344-ec34-4a70-90e3-65bd32ceb106",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: restid him in the castell tille the toun was sette in Rule and Goueranase (!)"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/annotation/75c6f2cb-9705-4236-a6ee-092389eac4ee",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/canvas/canvas-368#xywh=0,0,4044,6257",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/tt762jj7465/res/39b4a7f2-4a76-481e-b8c8-bac7b2605ee8",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Explicit usque ad annum 7m Henrici quinti"
+      }
+    }
+  ]
+}

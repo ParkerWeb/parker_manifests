@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/list/172r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/c57e473c-c9ba-44eb-ab56-127ae21b9634",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-351#xywh=0,0,5698,9017",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/829d395c-373f-4b1f-b36a-98f395403102",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Titulus of Peterborough for Abbot Thomas"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/annotation/16b5d6b2-6b1a-46e3-a004-2c46ffb8cd17",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/canvas/canvas-351#xywh=0,0,5698,9017",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/vk535sj2249/res/72209975-f0a6-431b-a5cc-3d0ef108fda2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Titulus of CroylandforAbbot David"
+      }
+    }
+  ]
+}

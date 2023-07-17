@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/list/251v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/6bff7eeb-4396-4d24-baed-abbdf7a2beda",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-508#xywh=0,0,3550,5366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/cd2720f4-0598-4ea5-8fde-c9ae0bb65f19",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Quantum archiepiscopi Cantuarie in archiepiscopatu vixerunt"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/annotation/a9b7552c-8e69-4caf-a8d3-25dfd9ff27e4",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/canvas/canvas-508#xywh=0,0,3550,5366",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq149yj5620/res/f598384c-1d38-4438-a30a-b632a20a1bad",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "beginning with Augustine. (Stubbs, p. liii)"
+      }
+    }
+  ]
+}

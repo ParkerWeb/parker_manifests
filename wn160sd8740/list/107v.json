@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/list/107v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/annotation/2abccee1-ceae-4042-92ae-cfd3355eba2a",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/canvas/canvas-220#xywh=0,0,5339,7811",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/res/632e247c-8b30-4108-a2bd-a8723d9646e1",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Liber IV"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/annotation/e8302634-bd09-4dde-a970-41d4b844216b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/canvas/canvas-220#xywh=0,0,5339,7811",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wn160sd8740/res/6de5107e-afed-4fb8-9284-a703649a6fb5",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Humano generi in bonis naturalibus uulnerato"
+      }
+    }
+  ]
+}

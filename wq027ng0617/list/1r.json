@@ -1,0 +1,43 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/list/1r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/annotation/d08c0080-8613-4a59-b1d0-31e2ffa72df3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/canvas/canvas-5#xywh=0,0,3833,5809",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/res/0d01a6bb-4a36-4a23-9b77-e67e357c311c",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Incipit summus (corrected to summa) ffratris Walteri monachi Eueshamie musici de speculacione musice"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/annotation/a4b4fc06-a675-4066-9f9f-d6132d17a4aa",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/canvas/canvas-5#xywh=0,0,3833,5809",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/res/8a1e369d-5769-49e0-a3a8-5d7ff1339137",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Plura quam digna de musice speculacione et musice speculatoribus perutilia breui ut potero nitar explicare sermone Quadam (!) que pluribus dubia sunt corrigendo, etc."
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/annotation/f13052a5-77bb-424b-9fab-a781adc59a9b",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/canvas/canvas-5#xywh=0,0,3833,5809",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/wq027ng0617/res/d6bc7c20-e596-4ed3-9a60-c55c58e31524",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "There are frequent blanks in the first page, as if the archetype had been defective. The Preface ends with a statement of the subjects of the work"
+      }
+    }
+  ]
+}

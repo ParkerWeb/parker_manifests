@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/list/7v.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/e05b0865-a07d-4989-802f-1d65e263d645",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-22#xywh=0,0,3751,5673",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/cf92f82a-cec4-4035-95e5-59a751fab2b2",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: grata facias imperatori imperatoris et patri et filio"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/annotation/63df72cd-e033-48e5-af8a-d919dd082985",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/canvas/canvas-22#xywh=0,0,3751,5673",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/fp556xm4433/res/77951975-0210-4ad5-a564-67aef7b5e0d7",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Accounts connected with a serving-man Thomas"
+      }
+    }
+  ]
+}

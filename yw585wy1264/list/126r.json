@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/list/126r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/e5bfa46c-11f6-45fb-910b-3827c7ae6c55",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-251#xywh=0,0,3769,5704",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/a66198c3-3aa8-4320-8a69-860653554832",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Rubric: Sequitur tractatus alius magistri Hermanni de ordine ffratrum minorum"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/annotation/c17f5b6d-36e8-4484-b4c5-1709326026f6",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/canvas/canvas-251#xywh=0,0,3769,5704",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/yw585wy1264/res/bfdde25a-2834-41c7-9d16-fcb023f3616e",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Terminos posuisti quem non transgredientur in pso vna illa inmaculata columba"
+      }
+    }
+  ]
+}

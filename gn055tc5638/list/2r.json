@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/annotation/755d15b7-a704-4eef-a690-da89ba222d11",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/canvas/canvas-7#xywh=0,0,5681,8876",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/res/e73e8814-63b4-4d6c-9bcc-2ffa31de80cd",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "List of subjects"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/annotation/fcb5b201-cf85-408f-95b2-658461eb941d",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/canvas/canvas-7#xywh=0,0,5681,8876",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gn055tc5638/res/3989c382-1efe-4296-bfa3-0c98d9484aea",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "(i) Colloquium gabrielis, etc."
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/list/101bv.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/annotation/a466e1b8-ddc1-4f4e-acaa-fb746cf4b2c2",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/canvas/canvas-216#xywh=0,0,4715,6596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/res/4beaaa8a-ba1e-4c97-b444-99f156291c28",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: Petre supra petram nec inaniter edificasti Illic et turres quibus itur ad astra locasti"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/annotation/6e72198e-644c-455f-9470-9e7818fdfed3",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/canvas/canvas-216#xywh=0,0,4715,6596",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/gc974js8368/res/c661be16-f817-45f6-b178-cd4bae876580",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Explicit: Presul in exilio mortalia nostra professus Ora pro nobis ad celica regna regressus"
+      }
+    }
+  ]
+}

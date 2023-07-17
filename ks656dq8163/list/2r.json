@@ -1,0 +1,31 @@
+{
+  "@context": "http://www.shared-canvas.org/ns/context.json",
+  "@type": "sc:AnnotationList",
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/list/2r.json",
+  "resources": [
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/b6635814-1b46-4f79-9005-b420865c2bec",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-9#xywh=0,0,4102,6189",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/b74f2a08-f9ec-49c3-9854-43795654c157",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "West-Saxon translation of the Gospel of Matthew"
+      }
+    },
+    {
+      "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/annotation/b19804cc-8c1d-4fe2-911b-ee1cbfda749c",
+      "@type": "oa:Annotation",
+      "motivation": "oa:commenting",
+      "on": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/canvas/canvas-9#xywh=0,0,4102,6189",
+      "resource": {
+        "@id": "https://dms-data.stanford.edu/data/manifests/Parker/ks656dq8163/res/98066859-aeac-4aea-8c86-d60cb4843927",
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "Incipit: aefter matheus gerecednysse. her is on cneorisse boc. haelendes cristes dauides sunu"
+      }
+    }
+  ]
+}
