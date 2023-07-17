@@ -1,6 +1,10 @@
 {
   "@context": "http://iiif.io/api/presentation/2/context.json",
+<<<<<<< HEAD
   "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/557_exp.json",
+=======
+  "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/manifest.json",
+>>>>>>> 06774ac159425d55f3214913d729f8ee8585b318
   "@type": "sc:Manifest",
   "label": "Cambridge, Corpus Christi College, MS 557: Old English Fragments of the Legend of the Cross",
   "attribution": "Images courtesy of The Parker Library, Corpus Christi College, Cambridge. Licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. For higher resolution images suitable for scholarly or commercial publication, either in print or in an electronic format, please contact the Parker Library directly at parker-library@corpus.cam.ac.uk",
@@ -115,6 +119,7 @@
       "viewingDirection": "left-to-right",
       "canvases": [
         {
+<<<<<<< HEAD
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_8",
           "@type": "sc:Canvas",
           "label": "fragment 1, recto",
@@ -227,6 +232,11 @@
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_3",
           "@type": "sc:Canvas",
           "label": "Current f. 1r",
+=======
+          "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_3",
+          "@type": "sc:Canvas",
+          "label": "f. 1r",
+>>>>>>> 06774ac159425d55f3214913d729f8ee8585b318
           "height": 4476,
           "width": 3642,
           "rendering": [
@@ -260,7 +270,11 @@
         {
           "@id": "https://dms-data.stanford.edu/data/manifests/Parker/bq942kd2868/canvas/bq942kd2868_7",
           "@type": "sc:Canvas",
+<<<<<<< HEAD
           "label": "Current f. 1v",
+=======
+          "label": "f. 1v",
+>>>>>>> 06774ac159425d55f3214913d729f8ee8585b318
           "height": 4656,
           "width": 3558,
           "rendering": [
